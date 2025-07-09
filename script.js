@@ -132,6 +132,7 @@ function loadProgress(key) {
 function startTyping(key, text) {
   currentKey = key;
   fullText = text;
+  fullText = cleanText(text);
   pages = splitTextIntoPages(fullText);
   if (pages.length === 0) {
     alert("Файл пустой или содержит слишком мало текста.");
@@ -143,6 +144,16 @@ function startTyping(key, text) {
   updateDisplay();
   showTypingScreen();
   saveProgress();
+}
+function cleanText(text) {
+  return (
+    text
+      //.replace(/\r/g, "") // удалим \r для унификации
+      .replace(/[ \t]{2,}/g, " ") // заменяем 2+ пробела или таба на один
+      .replace(/^\s+/gm, "") // убираем пробелы в начале строк
+      .replace(/\s+$/gm, "") // убираем пробелы в конце строк
+      .replace(/\n{3,}/g, "\n\n")
+  ); // если больше двух переносов — оставим максимум два (абзац)
 }
 
 // Ввод текста без автоперехода
