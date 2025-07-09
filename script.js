@@ -16,6 +16,24 @@ const hiddenInput = document.getElementById("hiddenInput");
 const textDisplay = document.getElementById("textDisplay");
 const stats = document.getElementById("stats");
 const pageImage = document.getElementById("pageImage");
+const soundCtrl = document.getElementById("soundCtrl");
+const soundEnter = document.getElementById("soundEnter");
+const soundBackspace = document.getElementById("soundBackspace");
+const soundSpace = document.getElementById("soundSpace");
+const volumeSlider = document.getElementById("volumeSlider");
+
+volumeSlider.addEventListener("input", () => {
+  const volume = parseFloat(volumeSlider.value);
+  soundCtrl.volume = volume;
+  soundEnter.volume = volume;
+  soundBackspace.volume = volume;
+  soundSpace.volume = volume;
+});
+const initialVolume = parseFloat(volumeSlider.value);
+soundCtrl.volume = initialVolume;
+soundEnter.volume = initialVolume;
+soundBackspace.volume = initialVolume;
+soundSpace.volume = initialVolume;
 
 let currentKey = "";
 let fullText = "";
@@ -158,6 +176,8 @@ function cleanText(text) {
 
 // Ввод текста без автоперехода
 hiddenInput.addEventListener("keydown", (e) => {
+  playSoundForKey(e);
+
   const expected = pages[currentPage];
   if (!expected) return;
 
@@ -281,3 +301,19 @@ resetBtn.addEventListener("click", () => {
     hiddenInput.focus();
   }
 });
+
+function playSoundForKey(e) {
+  if (e.key === "Enter") {
+    soundEnter.currentTime = 0;
+    soundEnter.play();
+  } else if (e.key === "Backspace") {
+    soundBackspace.currentTime = 0;
+    soundBackspace.play();
+  } else if (e.key === " ") {
+    soundSpace.currentTime = 0;
+    soundSpace.play();
+  } else if (e.key.length === 1) {
+    soundCtrl.currentTime = 0;
+    soundCtrl.play();
+  }
+}
