@@ -50,6 +50,23 @@
       <button id="backBtn">← На главную</button>
       <!-- <button id="resetProgressBtn">🗑️ Сбросить прогресс</button> -->
     </div>
+    <audio id="soundCtrl" src="sounds/ctrl.mp3" preload="auto"></audio>
+    <audio id="soundEnter" src="sounds/enter.mp3" preload="auto"></audio>
+    <audio
+      id="soundBackspace"
+      src="sounds/backspace.mp3"
+      preload="auto"
+    ></audio>
+    <audio id="soundSpace" src="sounds/space.mp3" preload="auto"></audio>
+    <label for="volumeSlider">Громкость:</label>
+    <input
+      type="range"
+      id="volumeSlider"
+      min="0"
+      max="1"
+      step="0.01"
+      value="1"
+    />
 
     <script src="script.js"></script>
   </body>
