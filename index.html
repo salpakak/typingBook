@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Typelit Book</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="homeScreen" class="container">
+      <h1>Тренажёр печати</h1>
+
+      <label for="fileInput">Загрузите текст (.txt):</label>
+      <input type="file" id="fileInput" accept=".txt" />
+
+      <label for="savedTexts">Ранее загруженные:</label>
+      <select id="savedTexts">
+        <option disabled selected>Выберите...</option>
+      </select>
+
+      <button id="loadSaved">Открыть выбранный</button>
+    </div>
+
+    <div id="typingScreen" class="container hidden">
+      <div id="pageInfo">
+        Страница <span id="pageNumber">1</span> из
+        <span id="totalPages">?</span>
+        &nbsp; | &nbsp; Перейти:
+        <input type="number" id="pageInput" min="1" />
+        <button id="goToPage">OK</button>
+      </div>
+
+      <div id="contentRow">
+        <div id="textColumn">
+          <div id="textDisplay"></div>
+          <input
+            id="hiddenInput"
+            type="text"
+            autocomplete="off"
+            autocorrect="off"
+            spellcheck="false"
+          />
+          <div id="stats">Символов: 0 | Ошибок: 0</div>
+        </div>
+        <div id="imageColumn">
+          <img id="pageImage" src="" alt="Изображение страницы" />
+        </div>
+      </div>
+
+      <div id="stats">Символов: 0 | Ошибок: 0</div>
+      <button id="backBtn">← На главную</button>
+      <!-- <button id="resetProgressBtn">🗑️ Сбросить прогресс</button> -->
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
