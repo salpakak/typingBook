@@ -122,3 +122,16 @@ button {
 #textDisplay .active {
   box-shadow: inset 0 -1em 0 rgba(41, 231, 155, 0.162); /* подложка под символ */
 }
+.translationHint {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid #888;
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-size: 14px;
+  top: -30px;
+  left: 0;
+  transform: translateX(0);
+  z-index: 100;
+  transition: opacity 0.2s ease;
+}
