@@ -20,16 +20,19 @@ export function hideTranslation() {
 // Получает перевод слова с LibreTranslate
 export async function translateWord(word) {
   try {
-    const response = await fetch("https://libretranslate.de/translate", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        q: word,
-        source: /[а-яА-Я]/.test(word) ? "ru" : "en",
-        target: /[а-яА-Я]/.test(word) ? "en" : "ru",
-        format: "text",
-      }),
-    });
+    const response = await fetch(
+      "https://translate.argosopentech.com/translate",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          q: word,
+          source: /[а-яА-Я]/.test(word) ? "ru" : "en",
+          target: /[а-яА-Я]/.test(word) ? "en" : "ru",
+          format: "text",
+        }),
+      }
+    );
     const data = await response.json();
     return data.translatedText;
   } catch (err) {
