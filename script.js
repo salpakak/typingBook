@@ -22,6 +22,9 @@ const soundBackspace = document.getElementById("soundBackspace");
 const soundSpace = document.getElementById("soundSpace");
 const volumeSlider = document.getElementById("volumeSlider");
 
+let typingStartTime = null;
+let lastTypedLength = 0;
+
 volumeSlider.addEventListener("input", () => {
   const volume = parseFloat(volumeSlider.value);
   soundCtrl.volume = volume;
@@ -94,6 +97,9 @@ function updateDisplay() {
       } else {
         html += displayChar;
       }
+    } else if (c === "\n") {
+      html += `<span class="correct">⏎</span>`; // или просто пробел
+      correct++;
     } else if (t === c) {
       html += `<span class="correct">${displayChar}</span>`;
       correct++;
@@ -103,9 +109,20 @@ function updateDisplay() {
   }
 
   textDisplay.innerHTML = html;
+  let wpm = 0;
+  if (typingStartTime && typed.length > 0) {
+    const now = Date.now();
+    const minutes = (now - typingStartTime) / 60000;
+    const words = typed.trim().split(/\s+/).filter(Boolean).length;
+    if (minutes > 0) {
+      wpm = Math.round(words / minutes);
+    }
+  }
+
   stats.textContent = `Символов: ${typed.length} | Ошибок: ${
     typed.length - correct
-  }`;
+  } | Скорость: ${wpm || "—"} WPM`;
+
   pageNumberEl.textContent = currentPage + 1;
   totalPagesEl.textContent = pages.length;
 
@@ -182,6 +199,9 @@ hiddenInput.addEventListener("keydown", (e) => {
   if (!expected) return;
 
   let typed = userInputs[currentPage] || "";
+  if (!typingStartTime && typed.length === 0) {
+    typingStartTime = Date.now();
+  }
 
   if (e.key === "Backspace") {
     userInputs[currentPage] = typed.slice(0, -1);
@@ -198,6 +218,9 @@ hiddenInput.addEventListener("keydown", (e) => {
     keySound.currentTime = 0;
     keySound.play();
   } catch (e) {}
+  if (!typingStartTime && typed.length === 0) {
+    typingStartTime = Date.now();
+  }
 
   typed += e.key;
   userInputs[currentPage] = typed;
@@ -317,3 +340,102 @@ function playSoundForKey(e) {
     soundCtrl.play();
   }
 }
+
+const translationHint = document.getElementById("translationHint");
+let currentWord = "";
+let lastTypedCharIndex = 0;
+
+// Перевод слова с помощью LibreTranslate
+async function translateWord(word) {
+  try {
+    const response = await fetch("https://libretranslate.de/translate", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        q: word,
+        source: /[а-яА-Я]/.test(word) ? "ru" : "en",
+        target: /[а-яА-Я]/.test(word) ? "en" : "ru",
+        format: "text",
+      }),
+    });
+    const data = await response.json();
+    return data.translatedText;
+  } catch (err) {
+    console.error("Ошибка перевода:", err);
+    return "";
+  }
+}
+
+// Обработка ввода в hiddenInput
+hiddenInput.addEventListener("keydown", async (e) => {
+  playSoundForKey(e);
+
+  const expected = pages[currentPage];
+  if (!expected) return;
+
+  let typed = userInputs[currentPage] || "";
+
+  if (!typingStartTime && typed.length === 0) {
+    typingStartTime = Date.now();
+  }
+
+  if (e.key === "Backspace") {
+    typed = typed.slice(0, -1);
+    userInputs[currentPage] = typed;
+    currentWord = currentWord.slice(0, -1);
+    updateDisplay();
+    saveProgress();
+    translationHint.style.opacity = "0";
+    return;
+  }
+
+  if (e.key === " ") {
+    currentWord = "";
+    translationHint.style.opacity = "0";
+    typed += e.key;
+    userInputs[currentPage] = typed;
+    updateDisplay();
+    saveProgress();
+    return;
+  }
+
+  if (e.key.length === 1 && /\S/.test(e.key)) {
+    typed += e.key;
+    currentWord += e.key;
+    userInputs[currentPage] = typed;
+    updateDisplay();
+    saveProgress();
+
+    const nextChar = expected[typed.length];
+    const isWordFinished = !nextChar || /\s/.test(nextChar);
+
+    if (isWordFinished && currentWord.length > 1) {
+      const translated = await translateWord(currentWord);
+      if (translated) {
+        translationHint.textContent = translated;
+        translationHint.style.opacity = "1";
+
+        // Попробуем позиционировать по последнему символу
+        const spans = textDisplay.querySelectorAll("span.correct, span.active");
+        if (spans.length > 0) {
+          const lastSpan = spans[typed.length - 1];
+          if (lastSpan) {
+            const rect = lastSpan.getBoundingClientRect();
+            translationHint.style.left = `${rect.left}px`;
+            translationHint.style.top = `${rect.top - 30}px`;
+          }
+        }
+      }
+    }
+  }
+
+  // Переход на следующую страницу
+  if (typed.length === expected.length && currentPage < pages.length - 1) {
+    currentPage++;
+    currentWord = "";
+    translationHint.style.opacity = "0";
+    updateDisplay();
+    saveProgress();
+    hiddenInput.focus();
+  }
+});
