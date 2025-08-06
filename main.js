@@ -1,13 +1,4 @@
-import {
-  translateWord,
-  showTranslation,
-  hideTranslation,
-  resetCurrentWord,
-  updateCurrentWord,
-} from "./translation.js";
-
-import { cleanText, splitTextIntoPages, charactersPerPage } from "./utils.js";
-
+import { splitTextIntoPages, cleanText } from "./utils.js";
 import {
   saveProgress,
   loadProgress,
@@ -15,102 +6,232 @@ import {
   loadText,
   listSavedTexts,
 } from "./storage.js";
-
 import { playSoundForKey } from "./audio.js";
-import { startTyping, updateDisplay } from "./typing.js";
+import {
+  translateWord,
+  showTranslation,
+  hideTranslation,
+  updateCurrentWord,
+  resetCurrentWord,
+  loadDictionary,
+} from "./translation.js";
 
-const fileInput = document.getElementById("fileInput");
-const savedTexts = document.getElementById("savedTexts");
-const loadSavedBtn = document.getElementById("loadSaved");
-const backBtn = document.getElementById("backBtn");
-const pageInput = document.getElementById("pageInput");
-const goToPage = document.getElementById("goToPage");
-
-const homeScreen = document.getElementById("homeScreen");
-const typingScreen = document.getElementById("typingScreen");
 const hiddenInput = document.getElementById("hiddenInput");
-const resetBtn = document.getElementById("resetProgressBtn");
+const textDisplay = document.getElementById("textDisplay");
+const stats = document.getElementById("stats");
+const pageNumberEl = document.getElementById("pageNumber");
+const totalPagesEl = document.getElementById("totalPages");
+const pageImage = document.getElementById("pageImage");
+const fileInput = document.getElementById("fileInput");
+const savedTextsSelect = document.getElementById("savedTexts");
+const loadSavedButton = document.getElementById("loadSaved");
 
-function updateSavedTextsList() {
-  savedTexts.innerHTML = "<option disabled selected>Выберите...</option>";
-  listSavedTexts().forEach((name) => {
-    const opt = document.createElement("option");
-    opt.value = name;
-    opt.textContent = name;
-    savedTexts.appendChild(opt);
-  });
-}
+let typingStartTime = null;
+let currentKey = "";
+let fullText = "";
+let pages = [];
+let currentPage = 0;
+let userInputs = {};
+let dictionaryReady = false;
 
-function showTypingScreen() {
-  homeScreen.classList.add("hidden");
-  typingScreen.classList.remove("hidden");
-  hiddenInput.focus();
-}
-
-function showHomeScreen() {
-  typingScreen.classList.add("hidden");
-  homeScreen.classList.remove("hidden");
-  updateSavedTextsList();
-}
-
-goToPage.addEventListener("click", () => {
-  const n = parseInt(pageInput.value);
-  if (!isNaN(n)) {
-    window.currentPage = Math.max(0, Math.min(n - 1, window.pages.length - 1));
-    updateDisplay();
-    saveProgress(window.currentKey, {
-      page: window.currentPage,
-      inputs: window.userInputs,
+// Загрузка словаря
+fetch("top1000.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const dict = {};
+    data.forEach((entry) => {
+      if (entry.english && entry.russian) {
+        dict[entry.english.toLowerCase()] = entry.russian;
+      }
     });
-    hiddenInput.focus();
-  }
-});
+    loadDictionary(dict);
+    dictionaryReady = true;
+  })
+  .catch((error) => {
+    console.error("Ошибка загрузки словаря:", error);
+  });
 
-pageInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") goToPage.click();
-});
-
-fileInput.addEventListener("change", async (e) => {
+// Загрузка нового файла
+fileInput.addEventListener("change", (e) => {
   const file = e.target.files[0];
   if (!file) return;
-  const text = await file.text();
-  const key = file.name;
-  saveText(key, text);
-  startTyping(key, text);
-  showTypingScreen();
+
+  const reader = new FileReader();
+  reader.onload = () => {
+    const text = reader.result;
+    const name = file.name;
+    saveText(name, text);
+    updateSavedTexts();
+    savedTextsSelect.value = name;
+    startTyping(name, text);
+  };
+  reader.readAsText(file);
 });
 
-loadSavedBtn.addEventListener("click", () => {
-  const key = savedTexts.value;
-  const text = loadText(key);
-  if (text) {
-    startTyping(key, text);
-    showTypingScreen();
-  }
-});
-
-backBtn.addEventListener("click", () => {
-  saveProgress(window.currentKey, {
-    page: window.currentPage,
-    inputs: window.userInputs,
+// Обновление списка сохранённых текстов
+function updateSavedTexts() {
+  const saved = listSavedTexts();
+  savedTextsSelect.innerHTML = `<option disabled selected>Выберите...</option>`;
+  saved.forEach((name) => {
+    const option = document.createElement("option");
+    option.value = name;
+    option.textContent = name;
+    savedTextsSelect.appendChild(option);
   });
-  showHomeScreen();
+}
+
+// Загрузка выбранного текста
+loadSavedButton.addEventListener("click", () => {
+  const name = savedTextsSelect.value;
+  if (!name || name === "Выберите...") {
+    alert("Сначала выбери текст из списка.");
+    return;
+  }
+  const text = loadText(name);
+  if (!text) {
+    alert("Не удалось загрузить текст.");
+    return;
+  }
+  startTyping(name, text);
 });
 
-resetBtn.addEventListener("click", () => {
-  if (!window.currentKey) return;
-  const confirmed = confirm("Сбросить прогресс и начать заново?");
-  if (confirmed) {
-    localStorage.removeItem("progress_" + window.currentKey);
-    window.userInputs = {};
-    window.currentPage = 0;
+function generateImagePrompt(text) {
+  return `illustration for: ${text}`;
+}
+
+function getPollinationsImage(prompt) {
+  const encoded = encodeURIComponent(prompt);
+  return `https://image.pollinations.ai/prompt/${encoded}`;
+}
+
+function startTyping(key, rawText) {
+  currentKey = key;
+  fullText = cleanText(rawText);
+  pages = splitTextIntoPages(fullText);
+
+  if (pages.length === 0) {
+    alert("Файл пустой или содержит слишком мало текста.");
+    return;
+  }
+
+  const { page, inputs } = loadProgress(key);
+  currentPage = Math.min(page, pages.length - 1);
+  userInputs = inputs || {};
+  typingStartTime = null;
+  document.getElementById("homeScreen").classList.add("hidden");
+  document.getElementById("typingScreen").classList.remove("hidden");
+  updateDisplay();
+}
+
+function updateDisplay() {
+  if (currentPage < 0 || currentPage >= pages.length) return;
+
+  const expected = pages[currentPage];
+  const typed = userInputs[currentPage] || "";
+  let html = "";
+  let correct = 0;
+
+  for (let i = 0; i < expected.length; i++) {
+    const t = typed[i];
+    const c = expected[i];
+    const displayChar = c === "\n" ? " " : c;
+
+    if (t == null) {
+      html += html.includes('class="active"')
+        ? displayChar
+        : `<span class="active">${displayChar}</span>`;
+    } else if (c === "\n") {
+      html += `<span class="correct">⏎</span>`;
+      correct++;
+    } else if (t === c) {
+      html += `<span class="correct">${displayChar}</span>`;
+      correct++;
+    } else {
+      html += `<span class="incorrect">${displayChar}</span>`;
+    }
+  }
+
+  textDisplay.innerHTML = html;
+
+  const now = Date.now();
+  let wpm = 0;
+  if (typingStartTime && typed.length > 0) {
+    const minutes = (now - typingStartTime) / 60000;
+    const words = typed.trim().split(/\s+/).filter(Boolean).length;
+    wpm = minutes > 0 ? Math.round(words / minutes) : 0;
+  }
+
+  stats.textContent = `Символов: ${typed.length} | Ошибок: ${
+    typed.length - correct
+  } | Скорость: ${wpm || "—"} WPM`;
+  pageNumberEl.textContent = currentPage + 1;
+  totalPagesEl.textContent = pages.length;
+  pageImage.src = getPollinationsImage(generateImagePrompt(expected));
+}
+
+// Ввод текста и перевод
+hiddenInput.addEventListener("keydown", async (e) => {
+  playSoundForKey(e);
+
+  const expected = pages[currentPage];
+  if (!expected) return;
+
+  let typed = userInputs[currentPage] || "";
+
+  if (!typingStartTime && typed.length === 0) {
+    typingStartTime = Date.now();
+  }
+
+  if (e.key === "Backspace") {
+    typed = typed.slice(0, -1);
+    userInputs[currentPage] = typed;
     updateDisplay();
-    saveProgress(window.currentKey, {
-      page: 0,
-      inputs: {},
-    });
-    hiddenInput.focus();
+    saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+    resetCurrentWord();
+    hideTranslation();
+    return;
+  }
+
+  if (e.key === " ") {
+    typed += " ";
+    userInputs[currentPage] = typed;
+    updateDisplay();
+    saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+    resetCurrentWord();
+    hideTranslation();
+    return;
+  }
+
+  if (e.key.length === 1 && /\S/.test(e.key)) {
+    typed += e.key;
+    userInputs[currentPage] = typed;
+    updateDisplay();
+    saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+
+    const nextChar = expected[typed.length];
+    const word = updateCurrentWord(e.key);
+    const isWordFinished = !nextChar || /\s/.test(nextChar);
+
+    if (isWordFinished && word.length > 1 && dictionaryReady) {
+      const translation = translateWord(word);
+      const spans = textDisplay.querySelectorAll("span.correct, span.active");
+      const lastSpan = spans[spans.length - 1];
+      if (translation && lastSpan) {
+        const rect = lastSpan.getBoundingClientRect();
+        showTranslation(translation, rect);
+      }
+    }
+
+    if (typed.length === expected.length && currentPage < pages.length - 1) {
+      currentPage++;
+      resetCurrentWord();
+      hideTranslation();
+      updateDisplay();
+      saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+      hiddenInput.focus();
+    }
   }
 });
 
-updateSavedTextsList();
+// Инициализация списка при загрузке
+updateSavedTexts();
