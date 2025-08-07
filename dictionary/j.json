@@ -1,0 +1,938 @@
+[
+  {
+    "word": "jab",
+    "translation": "пырнуть, тыкать, тычок"
+  },
+  {
+    "word": "jabber",
+    "translation": "тараторить, трещать, трескотня, болтовня"
+  },
+  {
+    "word": "jabberer",
+    "translation": "таранта"
+  },
+  {
+    "word": "jabot",
+    "translation": "жабо"
+  },
+  {
+    "word": "jacinth",
+    "translation": "гиацинт"
+  },
+  {
+    "word": "jack",
+    "translation": "гюйс"
+  },
+  {
+    "word": "jack (cards)",
+    "translation": "валет"
+  },
+  {
+    "word": "jack pudding",
+    "translation": "паяц"
+  },
+  {
+    "word": "jackal",
+    "translation": "шакал"
+  },
+  {
+    "word": "jackboot",
+    "translation": "сапог"
+  },
+  {
+    "word": "jackboots",
+    "translation": "ботфорты"
+  },
+  {
+    "word": "jackdaw",
+    "translation": "галка"
+  },
+  {
+    "word": "jacket",
+    "translation": "пиджак, жакетка, суперобложка, кожух, оболочка, рубашка"
+  },
+  {
+    "word": "jade",
+    "translation": "нефритовый, нефрит"
+  },
+  {
+    "word": "jaded",
+    "translation": "изнурённый"
+  },
+  {
+    "word": "jag",
+    "translation": "выщерблять, зазубрина, зубец"
+  },
+  {
+    "word": "jagged",
+    "translation": "зазубренный"
+  },
+  {
+    "word": "jaguar",
+    "translation": "ягуар"
+  },
+  {
+    "word": "jail",
+    "translation": "гулаг, тюрьма, острог"
+  },
+  {
+    "word": "jail-breaker",
+    "translation": "беглец"
+  },
+  {
+    "word": "jailer",
+    "translation": "надсмотрщик, тюремщик"
+  },
+  {
+    "word": "jalousie",
+    "translation": "жалюзи"
+  },
+  {
+    "word": "jam",
+    "translation": "затянуться, заедать, давка, загромождать, заклиниваться, затирать, защемлять, застопориваться, заглушать..."
+  },
+  {
+    "word": "jam dish",
+    "translation": "розетка, блюдечко"
+  },
+  {
+    "word": "jamb",
+    "translation": "косяк"
+  },
+  {
+    "word": "jambs and lintel of a door or window",
+    "translation": "наличник"
+  },
+  {
+    "word": "jammer",
+    "translation": "глушитель"
+  },
+  {
+    "word": "jamming",
+    "translation": "заедание"
+  },
+  {
+    "word": "janitor",
+    "translation": "домоправитель, дворник, вахтёр"
+  },
+  {
+    "word": "january",
+    "translation": "январь"
+  },
+  {
+    "word": "japan",
+    "translation": "Япония, лакировать"
+  },
+  {
+    "word": "japanese",
+    "translation": "японский, японец"
+  },
+  {
+    "word": "japanese woman",
+    "translation": "японка"
+  },
+  {
+    "word": "japanned",
+    "translation": "лаковый"
+  },
+  {
+    "word": "japanning",
+    "translation": "лакировка"
+  },
+  {
+    "word": "jar",
+    "translation": "дисгармонировать, банка"
+  },
+  {
+    "word": "jardiniere",
+    "translation": "жардиньерка"
+  },
+  {
+    "word": "jargon",
+    "translation": "жаргон"
+  },
+  {
+    "word": "jasmin",
+    "translation": "жасмин"
+  },
+  {
+    "word": "jasper",
+    "translation": "яшмовый"
+  },
+  {
+    "word": "jaundice",
+    "translation": "жёлчность, желтуха"
+  },
+  {
+    "word": "javelin",
+    "translation": "дротик"
+  },
+  {
+    "word": "jaw",
+    "translation": "щёчка, челюсть"
+  },
+  {
+    "word": "jaw-",
+    "translation": "челюстной"
+  },
+  {
+    "word": "jaws",
+    "translation": "пасть"
+  },
+  {
+    "word": "jay",
+    "translation": "сойка"
+  },
+  {
+    "word": "jazz",
+    "translation": "джазовый, джаз"
+  },
+  {
+    "word": "jazz band",
+    "translation": "джаз"
+  },
+  {
+    "word": "jealous",
+    "translation": "ревнивый"
+  },
+  {
+    "word": "jealous man",
+    "translation": "ревнивец"
+  },
+  {
+    "word": "jealous woman",
+    "translation": "ревнивица"
+  },
+  {
+    "word": "jealousy",
+    "translation": "ревность"
+  },
+  {
+    "word": "jean",
+    "translation": "джинсовый"
+  },
+  {
+    "word": "jeans",
+    "translation": "джинсы"
+  },
+  {
+    "word": "jeep",
+    "translation": "виллис"
+  },
+  {
+    "word": "jeer",
+    "translation": "издеваться, насмехаться, глумиться, издёвка"
+  },
+  {
+    "word": "jeering",
+    "translation": "глумление, глумливый"
+  },
+  {
+    "word": "jeers",
+    "translation": "смешок"
+  },
+  {
+    "word": "jellied fish",
+    "translation": "холодец"
+  },
+  {
+    "word": "jellied minced meat",
+    "translation": "холодец"
+  },
+  {
+    "word": "jellied petrol",
+    "translation": "напалм"
+  },
+  {
+    "word": "jelly",
+    "translation": "желе"
+  },
+  {
+    "word": "jelly-like",
+    "translation": "студенистый"
+  },
+  {
+    "word": "jellyfish",
+    "translation": "медуза"
+  },
+  {
+    "word": "jeopardy",
+    "translation": "опасность"
+  },
+  {
+    "word": "jerk",
+    "translation": "вялить, дрыгать, рывок, рвануть, дёргать, толчок, сучить, подёргивание"
+  },
+  {
+    "word": "jerk back",
+    "translation": "отдёргивать"
+  },
+  {
+    "word": "jerk up",
+    "translation": "вздёргивать"
+  },
+  {
+    "word": "jerking",
+    "translation": "вяление"
+  },
+  {
+    "word": "jerky",
+    "translation": "порывистый, отрывистый, негладкий"
+  },
+  {
+    "word": "jerrycan",
+    "translation": "канистра"
+  },
+  {
+    "word": "jersey",
+    "translation": "джерси, фуфайка, трикотажный"
+  },
+  {
+    "word": "jessamin",
+    "translation": "жасмин"
+  },
+  {
+    "word": "jest",
+    "translation": "балагурить, пошутить, шутка"
+  },
+  {
+    "word": "jester",
+    "translation": "шут, балагур, шутница"
+  },
+  {
+    "word": "jesuit",
+    "translation": "иезуит"
+  },
+  {
+    "word": "jesuitical",
+    "translation": "иезуитский"
+  },
+  {
+    "word": "jesuitism",
+    "translation": "иезуитство"
+  },
+  {
+    "word": "jesuitry",
+    "translation": "иезуитство"
+  },
+  {
+    "word": "jet",
+    "translation": "жиклёр, шутка, струя, факел"
+  },
+  {
+    "word": "jew",
+    "translation": "жид, еврей"
+  },
+  {
+    "word": "jewel",
+    "translation": "драгоценность"
+  },
+  {
+    "word": "jeweller",
+    "translation": "ювелир"
+  },
+  {
+    "word": "jewellery",
+    "translation": "ювелирный"
+  },
+  {
+    "word": "jewelry",
+    "translation": "драгоценность"
+  },
+  {
+    "word": "jewess",
+    "translation": "еврейка"
+  },
+  {
+    "word": "jewish",
+    "translation": "жидовский, еврейский"
+  },
+  {
+    "word": "jewish woman",
+    "translation": "еврейка"
+  },
+  {
+    "word": "jewry",
+    "translation": "еврейство"
+  },
+  {
+    "word": "jib",
+    "translation": "стрела, закинуться, кливер, артачиться, попятиться, упираться..."
+  },
+  {
+    "word": "jibbing",
+    "translation": "норовистый"
+  },
+  {
+    "word": "jig",
+    "translation": "отсаживать, промывать"
+  },
+  {
+    "word": "jigging",
+    "translation": "отсадка"
+  },
+  {
+    "word": "jingle",
+    "translation": "бренчать, звенеть, греметь, дребезжать"
+  },
+  {
+    "word": "jingling",
+    "translation": "дребезжание"
+  },
+  {
+    "word": "jingo",
+    "translation": "шовинист"
+  },
+  {
+    "word": "jingoism",
+    "translation": "шовинизм"
+  },
+  {
+    "word": "jingoist",
+    "translation": "шовинист"
+  },
+  {
+    "word": "jingoistic",
+    "translation": "шовинистический"
+  },
+  {
+    "word": "jinricksha",
+    "translation": "рикша"
+  },
+  {
+    "word": "jinx",
+    "translation": "сглаз, сглазить"
+  },
+  {
+    "word": "job",
+    "translation": "сдельный, место, должность, барышничать, задание, работа"
+  },
+  {
+    "word": "jobber",
+    "translation": "маклак"
+  },
+  {
+    "word": "jobbery",
+    "translation": "спекуляция"
+  },
+  {
+    "word": "jobbing",
+    "translation": "маклачество"
+  },
+  {
+    "word": "jobless",
+    "translation": "безработный"
+  },
+  {
+    "word": "jockey",
+    "translation": "наездник, жокей"
+  },
+  {
+    "word": "jocular",
+    "translation": "шутливый"
+  },
+  {
+    "word": "jog",
+    "translation": "толкать, трястись"
+  },
+  {
+    "word": "jog-trot",
+    "translation": "рысца"
+  },
+  {
+    "word": "joie de vivre",
+    "translation": "жизнерадостность"
+  },
+  {
+    "word": "join",
+    "translation": "приобщать, поступать, вступить, сливаться, пристраиваться, сочленять, присоединять, состыковывать, вписываться, приобщаться......"
+  },
+  {
+    "word": "join attach",
+    "translation": "стыковать"
+  },
+  {
+    "word": "join battle",
+    "translation": "сразиться"
+  },
+  {
+    "word": "join enter",
+    "translation": "зачисляться"
+  },
+  {
+    "word": "join hands",
+    "translation": "объединяться"
+  },
+  {
+    "word": "join in singing",
+    "translation": "подтягивать"
+  },
+  {
+    "word": "join in song",
+    "translation": "подпевать, подтягивать"
+  },
+  {
+    "word": "join the ranks",
+    "translation": "вливаться"
+  },
+  {
+    "word": "join up",
+    "translation": "пристраиваться, пристраивать"
+  },
+  {
+    "word": "joiner",
+    "translation": "белодеревец"
+  },
+  {
+    "word": "joining",
+    "translation": "присоединение, поступление, вступление, стыковка, соединение"
+  },
+  {
+    "word": "joining up",
+    "translation": "объединение"
+  },
+  {
+    "word": "joint",
+    "translation": "сочленение, пригонять, коллегиальный, наращивание, шарнир..."
+  },
+  {
+    "word": "joint authors",
+    "translation": "соавтор"
+  },
+  {
+    "word": "joint authorship",
+    "translation": "соавторство"
+  },
+  {
+    "word": "joint-making",
+    "translation": "сращивание"
+  },
+  {
+    "word": "joint-stock",
+    "translation": "акционерный"
+  },
+  {
+    "word": "jointing",
+    "translation": "пригонка, сращивание"
+  },
+  {
+    "word": "jointly",
+    "translation": "коллегиально, совместно, солидарно, совокупно, сообща"
+  },
+  {
+    "word": "joist",
+    "translation": "матица"
+  },
+  {
+    "word": "joke",
+    "translation": "анекдот, хохма, балагурить, пошутить, шутка, прикол, острота"
+  },
+  {
+    "word": "joker",
+    "translation": "балагур, затейница, балаганщик, шутница"
+  },
+  {
+    "word": "jokes",
+    "translation": "смешок"
+  },
+  {
+    "word": "jokingly",
+    "translation": "шутя"
+  },
+  {
+    "word": "jolt",
+    "translation": "толчок, потряхивать, растрясти"
+  },
+  {
+    "word": "jolting",
+    "translation": "тряска"
+  },
+  {
+    "word": "jolty",
+    "translation": "тряский"
+  },
+  {
+    "word": "jordan",
+    "translation": "Иордания"
+  },
+  {
+    "word": "jordan river",
+    "translation": "Иордан"
+  },
+  {
+    "word": "jordanian",
+    "translation": "иорданский"
+  },
+  {
+    "word": "jostle",
+    "translation": "затолкать, толкнуться"
+  },
+  {
+    "word": "jostle in",
+    "translation": "затолкать"
+  },
+  {
+    "word": "jostle one another",
+    "translation": "тесниться"
+  },
+  {
+    "word": "jot down",
+    "translation": "набрасывать, записывать"
+  },
+  {
+    "word": "journal",
+    "translation": "дневник, журнальный, журнал"
+  },
+  {
+    "word": "journalism",
+    "translation": "журналистика"
+  },
+  {
+    "word": "journalist",
+    "translation": "журналист, газетчик"
+  },
+  {
+    "word": "journalistic",
+    "translation": "журналистский"
+  },
+  {
+    "word": "journey",
+    "translation": "переезд, проезд, вояж, поездка, путешествие, дорога, путь"
+  },
+  {
+    "word": "joviality",
+    "translation": "весёлость"
+  },
+  {
+    "word": "jowl",
+    "translation": "головизна"
+  },
+  {
+    "word": "joy",
+    "translation": "отрада, радость, утеха"
+  },
+  {
+    "word": "joyful",
+    "translation": "радостный"
+  },
+  {
+    "word": "joyless",
+    "translation": "безрадостный, невесёлый"
+  },
+  {
+    "word": "joyous",
+    "translation": "жизнерадостный, радостный"
+  },
+  {
+    "word": "ju-jitsu",
+    "translation": "джиу-джитсу"
+  },
+  {
+    "word": "jubilee",
+    "translation": "юбилей"
+  },
+  {
+    "word": "judaic",
+    "translation": "иудейский"
+  },
+  {
+    "word": "judaism",
+    "translation": "иудаизм"
+  },
+  {
+    "word": "judas",
+    "translation": "иуда"
+  },
+  {
+    "word": "judge",
+    "translation": "ценитель, посудить, судья, судить, рассудить"
+  },
+  {
+    "word": "judges",
+    "translation": "жюри"
+  },
+  {
+    "word": "judgment",
+    "translation": "усмотрение, суждение, суд"
+  },
+  {
+    "word": "judicial",
+    "translation": "судебный, судейский"
+  },
+  {
+    "word": "judicial system",
+    "translation": "судоустройство"
+  },
+  {
+    "word": "judicious",
+    "translation": "здравомыслящий, разумный, благоразумный"
+  },
+  {
+    "word": "judiciously",
+    "translation": "разумно"
+  },
+  {
+    "word": "judiciousness",
+    "translation": "здравомыслие"
+  },
+  {
+    "word": "judo",
+    "translation": "дзюдо"
+  },
+  {
+    "word": "judoist",
+    "translation": "дзюдоист"
+  },
+  {
+    "word": "jug",
+    "translation": "жбан, щёлкать, щёлканье, каталажка, кувшин"
+  },
+  {
+    "word": "juggle",
+    "translation": "фокусничать, протаскивать, подтасовывать"
+  },
+  {
+    "word": "juggler",
+    "translation": "фокусник, жонглёр"
+  },
+  {
+    "word": "juggling",
+    "translation": "подтасовка, передержка, жонглёрство"
+  },
+  {
+    "word": "jugular",
+    "translation": "шейный"
+  },
+  {
+    "word": "juice",
+    "translation": "морс, сок"
+  },
+  {
+    "word": "juicer",
+    "translation": "сокоотжималка"
+  },
+  {
+    "word": "juiciness",
+    "translation": "сочность"
+  },
+  {
+    "word": "juicy",
+    "translation": "сочный, ядрёный"
+  },
+  {
+    "word": "july",
+    "translation": "июль"
+  },
+  {
+    "word": "jumble",
+    "translation": "путаница, каша, месиво, мешанина, ералаш, окрошка"
+  },
+  {
+    "word": "jump",
+    "translation": "вскидываться, поскакать, впрыгивать, перепрыгивать, перескакивать, допрыгнуть, попрыгать..., подскакивать, скакать, прыгать"
+  },
+  {
+    "word": "jump out",
+    "translation": "выпрыгивать, выскакивать"
+  },
+  {
+    "word": "jump over",
+    "translation": "перебрасываться, перепрыгивать, перескакивать, перемахивать"
+  },
+  {
+    "word": "jump so far",
+    "translation": "допрыгнуть"
+  },
+  {
+    "word": "jump up",
+    "translation": "повскакать, подпрыгнуть, вскакивать, привскакивать"
+  },
+  {
+    "word": "jumper",
+    "translation": "прыгун, джемпер"
+  },
+  {
+    "word": "jumping",
+    "translation": "прыгание"
+  },
+  {
+    "word": "jumping-off place",
+    "translation": "трамплин"
+  },
+  {
+    "word": "jumpsuit",
+    "translation": "комбинезон"
+  },
+  {
+    "word": "junction",
+    "translation": "слияние, соединение, стык, узел, шов"
+  },
+  {
+    "word": "junction box",
+    "translation": "тройник"
+  },
+  {
+    "word": "juncture",
+    "translation": "конъюнктура"
+  },
+  {
+    "word": "june",
+    "translation": "июнь"
+  },
+  {
+    "word": "jungle",
+    "translation": "джунгли"
+  },
+  {
+    "word": "junior",
+    "translation": "младший"
+  },
+  {
+    "word": "junior nurse",
+    "translation": "санитарка"
+  },
+  {
+    "word": "junior scientific assistant",
+    "translation": "адъюнкт"
+  },
+  {
+    "word": "juniour deacon",
+    "translation": "причетник"
+  },
+  {
+    "word": "juniper",
+    "translation": "можжевёловый"
+  },
+  {
+    "word": "junk",
+    "translation": "добро, барахло, джонка, рухлядь, утильсырьё"
+  },
+  {
+    "word": "junker",
+    "translation": "юнкер"
+  },
+  {
+    "word": "junket",
+    "translation": "пирушка"
+  },
+  {
+    "word": "junta",
+    "translation": "хунта"
+  },
+  {
+    "word": "jupiter",
+    "translation": "юпитер"
+  },
+  {
+    "word": "juridical",
+    "translation": "юридический"
+  },
+  {
+    "word": "jurisdiction",
+    "translation": "юрисдикция, подсудность"
+  },
+  {
+    "word": "jurisprudence",
+    "translation": "законоведение, юриспруденция, правоведение"
+  },
+  {
+    "word": "jurist",
+    "translation": "законовед, правовед, юрист"
+  },
+  {
+    "word": "juristic",
+    "translation": "юридический"
+  },
+  {
+    "word": "juror",
+    "translation": "присяжный"
+  },
+  {
+    "word": "jurt",
+    "translation": "юрта"
+  },
+  {
+    "word": "juryman",
+    "translation": "присяжный"
+  },
+  {
+    "word": "just",
+    "translation": "божеский, именно, едва, просто, только, праведный..."
+  },
+  {
+    "word": "just a bit",
+    "translation": "чуточку"
+  },
+  {
+    "word": "just a moment",
+    "translation": "минуточка"
+  },
+  {
+    "word": "just about",
+    "translation": "вот-вот"
+  },
+  {
+    "word": "just miss treat",
+    "translation": "облизнуться"
+  },
+  {
+    "word": "just on the point",
+    "translation": "вот-вот"
+  },
+  {
+    "word": "just only",
+    "translation": "просто"
+  },
+  {
+    "word": "just proportion",
+    "translation": "стройность"
+  },
+  {
+    "word": "just right",
+    "translation": "впору"
+  },
+  {
+    "word": "just try",
+    "translation": "поди"
+  },
+  {
+    "word": "justice",
+    "translation": "юстиция, управа, справедливость, суд"
+  },
+  {
+    "word": "justifiability",
+    "translation": "состоятельность"
+  },
+  {
+    "word": "justifiable",
+    "translation": "простительный"
+  },
+  {
+    "word": "justification",
+    "translation": "оправдание, обоснование, мотивировка"
+  },
+  {
+    "word": "justified",
+    "translation": "оправданный"
+  },
+  {
+    "word": "justify",
+    "translation": "мотивировать, оправдывать"
+  },
+  {
+    "word": "justify oneself",
+    "translation": "оправдываться"
+  },
+  {
+    "word": "jut",
+    "translation": "выступ"
+  },
+  {
+    "word": "jut out",
+    "translation": "вдаться, торчать, выступить"
+  },
+  {
+    "word": "juvenile",
+    "translation": "подросток, малолетний"
+  }
+]

@@ -1,0 +1,8590 @@
+[
+  {
+    "word": "f",
+    "translation": "фа"
+  },
+  {
+    "word": "fa",
+    "translation": "фа"
+  },
+  {
+    "word": "fable",
+    "translation": "басня, байка, выдумка"
+  },
+  {
+    "word": "fabric",
+    "translation": "ткань, материал, материя"
+  },
+  {
+    "word": "fabricate",
+    "translation": "измышлять, подделывать, выдумывать, фабриковать"
+  },
+  {
+    "word": "fabricated",
+    "translation": "выдуманный"
+  },
+  {
+    "word": "fabrication",
+    "translation": "измышление, фантазия, вымысел"
+  },
+  {
+    "word": "fabulist",
+    "translation": "баснописец"
+  },
+  {
+    "word": "fabulous",
+    "translation": "сказочный, фантастичный, невероятный, баснословный"
+  },
+  {
+    "word": "fabulously",
+    "translation": "сказочно"
+  },
+  {
+    "word": "fabulousness",
+    "translation": "фантастический, фантастика"
+  },
+  {
+    "word": "facade",
+    "translation": "фасад, ширма"
+  },
+  {
+    "word": "face",
+    "translation": "лицо, глядеть"
+  },
+  {
+    "word": "face value",
+    "translation": "номинал"
+  },
+  {
+    "word": "face-card",
+    "translation": "фигура"
+  },
+  {
+    "word": "face-worker",
+    "translation": "забойщик"
+  },
+  {
+    "word": "faceless",
+    "translation": "безликий"
+  },
+  {
+    "word": "facelift",
+    "translation": "подтяжка"
+  },
+  {
+    "word": "faceplate",
+    "translation": "планшайба"
+  },
+  {
+    "word": "facet",
+    "translation": "грань, огранить"
+  },
+  {
+    "word": "faceted",
+    "translation": "гранёный"
+  },
+  {
+    "word": "facetious",
+    "translation": "шуточный, шутливый"
+  },
+  {
+    "word": "facetious saying",
+    "translation": "прибаутка"
+  },
+  {
+    "word": "facetiously",
+    "translation": "шутя"
+  },
+  {
+    "word": "facetting",
+    "translation": "огранка"
+  },
+  {
+    "word": "facial",
+    "translation": "личной, лицевой"
+  },
+  {
+    "word": "facial expressions",
+    "translation": "мимика"
+  },
+  {
+    "word": "facile",
+    "translation": "гладкий"
+  },
+  {
+    "word": "facilitate",
+    "translation": "облегчать"
+  },
+  {
+    "word": "facilitation",
+    "translation": "облегчение"
+  },
+  {
+    "word": "facilities",
+    "translation": "устройство, обслуживание"
+  },
+  {
+    "word": "facility",
+    "translation": "бойкость, плавность"
+  },
+  {
+    "word": "facing",
+    "translation": "против, облицовочный, обкладка, визави, облицовка"
+  },
+  {
+    "word": "facing worker",
+    "translation": "облицовщик"
+  },
+  {
+    "word": "fact",
+    "translation": "факт, быль"
+  },
+  {
+    "word": "faction",
+    "translation": "клика, фракция"
+  },
+  {
+    "word": "factor",
+    "translation": "комиссионер, коэффициент, фактор, множитель"
+  },
+  {
+    "word": "factorize",
+    "translation": "разлагать"
+  },
+  {
+    "word": "factory",
+    "translation": "внутризаводской, завод, производство"
+  },
+  {
+    "word": "factory newspaper",
+    "translation": "многотиражка"
+  },
+  {
+    "word": "factory owner",
+    "translation": "фабрикант"
+  },
+  {
+    "word": "factory producing parts for use by another",
+    "translation": "смежник"
+  },
+  {
+    "word": "factory trade union committee",
+    "translation": "завком"
+  },
+  {
+    "word": "factory worker",
+    "translation": "фабричный"
+  },
+  {
+    "word": "factory-hand",
+    "translation": "мастеровой"
+  },
+  {
+    "word": "factory-made",
+    "translation": "фабричный"
+  },
+  {
+    "word": "factory-owner",
+    "translation": "заводчик"
+  },
+  {
+    "word": "factotum",
+    "translation": "фактотум"
+  },
+  {
+    "word": "facts",
+    "translation": "данные"
+  },
+  {
+    "word": "factual",
+    "translation": "фактический"
+  },
+  {
+    "word": "facultative",
+    "translation": "необязательный"
+  },
+  {
+    "word": "faculty",
+    "translation": "способность, факультет"
+  },
+  {
+    "word": "faculty of accommodation",
+    "translation": "приспособляемость"
+  },
+  {
+    "word": "fad",
+    "translation": "конёк"
+  },
+  {
+    "word": "fadable",
+    "translation": "линючий"
+  },
+  {
+    "word": "fade",
+    "translation": "затихать, выгорать, доцвести, утихать, обесцвечивать, выцвести, завянуть, отцветать, облинять, линять......"
+  },
+  {
+    "word": "fade away",
+    "translation": "высыхать"
+  },
+  {
+    "word": "fade out",
+    "translation": "глохнуть"
+  },
+  {
+    "word": "fade-in",
+    "translation": "наплыв"
+  },
+  {
+    "word": "faded",
+    "translation": "выгоревший, полинялый, поблёклый, увядший"
+  },
+  {
+    "word": "fading",
+    "translation": "затухание, угасание, выцветание, увядание"
+  },
+  {
+    "word": "faeces",
+    "translation": "испражнение, экскременты, кал"
+  },
+  {
+    "word": "fag",
+    "translation": "измотать, трудиться"
+  },
+  {
+    "word": "fag-end",
+    "translation": "бычок"
+  },
+  {
+    "word": "fagged",
+    "translation": "измотанный"
+  },
+  {
+    "word": "fail",
+    "translation": "погореть, срываться, провалить, срезаться, засыпаться, подводить, плошать"
+  },
+  {
+    "word": "fail fall to the ground",
+    "translation": "разрушиться"
+  },
+  {
+    "word": "fail to come off",
+    "translation": "расклеиваться"
+  },
+  {
+    "word": "fail to differentiate unstressed hack vowel-sounds in russian and byelorussian",
+    "translation": "акать"
+  },
+  {
+    "word": "fail to elect",
+    "translation": "забаллотировать"
+  },
+  {
+    "word": "fail to hear to the end",
+    "translation": "недослышать"
+  },
+  {
+    "word": "fail to hit",
+    "translation": "промазать, промахнуться"
+  },
+  {
+    "word": "fail to load in full",
+    "translation": "недогружать"
+  },
+  {
+    "word": "fail to return",
+    "translation": "зажиливать"
+  },
+  {
+    "word": "failing",
+    "translation": "недостающий"
+  },
+  {
+    "word": "failing to prove",
+    "translation": "недоказательный"
+  },
+  {
+    "word": "faille",
+    "translation": "фай"
+  },
+  {
+    "word": "failure",
+    "translation": "крах, срыв, провал, обрушение, неуспех, сбой, неудача, безрезультатность, несостоятельность"
+  },
+  {
+    "word": "failure of crops",
+    "translation": "неурожай"
+  },
+  {
+    "word": "failure to appear",
+    "translation": "неявка"
+  },
+  {
+    "word": "failure to deliver",
+    "translation": "невручение"
+  },
+  {
+    "word": "failure to execute",
+    "translation": "невыполнение"
+  },
+  {
+    "word": "failure to include",
+    "translation": "невключение"
+  },
+  {
+    "word": "failure to mention",
+    "translation": "умолчание"
+  },
+  {
+    "word": "failure to prove",
+    "translation": "недоказанность"
+  },
+  {
+    "word": "failure to return",
+    "translation": "невозвращение"
+  },
+  {
+    "word": "failure to serve",
+    "translation": "невручение"
+  },
+  {
+    "word": "faint",
+    "translation": "обмереть, обморок, обеспамятеть, слабый"
+  },
+  {
+    "word": "faint note",
+    "translation": "нотка"
+  },
+  {
+    "word": "faint-hearted",
+    "translation": "малодушный, трусливый"
+  },
+  {
+    "word": "faint-heartedness",
+    "translation": "малодушие"
+  },
+  {
+    "word": "fainting fit",
+    "translation": "обморок"
+  },
+  {
+    "word": "faintly",
+    "translation": "слабо, тихо"
+  },
+  {
+    "word": "faintness",
+    "translation": "дурнота"
+  },
+  {
+    "word": "fair",
+    "translation": "белокурый, чистовой, начисто, божеский, светловолосый, справедливо, честный..."
+  },
+  {
+    "word": "fair amount",
+    "translation": "порядочно"
+  },
+  {
+    "word": "fair copy",
+    "translation": "беловик"
+  },
+  {
+    "word": "fair-haired",
+    "translation": "белокурый, белоголовый"
+  },
+  {
+    "word": "fair-skinned",
+    "translation": "белотелый"
+  },
+  {
+    "word": "fairing",
+    "translation": "обтекатель"
+  },
+  {
+    "word": "fairly",
+    "translation": "порядочно, изрядно, честно, довольно"
+  },
+  {
+    "word": "fairly good",
+    "translation": "сносный"
+  },
+  {
+    "word": "fairly often",
+    "translation": "частенько"
+  },
+  {
+    "word": "fairness",
+    "translation": "справедливость"
+  },
+  {
+    "word": "fairway",
+    "translation": "фарватер"
+  },
+  {
+    "word": "fairy",
+    "translation": "фея"
+  },
+  {
+    "word": "fairy tale",
+    "translation": "сказка"
+  },
+  {
+    "word": "fairy well-to-do",
+    "translation": "безбедный"
+  },
+  {
+    "word": "fairy-tale",
+    "translation": "байка, сказочный"
+  },
+  {
+    "word": "fairytale",
+    "translation": "сказочка"
+  },
+  {
+    "word": "faith",
+    "translation": "вера, доверие"
+  },
+  {
+    "word": "faithful",
+    "translation": "верноподданнический, верный"
+  },
+  {
+    "word": "faithfulness",
+    "translation": "верность"
+  },
+  {
+    "word": "faithless",
+    "translation": "неверный"
+  },
+  {
+    "word": "faithlessness",
+    "translation": "измена"
+  },
+  {
+    "word": "fake",
+    "translation": "подделывать, инсценировать, подделка, подставной, поддельный, фиктивный, липа, бутафорский"
+  },
+  {
+    "word": "faked",
+    "translation": "липовый"
+  },
+  {
+    "word": "faked-up",
+    "translation": "сфабрикованный"
+  },
+  {
+    "word": "fakir",
+    "translation": "факир"
+  },
+  {
+    "word": "falcate",
+    "translation": "серповидный"
+  },
+  {
+    "word": "falcated duck",
+    "translation": "косатка"
+  },
+  {
+    "word": "falcon",
+    "translation": "сокол"
+  },
+  {
+    "word": "falconer",
+    "translation": "сокольничий"
+  },
+  {
+    "word": "fall",
+    "translation": "нападать, наваливаться, осень, увлекаться, повергаться, срываться, утихать, обрушиваться, ухать, осыпаться, гибель, снижаться, дохнуть, подыхать, капать..., подпасть, выпасть, перевалиться, накидываться, заваливаться......"
+  },
+  {
+    "word": "fall / go down",
+    "translation": "опуститься, опускаться"
+  },
+  {
+    "word": "fall a prey to philistinism",
+    "translation": "омещаниться"
+  },
+  {
+    "word": "fall apart",
+    "translation": "расстраиваться"
+  },
+  {
+    "word": "fall asleep",
+    "translation": "усыпать, заспать"
+  },
+  {
+    "word": "fall away",
+    "translation": "отлагаться, отпадать, сползать"
+  },
+  {
+    "word": "fall back",
+    "translation": "закинуться, отходить, прибегнуть, отступить, отойти"
+  },
+  {
+    "word": "fall behind",
+    "translation": "заскорузнуть"
+  },
+  {
+    "word": "fall down",
+    "translation": "посыпаться, спадать, сваливаться, припадать, слетать"
+  },
+  {
+    "word": "fall down with a crash",
+    "translation": "грохнуться"
+  },
+  {
+    "word": "fall for",
+    "translation": "попасться"
+  },
+  {
+    "word": "fall foul",
+    "translation": "рассориться"
+  },
+  {
+    "word": "fall greedily",
+    "translation": "дорваться"
+  },
+  {
+    "word": "fall heavily",
+    "translation": "бухнуться"
+  },
+  {
+    "word": "fall ill",
+    "translation": "захворать, занемочь, заболевать, заболеть"
+  },
+  {
+    "word": "fall in",
+    "translation": "рушиться, провалить"
+  },
+  {
+    "word": "fall in love",
+    "translation": "полюбить, влюбляться"
+  },
+  {
+    "word": "fall in price",
+    "translation": "подешеветь"
+  },
+  {
+    "word": "fall into a light sleep",
+    "translation": "задремать"
+  },
+  {
+    "word": "fall into a reverie",
+    "translation": "замечтаться"
+  },
+  {
+    "word": "fall into conversation",
+    "translation": "разговориться"
+  },
+  {
+    "word": "fall into decay",
+    "translation": "обветшать, захиреть"
+  },
+  {
+    "word": "fall into disuse",
+    "translation": "выводиться"
+  },
+  {
+    "word": "fall into he habit",
+    "translation": "повадиться"
+  },
+  {
+    "word": "fall into silence",
+    "translation": "смолкать"
+  },
+  {
+    "word": "fall of temperature",
+    "translation": "похолодание"
+  },
+  {
+    "word": "fall off",
+    "translation": "отпадать, слететь, отваливаться"
+  },
+  {
+    "word": "fall one after the other",
+    "translation": "попадать"
+  },
+  {
+    "word": "fall out",
+    "translation": "выкувырнуться, лезть, вылезти, отсеиваться, выпасть, вываливаться, расправляться, выскакивать..."
+  },
+  {
+    "word": "fall over",
+    "translation": "перевалиться"
+  },
+  {
+    "word": "fall silent",
+    "translation": "смолкать, примолкнуть"
+  },
+  {
+    "word": "fall through",
+    "translation": "срываться, расклеиваться"
+  },
+  {
+    "word": "fall to pieces",
+    "translation": "разъезжаться, распадаться"
+  },
+  {
+    "word": "fall to the ground",
+    "translation": "срываться, рухнуть, рушиться"
+  },
+  {
+    "word": "fall with a plop",
+    "translation": "шлёпаться"
+  },
+  {
+    "word": "fallacious",
+    "translation": "порочный"
+  },
+  {
+    "word": "fallaciousness",
+    "translation": "порочность"
+  },
+  {
+    "word": "fallen",
+    "translation": "падший"
+  },
+  {
+    "word": "fallen into disgrace",
+    "translation": "опальный"
+  },
+  {
+    "word": "fallen trees",
+    "translation": "валежник"
+  },
+  {
+    "word": "faller",
+    "translation": "паданец"
+  },
+  {
+    "word": "falling",
+    "translation": "убывание"
+  },
+  {
+    "word": "falling away",
+    "translation": "отпадение"
+  },
+  {
+    "word": "falling back",
+    "translation": "отход"
+  },
+  {
+    "word": "falling ill",
+    "translation": "заболевание"
+  },
+  {
+    "word": "falling out",
+    "translation": "выпадение"
+  },
+  {
+    "word": "falling out of step",
+    "translation": "сбой"
+  },
+  {
+    "word": "falling short",
+    "translation": "недолёт"
+  },
+  {
+    "word": "falling sickness",
+    "translation": "падучая"
+  },
+  {
+    "word": "fallow",
+    "translation": "паровой, перелог, пар"
+  },
+  {
+    "word": "fallow land",
+    "translation": "залежь, перелог"
+  },
+  {
+    "word": "fallow-deer",
+    "translation": "лань"
+  },
+  {
+    "word": "falls",
+    "translation": "водопад"
+  },
+  {
+    "word": "false",
+    "translation": "кривой, подставной, облыжный, поддельный, ложный, самозваный..., неверный, лживый, превратный"
+  },
+  {
+    "word": "false hair",
+    "translation": "накладка"
+  },
+  {
+    "word": "false measure",
+    "translation": "обмер"
+  },
+  {
+    "word": "false report",
+    "translation": "утка"
+  },
+  {
+    "word": "false rumours",
+    "translation": "кривотолки"
+  },
+  {
+    "word": "false witness",
+    "translation": "лжесвидетельница"
+  },
+  {
+    "word": "falsehood",
+    "translation": "кривда, вымысел, ложь, неправда"
+  },
+  {
+    "word": "falseness",
+    "translation": "подложность, фальшь"
+  },
+  {
+    "word": "falsetto",
+    "translation": "фальцет"
+  },
+  {
+    "word": "falsework",
+    "translation": "леса, опалубка"
+  },
+  {
+    "word": "falsification",
+    "translation": "фальсификация"
+  },
+  {
+    "word": "falsifier",
+    "translation": "фальсификатор, подделыватель"
+  },
+  {
+    "word": "falsify",
+    "translation": "подделывать, фальсифицировать"
+  },
+  {
+    "word": "falsity",
+    "translation": "ложность, фальшь, лживость, превратность"
+  },
+  {
+    "word": "falter",
+    "translation": "замяться, продрогнуть, запинаться"
+  },
+  {
+    "word": "faltering",
+    "translation": "прерывающийся"
+  },
+  {
+    "word": "fame",
+    "translation": "слава, известность, молва"
+  },
+  {
+    "word": "familiar",
+    "translation": "панибратский, знакомый, развязный, вольный, родственный, фамильярный, бесцеремонный, бывалый"
+  },
+  {
+    "word": "familiar by hearsay",
+    "translation": "наслышан"
+  },
+  {
+    "word": "familiarity",
+    "translation": "знакомство, панибратство, фамильярность, вольность"
+  },
+  {
+    "word": "family",
+    "translation": "семейный, семейственный, фамильный, род"
+  },
+  {
+    "word": "family allotment",
+    "translation": "аттестат"
+  },
+  {
+    "word": "family man",
+    "translation": "семьянин"
+  },
+  {
+    "word": "family name",
+    "translation": "фамилия"
+  },
+  {
+    "word": "family of words",
+    "translation": "гнездо"
+  },
+  {
+    "word": "famine",
+    "translation": "голод"
+  },
+  {
+    "word": "famine-stricken population",
+    "translation": "голодающий"
+  },
+  {
+    "word": "famished",
+    "translation": "голодающий, истощённый"
+  },
+  {
+    "word": "famous",
+    "translation": "известный, знаменитый, прославленный, славный, громкий"
+  },
+  {
+    "word": "famous person",
+    "translation": "звезда"
+  },
+  {
+    "word": "famously",
+    "translation": "славно"
+  },
+  {
+    "word": "fan",
+    "translation": "лопасть, овевать, раздуть, обмахивать, фанат, веер..., опахивать, вентилятор"
+  },
+  {
+    "word": "fan oneself",
+    "translation": "обмахнуться"
+  },
+  {
+    "word": "fan-shaped",
+    "translation": "веерообразный"
+  },
+  {
+    "word": "fanatic",
+    "translation": "фанат, фанатичный, изувер"
+  },
+  {
+    "word": "fanatical",
+    "translation": "фанатический"
+  },
+  {
+    "word": "fanatical cruelty",
+    "translation": "изуверство"
+  },
+  {
+    "word": "fanaticism",
+    "translation": "фанатизм"
+  },
+  {
+    "word": "fancies",
+    "translation": "вычуры"
+  },
+  {
+    "word": "fanciful",
+    "translation": "вычурный, затейливый, прихотливый"
+  },
+  {
+    "word": "fancifulness",
+    "translation": "вычурность, причудливость"
+  },
+  {
+    "word": "fancy",
+    "translation": "шикарный, фантазия, вообразить, затея, прихоть, причуда"
+  },
+  {
+    "word": "fancy ball",
+    "translation": "маскарад"
+  },
+  {
+    "word": "fancy cake",
+    "translation": "пирожное"
+  },
+  {
+    "word": "fancy goods",
+    "translation": "галантерея"
+  },
+  {
+    "word": "fancy oneself",
+    "translation": "заноситься"
+  },
+  {
+    "word": "fancy-bag",
+    "translation": "сумочка"
+  },
+  {
+    "word": "fancy-work",
+    "translation": "вышивание, рукоделие"
+  },
+  {
+    "word": "fanfare",
+    "translation": "фанфара"
+  },
+  {
+    "word": "fang",
+    "translation": "клык"
+  },
+  {
+    "word": "fantasia",
+    "translation": "фантазия"
+  },
+  {
+    "word": "fantast",
+    "translation": "фантаст"
+  },
+  {
+    "word": "fantastic",
+    "translation": "бредовой, сказочный, причудливый, небывалый"
+  },
+  {
+    "word": "fantastic nature",
+    "translation": "фантастический"
+  },
+  {
+    "word": "fantasy",
+    "translation": "домысел, фантастика, фантазия"
+  },
+  {
+    "word": "fanza",
+    "translation": "фанза"
+  },
+  {
+    "word": "far",
+    "translation": "далёкий, далеко, несравненно, гораздо"
+  },
+  {
+    "word": "far and wide",
+    "translation": "повсюду"
+  },
+  {
+    "word": "far left",
+    "translation": "ультралевый"
+  },
+  {
+    "word": "far leftists",
+    "translation": "ультралевый"
+  },
+  {
+    "word": "far off",
+    "translation": "далеко, вдалеке"
+  },
+  {
+    "word": "far right",
+    "translation": "ультраправый"
+  },
+  {
+    "word": "far rightists",
+    "translation": "ультраправый"
+  },
+  {
+    "word": "far-away town",
+    "translation": "глубинка"
+  },
+  {
+    "word": "far-eastern",
+    "translation": "дальневосточный"
+  },
+  {
+    "word": "far-fetched",
+    "translation": "надуманный"
+  },
+  {
+    "word": "far-fetchedness",
+    "translation": "надуманность"
+  },
+  {
+    "word": "far-seeing",
+    "translation": "дальновидный"
+  },
+  {
+    "word": "far-sighted",
+    "translation": "дальновидный, предусмотрительный, дальнозоркий"
+  },
+  {
+    "word": "far-sighted person",
+    "translation": "вперёдсмотрящий"
+  },
+  {
+    "word": "farce",
+    "translation": "балаган, комедия, фарс, шутка"
+  },
+  {
+    "word": "fare",
+    "translation": "угощение, седок"
+  },
+  {
+    "word": "farewell",
+    "translation": "прощание, напутственный, прощальный"
+  },
+  {
+    "word": "farewell party",
+    "translation": "отвальный"
+  },
+  {
+    "word": "farewell speech",
+    "translation": "напутствие"
+  },
+  {
+    "word": "farinaceous",
+    "translation": "мучнистый"
+  },
+  {
+    "word": "farm",
+    "translation": "откупать, хозяйство, ферма, хутор"
+  },
+  {
+    "word": "farm centre",
+    "translation": "усадьба"
+  },
+  {
+    "word": "farm girl",
+    "translation": "батрачка"
+  },
+  {
+    "word": "farm labourer",
+    "translation": "батрак"
+  },
+  {
+    "word": "farm-hand",
+    "translation": "батрак, батрачка, работник"
+  },
+  {
+    "word": "farmer",
+    "translation": "земледелец, землероб"
+  },
+  {
+    "word": "farmer (female)",
+    "translation": "фермерша"
+  },
+  {
+    "word": "farming",
+    "translation": "сельскохозяйственный, земледелие, откуп, фермерство"
+  },
+  {
+    "word": "farmstead",
+    "translation": "двор, усадьба, мыза"
+  },
+  {
+    "word": "farmyard",
+    "translation": "скотница"
+  },
+  {
+    "word": "farmyard worker",
+    "translation": "скотница"
+  },
+  {
+    "word": "faro",
+    "translation": "банк, фараон"
+  },
+  {
+    "word": "farrago",
+    "translation": "винегрет"
+  },
+  {
+    "word": "farrier",
+    "translation": "коваль, коновал, кузнец"
+  },
+  {
+    "word": "farriery",
+    "translation": "кузница"
+  },
+  {
+    "word": "farrow",
+    "translation": "помёт, пороситься"
+  },
+  {
+    "word": "fart",
+    "translation": "пердеть"
+  },
+  {
+    "word": "farther",
+    "translation": "дальше"
+  },
+  {
+    "word": "farthing",
+    "translation": "грош"
+  },
+  {
+    "word": "fascicle",
+    "translation": "пучок"
+  },
+  {
+    "word": "fascinate",
+    "translation": "пленять, увлекать, очаровывать, прельстить, обворожить, захватать"
+  },
+  {
+    "word": "fascinating",
+    "translation": "чарующий, обаятельный, увлекательный, обворожительный, пленительный, неотразимый"
+  },
+  {
+    "word": "fascination",
+    "translation": "очарование, прелесть, пленительность, обворожительность, чары"
+  },
+  {
+    "word": "fascism",
+    "translation": "фашизм"
+  },
+  {
+    "word": "fascist",
+    "translation": "фашистский"
+  },
+  {
+    "word": "fashion",
+    "translation": "фасон, мода, выковывать, выделать, моделировать"
+  },
+  {
+    "word": "fashion designer",
+    "translation": "модельер"
+  },
+  {
+    "word": "fashionable",
+    "translation": "модельный, модный, великосветский"
+  },
+  {
+    "word": "fashionable woman",
+    "translation": "модница"
+  },
+  {
+    "word": "fast",
+    "translation": "говеть, накрепко, быстрый, быстро, голодание, голодать, быстроходный, ходкий, неподвижно..."
+  },
+  {
+    "word": "fast and attend divine service before confession and communion",
+    "translation": "говеть"
+  },
+  {
+    "word": "fast horse",
+    "translation": "скакун"
+  },
+  {
+    "word": "fast liver",
+    "translation": "кутила"
+  },
+  {
+    "word": "fast runner",
+    "translation": "скороход"
+  },
+  {
+    "word": "fast shore ice",
+    "translation": "припай"
+  },
+  {
+    "word": "fast-acting",
+    "translation": "быстродействующий"
+  },
+  {
+    "word": "fast-printed",
+    "translation": "набивной"
+  },
+  {
+    "word": "fast-ripening",
+    "translation": "скороспелый"
+  },
+  {
+    "word": "fasten",
+    "translation": "прихватывать, закрепить, прикреплять, пристёгивать, застёгивать, нацеплять, прикрепляться..., присасываться, привязывать, прикручивать, навязывать"
+  },
+  {
+    "word": "fasten on",
+    "translation": "нацеплять"
+  },
+  {
+    "word": "fasten together",
+    "translation": "счаливать"
+  },
+  {
+    "word": "fasten with a pin",
+    "translation": "закалывать"
+  },
+  {
+    "word": "fasten with nails",
+    "translation": "заколачивать, приколачивать"
+  },
+  {
+    "word": "fasten with pin",
+    "translation": "зашпиливать"
+  },
+  {
+    "word": "fastened",
+    "translation": "привязной"
+  },
+  {
+    "word": "fastener",
+    "translation": "закрепка, замок"
+  },
+  {
+    "word": "fastening",
+    "translation": "закрепление, прикрепление, застёжка, скрепление, крепление, причал"
+  },
+  {
+    "word": "fastidious",
+    "translation": "требовательный, привередливый, брезгливый, разборчивый, прихотливый"
+  },
+  {
+    "word": "fastidious person",
+    "translation": "чистоплюй"
+  },
+  {
+    "word": "fastidiousness",
+    "translation": "привередливость, брезгливость, разборчивость, прихотливость"
+  },
+  {
+    "word": "fasting",
+    "translation": "говенье"
+  },
+  {
+    "word": "fastness",
+    "translation": "прочность"
+  },
+  {
+    "word": "fat",
+    "translation": "раскормить, жир, тучный, жирный, навар..., толстый"
+  },
+  {
+    "word": "fat and flabby",
+    "translation": "обрюзглый"
+  },
+  {
+    "word": "fat boy",
+    "translation": "толстяк"
+  },
+  {
+    "word": "fat face",
+    "translation": "мордастый"
+  },
+  {
+    "word": "fat tail",
+    "translation": "курдюк"
+  },
+  {
+    "word": "fatal",
+    "translation": "гибельный, фатальный, роковой, смертельный, смертный, смертоносный, пагубный, погибельный"
+  },
+  {
+    "word": "fatal nature",
+    "translation": "смертельность"
+  },
+  {
+    "word": "fate",
+    "translation": "фатум, судьба, участь, жребий, доля"
+  },
+  {
+    "word": "fateful",
+    "translation": "роковой"
+  },
+  {
+    "word": "fates",
+    "translation": "Парки"
+  },
+  {
+    "word": "father",
+    "translation": "родоначальник, папаша, папка, батюшка, батя"
+  },
+  {
+    "word": "father of the daughter-in-law",
+    "translation": "сват"
+  },
+  {
+    "word": "father of the son-in-law",
+    "translation": "сват"
+  },
+  {
+    "word": "father-in-law",
+    "translation": "свёкор, тесть"
+  },
+  {
+    "word": "father-superior",
+    "translation": "игумен"
+  },
+  {
+    "word": "father's",
+    "translation": "отцовский"
+  },
+  {
+    "word": "fatherhood",
+    "translation": "отцовство"
+  },
+  {
+    "word": "fatherland",
+    "translation": "отчизна, родина, отечество"
+  },
+  {
+    "word": "fatherless child",
+    "translation": "безотцовщина"
+  },
+  {
+    "word": "fatherlessness",
+    "translation": "безотцовщина"
+  },
+  {
+    "word": "fatherly",
+    "translation": "отеческий"
+  },
+  {
+    "word": "fathoming",
+    "translation": "измерение"
+  },
+  {
+    "word": "fathomless",
+    "translation": "бездонный, неизмеримый"
+  },
+  {
+    "word": "fatigue",
+    "translation": "утомляемость, утомить, усталость, утомление"
+  },
+  {
+    "word": "fatigue oneself",
+    "translation": "утомляться"
+  },
+  {
+    "word": "fatigued",
+    "translation": "усталый"
+  },
+  {
+    "word": "fatiguing",
+    "translation": "утомительный"
+  },
+  {
+    "word": "fatless",
+    "translation": "обезжиренный"
+  },
+  {
+    "word": "fatly",
+    "translation": "жирно"
+  },
+  {
+    "word": "fatness",
+    "translation": "упитанность, тучность"
+  },
+  {
+    "word": "fatted fowl",
+    "translation": "пулярка"
+  },
+  {
+    "word": "fatten",
+    "translation": "раскормить, утучняться, утучнять, нагуливать, подкормить, жировать, разжиреть, отпаивать"
+  },
+  {
+    "word": "fatten up",
+    "translation": "откормить"
+  },
+  {
+    "word": "fattened",
+    "translation": "откормленный, упитанный"
+  },
+  {
+    "word": "fattening",
+    "translation": "откорм, откормочный, нагул"
+  },
+  {
+    "word": "fatty",
+    "translation": "жировой"
+  },
+  {
+    "word": "fatty tumour",
+    "translation": "жировик"
+  },
+  {
+    "word": "fatuous",
+    "translation": "пустоватый"
+  },
+  {
+    "word": "fault",
+    "translation": "неполадка, неполадки, проступок, вина, провинность, грешок, сброс, огрех, замыкание, перекос"
+  },
+  {
+    "word": "faultfinder",
+    "translation": "придира, критиканка"
+  },
+  {
+    "word": "faultfinding",
+    "translation": "придирчивый"
+  },
+  {
+    "word": "faultiness",
+    "translation": "неисправность"
+  },
+  {
+    "word": "faultless",
+    "translation": "беспорочный, безотказный, безошибочный"
+  },
+  {
+    "word": "faultlessness",
+    "translation": "безошибочность"
+  },
+  {
+    "word": "faulty",
+    "translation": "неисправный, дефектный, порочный"
+  },
+  {
+    "word": "fauna",
+    "translation": "фауна"
+  },
+  {
+    "word": "favor",
+    "translation": "просьба, услуга"
+  },
+  {
+    "word": "favorite",
+    "translation": "любимый"
+  },
+  {
+    "word": "favour",
+    "translation": "благосклонность, удостаивать, расположение, протежировать, благоприятствовать, благорасположение, благоволить, дарить, жаловать..."
+  },
+  {
+    "word": "favourable",
+    "translation": "благорасположенный, благосклонный, благоприятный"
+  },
+  {
+    "word": "favourable disposition",
+    "translation": "благорасположение"
+  },
+  {
+    "word": "favourably",
+    "translation": "благосклонно, благожелательно"
+  },
+  {
+    "word": "favourite",
+    "translation": "фаворит, излюбленный, любимица"
+  },
+  {
+    "word": "favouritism",
+    "translation": "протекционизм, кумовство"
+  },
+  {
+    "word": "fawn",
+    "translation": "угодничать, беж, телиться, ласкаться, раболепствовать, заискивать, егозить, низкопоклонничать, прислуживаться"
+  },
+  {
+    "word": "fawn-coloured",
+    "translation": "рыжеватый"
+  },
+  {
+    "word": "fawner",
+    "translation": "прислужник"
+  },
+  {
+    "word": "fax",
+    "translation": "факс"
+  },
+  {
+    "word": "fear",
+    "translation": "опасаться, бояться, страшиться, струсить, устрашаться, боязнь, страх, опасение, испуг"
+  },
+  {
+    "word": "fearful",
+    "translation": "дьявольский, пугливый, страшный"
+  },
+  {
+    "word": "fearfully",
+    "translation": "дьявольски"
+  },
+  {
+    "word": "fearfulness",
+    "translation": "пугливость"
+  },
+  {
+    "word": "fearless",
+    "translation": "бесстрашный, безбоязненный, неустрашимый"
+  },
+  {
+    "word": "fearlessly",
+    "translation": "смело"
+  },
+  {
+    "word": "fearlessness",
+    "translation": "неустрашимость"
+  },
+  {
+    "word": "feasibility",
+    "translation": "осуществимость"
+  },
+  {
+    "word": "feasible",
+    "translation": "удобоисполнимый, выполнимый, исполнимый, возможный, осуществимый"
+  },
+  {
+    "word": "feast",
+    "translation": "попировать, пир, пиршество, пировать, застолье, праздник"
+  },
+  {
+    "word": "feast for the eyes",
+    "translation": "загляденье"
+  },
+  {
+    "word": "feat",
+    "translation": "подвиг, трюк"
+  },
+  {
+    "word": "feather",
+    "translation": "перо"
+  },
+  {
+    "word": "feather-bed",
+    "translation": "перина"
+  },
+  {
+    "word": "feather-brained",
+    "translation": "пустоголовый"
+  },
+  {
+    "word": "feather-grass",
+    "translation": "ковыль"
+  },
+  {
+    "word": "feather-leaved",
+    "translation": "перистолистный"
+  },
+  {
+    "word": "feathered",
+    "translation": "пернатый"
+  },
+  {
+    "word": "feathering",
+    "translation": "оперение"
+  },
+  {
+    "word": "featherlike",
+    "translation": "перистый"
+  },
+  {
+    "word": "feathery",
+    "translation": "пернатый"
+  },
+  {
+    "word": "feature",
+    "translation": "особенность, момент, штрих, черта"
+  },
+  {
+    "word": "feature-story",
+    "translation": "очерк"
+  },
+  {
+    "word": "featureless",
+    "translation": "безликий, безобразный"
+  },
+  {
+    "word": "febrifugal",
+    "translation": "жаропонижающий"
+  },
+  {
+    "word": "febrile",
+    "translation": "лихорадочный"
+  },
+  {
+    "word": "february",
+    "translation": "февраль"
+  },
+  {
+    "word": "feckless",
+    "translation": "бездумный"
+  },
+  {
+    "word": "fecund",
+    "translation": "плодородный, плодовитый"
+  },
+  {
+    "word": "fecundate",
+    "translation": "оплодотворять"
+  },
+  {
+    "word": "fecundation",
+    "translation": "оплодотворение"
+  },
+  {
+    "word": "fecundity",
+    "translation": "плодородность, плодовитость"
+  },
+  {
+    "word": "federal",
+    "translation": "федеральный, федеративный"
+  },
+  {
+    "word": "federal security service",
+    "translation": "фсб"
+  },
+  {
+    "word": "federalism",
+    "translation": "федерализм"
+  },
+  {
+    "word": "federation",
+    "translation": "федерация"
+  },
+  {
+    "word": "federative",
+    "translation": "федеративный"
+  },
+  {
+    "word": "fee",
+    "translation": "гонорар, лен, плата, взнос, вознаграждение"
+  },
+  {
+    "word": "feeble",
+    "translation": "дохлятина, бездарный, тщедушный, ослабелый, мягкотелый, беспомощный, немощный..."
+  },
+  {
+    "word": "feeble mind",
+    "translation": "скудоумие"
+  },
+  {
+    "word": "feeble-minded",
+    "translation": "скудоумный"
+  },
+  {
+    "word": "feeble-voiced",
+    "translation": "безголосый"
+  },
+  {
+    "word": "feebleness",
+    "translation": "мягкотелость, беспомощность, немощь, слабосилие, слабость, бессилие"
+  },
+  {
+    "word": "feebly",
+    "translation": "слабо"
+  },
+  {
+    "word": "feed",
+    "translation": "подвод, скармливать, кормиться, прокормить, питаться, питать..., подавать, подача, загрузить, загружать, питательный"
+  },
+  {
+    "word": "feed kitchen",
+    "translation": "кормокухня"
+  },
+  {
+    "word": "feed too much",
+    "translation": "закормить"
+  },
+  {
+    "word": "feed up",
+    "translation": "подкормить"
+  },
+  {
+    "word": "feed-preparation house",
+    "translation": "кормокухня"
+  },
+  {
+    "word": "feeder",
+    "translation": "питатель"
+  },
+  {
+    "word": "feeding",
+    "translation": "откормочный, вскармливание, кормление, подача, питательный"
+  },
+  {
+    "word": "feeding up",
+    "translation": "прикорм"
+  },
+  {
+    "word": "feeding-bottle",
+    "translation": "рожок"
+  },
+  {
+    "word": "feeding-cup",
+    "translation": "поильник"
+  },
+  {
+    "word": "feel",
+    "translation": "попробовать, испытать, питать, прощупываться, перечувствовать, почувствовать, осязать..., почуять, сочувствовать"
+  },
+  {
+    "word": "feel a doubt",
+    "translation": "усомниться"
+  },
+  {
+    "word": "feel about",
+    "translation": "нащупывать"
+  },
+  {
+    "word": "feel better",
+    "translation": "легчать"
+  },
+  {
+    "word": "feel bitter",
+    "translation": "злобиться"
+  },
+  {
+    "word": "feel cold",
+    "translation": "мёрзнуть"
+  },
+  {
+    "word": "feel miserable",
+    "translation": "заскучать"
+  },
+  {
+    "word": "feel more cheerful",
+    "translation": "приободряться"
+  },
+  {
+    "word": "feel nervous",
+    "translation": "нервничать"
+  },
+  {
+    "word": "feel seedy",
+    "translation": "расклеиваться"
+  },
+  {
+    "word": "feel shy",
+    "translation": "постесняться"
+  },
+  {
+    "word": "feel something as a burden",
+    "translation": "тяготиться"
+  },
+  {
+    "word": "feel sorry",
+    "translation": "пожалеть"
+  },
+  {
+    "word": "feeler",
+    "translation": "усик, ус"
+  },
+  {
+    "word": "feeling",
+    "translation": "проникновенность, переживание, ощущение"
+  },
+  {
+    "word": "feeling for law and order",
+    "translation": "правосознание"
+  },
+  {
+    "word": "feeling of resentment",
+    "translation": "осадок"
+  },
+  {
+    "word": "feign",
+    "translation": "инсценировать, прикинуться, притворяться, симулировать"
+  },
+  {
+    "word": "feign poverty",
+    "translation": "прибедняться"
+  },
+  {
+    "word": "feigned",
+    "translation": "напускной, притворный, наигранный, деланный"
+  },
+  {
+    "word": "feingewicht",
+    "translation": "корн"
+  },
+  {
+    "word": "feint",
+    "translation": "инсценировка, финт"
+  },
+  {
+    "word": "felicitous",
+    "translation": "удачный"
+  },
+  {
+    "word": "felicity",
+    "translation": "блаженство"
+  },
+  {
+    "word": "felidae",
+    "translation": "кошачьи"
+  },
+  {
+    "word": "feline",
+    "translation": "кошачий"
+  },
+  {
+    "word": "fell",
+    "translation": "свалить, вырубать, срубать, рубить, шкурка, шкура"
+  },
+  {
+    "word": "felling",
+    "translation": "вырубка, валка, сруб, рубка"
+  },
+  {
+    "word": "felloe",
+    "translation": "обод"
+  },
+  {
+    "word": "fellow",
+    "translation": "парень, собрат, член, малый, субъект, карапуз..."
+  },
+  {
+    "word": "fellow country-woman",
+    "translation": "землячка"
+  },
+  {
+    "word": "fellow countryman",
+    "translation": "землячок"
+  },
+  {
+    "word": "fellow member",
+    "translation": "сочлен"
+  },
+  {
+    "word": "fellow student",
+    "translation": "сокурсник"
+  },
+  {
+    "word": "fellow worker",
+    "translation": "напарница"
+  },
+  {
+    "word": "fellow-champion",
+    "translation": "сподвижница"
+  },
+  {
+    "word": "fellow-citizen",
+    "translation": "согражданин"
+  },
+  {
+    "word": "fellow-clerk",
+    "translation": "сослуживица"
+  },
+  {
+    "word": "fellow-countryman",
+    "translation": "соотечественник, сородич"
+  },
+  {
+    "word": "fellow-employee",
+    "translation": "сослуживица"
+  },
+  {
+    "word": "fellow-fighter",
+    "translation": "сподвижница"
+  },
+  {
+    "word": "fellow-member of club",
+    "translation": "одноклубник"
+  },
+  {
+    "word": "fellow-student",
+    "translation": "однокашник"
+  },
+  {
+    "word": "fellow-teacher",
+    "translation": "сослуживица"
+  },
+  {
+    "word": "fellow-townsman",
+    "translation": "земляк"
+  },
+  {
+    "word": "fellow-traveler",
+    "translation": "спутник, попутчица"
+  },
+  {
+    "word": "fellow-tribesman",
+    "translation": "соплеменник"
+  },
+  {
+    "word": "fellow-villager",
+    "translation": "земляк, односельчанин, односельчанка"
+  },
+  {
+    "word": "felo-de-se",
+    "translation": "самоубийца"
+  },
+  {
+    "word": "felon",
+    "translation": "преступница"
+  },
+  {
+    "word": "felonious",
+    "translation": "преступный"
+  },
+  {
+    "word": "felony",
+    "translation": "преступление"
+  },
+  {
+    "word": "felt",
+    "translation": "валять, поярковый, чувствительный"
+  },
+  {
+    "word": "felt boot",
+    "translation": "валенок"
+  },
+  {
+    "word": "felt boots with leather soles",
+    "translation": "бурки"
+  },
+  {
+    "word": "felt cloak",
+    "translation": "бурка"
+  },
+  {
+    "word": "felt-tip marker",
+    "translation": "фломастер"
+  },
+  {
+    "word": "felt-tip pen",
+    "translation": "фломастер"
+  },
+  {
+    "word": "female",
+    "translation": "самка, женский, матка"
+  },
+  {
+    "word": "female activist",
+    "translation": "активистка"
+  },
+  {
+    "word": "female athlete",
+    "translation": "атлетка"
+  },
+  {
+    "word": "female camel",
+    "translation": "верблюдица"
+  },
+  {
+    "word": "female champion",
+    "translation": "чемпионка"
+  },
+  {
+    "word": "female coach",
+    "translation": "тренерша"
+  },
+  {
+    "word": "female convict",
+    "translation": "заключённая"
+  },
+  {
+    "word": "female deer",
+    "translation": "оленуха"
+  },
+  {
+    "word": "female eagle",
+    "translation": "орлица"
+  },
+  {
+    "word": "female gymnast",
+    "translation": "гимнастёрка"
+  },
+  {
+    "word": "female hedgehog",
+    "translation": "ежиха"
+  },
+  {
+    "word": "female hero",
+    "translation": "героиня"
+  },
+  {
+    "word": "female jester",
+    "translation": "шутиха"
+  },
+  {
+    "word": "female prisoner",
+    "translation": "заключённая"
+  },
+  {
+    "word": "female quail",
+    "translation": "перепёлка"
+  },
+  {
+    "word": "female student",
+    "translation": "студентка"
+  },
+  {
+    "word": "female swan",
+    "translation": "лебёдка"
+  },
+  {
+    "word": "female trainer",
+    "translation": "тренерша"
+  },
+  {
+    "word": "female walrus",
+    "translation": "моржиха"
+  },
+  {
+    "word": "female watchman",
+    "translation": "сторожиха"
+  },
+  {
+    "word": "feminine",
+    "translation": "женский, женственный"
+  },
+  {
+    "word": "femininity",
+    "translation": "женственность"
+  },
+  {
+    "word": "feminism",
+    "translation": "феминизм"
+  },
+  {
+    "word": "feminist",
+    "translation": "феминистка"
+  },
+  {
+    "word": "feministic",
+    "translation": "феминистский"
+  },
+  {
+    "word": "femoral",
+    "translation": "бедренный"
+  },
+  {
+    "word": "fence",
+    "translation": "скупщик, городить, фехтовать, загородка, штакетник"
+  },
+  {
+    "word": "fence in",
+    "translation": "заграждать, загородить, огораживать, ограждать"
+  },
+  {
+    "word": "fence off",
+    "translation": "отгораживать, выгородить"
+  },
+  {
+    "word": "fence oneself in",
+    "translation": "огораживаться"
+  },
+  {
+    "word": "fence oneself off",
+    "translation": "отгораживаться"
+  },
+  {
+    "word": "fenced",
+    "translation": "огороженный"
+  },
+  {
+    "word": "fencer",
+    "translation": "фехтовальщик"
+  },
+  {
+    "word": "fencing",
+    "translation": "штакетник, фехтование"
+  },
+  {
+    "word": "fencing in",
+    "translation": "огораживание"
+  },
+  {
+    "word": "fender",
+    "translation": "кранец, решётка"
+  },
+  {
+    "word": "fennel",
+    "translation": "укроп"
+  },
+  {
+    "word": "feral",
+    "translation": "звериный"
+  },
+  {
+    "word": "ferment",
+    "translation": "бродило, фермент, заквасить, закваска, брожение, бродить"
+  },
+  {
+    "word": "fermentation",
+    "translation": "ферментация, брожение"
+  },
+  {
+    "word": "fermentative",
+    "translation": "бродильный"
+  },
+  {
+    "word": "fermented",
+    "translation": "квашеный"
+  },
+  {
+    "word": "fermenting",
+    "translation": "бродильный"
+  },
+  {
+    "word": "fern",
+    "translation": "папоротник"
+  },
+  {
+    "word": "ferocious",
+    "translation": "свирепый, грозный"
+  },
+  {
+    "word": "ferocity",
+    "translation": "лютость"
+  },
+  {
+    "word": "ferreous",
+    "translation": "железный"
+  },
+  {
+    "word": "ferret",
+    "translation": "хорёк"
+  },
+  {
+    "word": "ferriferous",
+    "translation": "железистый"
+  },
+  {
+    "word": "ferro-concrete",
+    "translation": "железобетон"
+  },
+  {
+    "word": "ferrous",
+    "translation": "железный"
+  },
+  {
+    "word": "ferruginous",
+    "translation": "железистый"
+  },
+  {
+    "word": "ferry",
+    "translation": "паром, переправиться, переплывать, перевоз"
+  },
+  {
+    "word": "ferry across",
+    "translation": "переплывать"
+  },
+  {
+    "word": "ferry up",
+    "translation": "подплывать"
+  },
+  {
+    "word": "ferryman",
+    "translation": "лодочник, перевозчик, плотовщик"
+  },
+  {
+    "word": "fertile",
+    "translation": "тучный, плодородный, плодовитый"
+  },
+  {
+    "word": "fertility",
+    "translation": "тучность, плодородность, плодовитость"
+  },
+  {
+    "word": "fertilization",
+    "translation": "оплодотворение"
+  },
+  {
+    "word": "fertilize",
+    "translation": "оплодотворять, удобрять"
+  },
+  {
+    "word": "fertilizer",
+    "translation": "удобрение"
+  },
+  {
+    "word": "fertilizing",
+    "translation": "оплодотворение, удобрение"
+  },
+  {
+    "word": "fervency",
+    "translation": "пылкость, ревность"
+  },
+  {
+    "word": "fervent",
+    "translation": "истовый, воодушевлённый, задорный, страстный, ревностный, рьяный"
+  },
+  {
+    "word": "fervour",
+    "translation": "горячность, воодушевление, задор, рьяность, рвение"
+  },
+  {
+    "word": "festal",
+    "translation": "праздничный"
+  },
+  {
+    "word": "fester",
+    "translation": "загнаиваться, тлеть, нагноиться, гноиться"
+  },
+  {
+    "word": "festering",
+    "translation": "нагноение"
+  },
+  {
+    "word": "festival",
+    "translation": "фестиваль, торжество, празднество"
+  },
+  {
+    "word": "festive",
+    "translation": "праздничный, торжественный"
+  },
+  {
+    "word": "festive gathering of young people",
+    "translation": "игрище"
+  },
+  {
+    "word": "festively",
+    "translation": "празднично"
+  },
+  {
+    "word": "festivities",
+    "translation": "торжество, празднество"
+  },
+  {
+    "word": "fetch",
+    "translation": "приносить, заезжать, сойти, достать"
+  },
+  {
+    "word": "fetch up",
+    "translation": "попадать"
+  },
+  {
+    "word": "fete",
+    "translation": "фестиваль, торжество"
+  },
+  {
+    "word": "fetid",
+    "translation": "зловонный"
+  },
+  {
+    "word": "fetlock",
+    "translation": "щётка"
+  },
+  {
+    "word": "fetter",
+    "translation": "заковывать, сковывать"
+  },
+  {
+    "word": "fetters",
+    "translation": "цепь, вериги, оковы, путы, кандалы"
+  },
+  {
+    "word": "feudal",
+    "translation": "ленный"
+  },
+  {
+    "word": "feudal lord",
+    "translation": "феодал"
+  },
+  {
+    "word": "feudalism",
+    "translation": "феодализм"
+  },
+  {
+    "word": "fever",
+    "translation": "огневица, горячка, жар, озноб"
+  },
+  {
+    "word": "fevered",
+    "translation": "воспалённый"
+  },
+  {
+    "word": "feverish",
+    "translation": "лихорадочный"
+  },
+  {
+    "word": "feverish haste",
+    "translation": "горячка"
+  },
+  {
+    "word": "feverishness",
+    "translation": "лихорадочность"
+  },
+  {
+    "word": "few",
+    "translation": "горстка, мало, немногий"
+  },
+  {
+    "word": "fiance",
+    "translation": "жених"
+  },
+  {
+    "word": "fiancee",
+    "translation": "невеста"
+  },
+  {
+    "word": "fiasco",
+    "translation": "фиаско"
+  },
+  {
+    "word": "fib",
+    "translation": "фантазия, привирать, подвирать, враньё, выдумка"
+  },
+  {
+    "word": "fibber",
+    "translation": "лгунишка, врунья"
+  },
+  {
+    "word": "fibre",
+    "translation": "волокно, ворсинка, жилка"
+  },
+  {
+    "word": "fibril",
+    "translation": "мочка"
+  },
+  {
+    "word": "fibrous",
+    "translation": "волосистый"
+  },
+  {
+    "word": "fibs",
+    "translation": "враки"
+  },
+  {
+    "word": "fickle",
+    "translation": "капризный, изменчивый, непостоянный, ветреный"
+  },
+  {
+    "word": "fickleness",
+    "translation": "изменчивость, ветреность"
+  },
+  {
+    "word": "fiction",
+    "translation": "фантастика, беллетристика, выдумка, вымысел"
+  },
+  {
+    "word": "fiction writer",
+    "translation": "беллетрист"
+  },
+  {
+    "word": "fictitious",
+    "translation": "фиктивный, подставной"
+  },
+  {
+    "word": "fictitious idea",
+    "translation": "выдумка"
+  },
+  {
+    "word": "ficus",
+    "translation": "фикус"
+  },
+  {
+    "word": "fiddle",
+    "translation": "скрипка"
+  },
+  {
+    "word": "fiddler",
+    "translation": "скрипачка"
+  },
+  {
+    "word": "fiddlestick",
+    "translation": "смычок"
+  },
+  {
+    "word": "fidelity",
+    "translation": "приверженность, верность"
+  },
+  {
+    "word": "fidget",
+    "translation": "попрыгунья, ёрзать, прыгун, вьюн, вертеться, юла"
+  },
+  {
+    "word": "fidgetiness",
+    "translation": "вертлявость"
+  },
+  {
+    "word": "fidgety",
+    "translation": "егозливый, суетливый, непоседливый, вертлявый"
+  },
+  {
+    "word": "fief",
+    "translation": "лен"
+  },
+  {
+    "word": "field",
+    "translation": "нива, полевой, поле, поприще, походный, полоса, клин"
+  },
+  {
+    "word": "field (area of knowledge)",
+    "translation": "область"
+  },
+  {
+    "word": "field cap",
+    "translation": "пилотка"
+  },
+  {
+    "word": "field charge",
+    "translation": "фугас"
+  },
+  {
+    "word": "field engineer",
+    "translation": "сапёр"
+  },
+  {
+    "word": "field hospital",
+    "translation": "лазарет"
+  },
+  {
+    "word": "field husbandry",
+    "translation": "полеводство"
+  },
+  {
+    "word": "field magnet",
+    "translation": "индуктор"
+  },
+  {
+    "word": "field mushroom",
+    "translation": "шампиньон"
+  },
+  {
+    "word": "field of industry",
+    "translation": "отрасль"
+  },
+  {
+    "word": "field-crop cultivation",
+    "translation": "полеводство"
+  },
+  {
+    "word": "field-crop grower",
+    "translation": "полевод"
+  },
+  {
+    "word": "field-engineer",
+    "translation": "сапёрный"
+  },
+  {
+    "word": "field-marshal",
+    "translation": "фельдмаршал"
+  },
+  {
+    "word": "field-protecting",
+    "translation": "полезащитный"
+  },
+  {
+    "word": "field-team leader",
+    "translation": "звеньевой"
+  },
+  {
+    "word": "field-vole",
+    "translation": "полёвка"
+  },
+  {
+    "word": "fieldfare",
+    "translation": "рябинник"
+  },
+  {
+    "word": "fierce",
+    "translation": "лютый, свирепый, яростный, сильный"
+  },
+  {
+    "word": "fierceness",
+    "translation": "лютость"
+  },
+  {
+    "word": "fiery",
+    "translation": "огневой, огненный, пламенный"
+  },
+  {
+    "word": "fife",
+    "translation": "дуда"
+  },
+  {
+    "word": "fifteen",
+    "translation": "пятнадцать"
+  },
+  {
+    "word": "fifteen copecks",
+    "translation": "пятиалтынный"
+  },
+  {
+    "word": "fifteen-copeck coin",
+    "translation": "пятиалтынный"
+  },
+  {
+    "word": "fifteen-year",
+    "translation": "пятнадцатилетний"
+  },
+  {
+    "word": "fifteen-year-old",
+    "translation": "пятнадцатилетний"
+  },
+  {
+    "word": "fifteenth",
+    "translation": "пятнадцатый"
+  },
+  {
+    "word": "fifth",
+    "translation": "пятый"
+  },
+  {
+    "word": "fifth anniversary",
+    "translation": "пятилетие"
+  },
+  {
+    "word": "fifth-form boy",
+    "translation": "пятиклассник"
+  },
+  {
+    "word": "fifth-form girl",
+    "translation": "пятиклассница"
+  },
+  {
+    "word": "fifth-former",
+    "translation": "пятиклассник"
+  },
+  {
+    "word": "fifthly",
+    "translation": "в-пятых"
+  },
+  {
+    "word": "fiftieth",
+    "translation": "пятидесятый"
+  },
+  {
+    "word": "fiftieth anniversary",
+    "translation": "пятидесятилетие"
+  },
+  {
+    "word": "fiftieth birthday",
+    "translation": "пятидесятилетие"
+  },
+  {
+    "word": "fifty",
+    "translation": "полсотни"
+  },
+  {
+    "word": "fifty copecks",
+    "translation": "полтинник"
+  },
+  {
+    "word": "fifty years",
+    "translation": "пятидесятилетие"
+  },
+  {
+    "word": "fifty-copeck piece",
+    "translation": "полтинник"
+  },
+  {
+    "word": "fifty-year",
+    "translation": "пятидесятилетний"
+  },
+  {
+    "word": "fifty-year-old",
+    "translation": "пятидесятилетний"
+  },
+  {
+    "word": "fig",
+    "translation": "инжирный, фига"
+  },
+  {
+    "word": "fig-tree",
+    "translation": "смоковница, фига"
+  },
+  {
+    "word": "fight",
+    "translation": "баталия, воевать, потасовка, рубиться, бой, отвоевать, сразиться, биться..., противоборствовать, борьба"
+  },
+  {
+    "word": "fight a duel",
+    "translation": "стреляться"
+  },
+  {
+    "word": "fight back",
+    "translation": "отгонять"
+  },
+  {
+    "word": "fight down",
+    "translation": "побороть"
+  },
+  {
+    "word": "fighter",
+    "translation": "борец, истребитель, истребительный, воительница, боец"
+  },
+  {
+    "word": "fighter pilot",
+    "translation": "лётчик-истребитель"
+  },
+  {
+    "word": "fighting",
+    "translation": "бой, боевой"
+  },
+  {
+    "word": "fighting man",
+    "translation": "воин"
+  },
+  {
+    "word": "fighting-cock",
+    "translation": "вояка"
+  },
+  {
+    "word": "fighting-man",
+    "translation": "боец"
+  },
+  {
+    "word": "figment",
+    "translation": "измышление"
+  },
+  {
+    "word": "figurant",
+    "translation": "фигурант"
+  },
+  {
+    "word": "figurative",
+    "translation": "фигуральный, образный, изобразительный, метафорический, переносный"
+  },
+  {
+    "word": "figuratively",
+    "translation": "образно"
+  },
+  {
+    "word": "figurativeness",
+    "translation": "образность"
+  },
+  {
+    "word": "figure",
+    "translation": "телосложение, стать, фигурировать, цифра, фигура, стан, колено"
+  },
+  {
+    "word": "figure a person out",
+    "translation": "раскусить"
+  },
+  {
+    "word": "figure it out",
+    "translation": "разобраться"
+  },
+  {
+    "word": "figure out",
+    "translation": "высчитать, сообразить, соображать"
+  },
+  {
+    "word": "figure skater",
+    "translation": "фигурист"
+  },
+  {
+    "word": "figured",
+    "translation": "фигурный"
+  },
+  {
+    "word": "figurine",
+    "translation": "статуэтка, фигурка"
+  },
+  {
+    "word": "filament",
+    "translation": "волокно, волосок, нить"
+  },
+  {
+    "word": "filamentous",
+    "translation": "нитчатый"
+  },
+  {
+    "word": "filamentous alga",
+    "translation": "нитчатка"
+  },
+  {
+    "word": "filch",
+    "translation": "потащить, спереть, стащить, стянуть, упирать, воровать"
+  },
+  {
+    "word": "filcher",
+    "translation": "жулик"
+  },
+  {
+    "word": "filching",
+    "translation": "воровство"
+  },
+  {
+    "word": "file",
+    "translation": "цепочка, досье, дефилировать, ряд, вереница, шлифовать, шеренга..."
+  },
+  {
+    "word": "file down",
+    "translation": "спиливать"
+  },
+  {
+    "word": "filer",
+    "translation": "заполнитель"
+  },
+  {
+    "word": "filet",
+    "translation": "филе"
+  },
+  {
+    "word": "filial",
+    "translation": "дочерний, сыновний"
+  },
+  {
+    "word": "filibuster",
+    "translation": "флибустьер"
+  },
+  {
+    "word": "filices",
+    "translation": "папоротниковый"
+  },
+  {
+    "word": "filiform",
+    "translation": "нитеобразный"
+  },
+  {
+    "word": "filing",
+    "translation": "шлифование, подшивка, опиловка"
+  },
+  {
+    "word": "filings",
+    "translation": "опилки"
+  },
+  {
+    "word": "fill",
+    "translation": "долить, забросать, исполнять, заставлять, преисполнять, объять, досыпать, напускать, заполнять..., переполнять..."
+  },
+  {
+    "word": "fill by pumping",
+    "translation": "накачивать"
+  },
+  {
+    "word": "fill chock-full",
+    "translation": "забивать"
+  },
+  {
+    "word": "fill cram-full",
+    "translation": "заваливать"
+  },
+  {
+    "word": "fill in",
+    "translation": "проставлять"
+  },
+  {
+    "word": "fill out",
+    "translation": "надуваться"
+  },
+  {
+    "word": "fill the air with dust",
+    "translation": "напылить"
+  },
+  {
+    "word": "fill to overflowing",
+    "translation": "запруживать"
+  },
+  {
+    "word": "fill up",
+    "translation": "забросать, закапывать, заполняться, заспать, засыпать, заправлять, заливать, заваливать, пополнять, закидать"
+  },
+  {
+    "word": "fill up staff vacancies",
+    "translation": "укомплектовывать"
+  },
+  {
+    "word": "fill up with water",
+    "translation": "обводнять"
+  },
+  {
+    "word": "fill with dust",
+    "translation": "пропылить"
+  },
+  {
+    "word": "fill with indignation",
+    "translation": "возмутить, возмущать"
+  },
+  {
+    "word": "fill with rubble",
+    "translation": "бутить"
+  },
+  {
+    "word": "fill with smoke",
+    "translation": "задымить, надымить"
+  },
+  {
+    "word": "fill with smoke or fumes",
+    "translation": "накурить"
+  },
+  {
+    "word": "fill with tobacco smoke",
+    "translation": "прокуривать"
+  },
+  {
+    "word": "fill-",
+    "translation": "загрузочный"
+  },
+  {
+    "word": "filled",
+    "translation": "преисполненный"
+  },
+  {
+    "word": "fillet",
+    "translation": "повязка, лента, ободок"
+  },
+  {
+    "word": "filling",
+    "translation": "наполнение, начинка, насыпка, пломба, пломбировка, набивка, сытный"
+  },
+  {
+    "word": "filling station",
+    "translation": "бензозаправка, бензоколонка"
+  },
+  {
+    "word": "filling up",
+    "translation": "засыпка"
+  },
+  {
+    "word": "filling up with putty",
+    "translation": "замазка"
+  },
+  {
+    "word": "fillip",
+    "translation": "щёлкать, нащёлкать, щелчок"
+  },
+  {
+    "word": "filliping",
+    "translation": "щёлканье"
+  },
+  {
+    "word": "filly",
+    "translation": "кобылка"
+  },
+  {
+    "word": "film",
+    "translation": "киноплёнка, кинофильм, плёнка, кинокартина, плева, фильм, кожица, поснимать, налёт, лента"
+  },
+  {
+    "word": "film actor",
+    "translation": "киноактёр"
+  },
+  {
+    "word": "film actress",
+    "translation": "киноактриса"
+  },
+  {
+    "word": "film critic",
+    "translation": "кинокритик"
+  },
+  {
+    "word": "film criticism",
+    "translation": "кинокритика"
+  },
+  {
+    "word": "film director",
+    "translation": "кинорежиссёр"
+  },
+  {
+    "word": "film editor",
+    "translation": "монтировщик"
+  },
+  {
+    "word": "film epic",
+    "translation": "киноэпопея"
+  },
+  {
+    "word": "film festival",
+    "translation": "кинофестиваль"
+  },
+  {
+    "word": "film hit",
+    "translation": "кинобоевик"
+  },
+  {
+    "word": "film projector",
+    "translation": "киноустановка"
+  },
+  {
+    "word": "film script",
+    "translation": "киносценарий"
+  },
+  {
+    "word": "film star",
+    "translation": "кинозвезда"
+  },
+  {
+    "word": "film strip",
+    "translation": "диафильм"
+  },
+  {
+    "word": "film studio",
+    "translation": "киноателье, павильон"
+  },
+  {
+    "word": "film studios",
+    "translation": "кинофабрика"
+  },
+  {
+    "word": "film-goer",
+    "translation": "кинозритель"
+  },
+  {
+    "word": "film-holder",
+    "translation": "кассета"
+  },
+  {
+    "word": "film-strip",
+    "translation": "кинолента"
+  },
+  {
+    "word": "filmed",
+    "translation": "снятый, снятой"
+  },
+  {
+    "word": "filming",
+    "translation": "экранизация, киносъёмка"
+  },
+  {
+    "word": "filter",
+    "translation": "фильтровать, профильтровать, фильтр, процеживать, просачиваться, отцеживать, цедить"
+  },
+  {
+    "word": "filtering",
+    "translation": "фильтрование, просачивание"
+  },
+  {
+    "word": "filth",
+    "translation": "грязь, погань, пакость, скверна, гадость"
+  },
+  {
+    "word": "filthy",
+    "translation": "грязный, замызганный, паскудный, похотливый, подлый, гнусный"
+  },
+  {
+    "word": "filthy word",
+    "translation": "пакость"
+  },
+  {
+    "word": "filtrate",
+    "translation": "фильтрат"
+  },
+  {
+    "word": "filtration",
+    "translation": "фильтрация"
+  },
+  {
+    "word": "fin",
+    "translation": "плавник, киль"
+  },
+  {
+    "word": "final",
+    "translation": "завершающий, итоговый, заключительный, окончательный, конечный, финал, бесповоротный"
+  },
+  {
+    "word": "final concentration",
+    "translation": "доводка"
+  },
+  {
+    "word": "final draft",
+    "translation": "беловик"
+  },
+  {
+    "word": "finale",
+    "translation": "финал"
+  },
+  {
+    "word": "finalized",
+    "translation": "оконченный"
+  },
+  {
+    "word": "finally",
+    "translation": "вчистую, окончательно"
+  },
+  {
+    "word": "finance",
+    "translation": "кредитовать, финансировать"
+  },
+  {
+    "word": "finances",
+    "translation": "финансы"
+  },
+  {
+    "word": "financial",
+    "translation": "финансовый"
+  },
+  {
+    "word": "financial position",
+    "translation": "финансы"
+  },
+  {
+    "word": "financier",
+    "translation": "финансист"
+  },
+  {
+    "word": "financing",
+    "translation": "финансирование"
+  },
+  {
+    "word": "find",
+    "translation": "приглядеть, посчитать, обнаружить, сыскать, выяснить, заставать, нащупать, находка..., выглядеть, присмотреть, разыскивать, выделить..."
+  },
+  {
+    "word": "find a place",
+    "translation": "определяться"
+  },
+  {
+    "word": "find a seat",
+    "translation": "усаживаться"
+  },
+  {
+    "word": "find a way out",
+    "translation": "вывёртываться"
+  },
+  {
+    "word": "find acceptance",
+    "translation": "прививаться"
+  },
+  {
+    "word": "find expression",
+    "translation": "изливаться"
+  },
+  {
+    "word": "find fault",
+    "translation": "критиковать, придраться, хаять"
+  },
+  {
+    "word": "find no market",
+    "translation": "залежаться, заваляться"
+  },
+  {
+    "word": "find oneself",
+    "translation": "очутиться, попадать"
+  },
+  {
+    "word": "find out",
+    "translation": "проведывать, докапываться, обнаружить, выискать, обнаруживать, выяснять, дознаваться, доискиваться, допытаться, выяснить, прознать..., узнать"
+  },
+  {
+    "word": "find plenty to talk about",
+    "translation": "разговориться"
+  },
+  {
+    "word": "find relief",
+    "translation": "облегчаться"
+  },
+  {
+    "word": "find room",
+    "translation": "помещаться, примоститься, поместиться, уместить, усаживаться"
+  },
+  {
+    "word": "find room for oneself",
+    "translation": "притулиться, приткнуться"
+  },
+  {
+    "word": "find seats",
+    "translation": "усаживаться"
+  },
+  {
+    "word": "find the logarithm",
+    "translation": "логарифмировать"
+  },
+  {
+    "word": "find the range",
+    "translation": "пристреливаться"
+  },
+  {
+    "word": "find the right thing to do",
+    "translation": "найтись"
+  },
+  {
+    "word": "find the right word to say",
+    "translation": "найтись"
+  },
+  {
+    "word": "find time",
+    "translation": "удосуживаться"
+  },
+  {
+    "word": "finding",
+    "translation": "приискание, изыскание, локация"
+  },
+  {
+    "word": "finding a way round",
+    "translation": "лавирование"
+  },
+  {
+    "word": "findings",
+    "translation": "заключение"
+  },
+  {
+    "word": "fine",
+    "translation": "прекрасный, шикарный, ведренный, мелко, штраф, отточенный, ювелирный, фартовый..."
+  },
+  {
+    "word": "fine fellow",
+    "translation": "молодчина, молодчага"
+  },
+  {
+    "word": "fine gentleman",
+    "translation": "барич"
+  },
+  {
+    "word": "fine girl",
+    "translation": "молодчага"
+  },
+  {
+    "word": "fine lady",
+    "translation": "барыня"
+  },
+  {
+    "word": "fine needle-work",
+    "translation": "вышивание"
+  },
+  {
+    "word": "fine point",
+    "translation": "тонкость"
+  },
+  {
+    "word": "fine swordsman",
+    "translation": "рубака"
+  },
+  {
+    "word": "fine weather",
+    "translation": "ведро"
+  },
+  {
+    "word": "fine wheat flour",
+    "translation": "крупчатка"
+  },
+  {
+    "word": "fine wire",
+    "translation": "проволочка"
+  },
+  {
+    "word": "fine-cut glass",
+    "translation": "баккара"
+  },
+  {
+    "word": "fine-fleeced",
+    "translation": "тонкорунный"
+  },
+  {
+    "word": "fine-grained",
+    "translation": "мелкозернистый"
+  },
+  {
+    "word": "fine-looking",
+    "translation": "благообразный"
+  },
+  {
+    "word": "finely",
+    "translation": "талантливо"
+  },
+  {
+    "word": "finely drawn",
+    "translation": "вычерченный"
+  },
+  {
+    "word": "finely-moulded",
+    "translation": "точёный"
+  },
+  {
+    "word": "fineness",
+    "translation": "тонкость"
+  },
+  {
+    "word": "finer",
+    "translation": "краше"
+  },
+  {
+    "word": "finery",
+    "translation": "наряд, тряпка"
+  },
+  {
+    "word": "fines",
+    "translation": "высевки"
+  },
+  {
+    "word": "finesse",
+    "translation": "утончённость"
+  },
+  {
+    "word": "finger",
+    "translation": "перст, палец, теребить, перебирать"
+  },
+  {
+    "word": "finger-nail",
+    "translation": "ноготь"
+  },
+  {
+    "word": "finger-shaped",
+    "translation": "пальцевидный"
+  },
+  {
+    "word": "fingerboard",
+    "translation": "гриф"
+  },
+  {
+    "word": "fingering",
+    "translation": "аппликатура, перебор"
+  },
+  {
+    "word": "fingerprint",
+    "translation": "отпечаток"
+  },
+  {
+    "word": "finial",
+    "translation": "конёк"
+  },
+  {
+    "word": "finical",
+    "translation": "брезгливый, жеманный"
+  },
+  {
+    "word": "finicality",
+    "translation": "жеманство"
+  },
+  {
+    "word": "finicking",
+    "translation": "жеманный"
+  },
+  {
+    "word": "finish",
+    "translation": "порешить, дорисовать, кончиться, кончаться, дошивать, дорезать, финишировать, доделывать, дочерчивать..., прекратиться"
+  },
+  {
+    "word": "finish a service",
+    "translation": "отслужить"
+  },
+  {
+    "word": "finish badly",
+    "translation": "доиграться"
+  },
+  {
+    "word": "finish bathing",
+    "translation": "докупать, докупаться"
+  },
+  {
+    "word": "finish blossoming",
+    "translation": "отцветать"
+  },
+  {
+    "word": "finish building",
+    "translation": "достраивать"
+  },
+  {
+    "word": "finish celebrating",
+    "translation": "отпраздновать"
+  },
+  {
+    "word": "finish chopping",
+    "translation": "докалывать, дорубать"
+  },
+  {
+    "word": "finish cleaning",
+    "translation": "дочистить"
+  },
+  {
+    "word": "finish cooking",
+    "translation": "доваривать"
+  },
+  {
+    "word": "finish counting",
+    "translation": "досчитывать"
+  },
+  {
+    "word": "finish cutting",
+    "translation": "дорезать, дорубать"
+  },
+  {
+    "word": "finish dancing",
+    "translation": "отплясать"
+  },
+  {
+    "word": "finish digging",
+    "translation": "дорывать"
+  },
+  {
+    "word": "finish drawing",
+    "translation": "дорисовать, дочерчивать"
+  },
+  {
+    "word": "finish drink",
+    "translation": "допить"
+  },
+  {
+    "word": "finish drumming",
+    "translation": "отбарабанить"
+  },
+  {
+    "word": "finish eating",
+    "translation": "доедать"
+  },
+  {
+    "word": "finish examining",
+    "translation": "отэкзаменовать"
+  },
+  {
+    "word": "finish feeding",
+    "translation": "докармливать"
+  },
+  {
+    "word": "finish fighting",
+    "translation": "отвоевать"
+  },
+  {
+    "word": "finish forging",
+    "translation": "отковывать"
+  },
+  {
+    "word": "finish glueing",
+    "translation": "доклеить"
+  },
+  {
+    "word": "finish grinding",
+    "translation": "домалывать"
+  },
+  {
+    "word": "finish harvesting",
+    "translation": "отжинать"
+  },
+  {
+    "word": "finish ironing",
+    "translation": "доглаживать"
+  },
+  {
+    "word": "finish kneading",
+    "translation": "домешивать"
+  },
+  {
+    "word": "finish learning",
+    "translation": "отучиться, доучить"
+  },
+  {
+    "word": "finish loading",
+    "translation": "догружать"
+  },
+  {
+    "word": "finish mixing",
+    "translation": "домешивать"
+  },
+  {
+    "word": "finish mowing",
+    "translation": "докашивать"
+  },
+  {
+    "word": "finish of",
+    "translation": "доконать"
+  },
+  {
+    "word": "finish off",
+    "translation": "порешить, подъесть, приканчивать, дорабатывать, покончить, прикалывать"
+  },
+  {
+    "word": "finish painting",
+    "translation": "докрашивать"
+  },
+  {
+    "word": "finish pasting",
+    "translation": "доклеить"
+  },
+  {
+    "word": "finish playing",
+    "translation": "доиграть"
+  },
+  {
+    "word": "finish pudding",
+    "translation": "домешивать"
+  },
+  {
+    "word": "finish raking",
+    "translation": "догребать"
+  },
+  {
+    "word": "finish reading",
+    "translation": "дочитывать"
+  },
+  {
+    "word": "finish reaping",
+    "translation": "дожинать"
+  },
+  {
+    "word": "finish ringing",
+    "translation": "отзвенеть"
+  },
+  {
+    "word": "finish shaving",
+    "translation": "добриться"
+  },
+  {
+    "word": "finish smoking",
+    "translation": "докуривать"
+  },
+  {
+    "word": "finish sowing",
+    "translation": "отсеять"
+  },
+  {
+    "word": "finish spawning",
+    "translation": "выметаться"
+  },
+  {
+    "word": "finish squeezing",
+    "translation": "дожимать"
+  },
+  {
+    "word": "finish sweeping",
+    "translation": "дометать"
+  },
+  {
+    "word": "finish teaching",
+    "translation": "доучить"
+  },
+  {
+    "word": "finish the harvest",
+    "translation": "отжинать"
+  },
+  {
+    "word": "finish the war",
+    "translation": "отвоевать, отвоеваться"
+  },
+  {
+    "word": "finish threshing",
+    "translation": "отмолотить"
+  },
+  {
+    "word": "finish washing",
+    "translation": "домыть"
+  },
+  {
+    "word": "finish watering",
+    "translation": "отпоить"
+  },
+  {
+    "word": "finished",
+    "translation": "оконченный, отточенный, законченный, готовый"
+  },
+  {
+    "word": "finished product",
+    "translation": "фабрикат"
+  },
+  {
+    "word": "finishing",
+    "translation": "финишный, доводка, отделочный, отделка, окончание"
+  },
+  {
+    "word": "finiteness",
+    "translation": "конечность"
+  },
+  {
+    "word": "finland",
+    "translation": "Финляндия"
+  },
+  {
+    "word": "finn",
+    "translation": "финн"
+  },
+  {
+    "word": "finned",
+    "translation": "ребристый"
+  },
+  {
+    "word": "finnish",
+    "translation": "финский"
+  },
+  {
+    "word": "finnish knife",
+    "translation": "финка"
+  },
+  {
+    "word": "finnish woman",
+    "translation": "финка"
+  },
+  {
+    "word": "fins",
+    "translation": "ласты"
+  },
+  {
+    "word": "fir",
+    "translation": "еловый, пихтовый, пихта, елевый, ель"
+  },
+  {
+    "word": "fir-grove",
+    "translation": "ельник"
+  },
+  {
+    "word": "fir-twigs",
+    "translation": "лапник"
+  },
+  {
+    "word": "fire",
+    "translation": "костёр, палить, обжигать, обжечь, увольнять, прогонять, перестреливаться, обстреливать, пожар, возгорание, огонь, пожарный..., воспламенить, выпаливать, стрельнуть"
+  },
+  {
+    "word": "fire a shot",
+    "translation": "стрельнуть"
+  },
+  {
+    "word": "fire away",
+    "translation": "шпарить"
+  },
+  {
+    "word": "fire back",
+    "translation": "отстреливаться"
+  },
+  {
+    "word": "fire for adjustment",
+    "translation": "пристрелка"
+  },
+  {
+    "word": "fire hydrant",
+    "translation": "гидрант"
+  },
+  {
+    "word": "fire station",
+    "translation": "депо"
+  },
+  {
+    "word": "fire with a bang",
+    "translation": "бабахнуть"
+  },
+  {
+    "word": "fire-ball",
+    "translation": "болид"
+  },
+  {
+    "word": "fire-bar",
+    "translation": "колосник"
+  },
+  {
+    "word": "fire-box",
+    "translation": "топка"
+  },
+  {
+    "word": "fire-brand",
+    "translation": "головешка"
+  },
+  {
+    "word": "fire-bug",
+    "translation": "факельщик"
+  },
+  {
+    "word": "fire-chamber",
+    "translation": "топка"
+  },
+  {
+    "word": "fire-eater",
+    "translation": "вояка"
+  },
+  {
+    "word": "fire-extinguisher",
+    "translation": "огнетушитель"
+  },
+  {
+    "word": "fire-place",
+    "translation": "камелёк, камин"
+  },
+  {
+    "word": "fire-prevention",
+    "translation": "противопожарный"
+  },
+  {
+    "word": "fire-proof",
+    "translation": "несгораемый"
+  },
+  {
+    "word": "fire-pump",
+    "translation": "брандспойт"
+  },
+  {
+    "word": "fire-resistance",
+    "translation": "огнестойкость"
+  },
+  {
+    "word": "fire-resistant",
+    "translation": "огнестойкий"
+  },
+  {
+    "word": "fire-service chief",
+    "translation": "брандмайор"
+  },
+  {
+    "word": "fire-ship",
+    "translation": "брандер"
+  },
+  {
+    "word": "fire-spitting",
+    "translation": "огнедышащий"
+  },
+  {
+    "word": "fire-worship",
+    "translation": "огнепоклонничество"
+  },
+  {
+    "word": "fire-worshipper",
+    "translation": "огнепоклонница"
+  },
+  {
+    "word": "firearm",
+    "translation": "оружие"
+  },
+  {
+    "word": "firebrand",
+    "translation": "подстрекательница"
+  },
+  {
+    "word": "firebrigade chief",
+    "translation": "брандмейстер"
+  },
+  {
+    "word": "fired",
+    "translation": "стреляный"
+  },
+  {
+    "word": "firefighter",
+    "translation": "пожарный"
+  },
+  {
+    "word": "firefly",
+    "translation": "светляк"
+  },
+  {
+    "word": "fireguard",
+    "translation": "решётка"
+  },
+  {
+    "word": "fireman",
+    "translation": "пожарный, пожарник, кочегар"
+  },
+  {
+    "word": "fireplace",
+    "translation": "камин"
+  },
+  {
+    "word": "fireproof",
+    "translation": "огнестойкий, огнеупорный"
+  },
+  {
+    "word": "firewall",
+    "translation": "брандмауэр"
+  },
+  {
+    "word": "fireweed",
+    "translation": "иван-чай"
+  },
+  {
+    "word": "firewood",
+    "translation": "дрова"
+  },
+  {
+    "word": "firewood merchant",
+    "translation": "дровяник"
+  },
+  {
+    "word": "firewood-cutting",
+    "translation": "дровозаготовка"
+  },
+  {
+    "word": "firework",
+    "translation": "фейерверк"
+  },
+  {
+    "word": "fireworks",
+    "translation": "салют"
+  },
+  {
+    "word": "firing",
+    "translation": "обжиг, увольнять, расчёт, пальба, обстрел, стрельба, пуск"
+  },
+  {
+    "word": "firing pin",
+    "translation": "ударник"
+  },
+  {
+    "word": "firing practice",
+    "translation": "стрельба"
+  },
+  {
+    "word": "firing-pin",
+    "translation": "боёк"
+  },
+  {
+    "word": "firm",
+    "translation": "решительный, прочный, фирма, незыблемый, стойкий, непоколебимый, твёрдо, твёрдый, отверделый, живучий, крепкий, устойчивый"
+  },
+  {
+    "word": "firm of purpose",
+    "translation": "целеустремлённый"
+  },
+  {
+    "word": "firmament",
+    "translation": "небосвод"
+  },
+  {
+    "word": "firmly",
+    "translation": "накрепко, твёрдо, напрочно, прочно"
+  },
+  {
+    "word": "firmly establish",
+    "translation": "упрочивать"
+  },
+  {
+    "word": "firmness",
+    "translation": "прочность, незыблемость, непоколебимость, выдержанность, стойкость, твёрдость, монолитность, устойчивость"
+  },
+  {
+    "word": "firmness of purpose",
+    "translation": "целеустремлённость"
+  },
+  {
+    "word": "first",
+    "translation": "прежде, начальный, во-первых, первый, впервые, передний"
+  },
+  {
+    "word": "first and foremost",
+    "translation": "первоочередной"
+  },
+  {
+    "word": "first class",
+    "translation": "люкс"
+  },
+  {
+    "word": "first course",
+    "translation": "горячее"
+  },
+  {
+    "word": "first cousin",
+    "translation": "двоюродный"
+  },
+  {
+    "word": "first dancer",
+    "translation": "прима-балерина"
+  },
+  {
+    "word": "first floor",
+    "translation": "бельэтаж"
+  },
+  {
+    "word": "first grader",
+    "translation": "первоклассник"
+  },
+  {
+    "word": "first meal after fast",
+    "translation": "розговенье"
+  },
+  {
+    "word": "first name",
+    "translation": "имя"
+  },
+  {
+    "word": "first of all",
+    "translation": "перво-наперво, во-первых"
+  },
+  {
+    "word": "first place",
+    "translation": "первенство"
+  },
+  {
+    "word": "first ploughing",
+    "translation": "взмёт"
+  },
+  {
+    "word": "first printed",
+    "translation": "первопечатный"
+  },
+  {
+    "word": "first printer",
+    "translation": "первопечатник"
+  },
+  {
+    "word": "first sale of the day",
+    "translation": "почин"
+  },
+  {
+    "word": "first sledging",
+    "translation": "первопуток"
+  },
+  {
+    "word": "first snow",
+    "translation": "первопуток"
+  },
+  {
+    "word": "first string",
+    "translation": "прима"
+  },
+  {
+    "word": "first violin",
+    "translation": "прима"
+  },
+  {
+    "word": "first-aid post",
+    "translation": "медпункт"
+  },
+  {
+    "word": "first-born",
+    "translation": "первородный, первенец"
+  },
+  {
+    "word": "first-class",
+    "translation": "превосходный, первоклассный, классный, мировой, первостатейный, первосортный"
+  },
+  {
+    "word": "first-form boy",
+    "translation": "первоклассник"
+  },
+  {
+    "word": "first-form girl",
+    "translation": "первоклассница"
+  },
+  {
+    "word": "first-former",
+    "translation": "первоклассник"
+  },
+  {
+    "word": "first-grade chess-player",
+    "translation": "перворазрядница"
+  },
+  {
+    "word": "first-grade footballer",
+    "translation": "перворазрядница"
+  },
+  {
+    "word": "first-grade runner",
+    "translation": "перворазрядница"
+  },
+  {
+    "word": "first-hand",
+    "translation": "непосредственный"
+  },
+  {
+    "word": "first-rate",
+    "translation": "превосходно, превосходный, перворазрядный, мировой, первостатейный, первосортный, записной..."
+  },
+  {
+    "word": "firsthand",
+    "translation": "воочию"
+  },
+  {
+    "word": "firstling",
+    "translation": "первенец"
+  },
+  {
+    "word": "firstly",
+    "translation": "сперва, поначалу, во-первых, сначала"
+  },
+  {
+    "word": "firth",
+    "translation": "лиман, губа"
+  },
+  {
+    "word": "fiscal",
+    "translation": "казённый"
+  },
+  {
+    "word": "fish",
+    "translation": "удить, выуживать, фишка, рыбный, рыбий"
+  },
+  {
+    "word": "fish or meat in aspic",
+    "translation": "заливный"
+  },
+  {
+    "word": "fish out",
+    "translation": "выуживать, вылавливать, вытаскивать"
+  },
+  {
+    "word": "fish-breeder",
+    "translation": "рыбовод"
+  },
+  {
+    "word": "fish-breeding",
+    "translation": "рыбоводческий, рыбоводство"
+  },
+  {
+    "word": "fish-factory",
+    "translation": "рыбозавод"
+  },
+  {
+    "word": "fish-farming",
+    "translation": "рыборазведение"
+  },
+  {
+    "word": "fish-hook",
+    "translation": "крючок"
+  },
+  {
+    "word": "fish-pass",
+    "translation": "рыбоход"
+  },
+  {
+    "word": "fish-pond",
+    "translation": "садок"
+  },
+  {
+    "word": "fish-processing",
+    "translation": "рыбообрабатывающий"
+  },
+  {
+    "word": "fish-soup",
+    "translation": "уха"
+  },
+  {
+    "word": "fish-spear",
+    "translation": "острога"
+  },
+  {
+    "word": "fish-trap",
+    "translation": "верша"
+  },
+  {
+    "word": "fish-well",
+    "translation": "садок"
+  },
+  {
+    "word": "fisher",
+    "translation": "рыболов, ловец"
+  },
+  {
+    "word": "fisherman",
+    "translation": "рыболов, рыбак"
+  },
+  {
+    "word": "fishery",
+    "translation": "тоня, рыболовство"
+  },
+  {
+    "word": "fishing",
+    "translation": "рыболовецкий, ужение, рыболовство, рыбачий, рыболовный"
+  },
+  {
+    "word": "fishing control",
+    "translation": "рыбнадзор"
+  },
+  {
+    "word": "fishing ground",
+    "translation": "тоня"
+  },
+  {
+    "word": "fishing industry",
+    "translation": "рыбопромышленность"
+  },
+  {
+    "word": "fishing inspectors",
+    "translation": "рыбнадзор"
+  },
+  {
+    "word": "fishing line",
+    "translation": "леска"
+  },
+  {
+    "word": "fishing pole",
+    "translation": "удочка"
+  },
+  {
+    "word": "fishing rod",
+    "translation": "удочка"
+  },
+  {
+    "word": "fishing-basket",
+    "translation": "верша"
+  },
+  {
+    "word": "fishing-line",
+    "translation": "леса"
+  },
+  {
+    "word": "fishing-rod",
+    "translation": "удилище"
+  },
+  {
+    "word": "fishmonger",
+    "translation": "рыботорговец, рыбник"
+  },
+  {
+    "word": "fishnet",
+    "translation": "сеть"
+  },
+  {
+    "word": "fishy",
+    "translation": "заковыристый, подозрительный"
+  },
+  {
+    "word": "fissile",
+    "translation": "расщепляющий"
+  },
+  {
+    "word": "fission",
+    "translation": "расщепление"
+  },
+  {
+    "word": "fissionable",
+    "translation": "расщепляющий"
+  },
+  {
+    "word": "fissure",
+    "translation": "надламывать, расщелина, трещина, борозда, рванина"
+  },
+  {
+    "word": "fist",
+    "translation": "кулак"
+  },
+  {
+    "word": "fistula",
+    "translation": "свищ"
+  },
+  {
+    "word": "fit",
+    "translation": "приступ, монтировать, годиться, пригонять, лезть, схватки, врезать, подгонять, подтянутый, приспособлять, приноравливать, припадок, вделывать......"
+  },
+  {
+    "word": "fit close",
+    "translation": "обтянуть"
+  },
+  {
+    "word": "fit closely",
+    "translation": "прилегать"
+  },
+  {
+    "word": "fit in",
+    "translation": "подлаживаться, врезать"
+  },
+  {
+    "word": "fit of passion",
+    "translation": "аффект"
+  },
+  {
+    "word": "fit oneself out",
+    "translation": "обмундироваться"
+  },
+  {
+    "word": "fit out",
+    "translation": "оборудовать, обмундировать, оснащать"
+  },
+  {
+    "word": "fit tightly",
+    "translation": "облегать"
+  },
+  {
+    "word": "fit to eat",
+    "translation": "неиспорченный"
+  },
+  {
+    "word": "fitness",
+    "translation": "фитнес, приспособленность, годность, пригодность"
+  },
+  {
+    "word": "fitter",
+    "translation": "сборщик, слесарь-монтажник, монтёр, установщик, монтажник, монтировщик, арматурщик"
+  },
+  {
+    "word": "fitting",
+    "translation": "арматура, пригонка, надлежащий, примерка"
+  },
+  {
+    "word": "fitting out",
+    "translation": "обмундирование, оснащение"
+  },
+  {
+    "word": "fitting room",
+    "translation": "примерочная"
+  },
+  {
+    "word": "fittingly",
+    "translation": "достойно"
+  },
+  {
+    "word": "fittings",
+    "translation": "принадлежность, прибор"
+  },
+  {
+    "word": "five",
+    "translation": "пяток, пять, пятёрка"
+  },
+  {
+    "word": "five centuries",
+    "translation": "пятисотлетие"
+  },
+  {
+    "word": "five hundred",
+    "translation": "пятьсот"
+  },
+  {
+    "word": "five hundred years",
+    "translation": "пятисотлетие"
+  },
+  {
+    "word": "five thousand roubles worth",
+    "translation": "пятитысячный"
+  },
+  {
+    "word": "five times",
+    "translation": "впятеро"
+  },
+  {
+    "word": "five years",
+    "translation": "пятилетие"
+  },
+  {
+    "word": "five-copeck coin",
+    "translation": "пятак"
+  },
+  {
+    "word": "five-cornered",
+    "translation": "пятиугольный"
+  },
+  {
+    "word": "five-day",
+    "translation": "пятидневный"
+  },
+  {
+    "word": "five-day week",
+    "translation": "пятидневка"
+  },
+  {
+    "word": "five-domed",
+    "translation": "пятиглавый"
+  },
+  {
+    "word": "five-field crop rotation",
+    "translation": "пятиполье"
+  },
+  {
+    "word": "five-headed",
+    "translation": "пятиглавый"
+  },
+  {
+    "word": "five-hour",
+    "translation": "пятичасовой"
+  },
+  {
+    "word": "five-hundredth",
+    "translation": "пятисотый, пятисотлетний"
+  },
+  {
+    "word": "five-hundredth anniversary",
+    "translation": "пятисотлетие"
+  },
+  {
+    "word": "five-month",
+    "translation": "пятимесячный"
+  },
+  {
+    "word": "five-month-old",
+    "translation": "пятимесячный"
+  },
+  {
+    "word": "five-pointed",
+    "translation": "пятиконечный"
+  },
+  {
+    "word": "five-rouble note",
+    "translation": "пятирублёвка, пятёрка"
+  },
+  {
+    "word": "five-storey",
+    "translation": "пятиэтажный"
+  },
+  {
+    "word": "five-ton lorry",
+    "translation": "пятитонка"
+  },
+  {
+    "word": "five-week",
+    "translation": "пятинедельный"
+  },
+  {
+    "word": "five-week-old",
+    "translation": "пятинедельный"
+  },
+  {
+    "word": "five-year",
+    "translation": "пятилетний"
+  },
+  {
+    "word": "five-year plan",
+    "translation": "пятилетка"
+  },
+  {
+    "word": "five-year-old",
+    "translation": "пятилетний"
+  },
+  {
+    "word": "fivefold",
+    "translation": "пятикратный, сам-пят"
+  },
+  {
+    "word": "fix",
+    "translation": "приделывать, сосредоточивать, закрепить, закреплять, обделывать, вделывать, обтяпывать, фиксировать..., установить, примкнуть..."
+  },
+  {
+    "word": "fix / nominate set",
+    "translation": "назначать"
+  },
+  {
+    "word": "fix in",
+    "translation": "вмазывать"
+  },
+  {
+    "word": "fix the boundaries",
+    "translation": "размежёвываться"
+  },
+  {
+    "word": "fix the price",
+    "translation": "таксировать, оценить"
+  },
+  {
+    "word": "fix up",
+    "translation": "устраивать, улаживать, пристраивать"
+  },
+  {
+    "word": "fix with a wedge",
+    "translation": "заклинивать"
+  },
+  {
+    "word": "fixation",
+    "translation": "фиксация"
+  },
+  {
+    "word": "fixative",
+    "translation": "фиксатив, фиксатуар"
+  },
+  {
+    "word": "fixed",
+    "translation": "условленный, установленный, пристальный, положенный, урочный, неподвижный, окаменелый..."
+  },
+  {
+    "word": "fixed-date",
+    "translation": "срочный"
+  },
+  {
+    "word": "fixed-post spy",
+    "translation": "резидент"
+  },
+  {
+    "word": "fixedly",
+    "translation": "пристально"
+  },
+  {
+    "word": "fixedness",
+    "translation": "пристальность"
+  },
+  {
+    "word": "fixer",
+    "translation": "закрепитель, фиксаж"
+  },
+  {
+    "word": "fixing",
+    "translation": "закрепление, фиксация, вставка, назначение, вмазка"
+  },
+  {
+    "word": "fixing agent",
+    "translation": "закрепитель"
+  },
+  {
+    "word": "fixing solution",
+    "translation": "фиксаж"
+  },
+  {
+    "word": "fixtures",
+    "translation": "арматура"
+  },
+  {
+    "word": "fizz",
+    "translation": "шампанское, прошипеть"
+  },
+  {
+    "word": "fizzing",
+    "translation": "шипение"
+  },
+  {
+    "word": "fizzle out",
+    "translation": "выдыхаться"
+  },
+  {
+    "word": "fizzy water",
+    "translation": "газировка"
+  },
+  {
+    "word": "flabbergast",
+    "translation": "ошарашивать"
+  },
+  {
+    "word": "flabbiness",
+    "translation": "дряблость, мягкотелость, вялость, слабохарактерность"
+  },
+  {
+    "word": "flabby",
+    "translation": "расплывшийся, помятый, мягкотелый, дряблый, обвислый..."
+  },
+  {
+    "word": "flaccid",
+    "translation": "обрюзглый, дряблый, вялый"
+  },
+  {
+    "word": "flack",
+    "translation": "баклага"
+  },
+  {
+    "word": "flag",
+    "translation": "флажок, флаг, ирис, плита, приутихнуть"
+  },
+  {
+    "word": "flag of soviet union",
+    "translation": "кумач"
+  },
+  {
+    "word": "flag-officer",
+    "translation": "флагман"
+  },
+  {
+    "word": "flagellate",
+    "translation": "бичевать"
+  },
+  {
+    "word": "flagellation",
+    "translation": "бичевание"
+  },
+  {
+    "word": "flagellum",
+    "translation": "жгутик"
+  },
+  {
+    "word": "flagging strength",
+    "translation": "одряхление"
+  },
+  {
+    "word": "flagon",
+    "translation": "ендова"
+  },
+  {
+    "word": "flagship",
+    "translation": "флагман"
+  },
+  {
+    "word": "flagstone",
+    "translation": "плитняк, плита"
+  },
+  {
+    "word": "flail",
+    "translation": "кистень"
+  },
+  {
+    "word": "flair",
+    "translation": "нюх"
+  },
+  {
+    "word": "flake camphor",
+    "translation": "нафталин"
+  },
+  {
+    "word": "flake off",
+    "translation": "залупиться"
+  },
+  {
+    "word": "flakes",
+    "translation": "хлопья"
+  },
+  {
+    "word": "flaky",
+    "translation": "слоистый, слоёный"
+  },
+  {
+    "word": "flame",
+    "translation": "пламень, пылать, пламенеть, увлечение, пламя..."
+  },
+  {
+    "word": "flame up",
+    "translation": "разгореться"
+  },
+  {
+    "word": "flame-coloured",
+    "translation": "огненный"
+  },
+  {
+    "word": "flame-thrower",
+    "translation": "огнемёт"
+  },
+  {
+    "word": "flaming",
+    "translation": "пламенный"
+  },
+  {
+    "word": "flammable",
+    "translation": "воспламеняемый"
+  },
+  {
+    "word": "flaneur",
+    "translation": "гуляка"
+  },
+  {
+    "word": "flange",
+    "translation": "закраина, реборда"
+  },
+  {
+    "word": "flank",
+    "translation": "бочок, фланг, бок"
+  },
+  {
+    "word": "flannel",
+    "translation": "фланель"
+  },
+  {
+    "word": "flannelette",
+    "translation": "бумазея"
+  },
+  {
+    "word": "flap",
+    "translation": "замахать, хлопать, взмах, взмахивать, отворот, полоскаться, пола..."
+  },
+  {
+    "word": "flapper",
+    "translation": "хлопушка"
+  },
+  {
+    "word": "flapping",
+    "translation": "взмах"
+  },
+  {
+    "word": "flare",
+    "translation": "пламя, ракета"
+  },
+  {
+    "word": "flare pistol",
+    "translation": "ракетница"
+  },
+  {
+    "word": "flare up",
+    "translation": "запылать, вспыхивать, разгореться, возгореться, вскипеть, ершиться, воспламеняться, зажигаться"
+  },
+  {
+    "word": "flash",
+    "translation": "вспыхивать, сверкнуть, промелькнуть, замелькать, мелькать, проблеск..."
+  },
+  {
+    "word": "flash eliminator",
+    "translation": "пламегаситель"
+  },
+  {
+    "word": "flash extinguisher",
+    "translation": "пламегаситель"
+  },
+  {
+    "word": "flash flood",
+    "translation": "паводок"
+  },
+  {
+    "word": "flash-hider",
+    "translation": "пламегаситель, надульник"
+  },
+  {
+    "word": "flashes",
+    "translation": "сполохи, блёстки"
+  },
+  {
+    "word": "flashing",
+    "translation": "мелькание, искромётный"
+  },
+  {
+    "word": "flashlight",
+    "translation": "фонарик"
+  },
+  {
+    "word": "flashy",
+    "translation": "кричащий, крикливый"
+  },
+  {
+    "word": "flask",
+    "translation": "фляга"
+  },
+  {
+    "word": "flat",
+    "translation": "категорический, бесцветный, бемоль, квартира, ровный, плашмя, плоский..., глухой"
+  },
+  {
+    "word": "flat bar",
+    "translation": "полоса"
+  },
+  {
+    "word": "flat boat",
+    "translation": "плоскодонка"
+  },
+  {
+    "word": "flat cake",
+    "translation": "лепёшка"
+  },
+  {
+    "word": "flat-bottomed",
+    "translation": "плоскодонный"
+  },
+  {
+    "word": "flat-cap mushroom",
+    "translation": "свинушка"
+  },
+  {
+    "word": "flat-chested",
+    "translation": "плоскогрудый"
+  },
+  {
+    "word": "flat-fish",
+    "translation": "камбала"
+  },
+  {
+    "word": "flat-footedness",
+    "translation": "плоскостопие"
+  },
+  {
+    "word": "flatcar",
+    "translation": "платформа"
+  },
+  {
+    "word": "flatly",
+    "translation": "категорически, наотрез"
+  },
+  {
+    "word": "flatness",
+    "translation": "бесцветность, плоскость, прозаичность"
+  },
+  {
+    "word": "flatten",
+    "translation": "приминать, сплющивать, расплющивать, плющить"
+  },
+  {
+    "word": "flattened",
+    "translation": "приплюснутый"
+  },
+  {
+    "word": "flattened out",
+    "translation": "сплющенный"
+  },
+  {
+    "word": "flattening",
+    "translation": "сплющивание"
+  },
+  {
+    "word": "flatter",
+    "translation": "кадить, польстить"
+  },
+  {
+    "word": "flatter oneself",
+    "translation": "обольщаться"
+  },
+  {
+    "word": "flatter unduly",
+    "translation": "захваливать"
+  },
+  {
+    "word": "flattered",
+    "translation": "польщённый"
+  },
+  {
+    "word": "flatterer",
+    "translation": "льстец"
+  },
+  {
+    "word": "flattering",
+    "translation": "лестный, льстивый"
+  },
+  {
+    "word": "flattery",
+    "translation": "лесть, заискивание, нежности"
+  },
+  {
+    "word": "flatways",
+    "translation": "плашмя"
+  },
+  {
+    "word": "flatwise",
+    "translation": "плашмя"
+  },
+  {
+    "word": "flaunt",
+    "translation": "выставлять, щеголять, бравировать, кокетничать"
+  },
+  {
+    "word": "flavour",
+    "translation": "заправлять, сдабривать, приправлять"
+  },
+  {
+    "word": "flavoured",
+    "translation": "ароматный"
+  },
+  {
+    "word": "flavouring",
+    "translation": "вкусовой, приправа"
+  },
+  {
+    "word": "flaw",
+    "translation": "пробел, брешь, изъян, свищ, брак, огрех, рванина..."
+  },
+  {
+    "word": "flaw detection",
+    "translation": "дефектоскопия"
+  },
+  {
+    "word": "flaw detector",
+    "translation": "дефектоскоп"
+  },
+  {
+    "word": "flawless",
+    "translation": "безупречно"
+  },
+  {
+    "word": "flax",
+    "translation": "холст, льняной, лён"
+  },
+  {
+    "word": "flax comb",
+    "translation": "чесалка"
+  },
+  {
+    "word": "flax cultivation growing",
+    "translation": "льноводство"
+  },
+  {
+    "word": "flax cultivator",
+    "translation": "льновод"
+  },
+  {
+    "word": "flax fibre",
+    "translation": "льноволокно"
+  },
+  {
+    "word": "flax puller",
+    "translation": "льнотеребилка"
+  },
+  {
+    "word": "flax spinning",
+    "translation": "льнопрядение"
+  },
+  {
+    "word": "flax-harvesting combine",
+    "translation": "льнокомбайн"
+  },
+  {
+    "word": "flax-mill",
+    "translation": "льнопрядильня"
+  },
+  {
+    "word": "flax-sowing machine",
+    "translation": "льносеялка"
+  },
+  {
+    "word": "flax-spinning",
+    "translation": "льнопрядильный"
+  },
+  {
+    "word": "flay",
+    "translation": "свежевать, обдирать"
+  },
+  {
+    "word": "flay-flint",
+    "translation": "живодёр"
+  },
+  {
+    "word": "flayer",
+    "translation": "живодёр"
+  },
+  {
+    "word": "flaying",
+    "translation": "живодёрство, обдирание"
+  },
+  {
+    "word": "flea",
+    "translation": "блоха"
+  },
+  {
+    "word": "flecked with white",
+    "translation": "седой"
+  },
+  {
+    "word": "fledgeling",
+    "translation": "птенчик, птенец"
+  },
+  {
+    "word": "flee",
+    "translation": "сбегать"
+  },
+  {
+    "word": "fleece",
+    "translation": "руно, обирать, обдирать, драть"
+  },
+  {
+    "word": "fleecer",
+    "translation": "живодёр, обдирала"
+  },
+  {
+    "word": "fleecing",
+    "translation": "живодёрство"
+  },
+  {
+    "word": "fleecy",
+    "translation": "ворсистый, шерстистый"
+  },
+  {
+    "word": "fleecy clouds",
+    "translation": "барашки"
+  },
+  {
+    "word": "fleet",
+    "translation": "флот, парк"
+  },
+  {
+    "word": "fleeting",
+    "translation": "мимолётный, бренный, залётный"
+  },
+  {
+    "word": "fleeting transient",
+    "translation": "быстротечный"
+  },
+  {
+    "word": "fleetingness",
+    "translation": "мимолётность"
+  },
+  {
+    "word": "flense",
+    "translation": "обдирать"
+  },
+  {
+    "word": "flesh",
+    "translation": "плоть, мясо, мякоть"
+  },
+  {
+    "word": "flesh-tights",
+    "translation": "трико"
+  },
+  {
+    "word": "fleshings",
+    "translation": "трико"
+  },
+  {
+    "word": "fleshly",
+    "translation": "плотский"
+  },
+  {
+    "word": "fleshy",
+    "translation": "мясистый"
+  },
+  {
+    "word": "flex",
+    "translation": "шнур"
+  },
+  {
+    "word": "flexibility",
+    "translation": "эластичность, гибкость"
+  },
+  {
+    "word": "flexible",
+    "translation": "эластичный, гибкий"
+  },
+  {
+    "word": "flexibly",
+    "translation": "гибко"
+  },
+  {
+    "word": "flexion",
+    "translation": "сгиб"
+  },
+  {
+    "word": "flexor",
+    "translation": "сгибатель"
+  },
+  {
+    "word": "flexure",
+    "translation": "прогиб, складка"
+  },
+  {
+    "word": "flibbertigibbet",
+    "translation": "вертопрах"
+  },
+  {
+    "word": "flick",
+    "translation": "щёлкать, щелчок"
+  },
+  {
+    "word": "flick away",
+    "translation": "смахнуть"
+  },
+  {
+    "word": "flicker",
+    "translation": "мельтешить, трепетать, мерцать, мерцание"
+  },
+  {
+    "word": "flickering",
+    "translation": "трепетный"
+  },
+  {
+    "word": "flier",
+    "translation": "летун, лётчик"
+  },
+  {
+    "word": "flight",
+    "translation": "авиарейс, бегство, побег, слёт, пролёт..., звено, перелёт"
+  },
+  {
+    "word": "flight attendant",
+    "translation": "стюардесса"
+  },
+  {
+    "word": "flight engineer",
+    "translation": "бортмеханик"
+  },
+  {
+    "word": "flight instruments",
+    "translation": "авиаприбор"
+  },
+  {
+    "word": "flight of four aircraft",
+    "translation": "четвёрка"
+  },
+  {
+    "word": "flight of stairs",
+    "translation": "марш"
+  },
+  {
+    "word": "flight of woodcock in mating-season",
+    "translation": "тяга"
+  },
+  {
+    "word": "flightiness",
+    "translation": "ветреность"
+  },
+  {
+    "word": "flighty",
+    "translation": "ветреный"
+  },
+  {
+    "word": "flimsiness",
+    "translation": "несостоятельность"
+  },
+  {
+    "word": "flimsy",
+    "translation": "непрочный, несостоятельный"
+  },
+  {
+    "word": "flinch",
+    "translation": "передёргиваться, продрогнуть, вздрагивать"
+  },
+  {
+    "word": "flinching",
+    "translation": "вздрагивание"
+  },
+  {
+    "word": "fling",
+    "translation": "брякать, швырять, ввергать, швыряться, кидать, метнуть, кидаться, бросать"
+  },
+  {
+    "word": "fling away",
+    "translation": "отшвыривать, зашвыривать"
+  },
+  {
+    "word": "fling out",
+    "translation": "вышвыривать"
+  },
+  {
+    "word": "flint",
+    "translation": "кремень"
+  },
+  {
+    "word": "flip",
+    "translation": "пролистать"
+  },
+  {
+    "word": "flippancy",
+    "translation": "легкомыслие"
+  },
+  {
+    "word": "flippant",
+    "translation": "легкомысленный, шутливый"
+  },
+  {
+    "word": "flippantly",
+    "translation": "легкомысленно"
+  },
+  {
+    "word": "flipper",
+    "translation": "плавник, ласт"
+  },
+  {
+    "word": "flippers",
+    "translation": "ласты"
+  },
+  {
+    "word": "flirt",
+    "translation": "кокетка, приволокнуться, кокетничать, вертихвостка, авантюра, заигрывать, вертушка, приударить"
+  },
+  {
+    "word": "flirtation",
+    "translation": "флирт, заигрывание"
+  },
+  {
+    "word": "flirting",
+    "translation": "заигрывание"
+  },
+  {
+    "word": "flit",
+    "translation": "впорхнуть, порхать, юркнуть"
+  },
+  {
+    "word": "flit in",
+    "translation": "впорхнуть"
+  },
+  {
+    "word": "flitch",
+    "translation": "распиливать"
+  },
+  {
+    "word": "flitzer",
+    "translation": "стрикер"
+  },
+  {
+    "word": "float",
+    "translation": "плыть, поплавок, сплавлять, скользить, переплавлять, стлаться, плавать"
+  },
+  {
+    "word": "float away",
+    "translation": "уплыть"
+  },
+  {
+    "word": "float in",
+    "translation": "вплывать, заплывать"
+  },
+  {
+    "word": "float off",
+    "translation": "отплывать"
+  },
+  {
+    "word": "float-",
+    "translation": "поплавковый"
+  },
+  {
+    "word": "floatable",
+    "translation": "сплавной"
+  },
+  {
+    "word": "floating",
+    "translation": "плавучий, сплав"
+  },
+  {
+    "word": "floating bar",
+    "translation": "поплавок"
+  },
+  {
+    "word": "floating fish-factory",
+    "translation": "плавбаза"
+  },
+  {
+    "word": "floating restaurant",
+    "translation": "поплавок"
+  },
+  {
+    "word": "flock",
+    "translation": "гурт, отара, паства, стая, стадо, скучиваться, косяк, клок"
+  },
+  {
+    "word": "flock of birds",
+    "translation": "стая"
+  },
+  {
+    "word": "flock of sheep",
+    "translation": "стадо"
+  },
+  {
+    "word": "flocks",
+    "translation": "очёски, хлопья"
+  },
+  {
+    "word": "flog",
+    "translation": "лупцевать, загонять, пороть, сечь, располосовать, отлупить..."
+  },
+  {
+    "word": "flogging",
+    "translation": "бичевание, порка"
+  },
+  {
+    "word": "flood",
+    "translation": "затопление, потоп, половодье, наводнять, заливать..., лава"
+  },
+  {
+    "word": "flood back",
+    "translation": "отхлынуть"
+  },
+  {
+    "word": "flood plain",
+    "translation": "луг"
+  },
+  {
+    "word": "flood-gate",
+    "translation": "затвор"
+  },
+  {
+    "word": "flood-lands",
+    "translation": "пойма"
+  },
+  {
+    "word": "flood-time",
+    "translation": "половодье"
+  },
+  {
+    "word": "floodgate",
+    "translation": "водоспуск"
+  },
+  {
+    "word": "flooding",
+    "translation": "заболачивание"
+  },
+  {
+    "word": "floodlight",
+    "translation": "юпитер"
+  },
+  {
+    "word": "floor",
+    "translation": "напольный, перекрытие, пол, половой, этаж"
+  },
+  {
+    "word": "floor board",
+    "translation": "половица"
+  },
+  {
+    "word": "floor covering",
+    "translation": "половик"
+  },
+  {
+    "word": "floor-attendant",
+    "translation": "коридорный"
+  },
+  {
+    "word": "floor-cloth",
+    "translation": "тряпка"
+  },
+  {
+    "word": "floor-mat",
+    "translation": "мат"
+  },
+  {
+    "word": "floor-polish",
+    "translation": "мастика"
+  },
+  {
+    "word": "floor-polisher",
+    "translation": "полотёр"
+  },
+  {
+    "word": "floor-polishing",
+    "translation": "полотёрный"
+  },
+  {
+    "word": "flooring",
+    "translation": "настил"
+  },
+  {
+    "word": "flop",
+    "translation": "провал, плюхнуться, плюхать, влопаться"
+  },
+  {
+    "word": "flora",
+    "translation": "флора"
+  },
+  {
+    "word": "florence",
+    "translation": "Флоренция"
+  },
+  {
+    "word": "florescence",
+    "translation": "цветение"
+  },
+  {
+    "word": "florid",
+    "translation": "витиеватый, цветистый, пёстрый"
+  },
+  {
+    "word": "floridity",
+    "translation": "витиеватость"
+  },
+  {
+    "word": "flotage",
+    "translation": "плавучесть"
+  },
+  {
+    "word": "flotilla",
+    "translation": "флотилия, дивизион"
+  },
+  {
+    "word": "flotilla leader",
+    "translation": "лидер"
+  },
+  {
+    "word": "flotsam",
+    "translation": "обломок"
+  },
+  {
+    "word": "flounce",
+    "translation": "метаться, волан, оборка"
+  },
+  {
+    "word": "flounder",
+    "translation": "камбала, барахтаться, хлюпать"
+  },
+  {
+    "word": "flounder about",
+    "translation": "бултыхаться"
+  },
+  {
+    "word": "flour",
+    "translation": "мука"
+  },
+  {
+    "word": "flour (bread)",
+    "translation": "мучное"
+  },
+  {
+    "word": "flour-dealer",
+    "translation": "лабазник"
+  },
+  {
+    "word": "flour-grinding",
+    "translation": "мукомольный"
+  },
+  {
+    "word": "flourish",
+    "translation": "рождаться, расцветать, загогулина, закорючка, цвести, присказка, завиток, благоденствовать, процветать..."
+  },
+  {
+    "word": "flourishes",
+    "translation": "выкрутасы"
+  },
+  {
+    "word": "flourishing",
+    "translation": "расцвет, процветание"
+  },
+  {
+    "word": "floury",
+    "translation": "мучнистый"
+  },
+  {
+    "word": "flout",
+    "translation": "попирать"
+  },
+  {
+    "word": "flow",
+    "translation": "течение, впасть, притечь, переливаться, обтечь, втечь..., струиться, поток"
+  },
+  {
+    "word": "flow away",
+    "translation": "утечь, утекать"
+  },
+  {
+    "word": "flow out",
+    "translation": "выливаться"
+  },
+  {
+    "word": "flow over",
+    "translation": "захлёстывать"
+  },
+  {
+    "word": "flow somewhere else",
+    "translation": "переливаться"
+  },
+  {
+    "word": "flow together",
+    "translation": "стекаться, сливаться"
+  },
+  {
+    "word": "flower",
+    "translation": "цветок, цвести, цветочек"
+  },
+  {
+    "word": "flower garden",
+    "translation": "цветник"
+  },
+  {
+    "word": "flower-bed",
+    "translation": "куртина, цветник"
+  },
+  {
+    "word": "flower-stand",
+    "translation": "жардиньерка"
+  },
+  {
+    "word": "floweret",
+    "translation": "цветочек"
+  },
+  {
+    "word": "floweriness",
+    "translation": "витиеватость"
+  },
+  {
+    "word": "flowering",
+    "translation": "расцвет, цветущий, цветковый"
+  },
+  {
+    "word": "flowerpot",
+    "translation": "вазон"
+  },
+  {
+    "word": "flowery",
+    "translation": "кудрявый, витиеватый, цветистый"
+  },
+  {
+    "word": "flowing",
+    "translation": "сток, плывучий, проточный"
+  },
+  {
+    "word": "flu past",
+    "translation": "умчаться"
+  },
+  {
+    "word": "fluctuating",
+    "translation": "текучий, неустойчивый"
+  },
+  {
+    "word": "fluctuation",
+    "translation": "текучесть, колебание"
+  },
+  {
+    "word": "fluency",
+    "translation": "беглость, бойкость, плавность"
+  },
+  {
+    "word": "fluent",
+    "translation": "беглый, гладкий"
+  },
+  {
+    "word": "fluently",
+    "translation": "бегло"
+  },
+  {
+    "word": "fluff",
+    "translation": "пушок"
+  },
+  {
+    "word": "fluff up",
+    "translation": "распушить, взбивать"
+  },
+  {
+    "word": "fluffy",
+    "translation": "пушистый, пышный"
+  },
+  {
+    "word": "fluid",
+    "translation": "жидкостный, текучий, жидкость, жидкий"
+  },
+  {
+    "word": "fluidity",
+    "translation": "текучесть"
+  },
+  {
+    "word": "flunkey",
+    "translation": "лакей"
+  },
+  {
+    "word": "fluorescence",
+    "translation": "свечение"
+  },
+  {
+    "word": "fluorescent",
+    "translation": "светящийся"
+  },
+  {
+    "word": "flurry",
+    "translation": "переполох, переполошить"
+  },
+  {
+    "word": "flush",
+    "translation": "вспыхивать, румянец, заподлицо, вровень, взлетать, раскраснеться, краска, вспугивать..."
+  },
+  {
+    "word": "flush crimson",
+    "translation": "заалеть"
+  },
+  {
+    "word": "flute",
+    "translation": "каннелюра, желобок, выемка"
+  },
+  {
+    "word": "fluted",
+    "translation": "желобчатый"
+  },
+  {
+    "word": "flutist",
+    "translation": "флейтист"
+  },
+  {
+    "word": "flutter",
+    "translation": "виться, раздуть, порхать, развеваться, трепыхаться, колыхаться, трепать, трепетать..."
+  },
+  {
+    "word": "flutter - multi way",
+    "translation": "летать"
+  },
+  {
+    "word": "fluvial",
+    "translation": "речной"
+  },
+  {
+    "word": "fly",
+    "translation": "наживка, наскакивать, напускаться, протечь, развеваться, лететь, влетать..., облаять, реять..."
+  },
+  {
+    "word": "fly about",
+    "translation": "порхать"
+  },
+  {
+    "word": "fly around",
+    "translation": "облететь, покружиться"
+  },
+  {
+    "word": "fly asunder",
+    "translation": "разлетаться"
+  },
+  {
+    "word": "fly away",
+    "translation": "разлететься, разлетаться, слетать"
+  },
+  {
+    "word": "fly by",
+    "translation": "промелькнуть, промчаться, проноситься, пролетать"
+  },
+  {
+    "word": "fly down",
+    "translation": "слетать"
+  },
+  {
+    "word": "fly high",
+    "translation": "залетать"
+  },
+  {
+    "word": "fly in",
+    "translation": "налететь, влетать"
+  },
+  {
+    "word": "fly into a passion",
+    "translation": "горячиться"
+  },
+  {
+    "word": "fly into a rage",
+    "translation": "взорваться, вскипеть, ершиться, разбуяниться, разбушеваться"
+  },
+  {
+    "word": "fly level",
+    "translation": "выравнивать"
+  },
+  {
+    "word": "fly off",
+    "translation": "слететь"
+  },
+  {
+    "word": "fly out",
+    "translation": "выноситься, взъерепениться, вылетать"
+  },
+  {
+    "word": "fly over",
+    "translation": "перелетать"
+  },
+  {
+    "word": "fly so far",
+    "translation": "долетать"
+  },
+  {
+    "word": "fly somewhere else",
+    "translation": "перелетать"
+  },
+  {
+    "word": "fly there and back",
+    "translation": "слетать"
+  },
+  {
+    "word": "fly together",
+    "translation": "слететься"
+  },
+  {
+    "word": "fly too far",
+    "translation": "перелетать"
+  },
+  {
+    "word": "fly up",
+    "translation": "подлетать, взвиваться, взлетать"
+  },
+  {
+    "word": "fly-agaric",
+    "translation": "мухомор"
+  },
+  {
+    "word": "fly-paper",
+    "translation": "липучка"
+  },
+  {
+    "word": "fly-swatter",
+    "translation": "хлопушка"
+  },
+  {
+    "word": "fly-trap",
+    "translation": "мухоловка"
+  },
+  {
+    "word": "fly-wheel",
+    "translation": "маховик"
+  },
+  {
+    "word": "flycatcher",
+    "translation": "мухоловка"
+  },
+  {
+    "word": "flyer",
+    "translation": "летун, лётчик"
+  },
+  {
+    "word": "flying",
+    "translation": "вождение, летательный, пилотаж, летучий"
+  },
+  {
+    "word": "flying around",
+    "translation": "облёт"
+  },
+  {
+    "word": "flying away",
+    "translation": "отлёт"
+  },
+  {
+    "word": "flying bomb",
+    "translation": "самолёт-снаряд"
+  },
+  {
+    "word": "flying club",
+    "translation": "аэроклуб"
+  },
+  {
+    "word": "flying suit",
+    "translation": "комбинезон"
+  },
+  {
+    "word": "flying visit",
+    "translation": "наезд"
+  },
+  {
+    "word": "flyover",
+    "translation": "развязка"
+  },
+  {
+    "word": "flyswatter",
+    "translation": "хлопушка"
+  },
+  {
+    "word": "foal",
+    "translation": "жеребиться, ослёнок"
+  },
+  {
+    "word": "foam",
+    "translation": "пениться, вспениваться, пена, мыло"
+  },
+  {
+    "word": "foam plastic",
+    "translation": "пенопластовый"
+  },
+  {
+    "word": "foamy",
+    "translation": "пенный, пенистый, взмыленный"
+  },
+  {
+    "word": "focal",
+    "translation": "фокальный"
+  },
+  {
+    "word": "focus",
+    "translation": "сосредоточивать, сосредоточиться, фокусироваться, фокус"
+  },
+  {
+    "word": "fodder",
+    "translation": "корм, кормовой"
+  },
+  {
+    "word": "fodder shortage",
+    "translation": "бескормица"
+  },
+  {
+    "word": "foe",
+    "translation": "супостат, недруг, враг"
+  },
+  {
+    "word": "foehn",
+    "translation": "фен"
+  },
+  {
+    "word": "foetus",
+    "translation": "зародыш, плод, выкидыш"
+  },
+  {
+    "word": "fog",
+    "translation": "затуманивать, туман, туманность, туманный"
+  },
+  {
+    "word": "foggy",
+    "translation": "туманно, туманный"
+  },
+  {
+    "word": "foible",
+    "translation": "страстишка, слабость"
+  },
+  {
+    "word": "foil",
+    "translation": "рапира, наводка"
+  },
+  {
+    "word": "fold",
+    "translation": "сгибать, складывать, складка, створка"
+  },
+  {
+    "word": "fold up",
+    "translation": "заматывать, завёртываться"
+  },
+  {
+    "word": "folded",
+    "translation": "складчатый"
+  },
+  {
+    "word": "folder",
+    "translation": "проспект, обложка, папка"
+  },
+  {
+    "word": "folding",
+    "translation": "раскладной, двустворчатый, откидной, створчатый"
+  },
+  {
+    "word": "folding bed",
+    "translation": "раскладушка"
+  },
+  {
+    "word": "folding divan",
+    "translation": "диван-кровать"
+  },
+  {
+    "word": "foliage",
+    "translation": "листва"
+  },
+  {
+    "word": "foliated",
+    "translation": "слоистый"
+  },
+  {
+    "word": "folio",
+    "translation": "фолиант"
+  },
+  {
+    "word": "folk",
+    "translation": "люд, народный"
+  },
+  {
+    "word": "folk character",
+    "translation": "народность"
+  },
+  {
+    "word": "folk-tune",
+    "translation": "наигрыш"
+  },
+  {
+    "word": "folk.",
+    "translation": "народый"
+  },
+  {
+    "word": "folklore",
+    "translation": "фольклор"
+  },
+  {
+    "word": "follicle",
+    "translation": "фолликул"
+  },
+  {
+    "word": "follow",
+    "translation": "явствовать, последовать, руководиться, воспоследовать, соблюдать, уследить, следить, наследить"
+  },
+  {
+    "word": "follow each other",
+    "translation": "тянуться"
+  },
+  {
+    "word": "follow the fashion",
+    "translation": "модничать"
+  },
+  {
+    "word": "follower",
+    "translation": "адепт, последовательница, ученица, выученик"
+  },
+  {
+    "word": "following",
+    "translation": "нижеследующий, вслед, последующий, следующий, попутный"
+  },
+  {
+    "word": "following after",
+    "translation": "за"
+  },
+  {
+    "word": "folly",
+    "translation": "безумие, дурость, неразумие, глупость, дурь, дурачество"
+  },
+  {
+    "word": "fomentation",
+    "translation": "припарка"
+  },
+  {
+    "word": "fond",
+    "translation": "лакомый, нежный"
+  },
+  {
+    "word": "fondle",
+    "translation": "поласкать, ласкаться, ласкать, приласкать, приголубить, миловать, голубить"
+  },
+  {
+    "word": "font",
+    "translation": "купель"
+  },
+  {
+    "word": "fontanel",
+    "translation": "родничок"
+  },
+  {
+    "word": "food",
+    "translation": "блюдо, пропитание, угощение, пищевой, кушанье, снедь, еда, пища..."
+  },
+  {
+    "word": "food allowance",
+    "translation": "рацион"
+  },
+  {
+    "word": "foodstuffs",
+    "translation": "съестное, продовольствие, продукт, провизия"
+  },
+  {
+    "word": "fool",
+    "translation": "обдувать, придурок, олух, глупец, околпачивать, дурачить..., пошутить, одурачивать"
+  },
+  {
+    "word": "fool about",
+    "translation": "подурачиться"
+  },
+  {
+    "word": "fool around",
+    "translation": "баловаться, провозиться"
+  },
+  {
+    "word": "foolery",
+    "translation": "балагурство"
+  },
+  {
+    "word": "foolhardiness",
+    "translation": "безумство, безрассудство"
+  },
+  {
+    "word": "foolhardy",
+    "translation": "отчаянный, аховый, безрассудный"
+  },
+  {
+    "word": "foolish",
+    "translation": "завиральный, вздорный, юродивый, ерундовый, дурашливый, неумный, глупый, несообразный, бессмысленный, неразумный"
+  },
+  {
+    "word": "foolish trick",
+    "translation": "дурачество"
+  },
+  {
+    "word": "foolish woman",
+    "translation": "дура"
+  },
+  {
+    "word": "foolishly",
+    "translation": "по-дурацки, глупо, сдуру, бессмысленно"
+  },
+  {
+    "word": "foolishness",
+    "translation": "несуразность, неразумие, глупость, дурь, бессмысленность"
+  },
+  {
+    "word": "foolproof",
+    "translation": "безопасный"
+  },
+  {
+    "word": "fools",
+    "translation": "дубьё, дурачьё"
+  },
+  {
+    "word": "foot",
+    "translation": "фут, подножие, стопа, пеший, подошва, штатив, подстрочный"
+  },
+  {
+    "word": "foot traffic",
+    "translation": "проходимость"
+  },
+  {
+    "word": "foot-binding",
+    "translation": "портянка"
+  },
+  {
+    "word": "foot-bridge",
+    "translation": "мостик"
+  },
+  {
+    "word": "foot-gear",
+    "translation": "обувь"
+  },
+  {
+    "word": "foot-passenger",
+    "translation": "пешеход"
+  },
+  {
+    "word": "footage",
+    "translation": "метраж"
+  },
+  {
+    "word": "football",
+    "translation": "футбол"
+  },
+  {
+    "word": "football boots",
+    "translation": "бутсы"
+  },
+  {
+    "word": "football-jersey",
+    "translation": "футболка"
+  },
+  {
+    "word": "football-player",
+    "translation": "футболист"
+  },
+  {
+    "word": "footballer",
+    "translation": "футболист"
+  },
+  {
+    "word": "footboard",
+    "translation": "запятки, подножка"
+  },
+  {
+    "word": "footfall",
+    "translation": "топот"
+  },
+  {
+    "word": "foothills",
+    "translation": "предгорье"
+  },
+  {
+    "word": "footlights",
+    "translation": "рампа"
+  },
+  {
+    "word": "footman",
+    "translation": "скороход, лакей"
+  },
+  {
+    "word": "footnote",
+    "translation": "сноска, примечание, выноска"
+  },
+  {
+    "word": "footprint",
+    "translation": "подследник, след"
+  },
+  {
+    "word": "footstep",
+    "translation": "ступень, след"
+  },
+  {
+    "word": "footsteps",
+    "translation": "шаг"
+  },
+  {
+    "word": "footway",
+    "translation": "панель"
+  },
+  {
+    "word": "footwear",
+    "translation": "обувка, обувь"
+  },
+  {
+    "word": "fop",
+    "translation": "щёголь, фат, хлыщ, стиляга"
+  },
+  {
+    "word": "foppish",
+    "translation": "щеголеватый, пижонистый, щегольской, вылощенный"
+  },
+  {
+    "word": "foppishness",
+    "translation": "пижонский"
+  },
+  {
+    "word": "for",
+    "translation": "про, ко, ибо, от, развилина"
+  },
+  {
+    "word": "for (duration)",
+    "translation": "за"
+  },
+  {
+    "word": "for (in support of)",
+    "translation": "за"
+  },
+  {
+    "word": "for (mistake for)",
+    "translation": "за"
+  },
+  {
+    "word": "for (reason)",
+    "translation": "за"
+  },
+  {
+    "word": "for a certainty",
+    "translation": "наверно"
+  },
+  {
+    "word": "for a long time",
+    "translation": "надолго, давно, настояться"
+  },
+  {
+    "word": "for a pair of horses",
+    "translation": "двуконный"
+  },
+  {
+    "word": "for a short while",
+    "translation": "ненадолго"
+  },
+  {
+    "word": "for a song",
+    "translation": "даром"
+  },
+  {
+    "word": "for a trifle",
+    "translation": "даром"
+  },
+  {
+    "word": "for a while",
+    "translation": "подумать"
+  },
+  {
+    "word": "for a year",
+    "translation": "годичный"
+  },
+  {
+    "word": "for ages",
+    "translation": "век"
+  },
+  {
+    "word": "for all that",
+    "translation": "всё-таки"
+  },
+  {
+    "word": "for boys",
+    "translation": "мальчиковый"
+  },
+  {
+    "word": "for certain",
+    "translation": "доподлинно"
+  },
+  {
+    "word": "for certain for sure",
+    "translation": "достоверно"
+  },
+  {
+    "word": "for covering",
+    "translation": "случной"
+  },
+  {
+    "word": "for cutting clothes",
+    "translation": "закройный"
+  },
+  {
+    "word": "for ever",
+    "translation": "навсегда, навек, навечно, вовеки"
+  },
+  {
+    "word": "for ever and ever",
+    "translation": "навек"
+  },
+  {
+    "word": "for example",
+    "translation": "например"
+  },
+  {
+    "word": "for fun",
+    "translation": "понарошку, шутя"
+  },
+  {
+    "word": "for future use",
+    "translation": "впрок"
+  },
+  {
+    "word": "for good",
+    "translation": "навсегда, навек, навечно"
+  },
+  {
+    "word": "for hours",
+    "translation": "подолгу"
+  },
+  {
+    "word": "for instance",
+    "translation": "например"
+  },
+  {
+    "word": "for it",
+    "translation": "зато"
+  },
+  {
+    "word": "for keeps",
+    "translation": "насовсем"
+  },
+  {
+    "word": "for next to nothing",
+    "translation": "даром"
+  },
+  {
+    "word": "for no reason",
+    "translation": "беспричинно"
+  },
+  {
+    "word": "for nothing",
+    "translation": "даром, впустую, напрасно, зря"
+  },
+  {
+    "word": "for one thing",
+    "translation": "во-первых"
+  },
+  {
+    "word": "for oneself",
+    "translation": "примоститься"
+  },
+  {
+    "word": "for pairing",
+    "translation": "случной"
+  },
+  {
+    "word": "for quite a while",
+    "translation": "давненько"
+  },
+  {
+    "word": "for reception",
+    "translation": "приёмочный"
+  },
+  {
+    "word": "for relays",
+    "translation": "подорожная"
+  },
+  {
+    "word": "for sale",
+    "translation": "продажный"
+  },
+  {
+    "word": "for show",
+    "translation": "напоказ, показной, парадный"
+  },
+  {
+    "word": "for slaughter",
+    "translation": "убойный"
+  },
+  {
+    "word": "for smoking",
+    "translation": "коптильный"
+  },
+  {
+    "word": "for some reason",
+    "translation": "почему-то"
+  },
+  {
+    "word": "for some reason of other",
+    "translation": "почему-нибудь"
+  },
+  {
+    "word": "for sure",
+    "translation": "наверняка, наверно"
+  },
+  {
+    "word": "for that reason",
+    "translation": "затем"
+  },
+  {
+    "word": "for the first time",
+    "translation": "впервые"
+  },
+  {
+    "word": "for the first time ever",
+    "translation": "впервой"
+  },
+  {
+    "word": "for the future",
+    "translation": "впредь"
+  },
+  {
+    "word": "for the sake of",
+    "translation": "ради"
+  },
+  {
+    "word": "for the second time",
+    "translation": "вторично"
+  },
+  {
+    "word": "for the team as a whole",
+    "translation": "общекомандный"
+  },
+  {
+    "word": "for the whole factory",
+    "translation": "общезаводской"
+  },
+  {
+    "word": "for years",
+    "translation": "годами"
+  },
+  {
+    "word": "for years on end",
+    "translation": "годами"
+  },
+  {
+    "word": "forage",
+    "translation": "зернофураж, корм, кормовой"
+  },
+  {
+    "word": "forage cap",
+    "translation": "пилотка"
+  },
+  {
+    "word": "foramen",
+    "translation": "отверстие"
+  },
+  {
+    "word": "foray",
+    "translation": "набег"
+  },
+  {
+    "word": "forbear",
+    "translation": "воздерживаться"
+  },
+  {
+    "word": "forbearance",
+    "translation": "терпеливость, терпение"
+  },
+  {
+    "word": "forbearing",
+    "translation": "терпимый"
+  },
+  {
+    "word": "forbid",
+    "translation": "воспрещать, запрещать, заказывать, возбранять"
+  },
+  {
+    "word": "forbidden",
+    "translation": "запретный, неразрешённый"
+  },
+  {
+    "word": "forbidding",
+    "translation": "неприступный"
+  },
+  {
+    "word": "force",
+    "translation": "взламывать, принуждать, вымучивать, заставить, насиловать, нудить, понуждать, заставлять..., группировка..."
+  },
+  {
+    "word": "force a way through",
+    "translation": "пробиться"
+  },
+  {
+    "word": "force off",
+    "translation": "ссадить"
+  },
+  {
+    "word": "force out",
+    "translation": "вытеснять, выколачивать"
+  },
+  {
+    "word": "force through",
+    "translation": "просовывать, протаскивать"
+  },
+  {
+    "word": "force to go",
+    "translation": "тянуть"
+  },
+  {
+    "word": "forced",
+    "translation": "принудительный, принуждённый, подневольный, надуманный, вынужденный, невольный, вымученный, натужный"
+  },
+  {
+    "word": "forceful",
+    "translation": "напористый"
+  },
+  {
+    "word": "forces",
+    "translation": "войско, армия"
+  },
+  {
+    "word": "forcible",
+    "translation": "насильнический"
+  },
+  {
+    "word": "forcibly",
+    "translation": "неволей, понятно"
+  },
+  {
+    "word": "forcing",
+    "translation": "загон, форсирование"
+  },
+  {
+    "word": "ford",
+    "translation": "брод, переправа"
+  },
+  {
+    "word": "fore",
+    "translation": "носовой"
+  },
+  {
+    "word": "fore-and-aft",
+    "translation": "продольный"
+  },
+  {
+    "word": "forearm",
+    "translation": "предплечье"
+  },
+  {
+    "word": "foreboding",
+    "translation": "предчувствие"
+  },
+  {
+    "word": "forecast",
+    "translation": "прогнозировать, предсказывать, предсказание"
+  },
+  {
+    "word": "forecasting",
+    "translation": "прогнозирование"
+  },
+  {
+    "word": "forecastle",
+    "translation": "бак"
+  },
+  {
+    "word": "foredeck",
+    "translation": "бак"
+  },
+  {
+    "word": "forefather",
+    "translation": "пращур, родоначальник, праотец, прародитель"
+  },
+  {
+    "word": "forefathers",
+    "translation": "дед, прадед"
+  },
+  {
+    "word": "forego",
+    "translation": "предшествовать"
+  },
+  {
+    "word": "foregoing",
+    "translation": "вышеизложенный, вышеуказанный"
+  },
+  {
+    "word": "forehead",
+    "translation": "лоб"
+  },
+  {
+    "word": "foreign",
+    "translation": "иноземный, зарубежный, заносный, иноплеменный, внешний, заморский, иноязычный, сторонний"
+  },
+  {
+    "word": "foreign countries",
+    "translation": "заграница"
+  },
+  {
+    "word": "foreign resident",
+    "translation": "резидент"
+  },
+  {
+    "word": "foreign tourist",
+    "translation": "интурист"
+  },
+  {
+    "word": "foreign trade",
+    "translation": "внешнеторговый"
+  },
+  {
+    "word": "foreign travel",
+    "translation": "загранка"
+  },
+  {
+    "word": "foreign-made car",
+    "translation": "иномарка"
+  },
+  {
+    "word": "foreign-policy",
+    "translation": "внешнеполитический"
+  },
+  {
+    "word": "foreigner",
+    "translation": "иностранка, иноземка, чужеземка"
+  },
+  {
+    "word": "foreknow",
+    "translation": "предвидеть"
+  },
+  {
+    "word": "foreknowledge",
+    "translation": "провидение"
+  },
+  {
+    "word": "forelock",
+    "translation": "чёлка, чуб, вихор"
+  },
+  {
+    "word": "foreman",
+    "translation": "десятник, мастер, старшина"
+  },
+  {
+    "word": "foremost",
+    "translation": "передовой"
+  },
+  {
+    "word": "forensic",
+    "translation": "судебный"
+  },
+  {
+    "word": "foreordain",
+    "translation": "предначертать, предопределять"
+  },
+  {
+    "word": "forerun",
+    "translation": "предшествовать"
+  },
+  {
+    "word": "forerunner",
+    "translation": "предтеча, предвестница, предшественница"
+  },
+  {
+    "word": "foresail",
+    "translation": "фок"
+  },
+  {
+    "word": "foresee",
+    "translation": "предусматривать, предвидеть, предугадывать"
+  },
+  {
+    "word": "foreshadow",
+    "translation": "предвещать"
+  },
+  {
+    "word": "foreshortening",
+    "translation": "ракурс"
+  },
+  {
+    "word": "foresight",
+    "translation": "мушка, провидение, дальновидность, предвидение, предусмотрительность"
+  },
+  {
+    "word": "forest",
+    "translation": "лесной, лес"
+  },
+  {
+    "word": "forest amelioration",
+    "translation": "лесомелиоративный"
+  },
+  {
+    "word": "forest belt",
+    "translation": "лесополоса"
+  },
+  {
+    "word": "forest valuation",
+    "translation": "таксация"
+  },
+  {
+    "word": "forest warden",
+    "translation": "лесничий"
+  },
+  {
+    "word": "forest-guard",
+    "translation": "лесник"
+  },
+  {
+    "word": "forest-park",
+    "translation": "лесопарковый"
+  },
+  {
+    "word": "forest-plantation forest-plantation",
+    "translation": "лесонасаждение"
+  },
+  {
+    "word": "forest-plantations",
+    "translation": "лесопосадки"
+  },
+  {
+    "word": "forest-planting",
+    "translation": "лесопосадочный"
+  },
+  {
+    "word": "forest-protection",
+    "translation": "лесозащитный"
+  },
+  {
+    "word": "forest-steppe",
+    "translation": "лесостепь"
+  },
+  {
+    "word": "forest-tundra",
+    "translation": "лесотундровый"
+  },
+  {
+    "word": "forestall",
+    "translation": "опережать, предварить, упреждать"
+  },
+  {
+    "word": "forestalling",
+    "translation": "предварение, упреждение"
+  },
+  {
+    "word": "forester",
+    "translation": "лесник, лесовод"
+  },
+  {
+    "word": "forestry",
+    "translation": "лесоводческий, лесоводство"
+  },
+  {
+    "word": "forestry officer",
+    "translation": "лесничий"
+  },
+  {
+    "word": "forestry specialist",
+    "translation": "лесовод"
+  },
+  {
+    "word": "foretell",
+    "translation": "предсказывать, предрекать, наворожить, предугадывать"
+  },
+  {
+    "word": "foreteller",
+    "translation": "предсказательница"
+  },
+  {
+    "word": "forethought",
+    "translation": "предумышленность"
+  },
+  {
+    "word": "foretoken",
+    "translation": "предвещать, предвестие"
+  },
+  {
+    "word": "forever",
+    "translation": "вечно"
+  },
+  {
+    "word": "forewarn",
+    "translation": "предупредить"
+  },
+  {
+    "word": "forewarning",
+    "translation": "предуведомление, предварение"
+  },
+  {
+    "word": "foreword",
+    "translation": "предисловие"
+  },
+  {
+    "word": "forfeit",
+    "translation": "неустойка, утерять, лишаться"
+  },
+  {
+    "word": "forge",
+    "translation": "подделывать, фальсифицировать, отковывать, выковывать, сковывать, ковать, фабриковать, перековывать, кузница"
+  },
+  {
+    "word": "forge ahead",
+    "translation": "продвигаться"
+  },
+  {
+    "word": "forge together",
+    "translation": "сковывать"
+  },
+  {
+    "word": "forged",
+    "translation": "поддельный, фальшивый, кованный, липовый"
+  },
+  {
+    "word": "forged piece",
+    "translation": "поковка"
+  },
+  {
+    "word": "forger",
+    "translation": "подделыватель"
+  },
+  {
+    "word": "forgery",
+    "translation": "фальсификация, подлог, липа"
+  },
+  {
+    "word": "forget",
+    "translation": "запамятовать, разучиваться"
+  },
+  {
+    "word": "forget how to",
+    "translation": "разучиться"
+  },
+  {
+    "word": "forget oneself",
+    "translation": "забываться, заиграться"
+  },
+  {
+    "word": "forget oneself in chattering",
+    "translation": "разбалтываться"
+  },
+  {
+    "word": "forget partially",
+    "translation": "подзабыть"
+  },
+  {
+    "word": "forget the time in conversation",
+    "translation": "заговориться"
+  },
+  {
+    "word": "forget-me-not",
+    "translation": "незабудка"
+  },
+  {
+    "word": "forgetful",
+    "translation": "беспамятный, забывчивый"
+  },
+  {
+    "word": "forgetfulness",
+    "translation": "беспамятность, забывчивость"
+  },
+  {
+    "word": "forgetfulness of self",
+    "translation": "самозабвение"
+  },
+  {
+    "word": "forging",
+    "translation": "поковка, ковка"
+  },
+  {
+    "word": "forgive",
+    "translation": "отпускать, помиловать"
+  },
+  {
+    "word": "forgive me",
+    "translation": "простите"
+  },
+  {
+    "word": "forgiveness",
+    "translation": "прощение, помилование"
+  },
+  {
+    "word": "forgiving",
+    "translation": "незлопамятный, незлобивый"
+  },
+  {
+    "word": "forgo",
+    "translation": "поступаться"
+  },
+  {
+    "word": "forgotten",
+    "translation": "затерянный, забытый"
+  },
+  {
+    "word": "fork",
+    "translation": "раздваиваться, разветвлять, разветвляться, разветвление, вилка, развилок"
+  },
+  {
+    "word": "fork in road",
+    "translation": "развилка"
+  },
+  {
+    "word": "fork-lift truck",
+    "translation": "автопогрузчик"
+  },
+  {
+    "word": "forked",
+    "translation": "развилистый, вилообразный, раздвоенный"
+  },
+  {
+    "word": "forked crown",
+    "translation": "развилина"
+  },
+  {
+    "word": "forking",
+    "translation": "разветвление"
+  },
+  {
+    "word": "form",
+    "translation": "нора, класс, возыметь, конструировать, наплыть, выстраиваться, составляться, образовываться, образоваться, листок, образовать..., формовать..."
+  },
+  {
+    "word": "form a bloc",
+    "translation": "блокироваться"
+  },
+  {
+    "word": "form a lather",
+    "translation": "мылиться"
+  },
+  {
+    "word": "form a military formation",
+    "translation": "построиться"
+  },
+  {
+    "word": "form a scale",
+    "translation": "накипать"
+  },
+  {
+    "word": "form a scum",
+    "translation": "накипать"
+  },
+  {
+    "word": "form an alliance",
+    "translation": "блокироваться"
+  },
+  {
+    "word": "form ears",
+    "translation": "колоситься"
+  },
+  {
+    "word": "form groups",
+    "translation": "группироваться"
+  },
+  {
+    "word": "form into a snuff",
+    "translation": "нагорать"
+  },
+  {
+    "word": "form of address",
+    "translation": "обращение"
+  },
+  {
+    "word": "form up",
+    "translation": "выстраивать, пристраиваться, пристраивать"
+  },
+  {
+    "word": "form-mate",
+    "translation": "одноклассница"
+  },
+  {
+    "word": "formal",
+    "translation": "казённый, формальный, канцелярский"
+  },
+  {
+    "word": "formal acceptance",
+    "translation": "приёмка"
+  },
+  {
+    "word": "formal reply",
+    "translation": "отписка"
+  },
+  {
+    "word": "formalin",
+    "translation": "формалин"
+  },
+  {
+    "word": "formalism",
+    "translation": "формализм"
+  },
+  {
+    "word": "formalities",
+    "translation": "формализм"
+  },
+  {
+    "word": "formality",
+    "translation": "проформа"
+  },
+  {
+    "word": "formally",
+    "translation": "формально"
+  },
+  {
+    "word": "format",
+    "translation": "формат"
+  },
+  {
+    "word": "formation",
+    "translation": "построение, формация, формирование, пристраиваться, соединение, строй"
+  },
+  {
+    "word": "formation of species",
+    "translation": "видообразование"
+  },
+  {
+    "word": "formed",
+    "translation": "сложённый"
+  },
+  {
+    "word": "former",
+    "translation": "первый, прежний, бывший, былой, предшествующий"
+  },
+  {
+    "word": "former river-bed",
+    "translation": "старица"
+  },
+  {
+    "word": "formerly",
+    "translation": "прежде, встарь, когда-то"
+  },
+  {
+    "word": "formidable",
+    "translation": "грозный"
+  },
+  {
+    "word": "forming",
+    "translation": "гнутьё, формирование"
+  },
+  {
+    "word": "forming a pair",
+    "translation": "парный"
+  },
+  {
+    "word": "formless",
+    "translation": "бесформенный"
+  },
+  {
+    "word": "formula",
+    "translation": "формула, формулировка, рецепт"
+  },
+  {
+    "word": "formulate",
+    "translation": "формулировать, вырабатывать"
+  },
+  {
+    "word": "formulating",
+    "translation": "формулировка"
+  },
+  {
+    "word": "formulation",
+    "translation": "формулировка"
+  },
+  {
+    "word": "fornicate",
+    "translation": "блудить"
+  },
+  {
+    "word": "fornication",
+    "translation": "блуд"
+  },
+  {
+    "word": "forsake",
+    "translation": "покидать, отшатываться, побросать, бросать"
+  },
+  {
+    "word": "forsaken",
+    "translation": "затерянный"
+  },
+  {
+    "word": "fort",
+    "translation": "форт"
+  },
+  {
+    "word": "forthcoming",
+    "translation": "скорый"
+  },
+  {
+    "word": "fortieth",
+    "translation": "сороковой"
+  },
+  {
+    "word": "fortieth anniversary",
+    "translation": "сорокалетие"
+  },
+  {
+    "word": "fortieth birthday",
+    "translation": "сорокалетие"
+  },
+  {
+    "word": "fortification",
+    "translation": "укрепление"
+  },
+  {
+    "word": "fortify",
+    "translation": "укреплять, подкреплять"
+  },
+  {
+    "word": "fortify oneself",
+    "translation": "подкрепляться"
+  },
+  {
+    "word": "fortifying",
+    "translation": "укрепление"
+  },
+  {
+    "word": "fortitude",
+    "translation": "мужество, выносливость"
+  },
+  {
+    "word": "fortnightly",
+    "translation": "полумесячный, двухнедельный"
+  },
+  {
+    "word": "fortochka",
+    "translation": "форточка"
+  },
+  {
+    "word": "fortress",
+    "translation": "крепость"
+  },
+  {
+    "word": "fortuitousness",
+    "translation": "случайность"
+  },
+  {
+    "word": "fortuity",
+    "translation": "случайность"
+  },
+  {
+    "word": "fortunate",
+    "translation": "счастливый, удачный"
+  },
+  {
+    "word": "fortune",
+    "translation": "судьба, фортуна"
+  },
+  {
+    "word": "fortune-teller",
+    "translation": "ворожея"
+  },
+  {
+    "word": "fortune-telling",
+    "translation": "гадание, ворожба"
+  },
+  {
+    "word": "forty",
+    "translation": "сорок"
+  },
+  {
+    "word": "forty years",
+    "translation": "сорокалетие"
+  },
+  {
+    "word": "forty-year",
+    "translation": "сорокалетний"
+  },
+  {
+    "word": "forty-year-old man",
+    "translation": "сорокалетний"
+  },
+  {
+    "word": "forum",
+    "translation": "форум"
+  },
+  {
+    "word": "forward",
+    "translation": "переправлять, передовой, форвард, вперёд, препровождать, носовой, отправлять, пересылать, бойкий, бесцеремонный"
+  },
+  {
+    "word": "forward contract",
+    "translation": "запродажа"
+  },
+  {
+    "word": "forwarder",
+    "translation": "экспедитор"
+  },
+  {
+    "word": "forwarding",
+    "translation": "экспедиционный, препровождение, отправка"
+  },
+  {
+    "word": "forwarding agent",
+    "translation": "экспедитор"
+  },
+  {
+    "word": "forwardness",
+    "translation": "бесцеремонность"
+  },
+  {
+    "word": "forwards",
+    "translation": "нападение"
+  },
+  {
+    "word": "fosse",
+    "translation": "перекоп"
+  },
+  {
+    "word": "fossil",
+    "translation": "окаменелость"
+  },
+  {
+    "word": "fossilization",
+    "translation": "петрификация"
+  },
+  {
+    "word": "fossilized",
+    "translation": "ископаемый, окаменелый"
+  },
+  {
+    "word": "foster",
+    "translation": "воспитывать, взлелеять, выпестовать, пестовать, воспитать, приёмный"
+  },
+  {
+    "word": "fosterling",
+    "translation": "выкормыш"
+  },
+  {
+    "word": "fougasse",
+    "translation": "фугас"
+  },
+  {
+    "word": "foul",
+    "translation": "скверный, заедать, нагадить, пакостный, запрещённый, паскудный, протухший, гадкий, ненастный, гнилой..."
+  },
+  {
+    "word": "foul language",
+    "translation": "сквернословие"
+  },
+  {
+    "word": "foul place",
+    "translation": "клоака"
+  },
+  {
+    "word": "foul-mouthed man",
+    "translation": "сквернослов"
+  },
+  {
+    "word": "foulard",
+    "translation": "фанза"
+  },
+  {
+    "word": "foulness",
+    "translation": "гнусность"
+  },
+  {
+    "word": "found",
+    "translation": "базировать, создавать, основывать, учреждать, расплавлять, отливать, выливать, лить"
+  },
+  {
+    "word": "found metal",
+    "translation": "сварить"
+  },
+  {
+    "word": "foundation",
+    "translation": "основа, фундамент, основание, тема"
+  },
+  {
+    "word": "foundation beam",
+    "translation": "лежень"
+  },
+  {
+    "word": "foundation pit",
+    "translation": "котлован"
+  },
+  {
+    "word": "foundations",
+    "translation": "устои"
+  },
+  {
+    "word": "founded",
+    "translation": "отливной"
+  },
+  {
+    "word": "founder",
+    "translation": "создательница, основатель, учредитель, плавильщик, основоположник, зачинатель"
+  },
+  {
+    "word": "founding",
+    "translation": "отливка, литьё, основание, литейный, учреждение, расплавливание"
+  },
+  {
+    "word": "foundling",
+    "translation": "найдёныш"
+  },
+  {
+    "word": "foundress",
+    "translation": "учредительница"
+  },
+  {
+    "word": "foundry",
+    "translation": "плавильня, литейная"
+  },
+  {
+    "word": "foundry worker",
+    "translation": "литейщик"
+  },
+  {
+    "word": "fount",
+    "translation": "кладезь"
+  },
+  {
+    "word": "fountain",
+    "translation": "фонтан"
+  },
+  {
+    "word": "fountain-pen",
+    "translation": "самописка"
+  },
+  {
+    "word": "four",
+    "translation": "вчетвером, четыре, четвёрка"
+  },
+  {
+    "word": "four hundred",
+    "translation": "четыреста"
+  },
+  {
+    "word": "four times",
+    "translation": "четырежды"
+  },
+  {
+    "word": "four-footed",
+    "translation": "четвероногий"
+  },
+  {
+    "word": "four-in-hand",
+    "translation": "четвёрка"
+  },
+  {
+    "word": "four-legged",
+    "translation": "четвероногий"
+  },
+  {
+    "word": "four-part",
+    "translation": "четырёхголосный"
+  },
+  {
+    "word": "four-storey",
+    "translation": "четырёхэтажный"
+  },
+  {
+    "word": "four-year",
+    "translation": "четырёхлетний"
+  },
+  {
+    "word": "four-year-old",
+    "translation": "четырёхлетний"
+  },
+  {
+    "word": "fourfold",
+    "translation": "сам-четвёрт"
+  },
+  {
+    "word": "fourteen",
+    "translation": "четырнадцать"
+  },
+  {
+    "word": "fourteenth",
+    "translation": "четырнадцатый"
+  },
+  {
+    "word": "fourth",
+    "translation": "четвёртый, кварта"
+  },
+  {
+    "word": "fourthly",
+    "translation": "в-четвёртых"
+  },
+  {
+    "word": "fowl",
+    "translation": "курятина"
+  },
+  {
+    "word": "fowler",
+    "translation": "птицелов"
+  },
+  {
+    "word": "fowling",
+    "translation": "птицеловство, охота"
+  },
+  {
+    "word": "fowling-piece",
+    "translation": "дробовик"
+  },
+  {
+    "word": "fox",
+    "translation": "лиса, лисица"
+  },
+  {
+    "word": "fox-cub",
+    "translation": "лисёнок"
+  },
+  {
+    "word": "foxglove",
+    "translation": "наперстянка"
+  },
+  {
+    "word": "foxhole",
+    "translation": "ячейка"
+  },
+  {
+    "word": "foxhound",
+    "translation": "гончая"
+  },
+  {
+    "word": "foxtrot",
+    "translation": "фокстрот"
+  },
+  {
+    "word": "foxy",
+    "translation": "лисий"
+  },
+  {
+    "word": "foxy fellow",
+    "translation": "лиса"
+  },
+  {
+    "word": "foyer",
+    "translation": "фойе"
+  },
+  {
+    "word": "fraction",
+    "translation": "фракция, частица, дробь"
+  },
+  {
+    "word": "fractional",
+    "translation": "дробный"
+  },
+  {
+    "word": "fracture",
+    "translation": "пролом, переламывать, надламывать, перелом, разбивать..., перешибать, надлом, залом"
+  },
+  {
+    "word": "fraenum",
+    "translation": "уздечка"
+  },
+  {
+    "word": "fragile",
+    "translation": "бьющийся, непрочный, утлый, хрупкий, хлипкий"
+  },
+  {
+    "word": "fragility",
+    "translation": "непрочность"
+  },
+  {
+    "word": "fragment",
+    "translation": "фрагмент, обломок, отрывок, осколок"
+  },
+  {
+    "word": "fragmentary",
+    "translation": "отрывочный"
+  },
+  {
+    "word": "fragmentation",
+    "translation": "осколочный"
+  },
+  {
+    "word": "fragments",
+    "translation": "лом, кроха"
+  },
+  {
+    "word": "fragrance",
+    "translation": "амбра, аромат, благовоние, благоухание"
+  },
+  {
+    "word": "fragrant",
+    "translation": "ароматичный, ароматный, духовитый, благовонный, благоуханный, душистый"
+  },
+  {
+    "word": "frail",
+    "translation": "тщедушный, утлый, хрупкий, нежизнеспособный, бренный, щуплый, субтильный"
+  },
+  {
+    "word": "frailty",
+    "translation": "нежизнеспособность, бренность, субтильность"
+  },
+  {
+    "word": "frame",
+    "translation": "корпус, коробка, телосложение, каретка, сруб, телеса, рама, остов, обрамление, обрамить, оправа"
+  },
+  {
+    "word": "frame of mind",
+    "translation": "умонастроение"
+  },
+  {
+    "word": "frame-up",
+    "translation": "инсценировка"
+  },
+  {
+    "word": "framework",
+    "translation": "остов, каркас, инфраструктура, оклад, скелет"
+  },
+  {
+    "word": "framing",
+    "translation": "вставка, обрамление"
+  },
+  {
+    "word": "franc",
+    "translation": "франк"
+  },
+  {
+    "word": "france",
+    "translation": "Франция"
+  },
+  {
+    "word": "francomania",
+    "translation": "галломания"
+  },
+  {
+    "word": "francophil",
+    "translation": "галломан"
+  },
+  {
+    "word": "frank",
+    "translation": "откровенный, чистосердечный, открытый, простосердечный, искренний, прямой, прямодушный, нелицемерный"
+  },
+  {
+    "word": "frankfurter",
+    "translation": "сосиска"
+  },
+  {
+    "word": "frankincense",
+    "translation": "ладан"
+  },
+  {
+    "word": "frankly",
+    "translation": "откровенно, честно, начистоту, искренно, прямо"
+  },
+  {
+    "word": "frankness",
+    "translation": "откровенность, простосердечие, непосредственность, прямодушие"
+  },
+  {
+    "word": "frantic",
+    "translation": "неистовый"
+  },
+  {
+    "word": "frantic zeal",
+    "translation": "ожесточение"
+  },
+  {
+    "word": "fraternal",
+    "translation": "братский"
+  },
+  {
+    "word": "fraternally",
+    "translation": "братски"
+  },
+  {
+    "word": "fraternity",
+    "translation": "братство, братия"
+  },
+  {
+    "word": "fraternization",
+    "translation": "братание"
+  },
+  {
+    "word": "fraternize",
+    "translation": "брататься"
+  },
+  {
+    "word": "fratricidal",
+    "translation": "братоубийственный"
+  },
+  {
+    "word": "fratricide",
+    "translation": "братоубийца"
+  },
+  {
+    "word": "frau",
+    "translation": "госпожа"
+  },
+  {
+    "word": "fraud",
+    "translation": "шарлатан, обманщица, обман, фальшивка, афера, мошенничество"
+  },
+  {
+    "word": "fraudster",
+    "translation": "мошенник"
+  },
+  {
+    "word": "fraudulent",
+    "translation": "жульнический"
+  },
+  {
+    "word": "fraught",
+    "translation": "чреватый"
+  },
+  {
+    "word": "fraught with",
+    "translation": "чревато"
+  },
+  {
+    "word": "fraulein",
+    "translation": "госпожа"
+  },
+  {
+    "word": "fray",
+    "translation": "обтрепаться, обтрепать, обшаркивать, трепать, протирать, протереть, истрепать"
+  },
+  {
+    "word": "fray out",
+    "translation": "сыпаться"
+  },
+  {
+    "word": "fray through",
+    "translation": "перетереться, перетирать"
+  },
+  {
+    "word": "frayed",
+    "translation": "обтрёпанный, обшарпанный, поношенный, потёртый, истрёпанный"
+  },
+  {
+    "word": "frayed edges",
+    "translation": "махры"
+  },
+  {
+    "word": "frazzles",
+    "translation": "лохмотья"
+  },
+  {
+    "word": "freak",
+    "translation": "фокус, урод, выходка, причуда"
+  },
+  {
+    "word": "freaking",
+    "translation": "фигеть"
+  },
+  {
+    "word": "freaks",
+    "translation": "выкрутасы"
+  },
+  {
+    "word": "freckled",
+    "translation": "веснушчатый, конопатый"
+  },
+  {
+    "word": "freckles",
+    "translation": "веснушки"
+  },
+  {
+    "word": "free",
+    "translation": "очищать, выходной, даром, даровой, бесплатный, высвобождать, освобождать..., выпрастывать, невозбранный"
+  },
+  {
+    "word": "free and easy",
+    "translation": "вольготный, непринуждённый"
+  },
+  {
+    "word": "free designs",
+    "translation": "разводы"
+  },
+  {
+    "word": "free lance",
+    "translation": "наёмник"
+  },
+  {
+    "word": "free of charge",
+    "translation": "бесплатно, безвозмездно"
+  },
+  {
+    "word": "free of duty",
+    "translation": "беспошлинно"
+  },
+  {
+    "word": "free oneself",
+    "translation": "освобождаться, высвобождаться"
+  },
+  {
+    "word": "free pardon",
+    "translation": "амнистия"
+  },
+  {
+    "word": "free pass",
+    "translation": "контрамарка"
+  },
+  {
+    "word": "free period",
+    "translation": "окно"
+  },
+  {
+    "word": "free port",
+    "translation": "порто-франко"
+  },
+  {
+    "word": "free space",
+    "translation": "приволье"
+  },
+  {
+    "word": "free thought",
+    "translation": "вольномыслие"
+  },
+  {
+    "word": "free-easy",
+    "translation": "развязный"
+  },
+  {
+    "word": "free-lance",
+    "translation": "внештатный"
+  },
+  {
+    "word": "free-running",
+    "translation": "холостой"
+  },
+  {
+    "word": "free-style",
+    "translation": "вольный"
+  },
+  {
+    "word": "free-thinker",
+    "translation": "вольнодумец, свободомыслящий"
+  },
+  {
+    "word": "free-thinking",
+    "translation": "вольнодумный, вольномыслие, свободомыслящий"
+  },
+  {
+    "word": "free-will",
+    "translation": "добровольный"
+  },
+  {
+    "word": "freed",
+    "translation": "вольноотпущенный"
+  },
+  {
+    "word": "freedman",
+    "translation": "вольноотпущенник"
+  },
+  {
+    "word": "freedom",
+    "translation": "раздолье, воля, свобода, вольность, приволье"
+  },
+  {
+    "word": "freedom-loving",
+    "translation": "вольнолюбивый"
+  },
+  {
+    "word": "freeloader",
+    "translation": "халявщица, нахлебник, дармоед"
+  },
+  {
+    "word": "freely",
+    "translation": "свободно, вольно, беспрепятственно"
+  },
+  {
+    "word": "freemason",
+    "translation": "масон"
+  },
+  {
+    "word": "freemasonry",
+    "translation": "масонство"
+  },
+  {
+    "word": "freemen",
+    "translation": "вольница"
+  },
+  {
+    "word": "freeze",
+    "translation": "вымерзать, стынуть, блокировка, подморозить, выморозить, замораживать, оледенеть, замерзать..., цепенеть, зябнуть"
+  },
+  {
+    "word": "freeze / stand still",
+    "translation": "замирать"
+  },
+  {
+    "word": "freeze out",
+    "translation": "выморозить"
+  },
+  {
+    "word": "freeze solid",
+    "translation": "вымерзать"
+  },
+  {
+    "word": "freeze through",
+    "translation": "промерзать"
+  },
+  {
+    "word": "freeze to death",
+    "translation": "замерзать"
+  },
+  {
+    "word": "freeze together",
+    "translation": "смерзаться"
+  },
+  {
+    "word": "freezer",
+    "translation": "морозилка, мороженица"
+  },
+  {
+    "word": "freezing",
+    "translation": "замерзание, замораживание"
+  },
+  {
+    "word": "freezing weather",
+    "translation": "мороз"
+  },
+  {
+    "word": "freezing-over",
+    "translation": "ледостав"
+  },
+  {
+    "word": "freight",
+    "translation": "грузовой, зафрахтовывать, товарный, груз, нагружать"
+  },
+  {
+    "word": "freight-carrying capacity",
+    "translation": "грузоподъёмность"
+  },
+  {
+    "word": "french",
+    "translation": "французский"
+  },
+  {
+    "word": "french horn",
+    "translation": "валторна"
+  },
+  {
+    "word": "frenchify",
+    "translation": "офранцузить"
+  },
+  {
+    "word": "frenchman",
+    "translation": "француз"
+  },
+  {
+    "word": "frenchwoman",
+    "translation": "француженка"
+  },
+  {
+    "word": "frenzied",
+    "translation": "остервенелый, оголтелый"
+  },
+  {
+    "word": "frenzy",
+    "translation": "исступление, неистовство, беспамятство"
+  },
+  {
+    "word": "frequency",
+    "translation": "частотный"
+  },
+  {
+    "word": "frequency of use",
+    "translation": "употребительность"
+  },
+  {
+    "word": "frequent",
+    "translation": "частый"
+  },
+  {
+    "word": "frequentative",
+    "translation": "многократный"
+  },
+  {
+    "word": "frequently",
+    "translation": "зачастую"
+  },
+  {
+    "word": "frequently visited destination",
+    "translation": "направление"
+  },
+  {
+    "word": "fresco",
+    "translation": "фреска"
+  },
+  {
+    "word": "fresh",
+    "translation": "бодрый, свеженький, прохладный, свежий, пресный, свежо, незатасканный, неиспорченный, нетронутый"
+  },
+  {
+    "word": "fresh forces",
+    "translation": "пополнение"
+  },
+  {
+    "word": "fresh-frozen",
+    "translation": "свежезамороженный"
+  },
+  {
+    "word": "fresh-salted",
+    "translation": "свежепросольный"
+  },
+  {
+    "word": "freshen",
+    "translation": "свежеть, освежить"
+  },
+  {
+    "word": "freshen up",
+    "translation": "свежеть, освежаться"
+  },
+  {
+    "word": "freshet",
+    "translation": "паводок"
+  },
+  {
+    "word": "freshly-reaped corn",
+    "translation": "новина"
+  },
+  {
+    "word": "freshly-salted",
+    "translation": "малосольный"
+  },
+  {
+    "word": "freshman",
+    "translation": "первокурсник"
+  },
+  {
+    "word": "freshness",
+    "translation": "свежесть"
+  },
+  {
+    "word": "freshwater",
+    "translation": "пресноводный"
+  },
+  {
+    "word": "freshwater sponge",
+    "translation": "бодяга"
+  },
+  {
+    "word": "fret",
+    "translation": "лад"
+  },
+  {
+    "word": "fretful",
+    "translation": "капризный"
+  },
+  {
+    "word": "fretsaw",
+    "translation": "лобзик, пилка"
+  },
+  {
+    "word": "fretted",
+    "translation": "резной"
+  },
+  {
+    "word": "fretwork",
+    "translation": "резьба"
+  },
+  {
+    "word": "friability",
+    "translation": "рыхлость"
+  },
+  {
+    "word": "friable",
+    "translation": "рассыпчатый, рыхлый"
+  },
+  {
+    "word": "friary",
+    "translation": "монастырь"
+  },
+  {
+    "word": "fricative",
+    "translation": "щелевой"
+  },
+  {
+    "word": "fricking",
+    "translation": "фигеть"
+  },
+  {
+    "word": "friction",
+    "translation": "трение"
+  },
+  {
+    "word": "friday",
+    "translation": "пятница"
+  },
+  {
+    "word": "fridge",
+    "translation": "холодильник"
+  },
+  {
+    "word": "fried",
+    "translation": "фри, жареный"
+  },
+  {
+    "word": "fried eggs",
+    "translation": "глазунья"
+  },
+  {
+    "word": "friend",
+    "translation": "знакомый, друган, товарищ, кунак, приятель"
+  },
+  {
+    "word": "friend (female)",
+    "translation": "подруга"
+  },
+  {
+    "word": "friendliness",
+    "translation": "дружелюбие, приязнь"
+  },
+  {
+    "word": "friendly",
+    "translation": "приветливый, товарищеский, дружеский, приятельский, дружный, приветливо"
+  },
+  {
+    "word": "friendly association",
+    "translation": "землячество"
+  },
+  {
+    "word": "friendship",
+    "translation": "брудершафт, дружба"
+  },
+  {
+    "word": "frigate",
+    "translation": "фрегат"
+  },
+  {
+    "word": "fright",
+    "translation": "страх, урод, испуг, страшить, страшилище, кикимора, пугало"
+  },
+  {
+    "word": "frighten",
+    "translation": "постращать, пугать, испугать, застращать"
+  },
+  {
+    "word": "frighten a little",
+    "translation": "попугать"
+  },
+  {
+    "word": "frighten off",
+    "translation": "отпугнуть"
+  },
+  {
+    "word": "frightened",
+    "translation": "перепуганный, напуганный, испуганный, оробелый"
+  },
+  {
+    "word": "frightening",
+    "translation": "устрашение, пугающий"
+  },
+  {
+    "word": "frightful",
+    "translation": "адский, страшный"
+  },
+  {
+    "word": "frightfully",
+    "translation": "адски, страшно, безумно, ужасно"
+  },
+  {
+    "word": "frill",
+    "translation": "оборка"
+  },
+  {
+    "word": "fringe",
+    "translation": "чёлка, окаймлять, бахрома"
+  },
+  {
+    "word": "fringed",
+    "translation": "бахромчатый"
+  },
+  {
+    "word": "frisk",
+    "translation": "резвиться"
+  },
+  {
+    "word": "frisky",
+    "translation": "резвый"
+  },
+  {
+    "word": "fritter",
+    "translation": "блинчик"
+  },
+  {
+    "word": "fritting",
+    "translation": "отжиг"
+  },
+  {
+    "word": "frivolity",
+    "translation": "ветреность, несерьёзность"
+  },
+  {
+    "word": "frivolous",
+    "translation": "легкомысленный, несерьёзный, вертлявый, ветреный"
+  },
+  {
+    "word": "frivolously",
+    "translation": "ветрено"
+  },
+  {
+    "word": "frivolousness",
+    "translation": "пустота"
+  },
+  {
+    "word": "frizzle",
+    "translation": "завить"
+  },
+  {
+    "word": "frizzled",
+    "translation": "завитой"
+  },
+  {
+    "word": "frizzy",
+    "translation": "кудрявый"
+  },
+  {
+    "word": "frock-coat",
+    "translation": "сюртук"
+  },
+  {
+    "word": "frog",
+    "translation": "крестовина, лягушка"
+  },
+  {
+    "word": "frogman",
+    "translation": "акванавт, подводник"
+  },
+  {
+    "word": "frolic",
+    "translation": "дурить, баловаться"
+  },
+  {
+    "word": "frolicsome",
+    "translation": "дурашливый, шаловливый"
+  },
+  {
+    "word": "from",
+    "translation": "из-под, из-за"
+  },
+  {
+    "word": "from ...",
+    "translation": "начиная"
+  },
+  {
+    "word": "from (away)",
+    "translation": "от"
+  },
+  {
+    "word": "from (cause)",
+    "translation": "от"
+  },
+  {
+    "word": "from (distance)",
+    "translation": "от"
+  },
+  {
+    "word": "from (part of a whole)",
+    "translation": "от"
+  },
+  {
+    "word": "from (range)",
+    "translation": "от"
+  },
+  {
+    "word": "from (someone)",
+    "translation": "от"
+  },
+  {
+    "word": "from (take",
+    "translation": "у"
+  },
+  {
+    "word": "from a child",
+    "translation": "сызмала"
+  },
+  {
+    "word": "from a distance",
+    "translation": "издали"
+  },
+  {
+    "word": "from a since",
+    "translation": "сызмала"
+  },
+  {
+    "word": "from above",
+    "translation": "свыше, сверху"
+  },
+  {
+    "word": "from afar",
+    "translation": "издалёка"
+  },
+  {
+    "word": "from another planet",
+    "translation": "инопланетный"
+  },
+  {
+    "word": "from behind",
+    "translation": "сзади, из-за"
+  },
+  {
+    "word": "from below",
+    "translation": "снизу"
+  },
+  {
+    "word": "from bottom",
+    "translation": "снизу"
+  },
+  {
+    "word": "from ever since",
+    "translation": "сызмала"
+  },
+  {
+    "word": "from every quarter",
+    "translation": "отовсюду"
+  },
+  {
+    "word": "from everywhere",
+    "translation": "отовсюду"
+  },
+  {
+    "word": "from far away",
+    "translation": "издалёка"
+  },
+  {
+    "word": "from heaven",
+    "translation": "свыше"
+  },
+  {
+    "word": "from here",
+    "translation": "отсюда"
+  },
+  {
+    "word": "from now on",
+    "translation": "отныне"
+  },
+  {
+    "word": "from nowhere",
+    "translation": "неоткуда"
+  },
+  {
+    "word": "from of old",
+    "translation": "издревле"
+  },
+  {
+    "word": "from olden times",
+    "translation": "исстари"
+  },
+  {
+    "word": "from one side",
+    "translation": "сбоку"
+  },
+  {
+    "word": "from somewhere",
+    "translation": "откуда-то"
+  },
+  {
+    "word": "from somewhere or other",
+    "translation": "откуда-нибудь"
+  },
+  {
+    "word": "from the rear",
+    "translation": "сзади"
+  },
+  {
+    "word": "from the start",
+    "translation": "заново"
+  },
+  {
+    "word": "from there",
+    "translation": "оттуда, оттоле"
+  },
+  {
+    "word": "from this time onward",
+    "translation": "впредь"
+  },
+  {
+    "word": "from time immemorial",
+    "translation": "искони"
+  },
+  {
+    "word": "from time to time",
+    "translation": "временами, изредка"
+  },
+  {
+    "word": "from top",
+    "translation": "сверху"
+  },
+  {
+    "word": "from top to bottom",
+    "translation": "сверху донизу"
+  },
+  {
+    "word": "from under",
+    "translation": "из-под"
+  },
+  {
+    "word": "from underneath",
+    "translation": "исподнизу"
+  },
+  {
+    "word": "from where",
+    "translation": "откуда"
+  },
+  {
+    "word": "from within",
+    "translation": "изнутри"
+  },
+  {
+    "word": "from without",
+    "translation": "извне"
+  },
+  {
+    "word": "front",
+    "translation": "грудь, фасад, первый, вставка, фронтовой, фронт..., парадный"
+  },
+  {
+    "word": "front door",
+    "translation": "парадное"
+  },
+  {
+    "word": "front garden",
+    "translation": "палисадник"
+  },
+  {
+    "word": "front line",
+    "translation": "передовая"
+  },
+  {
+    "word": "front room",
+    "translation": "светлица"
+  },
+  {
+    "word": "front sight",
+    "translation": "мушка"
+  },
+  {
+    "word": "front-line",
+    "translation": "прифронтовой"
+  },
+  {
+    "word": "front-line soldier",
+    "translation": "фронтовик"
+  },
+  {
+    "word": "frontal",
+    "translation": "лобный"
+  },
+  {
+    "word": "frontal bone",
+    "translation": "надбровье"
+  },
+  {
+    "word": "frontier",
+    "translation": "пограничный"
+  },
+  {
+    "word": "frontier guard",
+    "translation": "пограничник"
+  },
+  {
+    "word": "frost",
+    "translation": "заморозок, мороз"
+  },
+  {
+    "word": "frost-bitten",
+    "translation": "обмороженный, подмороженный"
+  },
+  {
+    "word": "frost-hardy",
+    "translation": "морозостойкий"
+  },
+  {
+    "word": "frost-resistance",
+    "translation": "морозостойкость"
+  },
+  {
+    "word": "frost-resistant",
+    "translation": "морозостойкий"
+  },
+  {
+    "word": "frosty",
+    "translation": "морозный"
+  },
+  {
+    "word": "froth",
+    "translation": "пениться, вспениваться, пена, пенить"
+  },
+  {
+    "word": "froth up",
+    "translation": "запенить"
+  },
+  {
+    "word": "frothy",
+    "translation": "пенистый"
+  },
+  {
+    "word": "frown",
+    "translation": "хмуриться, насупиться"
+  },
+  {
+    "word": "frowning",
+    "translation": "нахмуренный"
+  },
+  {
+    "word": "frozen",
+    "translation": "промёрзлый, мороженый, мёрзлый, леденистый"
+  },
+  {
+    "word": "frozen condition of ground",
+    "translation": "мерзлота"
+  },
+  {
+    "word": "frugal",
+    "translation": "умеренный, скромный, неприхотливый"
+  },
+  {
+    "word": "frugality",
+    "translation": "умеренность"
+  },
+  {
+    "word": "fruit",
+    "translation": "плодоносить, плодоносный, плод"
+  },
+  {
+    "word": "fruit and vegetable",
+    "translation": "плодоовощной"
+  },
+  {
+    "word": "fruit drops",
+    "translation": "монпансье"
+  },
+  {
+    "word": "fruit jelly",
+    "translation": "мармелад"
+  },
+  {
+    "word": "fruit kiln",
+    "translation": "плодосушилка"
+  },
+  {
+    "word": "fruit stem",
+    "translation": "плодоножка"
+  },
+  {
+    "word": "fruit-cake",
+    "translation": "кекс"
+  },
+  {
+    "word": "fruit-drop",
+    "translation": "леденец"
+  },
+  {
+    "word": "fruit-growing",
+    "translation": "плодоводческий"
+  },
+  {
+    "word": "fruit-stalk",
+    "translation": "плодоножка"
+  },
+  {
+    "word": "fruitful",
+    "translation": "плодотворный, плодовитый"
+  },
+  {
+    "word": "fruitfulness",
+    "translation": "плодотворность, плодовитость"
+  },
+  {
+    "word": "fruiting",
+    "translation": "плодоношение"
+  },
+  {
+    "word": "fruitless",
+    "translation": "бесплодный"
+  },
+  {
+    "word": "fruitlessness",
+    "translation": "бесплодность"
+  },
+  {
+    "word": "fruits",
+    "translation": "засахаренный"
+  },
+  {
+    "word": "fruity",
+    "translation": "смачный"
+  },
+  {
+    "word": "frustrate",
+    "translation": "разрушать, расстроить, опрокидывать, срывать"
+  },
+  {
+    "word": "frustration",
+    "translation": "срыв, расстройство, разочарование"
+  },
+  {
+    "word": "fry",
+    "translation": "молодь, жарить, обжарить, поджариваться, зажаривать..., живность, пережарить"
+  },
+  {
+    "word": "fry on both sides",
+    "translation": "обжарить"
+  },
+  {
+    "word": "frying",
+    "translation": "жаренье"
+  },
+  {
+    "word": "frying pan",
+    "translation": "сковородка"
+  },
+  {
+    "word": "frying-pan",
+    "translation": "сковорода"
+  },
+  {
+    "word": "fuck",
+    "translation": "хуй, блядь"
+  },
+  {
+    "word": "fucking",
+    "translation": "хуй"
+  },
+  {
+    "word": "fuel",
+    "translation": "горючее"
+  },
+  {
+    "word": "fuelling lorry",
+    "translation": "бензозаправщик"
+  },
+  {
+    "word": "fugacious",
+    "translation": "скоропреходящий"
+  },
+  {
+    "word": "fugitive",
+    "translation": "беглый, беглянка, беглец"
+  },
+  {
+    "word": "fugue",
+    "translation": "фуга"
+  },
+  {
+    "word": "fuhrer",
+    "translation": "фюрер"
+  },
+  {
+    "word": "fulfil",
+    "translation": "исполнять, осуществить, выполнить"
+  },
+  {
+    "word": "fulfill",
+    "translation": "осуществлять"
+  },
+  {
+    "word": "fulfilment",
+    "translation": "совершение, исполнение, выполнение"
+  },
+  {
+    "word": "full",
+    "translation": "многоводный, валять, исполненный, преисполненный, проникнутый, сытый"
+  },
+  {
+    "word": "full age",
+    "translation": "совершеннолетие"
+  },
+  {
+    "word": "full face",
+    "translation": "анфас"
+  },
+  {
+    "word": "full gallop",
+    "translation": "вскачь, карьер"
+  },
+  {
+    "word": "full house",
+    "translation": "аншлаг"
+  },
+  {
+    "word": "full moon",
+    "translation": "полнолуние"
+  },
+  {
+    "word": "full of bubbles",
+    "translation": "пузырчатый"
+  },
+  {
+    "word": "full of ears",
+    "translation": "колосистый"
+  },
+  {
+    "word": "full of emotion",
+    "translation": "прочувствованный"
+  },
+  {
+    "word": "full of flourishes",
+    "translation": "кудрявый"
+  },
+  {
+    "word": "full of initiative",
+    "translation": "инициативный"
+  },
+  {
+    "word": "full of joie de vivre",
+    "translation": "жизнерадостный"
+  },
+  {
+    "word": "full of life",
+    "translation": "задорный"
+  },
+  {
+    "word": "full of love",
+    "translation": "любвеобильный"
+  },
+  {
+    "word": "full of rancour",
+    "translation": "злопамятный"
+  },
+  {
+    "word": "full of rapids",
+    "translation": "порожистый"
+  },
+  {
+    "word": "full of suffering",
+    "translation": "страдальческий"
+  },
+  {
+    "word": "full rights",
+    "translation": "полноправие"
+  },
+  {
+    "word": "full strength",
+    "translation": "укомплектованность"
+  },
+  {
+    "word": "full to the brim",
+    "translation": "полно"
+  },
+  {
+    "word": "full value",
+    "translation": "полноценность"
+  },
+  {
+    "word": "full weight",
+    "translation": "полновесность"
+  },
+  {
+    "word": "full-back",
+    "translation": "защитник"
+  },
+  {
+    "word": "full-blooded",
+    "translation": "полнокровный"
+  },
+  {
+    "word": "full-dress uniform",
+    "translation": "мундир"
+  },
+  {
+    "word": "full-flowing",
+    "translation": "полноводный"
+  },
+  {
+    "word": "full-scale",
+    "translation": "развёрнутый"
+  },
+  {
+    "word": "full-skirted",
+    "translation": "широкополый"
+  },
+  {
+    "word": "full-weight",
+    "translation": "полновесный"
+  },
+  {
+    "word": "fuller",
+    "translation": "сукновал"
+  },
+  {
+    "word": "fullery",
+    "translation": "сукновальня"
+  },
+  {
+    "word": "fulling",
+    "translation": "сукновальный, валяние"
+  },
+  {
+    "word": "fulling mill",
+    "translation": "сукновальня"
+  },
+  {
+    "word": "fulling-mill",
+    "translation": "валяльня"
+  },
+  {
+    "word": "fullness",
+    "translation": "многоводье"
+  },
+  {
+    "word": "fully",
+    "translation": "полно, вовсю, вполне"
+  },
+  {
+    "word": "fulmar",
+    "translation": "глупыш"
+  },
+  {
+    "word": "fulminant",
+    "translation": "скоротечный"
+  },
+  {
+    "word": "fulminate",
+    "translation": "громить"
+  },
+  {
+    "word": "fulminate cap",
+    "translation": "капсюль"
+  },
+  {
+    "word": "fumble",
+    "translation": "пошарить, мазать"
+  },
+  {
+    "word": "fumbler",
+    "translation": "путаник"
+  },
+  {
+    "word": "fumblingly",
+    "translation": "ощупью"
+  },
+  {
+    "word": "fume",
+    "translation": "петушиться"
+  },
+  {
+    "word": "fumes",
+    "translation": "испарение, чад"
+  },
+  {
+    "word": "fumigate",
+    "translation": "окуривать, обкуривать"
+  },
+  {
+    "word": "fumigation",
+    "translation": "окуривание"
+  },
+  {
+    "word": "fun",
+    "translation": "забава, потеха, прикол, сласть"
+  },
+  {
+    "word": "function",
+    "translation": "подействовать, функция, функционировать, отправление"
+  },
+  {
+    "word": "functional",
+    "translation": "функциональный"
+  },
+  {
+    "word": "functionary",
+    "translation": "чиновник"
+  },
+  {
+    "word": "functionate",
+    "translation": "функционировать"
+  },
+  {
+    "word": "functioning",
+    "translation": "действующий, функционирование"
+  },
+  {
+    "word": "fund",
+    "translation": "заряд, фонд"
+  },
+  {
+    "word": "fund-holder",
+    "translation": "капиталодержатель"
+  },
+  {
+    "word": "fundamental",
+    "translation": "основополагающий, основной, фундаментальный, коренной"
+  },
+  {
+    "word": "fundamental principle",
+    "translation": "первооснова"
+  },
+  {
+    "word": "fundamentals",
+    "translation": "основа"
+  },
+  {
+    "word": "funds",
+    "translation": "фонд, казнокрад, деньги"
+  },
+  {
+    "word": "funeral",
+    "translation": "похороны, похоронный, погребальный, траурный"
+  },
+  {
+    "word": "funereal",
+    "translation": "загробный, похоронный, погребальный"
+  },
+  {
+    "word": "fungoid",
+    "translation": "грибковый"
+  },
+  {
+    "word": "fungous",
+    "translation": "грибковый"
+  },
+  {
+    "word": "fungus",
+    "translation": "грибок, гриб"
+  },
+  {
+    "word": "funk",
+    "translation": "робеть, сробеть"
+  },
+  {
+    "word": "funnel",
+    "translation": "воронка, труба"
+  },
+  {
+    "word": "funnel-shaped",
+    "translation": "воронкообразный"
+  },
+  {
+    "word": "funny",
+    "translation": "забавный, комический, комичный, курьёзный, весёлый, потешный, смешно, чудной, смешной..."
+  },
+  {
+    "word": "funny story",
+    "translation": "анекдот"
+  },
+  {
+    "word": "fur",
+    "translation": "мех, накипь"
+  },
+  {
+    "word": "fur coat",
+    "translation": "шуба"
+  },
+  {
+    "word": "fur farm",
+    "translation": "звероферма"
+  },
+  {
+    "word": "fur of young reindeer",
+    "translation": "пыжик"
+  },
+  {
+    "word": "fur-breeding",
+    "translation": "звероводческий"
+  },
+  {
+    "word": "fur-coat",
+    "translation": "доха"
+  },
+  {
+    "word": "fur-dresser",
+    "translation": "скорняк"
+  },
+  {
+    "word": "fur-farmer",
+    "translation": "зверовод"
+  },
+  {
+    "word": "fur-seal",
+    "translation": "котик"
+  },
+  {
+    "word": "fur-skins",
+    "translation": "пушнина"
+  },
+  {
+    "word": "furcate",
+    "translation": "раздвоенный"
+  },
+  {
+    "word": "furcation",
+    "translation": "развилина, развилок"
+  },
+  {
+    "word": "furious",
+    "translation": "ярый, бешеный, злющий, неистовый, яростный, взбешённый"
+  },
+  {
+    "word": "furiously",
+    "translation": "яростно, неистово"
+  },
+  {
+    "word": "furling",
+    "translation": "крепление"
+  },
+  {
+    "word": "furlough",
+    "translation": "отпуск, побывка"
+  },
+  {
+    "word": "furnace",
+    "translation": "горн, топка, печка"
+  },
+  {
+    "word": "furnace operator",
+    "translation": "плавильщик"
+  },
+  {
+    "word": "furnace throat",
+    "translation": "колошник"
+  },
+  {
+    "word": "furnace-bar",
+    "translation": "колосник"
+  },
+  {
+    "word": "furnace-worker",
+    "translation": "горновой"
+  },
+  {
+    "word": "furnaceman",
+    "translation": "горновой"
+  },
+  {
+    "word": "furnish",
+    "translation": "доставить, обустраивать, меблировать, обеспечивать, доставлять, снабжать"
+  },
+  {
+    "word": "furnished",
+    "translation": "меблированный"
+  },
+  {
+    "word": "furnishing",
+    "translation": "меблировка"
+  },
+  {
+    "word": "furniture",
+    "translation": "убранство, меблировка, мебель, обстановка"
+  },
+  {
+    "word": "furniture-maker",
+    "translation": "мебельщик"
+  },
+  {
+    "word": "furrier",
+    "translation": "меховщица, скорняк"
+  },
+  {
+    "word": "furrow",
+    "translation": "бороздить, борозда, бороздка"
+  },
+  {
+    "word": "furrow plough",
+    "translation": "пропашник"
+  },
+  {
+    "word": "furs",
+    "translation": "мех, пушнина"
+  },
+  {
+    "word": "further",
+    "translation": "содействовать, посодействовать, дальше, далее, дальнейший, продвигать, двигать"
+  },
+  {
+    "word": "further inquiry",
+    "translation": "доследовать, доследование"
+  },
+  {
+    "word": "further north",
+    "translation": "севернее"
+  },
+  {
+    "word": "further south",
+    "translation": "южнее"
+  },
+  {
+    "word": "further training",
+    "translation": "переподготовка"
+  },
+  {
+    "word": "furtive",
+    "translation": "вороватый"
+  },
+  {
+    "word": "furtively",
+    "translation": "украдкой"
+  },
+  {
+    "word": "furuncle",
+    "translation": "чирей, фурункул"
+  },
+  {
+    "word": "fury",
+    "translation": "неистовство, ярость, бешенство, злость"
+  },
+  {
+    "word": "fuse",
+    "translation": "запал, перегорать, пробка, вплавлять, стапливать, расплавлять, плавить, сливать..."
+  },
+  {
+    "word": "fuse in",
+    "translation": "вплавлять"
+  },
+  {
+    "word": "fuse together",
+    "translation": "сплавить"
+  },
+  {
+    "word": "fusel",
+    "translation": "сивушный"
+  },
+  {
+    "word": "fuselage",
+    "translation": "фюзеляж"
+  },
+  {
+    "word": "fusibility",
+    "translation": "плавкость"
+  },
+  {
+    "word": "fusible",
+    "translation": "легкоплавкий, плавкий"
+  },
+  {
+    "word": "fusiform",
+    "translation": "веретенообразный"
+  },
+  {
+    "word": "fusillade",
+    "translation": "расстреливать, расстрел"
+  },
+  {
+    "word": "fusing",
+    "translation": "сращивание, плавка"
+  },
+  {
+    "word": "fusion",
+    "translation": "расплавливание, плавка"
+  },
+  {
+    "word": "fuss",
+    "translation": "юлить, треск, суетиться, возня, суета, нянчиться, хлопоты"
+  },
+  {
+    "word": "fuss about",
+    "translation": "егозить"
+  },
+  {
+    "word": "fuss over",
+    "translation": "дрожать"
+  },
+  {
+    "word": "fussiness",
+    "translation": "суетливость, хлопотливость"
+  },
+  {
+    "word": "fussy",
+    "translation": "суетливый, хлопотливый"
+  },
+  {
+    "word": "fusty",
+    "translation": "прелый"
+  },
+  {
+    "word": "futile",
+    "translation": "безрезультатный, пустячный, тщетный"
+  },
+  {
+    "word": "futility",
+    "translation": "бесцельность, пустота, бесплодность, безрезультатность"
+  },
+  {
+    "word": "future",
+    "translation": "будущность, будущий"
+  },
+  {
+    "word": "futurist",
+    "translation": "футурист"
+  },
+  {
+    "word": "fuzz",
+    "translation": "пух"
+  },
+  {
+    "word": "fylfot",
+    "translation": "свастика"
+  },
+  {
+    "word": "öfke",
+    "translation": "злость"
+  }
+]

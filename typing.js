@@ -32,7 +32,11 @@ function getPollinationsImage(prompt) {
   return `https://image.pollinations.ai/prompt/${encoded}`;
 }
 
+
+function startTyping(key, rawText) {
+
 export function startTyping(key, rawText) {
+
   currentKey = key;
   fullText = cleanText(rawText);
   pages = splitTextIntoPages(fullText);
@@ -49,7 +53,11 @@ export function startTyping(key, rawText) {
   updateDisplay();
 }
 
+
+function updateDisplay() {
+
 export function updateDisplay() {
+
   if (currentPage < 0 || currentPage >= pages.length) return;
 
   const expected = pages[currentPage];
@@ -142,7 +150,11 @@ hiddenInput.addEventListener("keydown", async (e) => {
     if (isWordFinished && word.length > 1) {
       const translation = await translateWord(word);
       const spans = textDisplay.querySelectorAll("span.correct, span.active");
+
+      const lastSpan = spans[spans.length - 1];
+
       const lastSpan = spans[typed.length - 1];
+
       if (translation && lastSpan) {
         const rect = lastSpan.getBoundingClientRect();
         showTranslation(translation, rect);
@@ -159,3 +171,8 @@ hiddenInput.addEventListener("keydown", async (e) => {
     }
   }
 });
+
+
+export { startTyping, updateDisplay };
+
+
