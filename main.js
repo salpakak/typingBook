@@ -9,7 +9,7 @@ import {
   updateCurrentWord,
 } from "./translation.js";
 
-import { cleanText, splitTextIntoPages, charactersPerPage } from "./utils.js";
+import { charactersPerPage } from "./utils.js";
 
 
 import {
