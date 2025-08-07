@@ -1,0 +1,6522 @@
+[
+  {
+    "word": "(grammar) gender",
+    "translation": "род"
+  },
+  {
+    "word": "g",
+    "translation": "соль"
+  },
+  {
+    "word": "g flat",
+    "translation": "соль-бемоль"
+  },
+  {
+    "word": "g sharp",
+    "translation": "соль-диез"
+  },
+  {
+    "word": "g-string",
+    "translation": "стринги"
+  },
+  {
+    "word": "gab",
+    "translation": "краснобайство"
+  },
+  {
+    "word": "gabardine",
+    "translation": "габардиновый"
+  },
+  {
+    "word": "gabble",
+    "translation": "тараторить, трескотня"
+  },
+  {
+    "word": "gabble away",
+    "translation": "барабанить"
+  },
+  {
+    "word": "gabion",
+    "translation": "тур"
+  },
+  {
+    "word": "gad",
+    "translation": "шляться"
+  },
+  {
+    "word": "gad about",
+    "translation": "потащиться, колобродить"
+  },
+  {
+    "word": "gadfly",
+    "translation": "овод, слепень"
+  },
+  {
+    "word": "gadget",
+    "translation": "приспособление"
+  },
+  {
+    "word": "gaff",
+    "translation": "багор, багрить"
+  },
+  {
+    "word": "gaffe",
+    "translation": "неловкость"
+  },
+  {
+    "word": "gaffing",
+    "translation": "багренье"
+  },
+  {
+    "word": "gag",
+    "translation": "поперхнуться, кляп, отсебятина"
+  },
+  {
+    "word": "gaiety",
+    "translation": "весёлость, веселье"
+  },
+  {
+    "word": "gain",
+    "translation": "приобретать, наживать, приобретение, выгода, располагать, одерживать, набрать, выгадывать, разжива, выручка..., выручать, выигрыш, барыш, прибыль..."
+  },
+  {
+    "word": "gain a foothold",
+    "translation": "утверждаться"
+  },
+  {
+    "word": "gain an understanding",
+    "translation": "разбираться"
+  },
+  {
+    "word": "gain by a lawsuit",
+    "translation": "оттяпывать, оттягать"
+  },
+  {
+    "word": "gain by selling",
+    "translation": "наторговать"
+  },
+  {
+    "word": "gain entry to",
+    "translation": "сунуться"
+  },
+  {
+    "word": "gain in breadth",
+    "translation": "расширяться"
+  },
+  {
+    "word": "gain in strength",
+    "translation": "возмужать"
+  },
+  {
+    "word": "gain independence",
+    "translation": "самоопределяться"
+  },
+  {
+    "word": "gain on",
+    "translation": "нагнать"
+  },
+  {
+    "word": "gain strength",
+    "translation": "упрочиваться, усиливаться"
+  },
+  {
+    "word": "gain weight",
+    "translation": "поправляться, растолстеть, тяжелеть"
+  },
+  {
+    "word": "gainful",
+    "translation": "самодеятельный"
+  },
+  {
+    "word": "gains",
+    "translation": "завоевание"
+  },
+  {
+    "word": "gainsay",
+    "translation": "противоречить"
+  },
+  {
+    "word": "gait",
+    "translation": "походка, побежка"
+  },
+  {
+    "word": "gaiter",
+    "translation": "гамаша"
+  },
+  {
+    "word": "gaiters",
+    "translation": "гетры"
+  },
+  {
+    "word": "gala",
+    "translation": "гала, парадный, торжественный"
+  },
+  {
+    "word": "galactic",
+    "translation": "галактический"
+  },
+  {
+    "word": "galalith",
+    "translation": "галалит"
+  },
+  {
+    "word": "galantine",
+    "translation": "студень"
+  },
+  {
+    "word": "galaxy",
+    "translation": "цветник, галактика, плеяда"
+  },
+  {
+    "word": "gale",
+    "translation": "буря"
+  },
+  {
+    "word": "galena",
+    "translation": "галенит"
+  },
+  {
+    "word": "gall",
+    "translation": "желчь"
+  },
+  {
+    "word": "gall-fly",
+    "translation": "орехотворка"
+  },
+  {
+    "word": "gallant",
+    "translation": "храбрый, отважный, галантный, галантерейный, бравый"
+  },
+  {
+    "word": "gallantry",
+    "translation": "галантерейность, галантность"
+  },
+  {
+    "word": "gallery",
+    "translation": "раёк, штольня, галёрка"
+  },
+  {
+    "word": "galley",
+    "translation": "галера, камбуз, кухня, гранка"
+  },
+  {
+    "word": "galley-proof",
+    "translation": "гранка"
+  },
+  {
+    "word": "gallic",
+    "translation": "галльский"
+  },
+  {
+    "word": "gallicism",
+    "translation": "галлицизм"
+  },
+  {
+    "word": "gallicize",
+    "translation": "офранцузить"
+  },
+  {
+    "word": "gallinaceae",
+    "translation": "куриные"
+  },
+  {
+    "word": "gallium",
+    "translation": "галлий"
+  },
+  {
+    "word": "gallomania",
+    "translation": "галломания"
+  },
+  {
+    "word": "gallon",
+    "translation": "галлон"
+  },
+  {
+    "word": "galloon",
+    "translation": "басон, позумент, галун"
+  },
+  {
+    "word": "gallop",
+    "translation": "намёт, галопировать, отскакать, галоп, доскакать, скакать"
+  },
+  {
+    "word": "gallop round",
+    "translation": "обскакивать"
+  },
+  {
+    "word": "gallophil",
+    "translation": "галломан"
+  },
+  {
+    "word": "gallophobe",
+    "translation": "галлофоб"
+  },
+  {
+    "word": "gallows",
+    "translation": "виселица"
+  },
+  {
+    "word": "gallows-bird",
+    "translation": "висельник"
+  },
+  {
+    "word": "galop",
+    "translation": "галоп"
+  },
+  {
+    "word": "galosh",
+    "translation": "галоша"
+  },
+  {
+    "word": "galvanic",
+    "translation": "гальванический"
+  },
+  {
+    "word": "galvanism",
+    "translation": "гальванизм"
+  },
+  {
+    "word": "galvanization",
+    "translation": "гальванизация"
+  },
+  {
+    "word": "galvanize",
+    "translation": "гальванизировать, оцинковывать"
+  },
+  {
+    "word": "galvanometer",
+    "translation": "гальванометр"
+  },
+  {
+    "word": "galvanoplastics",
+    "translation": "гальванопластика"
+  },
+  {
+    "word": "galvanoscope",
+    "translation": "гальваноскоп"
+  },
+  {
+    "word": "galvanotechnics",
+    "translation": "гальванотехника"
+  },
+  {
+    "word": "galvanotherapeutics",
+    "translation": "гальванотерапия"
+  },
+  {
+    "word": "gambit",
+    "translation": "гамбит"
+  },
+  {
+    "word": "gamble",
+    "translation": "авантюра"
+  },
+  {
+    "word": "gambler",
+    "translation": "картёжник, игрок"
+  },
+  {
+    "word": "gambling",
+    "translation": "картёжный, игорный"
+  },
+  {
+    "word": "gambling-house",
+    "translation": "казино"
+  },
+  {
+    "word": "gambol",
+    "translation": "порезвиться, резвиться"
+  },
+  {
+    "word": "game",
+    "translation": "дичь, партия, кон, игра"
+  },
+  {
+    "word": "game shooting",
+    "translation": "отстрел"
+  },
+  {
+    "word": "gamebird",
+    "translation": "дичь"
+  },
+  {
+    "word": "games store",
+    "translation": "игротека"
+  },
+  {
+    "word": "gaming",
+    "translation": "игорный"
+  },
+  {
+    "word": "gamma",
+    "translation": "гамма"
+  },
+  {
+    "word": "gamma globulin",
+    "translation": "гамма-глобулин"
+  },
+  {
+    "word": "gamma-radiation",
+    "translation": "гамма-излучение"
+  },
+  {
+    "word": "gamma-radiator",
+    "translation": "гамма-излучатель"
+  },
+  {
+    "word": "gamma-rays",
+    "translation": "гамма-лучи"
+  },
+  {
+    "word": "gammon",
+    "translation": "окорок"
+  },
+  {
+    "word": "gamut",
+    "translation": "гамма"
+  },
+  {
+    "word": "gander",
+    "translation": "гусак"
+  },
+  {
+    "word": "gang",
+    "translation": "банда, лавочка, шайка, свора"
+  },
+  {
+    "word": "gang-board",
+    "translation": "сходни"
+  },
+  {
+    "word": "gang-plank",
+    "translation": "сходни"
+  },
+  {
+    "word": "ganglion",
+    "translation": "ганглий"
+  },
+  {
+    "word": "gangplank",
+    "translation": "сходня"
+  },
+  {
+    "word": "gangrene",
+    "translation": "гангрена"
+  },
+  {
+    "word": "gangrenous",
+    "translation": "гангренозный"
+  },
+  {
+    "word": "gangster",
+    "translation": "бандитский, гангстер, бандит"
+  },
+  {
+    "word": "gangsterism",
+    "translation": "гангстеризм"
+  },
+  {
+    "word": "gangway",
+    "translation": "сходни, проход"
+  },
+  {
+    "word": "gangway plank",
+    "translation": "мостки"
+  },
+  {
+    "word": "gantry",
+    "translation": "портальный"
+  },
+  {
+    "word": "gaol",
+    "translation": "тюрьма, острог"
+  },
+  {
+    "word": "gaoler",
+    "translation": "тюремщик"
+  },
+  {
+    "word": "gap",
+    "translation": "пропуск, пробел, пролом, брешь, разрыв, просвет, провал, огрех, прогалина..."
+  },
+  {
+    "word": "gap-toothed",
+    "translation": "щербатый"
+  },
+  {
+    "word": "gape",
+    "translation": "зазеваться, зиять, разверзаться, глазеть, зевать"
+  },
+  {
+    "word": "gaper",
+    "translation": "ворона, ротозей, зевака"
+  },
+  {
+    "word": "gaping",
+    "translation": "зияющий, зияние, разверстый"
+  },
+  {
+    "word": "garage",
+    "translation": "гараж, автогараж"
+  },
+  {
+    "word": "garb",
+    "translation": "одеяние"
+  },
+  {
+    "word": "garbage",
+    "translation": "отбросы, мусор"
+  },
+  {
+    "word": "garbage can",
+    "translation": "помойка"
+  },
+  {
+    "word": "garbage chute",
+    "translation": "мусоропровод"
+  },
+  {
+    "word": "garble",
+    "translation": "переврать, подтасовывать"
+  },
+  {
+    "word": "garbling",
+    "translation": "подтасовка"
+  },
+  {
+    "word": "garden",
+    "translation": "сад, садовый, огород"
+  },
+  {
+    "word": "garden onion",
+    "translation": "репчатый лук"
+  },
+  {
+    "word": "garden or patch of land",
+    "translation": "грядка"
+  },
+  {
+    "word": "garden radish",
+    "translation": "редис"
+  },
+  {
+    "word": "garden-city",
+    "translation": "город-сад"
+  },
+  {
+    "word": "garden-spider",
+    "translation": "крестовик"
+  },
+  {
+    "word": "gardener",
+    "translation": "садовница, садовод"
+  },
+  {
+    "word": "gardening",
+    "translation": "садоводческий, садоводство"
+  },
+  {
+    "word": "gargle",
+    "translation": "прополаскивать, полоскание"
+  },
+  {
+    "word": "gargling",
+    "translation": "полоскание"
+  },
+  {
+    "word": "garish",
+    "translation": "броский, крикливый"
+  },
+  {
+    "word": "garland",
+    "translation": "гирлянда, венок"
+  },
+  {
+    "word": "garlic",
+    "translation": "чеснок"
+  },
+  {
+    "word": "garment",
+    "translation": "одеяние"
+  },
+  {
+    "word": "garments",
+    "translation": "одежда"
+  },
+  {
+    "word": "garnet",
+    "translation": "гранат, гранатовый"
+  },
+  {
+    "word": "garnish",
+    "translation": "уснащать, гарнир"
+  },
+  {
+    "word": "garret",
+    "translation": "мансарда"
+  },
+  {
+    "word": "garrison",
+    "translation": "гарнизон"
+  },
+  {
+    "word": "garrulity",
+    "translation": "болтливость, многоречивость, говорливость"
+  },
+  {
+    "word": "garrulous",
+    "translation": "болтливый, многоречивый, говорливый, словоохотливый"
+  },
+  {
+    "word": "garter",
+    "translation": "подвязка"
+  },
+  {
+    "word": "gas",
+    "translation": "химический, газовый, газ"
+  },
+  {
+    "word": "gas cylinder",
+    "translation": "газобаллон"
+  },
+  {
+    "word": "gas main",
+    "translation": "газопровод"
+  },
+  {
+    "word": "gas mantle",
+    "translation": "колпачок"
+  },
+  {
+    "word": "gas meter",
+    "translation": "газомер"
+  },
+  {
+    "word": "gas pipeline",
+    "translation": "газопровод"
+  },
+  {
+    "word": "gas projector",
+    "translation": "газомёт"
+  },
+  {
+    "word": "gas station",
+    "translation": "заправка, бензоколонка"
+  },
+  {
+    "word": "gas-bag",
+    "translation": "болтун"
+  },
+  {
+    "word": "gas-check",
+    "translation": "обтюратор"
+  },
+  {
+    "word": "gas-defence",
+    "translation": "противогазовый"
+  },
+  {
+    "word": "gas-engine",
+    "translation": "газомотор"
+  },
+  {
+    "word": "gas-filter",
+    "translation": "газовщик"
+  },
+  {
+    "word": "gas-fittings",
+    "translation": "газоаппаратура"
+  },
+  {
+    "word": "gas-generation",
+    "translation": "газообразование"
+  },
+  {
+    "word": "gas-holder",
+    "translation": "газохранилище"
+  },
+  {
+    "word": "gas-man",
+    "translation": "газовщик"
+  },
+  {
+    "word": "gas-mask",
+    "translation": "противогаз"
+  },
+  {
+    "word": "gas-penetrability",
+    "translation": "газопроницаемость"
+  },
+  {
+    "word": "gas-penetrating",
+    "translation": "газопроницаемый"
+  },
+  {
+    "word": "gas-proof",
+    "translation": "газонепроницаемый"
+  },
+  {
+    "word": "gas-proof shelter",
+    "translation": "газоубежище"
+  },
+  {
+    "word": "gas-stove burner",
+    "translation": "горелка"
+  },
+  {
+    "word": "gas-tight",
+    "translation": "газонепроницаемый"
+  },
+  {
+    "word": "gas-washer",
+    "translation": "газоочиститель"
+  },
+  {
+    "word": "gaseous",
+    "translation": "газообразный"
+  },
+  {
+    "word": "gasification",
+    "translation": "газообразование, газификация"
+  },
+  {
+    "word": "gasiform",
+    "translation": "газообразный"
+  },
+  {
+    "word": "gasify",
+    "translation": "газифицировать"
+  },
+  {
+    "word": "gasket",
+    "translation": "прокладка"
+  },
+  {
+    "word": "gasolene",
+    "translation": "газолин"
+  },
+  {
+    "word": "gasoline",
+    "translation": "газолин, бензин"
+  },
+  {
+    "word": "gasoline shovel",
+    "translation": "мотолопата"
+  },
+  {
+    "word": "gasoline tank",
+    "translation": "бензобак"
+  },
+  {
+    "word": "gasometer",
+    "translation": "газохранилище"
+  },
+  {
+    "word": "gasp",
+    "translation": "задохнуться, ахать"
+  },
+  {
+    "word": "gassed",
+    "translation": "загазованный"
+  },
+  {
+    "word": "gasteropods",
+    "translation": "брюхоногие"
+  },
+  {
+    "word": "gastric",
+    "translation": "гастрический, желудочный"
+  },
+  {
+    "word": "gastritis",
+    "translation": "гастрит"
+  },
+  {
+    "word": "gastronome",
+    "translation": "гастроном"
+  },
+  {
+    "word": "gastronomic",
+    "translation": "гастрономический"
+  },
+  {
+    "word": "gastronomy",
+    "translation": "гастрономия"
+  },
+  {
+    "word": "gate",
+    "translation": "врата, ворота, застава"
+  },
+  {
+    "word": "gate-crasher",
+    "translation": "заяц"
+  },
+  {
+    "word": "gates",
+    "translation": "ворота, застава"
+  },
+  {
+    "word": "gateway",
+    "translation": "подворотня"
+  },
+  {
+    "word": "gather",
+    "translation": "скапливаться, сзывать, сбегаться, стекаться, собраться, собирать, набирать, нарывать, съезжаться, сойтись..."
+  },
+  {
+    "word": "gather additionally",
+    "translation": "добрать"
+  },
+  {
+    "word": "gather in",
+    "translation": "загребать"
+  },
+  {
+    "word": "gather momentum",
+    "translation": "усиливаться, разгоняться, раскатиться"
+  },
+  {
+    "word": "gather round",
+    "translation": "окружать"
+  },
+  {
+    "word": "gather speed",
+    "translation": "разгоняться"
+  },
+  {
+    "word": "gathered",
+    "translation": "собранный"
+  },
+  {
+    "word": "gatherer",
+    "translation": "собирательница"
+  },
+  {
+    "word": "gathering",
+    "translation": "скопление, сбор, слёт, сход, скопище, сходка, собрание..."
+  },
+  {
+    "word": "gathering in",
+    "translation": "уборка"
+  },
+  {
+    "word": "gathering) to go off",
+    "translation": "проходить"
+  },
+  {
+    "word": "gathers",
+    "translation": "сборки"
+  },
+  {
+    "word": "gaudy",
+    "translation": "яркий, броский"
+  },
+  {
+    "word": "gauge",
+    "translation": "калибр, замерить, измеритель, лекало, колея"
+  },
+  {
+    "word": "gauger",
+    "translation": "лекальщик"
+  },
+  {
+    "word": "gaul",
+    "translation": "галл"
+  },
+  {
+    "word": "gaunt",
+    "translation": "костлявый"
+  },
+  {
+    "word": "gauntlet",
+    "translation": "рукавица"
+  },
+  {
+    "word": "gauze",
+    "translation": "газ, марля, сетка"
+  },
+  {
+    "word": "gavotte",
+    "translation": "гавот"
+  },
+  {
+    "word": "gawk",
+    "translation": "ворона, ротозей"
+  },
+  {
+    "word": "gay",
+    "translation": "голубой, пёстрый"
+  },
+  {
+    "word": "gay-coloured",
+    "translation": "пёстрый"
+  },
+  {
+    "word": "gaze",
+    "translation": "взирать, взгляд, узреть"
+  },
+  {
+    "word": "gazebo",
+    "translation": "беседка"
+  },
+  {
+    "word": "gazelle",
+    "translation": "газель"
+  },
+  {
+    "word": "gazette",
+    "translation": "ведомость"
+  },
+  {
+    "word": "gear",
+    "translation": "шестерня, зацеплять, барахло, упряжь, механизм, снаряд, упряжка, передача"
+  },
+  {
+    "word": "gearing",
+    "translation": "зацепление"
+  },
+  {
+    "word": "gee-gee",
+    "translation": "лошадка"
+  },
+  {
+    "word": "geek",
+    "translation": "выродок"
+  },
+  {
+    "word": "gehenna",
+    "translation": "геенна"
+  },
+  {
+    "word": "geisha",
+    "translation": "гейша"
+  },
+  {
+    "word": "gel",
+    "translation": "гель"
+  },
+  {
+    "word": "gelatin",
+    "translation": "желатин"
+  },
+  {
+    "word": "gelatinous",
+    "translation": "желатиновый"
+  },
+  {
+    "word": "geld",
+    "translation": "холостить, кастрировать"
+  },
+  {
+    "word": "gelded",
+    "translation": "выхолощенный"
+  },
+  {
+    "word": "gelding",
+    "translation": "мерин"
+  },
+  {
+    "word": "gem",
+    "translation": "гемма, драгоценность"
+  },
+  {
+    "word": "gemini",
+    "translation": "Близнецы"
+  },
+  {
+    "word": "gemma",
+    "translation": "почка"
+  },
+  {
+    "word": "gemmate",
+    "translation": "почковаться, отпочковываться"
+  },
+  {
+    "word": "gemmation",
+    "translation": "почкование"
+  },
+  {
+    "word": "gendarme",
+    "translation": "жандарм"
+  },
+  {
+    "word": "gendarmery",
+    "translation": "жандармерия"
+  },
+  {
+    "word": "gender",
+    "translation": "родовой"
+  },
+  {
+    "word": "gene",
+    "translation": "ген"
+  },
+  {
+    "word": "genealogical",
+    "translation": "генеалогический"
+  },
+  {
+    "word": "genealogy",
+    "translation": "родословный, родословная"
+  },
+  {
+    "word": "general",
+    "translation": "повальный, общий, генерал, поголовный, всеобщий"
+  },
+  {
+    "word": "general compulsory education",
+    "translation": "всеобуч"
+  },
+  {
+    "word": "general conclusion",
+    "translation": "обобщение"
+  },
+  {
+    "word": "general practitioner",
+    "translation": "терапевт"
+  },
+  {
+    "word": "general staff officer",
+    "translation": "генштабист"
+  },
+  {
+    "word": "general theoretic",
+    "translation": "общетеоретический"
+  },
+  {
+    "word": "generalissimo",
+    "translation": "генералиссимус"
+  },
+  {
+    "word": "generalization",
+    "translation": "обобщение"
+  },
+  {
+    "word": "generalize",
+    "translation": "обобщить, обобщать"
+  },
+  {
+    "word": "generalized",
+    "translation": "обобщённый"
+  },
+  {
+    "word": "generally",
+    "translation": "общо, вообще, обычно"
+  },
+  {
+    "word": "generally established",
+    "translation": "общеустановленный"
+  },
+  {
+    "word": "generally used",
+    "translation": "употребительный, общераспространённый"
+  },
+  {
+    "word": "generate",
+    "translation": "образоваться, образовать, производить"
+  },
+  {
+    "word": "generation",
+    "translation": "поколение, род, колено, племя"
+  },
+  {
+    "word": "generator",
+    "translation": "генератор"
+  },
+  {
+    "word": "generic",
+    "translation": "родовой"
+  },
+  {
+    "word": "generosity",
+    "translation": "щедрость, великодушие, благородство"
+  },
+  {
+    "word": "generous",
+    "translation": "щедрый, великодушный"
+  },
+  {
+    "word": "generously",
+    "translation": "щедро, великодушно"
+  },
+  {
+    "word": "genesis",
+    "translation": "генезис"
+  },
+  {
+    "word": "genetic",
+    "translation": "генетический"
+  },
+  {
+    "word": "geneticist",
+    "translation": "генетик"
+  },
+  {
+    "word": "genetics",
+    "translation": "генетика"
+  },
+  {
+    "word": "genetive of \"he\"",
+    "translation": "его"
+  },
+  {
+    "word": "genetive of \"it\"",
+    "translation": "его"
+  },
+  {
+    "word": "genetive of \"she\"",
+    "translation": "её"
+  },
+  {
+    "word": "genetive of \"we\"",
+    "translation": "нас"
+  },
+  {
+    "word": "genetive of \"you\"",
+    "translation": "тебя"
+  },
+  {
+    "word": "genista",
+    "translation": "дрок"
+  },
+  {
+    "word": "genital",
+    "translation": "детородный"
+  },
+  {
+    "word": "genitive of i",
+    "translation": "меня"
+  },
+  {
+    "word": "genito-urinary",
+    "translation": "мочеполовой"
+  },
+  {
+    "word": "genius",
+    "translation": "гений, гениальность"
+  },
+  {
+    "word": "genocide",
+    "translation": "геноцид"
+  },
+  {
+    "word": "genre",
+    "translation": "жанр, род"
+  },
+  {
+    "word": "genre-painter",
+    "translation": "жанрист"
+  },
+  {
+    "word": "genre-painting",
+    "translation": "жанр"
+  },
+  {
+    "word": "gentle",
+    "translation": "пологий, кроткий, незлобивый, мягкий"
+  },
+  {
+    "word": "gentle tenor voice",
+    "translation": "тенорок"
+  },
+  {
+    "word": "gentleman",
+    "translation": "барин, джентльмен, господин"
+  },
+  {
+    "word": "gentlemanly",
+    "translation": "джентльменский"
+  },
+  {
+    "word": "gentlemen",
+    "translation": "господа"
+  },
+  {
+    "word": "gentleness",
+    "translation": "кротость, незлобивость, мягкость"
+  },
+  {
+    "word": "gentlest",
+    "translation": "нежнейший"
+  },
+  {
+    "word": "gently",
+    "translation": "тихо, тихонько, легонько, мягко, слегка"
+  },
+  {
+    "word": "gently sloping",
+    "translation": "пологий"
+  },
+  {
+    "word": "gentry",
+    "translation": "дворянский, дворянство"
+  },
+  {
+    "word": "genuflection",
+    "translation": "коленопреклонение"
+  },
+  {
+    "word": "genuflexion",
+    "translation": "коленопреклонение"
+  },
+  {
+    "word": "genuine",
+    "translation": "подлинный, неподдельный, настоящий"
+  },
+  {
+    "word": "genuineness",
+    "translation": "неподдельность"
+  },
+  {
+    "word": "geobotany",
+    "translation": "геоботаника"
+  },
+  {
+    "word": "geocentric",
+    "translation": "геоцентрический"
+  },
+  {
+    "word": "geocentricism",
+    "translation": "геоцентризм"
+  },
+  {
+    "word": "geochemical",
+    "translation": "геохимический"
+  },
+  {
+    "word": "geochemist",
+    "translation": "геохимик"
+  },
+  {
+    "word": "geochemistry",
+    "translation": "геохимия"
+  },
+  {
+    "word": "geodesic",
+    "translation": "геодезический"
+  },
+  {
+    "word": "geodesy",
+    "translation": "геодезия"
+  },
+  {
+    "word": "geodetic",
+    "translation": "геодезический, землемерный"
+  },
+  {
+    "word": "geographer",
+    "translation": "географ"
+  },
+  {
+    "word": "geographic",
+    "translation": "географический"
+  },
+  {
+    "word": "geography",
+    "translation": "география"
+  },
+  {
+    "word": "geography teacher",
+    "translation": "географ"
+  },
+  {
+    "word": "geological",
+    "translation": "геологический"
+  },
+  {
+    "word": "geological survey",
+    "translation": "геологоразведочный"
+  },
+  {
+    "word": "geologist",
+    "translation": "геолог"
+  },
+  {
+    "word": "geology",
+    "translation": "геология"
+  },
+  {
+    "word": "geometric",
+    "translation": "геометрический"
+  },
+  {
+    "word": "geometrician",
+    "translation": "геометр"
+  },
+  {
+    "word": "geometry",
+    "translation": "геометрия"
+  },
+  {
+    "word": "geomorphology",
+    "translation": "геоморфология"
+  },
+  {
+    "word": "geophysical",
+    "translation": "геофизический"
+  },
+  {
+    "word": "geophysicist",
+    "translation": "геофизик"
+  },
+  {
+    "word": "geophysics",
+    "translation": "геофизика"
+  },
+  {
+    "word": "geopolitics",
+    "translation": "геополитика"
+  },
+  {
+    "word": "georgia",
+    "translation": "Грузия"
+  },
+  {
+    "word": "georgian",
+    "translation": "грузинский"
+  },
+  {
+    "word": "geranium",
+    "translation": "герань"
+  },
+  {
+    "word": "geriatrics",
+    "translation": "гериатрия"
+  },
+  {
+    "word": "germ",
+    "translation": "бактериологический, зародыш"
+  },
+  {
+    "word": "german",
+    "translation": "немецкий, германский, германец"
+  },
+  {
+    "word": "german man",
+    "translation": "немец"
+  },
+  {
+    "word": "german measles",
+    "translation": "краснуха"
+  },
+  {
+    "word": "german silver",
+    "translation": "альпака, мельхиор, мельхиоровый"
+  },
+  {
+    "word": "german wheat",
+    "translation": "полба"
+  },
+  {
+    "word": "german woman",
+    "translation": "немка"
+  },
+  {
+    "word": "germanic",
+    "translation": "германский"
+  },
+  {
+    "word": "germanic philologist",
+    "translation": "германист"
+  },
+  {
+    "word": "germanic philology",
+    "translation": "германистика"
+  },
+  {
+    "word": "germanism",
+    "translation": "германизм"
+  },
+  {
+    "word": "germanist",
+    "translation": "германист"
+  },
+  {
+    "word": "germanium",
+    "translation": "германий"
+  },
+  {
+    "word": "germanization",
+    "translation": "германизация"
+  },
+  {
+    "word": "germanize",
+    "translation": "онемечивать"
+  },
+  {
+    "word": "germanophil",
+    "translation": "германофил"
+  },
+  {
+    "word": "germanophobe",
+    "translation": "германофоб"
+  },
+  {
+    "word": "germany",
+    "translation": "Германия"
+  },
+  {
+    "word": "germinate",
+    "translation": "прорастать"
+  },
+  {
+    "word": "germinating",
+    "translation": "всхожий"
+  },
+  {
+    "word": "germination",
+    "translation": "всхожесть, прорастание"
+  },
+  {
+    "word": "gerontologist",
+    "translation": "геронтолог"
+  },
+  {
+    "word": "gerontology",
+    "translation": "геронтология"
+  },
+  {
+    "word": "gerund",
+    "translation": "герундий"
+  },
+  {
+    "word": "gerundive",
+    "translation": "герундив"
+  },
+  {
+    "word": "gestapo",
+    "translation": "гестапо"
+  },
+  {
+    "word": "gestation",
+    "translation": "вынашивание"
+  },
+  {
+    "word": "gesticulate",
+    "translation": "жестикулировать"
+  },
+  {
+    "word": "gesticulation",
+    "translation": "жестикуляция"
+  },
+  {
+    "word": "gesture",
+    "translation": "телодвижение, жест, мимика"
+  },
+  {
+    "word": "get",
+    "translation": "высаживаться, перебрасываться, попадаться, делаться, заезжать, застукать, перелезать, лазить, лезть..., подъезжать, угодить..."
+  },
+  {
+    "word": "get a bite",
+    "translation": "закусывать"
+  },
+  {
+    "word": "get a fright",
+    "translation": "перепугаться"
+  },
+  {
+    "word": "get a grasp",
+    "translation": "вчитываться"
+  },
+  {
+    "word": "get a place",
+    "translation": "пристраиваться"
+  },
+  {
+    "word": "get a reduction",
+    "translation": "выторговать"
+  },
+  {
+    "word": "get a splinter",
+    "translation": "занозить"
+  },
+  {
+    "word": "get a swelled head",
+    "translation": "возгордиться"
+  },
+  {
+    "word": "get acclimatized",
+    "translation": "приживаться"
+  },
+  {
+    "word": "get accustomed",
+    "translation": "приживаться, притираться"
+  },
+  {
+    "word": "get across",
+    "translation": "переходить"
+  },
+  {
+    "word": "get along",
+    "translation": "справиться, ладить"
+  },
+  {
+    "word": "get along together",
+    "translation": "ужиться"
+  },
+  {
+    "word": "get angry",
+    "translation": "разозлиться, горячиться"
+  },
+  {
+    "word": "get annoyed",
+    "translation": "озлобиться"
+  },
+  {
+    "word": "get around",
+    "translation": "удосуживаться, обходить"
+  },
+  {
+    "word": "get away",
+    "translation": "срываться"
+  },
+  {
+    "word": "get back",
+    "translation": "возвратить"
+  },
+  {
+    "word": "get back what one has lost",
+    "translation": "отыгрываться"
+  },
+  {
+    "word": "get be demobilized",
+    "translation": "демобилизоваться"
+  },
+  {
+    "word": "get be rolled up",
+    "translation": "скататься"
+  },
+  {
+    "word": "get become equal",
+    "translation": "уравниваться"
+  },
+  {
+    "word": "get become tousled",
+    "translation": "лохматиться"
+  },
+  {
+    "word": "get better",
+    "translation": "выздоравливать, легчать"
+  },
+  {
+    "word": "get better. get over",
+    "translation": "переболеть"
+  },
+  {
+    "word": "get bogged down",
+    "translation": "увязнуть"
+  },
+  {
+    "word": "get buried",
+    "translation": "засыпаться"
+  },
+  {
+    "word": "get burning hot",
+    "translation": "распаляться"
+  },
+  {
+    "word": "get by",
+    "translation": "перебиваться, обёртываться"
+  },
+  {
+    "word": "get by pleading",
+    "translation": "вымолить"
+  },
+  {
+    "word": "get carbon monoxide poisoning",
+    "translation": "угорать"
+  },
+  {
+    "word": "get carried away by a conversation",
+    "translation": "заговориться"
+  },
+  {
+    "word": "get caught",
+    "translation": "влипать, застревать"
+  },
+  {
+    "word": "get cemented",
+    "translation": "зацементировать"
+  },
+  {
+    "word": "get change",
+    "translation": "наменять"
+  },
+  {
+    "word": "get cold",
+    "translation": "простывать, остынуть"
+  },
+  {
+    "word": "get cold feet",
+    "translation": "струсить"
+  },
+  {
+    "word": "get completely drunk",
+    "translation": "перепиться"
+  },
+  {
+    "word": "get completely frozen",
+    "translation": "обморозить"
+  },
+  {
+    "word": "get conceited",
+    "translation": "возгордиться"
+  },
+  {
+    "word": "get confused",
+    "translation": "перепутываться, путаться"
+  },
+  {
+    "word": "get covered",
+    "translation": "покрываться"
+  },
+  {
+    "word": "get covered with mud",
+    "translation": "грязнеть"
+  },
+  {
+    "word": "get cranky",
+    "translation": "чокнуться"
+  },
+  {
+    "word": "get current",
+    "translation": "нагнать"
+  },
+  {
+    "word": "get deeper",
+    "translation": "углубляться"
+  },
+  {
+    "word": "get detached",
+    "translation": "отделяться"
+  },
+  {
+    "word": "get dirty",
+    "translation": "измазаться, вымарываться"
+  },
+  {
+    "word": "get down",
+    "translation": "запрягаться, скручивать"
+  },
+  {
+    "word": "get dried",
+    "translation": "сушиться"
+  },
+  {
+    "word": "get drowsy",
+    "translation": "задремать"
+  },
+  {
+    "word": "get drunk",
+    "translation": "набухаться, напиваться, упиться"
+  },
+  {
+    "word": "get dry",
+    "translation": "обсушиваться, пересыхать, сохнуть, просыхать, подсыхать"
+  },
+  {
+    "word": "get employment",
+    "translation": "определяться"
+  },
+  {
+    "word": "get enough sleep",
+    "translation": "высыпаться"
+  },
+  {
+    "word": "get enraged",
+    "translation": "взбелениться"
+  },
+  {
+    "word": "get entangled",
+    "translation": "перепутываться"
+  },
+  {
+    "word": "get even",
+    "translation": "поквитаться, расплачиваться, рассчитываться, счесться, расквитаться"
+  },
+  {
+    "word": "get excited",
+    "translation": "кипятиться, горячиться, переполошиться"
+  },
+  {
+    "word": "get fat",
+    "translation": "растолстеть"
+  },
+  {
+    "word": "get firmly established",
+    "translation": "крепнуть"
+  },
+  {
+    "word": "get frayed",
+    "translation": "протираться"
+  },
+  {
+    "word": "get frightened",
+    "translation": "перепугаться, сробеть"
+  },
+  {
+    "word": "get furious",
+    "translation": "беситься"
+  },
+  {
+    "word": "get going",
+    "translation": "залаживаться"
+  },
+  {
+    "word": "get ground",
+    "translation": "притираться"
+  },
+  {
+    "word": "get healthy",
+    "translation": "поправляться"
+  },
+  {
+    "word": "get heated",
+    "translation": "погорячиться"
+  },
+  {
+    "word": "get hold",
+    "translation": "зацеплять, нахватать, заполучить, разживаться"
+  },
+  {
+    "word": "get hook",
+    "translation": "подсаживать"
+  },
+  {
+    "word": "get hungry",
+    "translation": "проголодаться"
+  },
+  {
+    "word": "get ill",
+    "translation": "расшибиться"
+  },
+  {
+    "word": "get in",
+    "translation": "влезать, утрясаться, садиться"
+  },
+  {
+    "word": "get in touch over the telephone",
+    "translation": "созваниваться"
+  },
+  {
+    "word": "get in troubles",
+    "translation": "вляпаться"
+  },
+  {
+    "word": "get into",
+    "translation": "упариваться, ввязаться"
+  },
+  {
+    "word": "get into a fury",
+    "translation": "разбуяниться"
+  },
+  {
+    "word": "get into a rage",
+    "translation": "рассвирепеть"
+  },
+  {
+    "word": "get into a scrape",
+    "translation": "засыпаться"
+  },
+  {
+    "word": "get into a state of nerves",
+    "translation": "изнервничаться"
+  },
+  {
+    "word": "get into a temper",
+    "translation": "ершиться"
+  },
+  {
+    "word": "get into a writing vein",
+    "translation": "расписываться"
+  },
+  {
+    "word": "get into an awkward situation",
+    "translation": "влопаться"
+  },
+  {
+    "word": "get into the swing",
+    "translation": "раскачиваться"
+  },
+  {
+    "word": "get intoxicated",
+    "translation": "пьянеть"
+  },
+  {
+    "word": "get involved",
+    "translation": "ввязаться, замешаться"
+  },
+  {
+    "word": "get irritated",
+    "translation": "озлобиться"
+  },
+  {
+    "word": "get killed",
+    "translation": "погибать"
+  },
+  {
+    "word": "get loose",
+    "translation": "отвязываться"
+  },
+  {
+    "word": "get lost",
+    "translation": "теряться, пропасть, запропасть, заблудиться, деваться"
+  },
+  {
+    "word": "get lost in",
+    "translation": "заиграться"
+  },
+  {
+    "word": "get mad",
+    "translation": "остервенеть, взбелениться"
+  },
+  {
+    "word": "get married",
+    "translation": "венчаться, обвенчаться, пожениться"
+  },
+  {
+    "word": "get mashed",
+    "translation": "разминаться"
+  },
+  {
+    "word": "get mixed up",
+    "translation": "перемешиваться, путаться, замешивать"
+  },
+  {
+    "word": "get muddled",
+    "translation": "переврать"
+  },
+  {
+    "word": "get noisy",
+    "translation": "расшуметься"
+  },
+  {
+    "word": "get off",
+    "translation": "сойти, слезть, отделываться, отбрыкиваться, отвертеться"
+  },
+  {
+    "word": "get off with a jerk",
+    "translation": "рвануть"
+  },
+  {
+    "word": "get on",
+    "translation": "поладить, ладить, ужиться, напяливать"
+  },
+  {
+    "word": "get on fire",
+    "translation": "загореться"
+  },
+  {
+    "word": "get on the right side",
+    "translation": "подъезжать"
+  },
+  {
+    "word": "get on well",
+    "translation": "успевать"
+  },
+  {
+    "word": "get ones hands on",
+    "translation": "заполучить"
+  },
+  {
+    "word": "get oneself",
+    "translation": "заполучить, устроиться"
+  },
+  {
+    "word": "get oneself dirty",
+    "translation": "замараться"
+  },
+  {
+    "word": "get oneself into a mess",
+    "translation": "допрыгаться"
+  },
+  {
+    "word": "get oneself up",
+    "translation": "приодеться"
+  },
+  {
+    "word": "get out",
+    "translation": "вылавливать, вылезти, слезть, проваливать, выпрастывать, валить, выбираться, самоустраняться, выйти, выплеснуть..."
+  },
+  {
+    "word": "get out of",
+    "translation": "откручиваться"
+  },
+  {
+    "word": "get out of hand",
+    "translation": "разбалтываться"
+  },
+  {
+    "word": "get out of order",
+    "translation": "разлаживаться"
+  },
+  {
+    "word": "get out of the habit",
+    "translation": "отвыкать"
+  },
+  {
+    "word": "get over",
+    "translation": "вылечиваться, перелезать, переходить, перебираться, преодолевать, выкарабкиваться"
+  },
+  {
+    "word": "get permission to stay away",
+    "translation": "отпрашиваться"
+  },
+  {
+    "word": "get pinched",
+    "translation": "осунуться"
+  },
+  {
+    "word": "get plenty of trouble",
+    "translation": "наплакаться"
+  },
+  {
+    "word": "get ready",
+    "translation": "снаряжаться, подготовиться, изготовиться, подготавливаться"
+  },
+  {
+    "word": "get red in the face",
+    "translation": "раскраснеться"
+  },
+  {
+    "word": "get registered",
+    "translation": "прописываться"
+  },
+  {
+    "word": "get reinsured",
+    "translation": "перестраховываться"
+  },
+  {
+    "word": "get rich",
+    "translation": "разживаться"
+  },
+  {
+    "word": "get rid",
+    "translation": "отвязываться, сплавлять, избавиться, отбояриваться, изживать, избавляться, отделываться, сбывать, спихивать..."
+  },
+  {
+    "word": "get rid of",
+    "translation": "отфутболивать"
+  },
+  {
+    "word": "get rid of a petitioner by telling him to apply elsewhere",
+    "translation": "отфутболивать"
+  },
+  {
+    "word": "get right",
+    "translation": "налаживаться"
+  },
+  {
+    "word": "get round",
+    "translation": "оплетать"
+  },
+  {
+    "word": "get roused",
+    "translation": "заволноваться"
+  },
+  {
+    "word": "get scattered",
+    "translation": "распыляться"
+  },
+  {
+    "word": "get scratched all over",
+    "translation": "исцарапаться"
+  },
+  {
+    "word": "get settled",
+    "translation": "улаживаться, устраиваться"
+  },
+  {
+    "word": "get sick",
+    "translation": "заболевать, заболеть"
+  },
+  {
+    "word": "get smeared",
+    "translation": "размазываться"
+  },
+  {
+    "word": "get smoothed out",
+    "translation": "расправляться"
+  },
+  {
+    "word": "get soaked",
+    "translation": "размокнуть"
+  },
+  {
+    "word": "get sober",
+    "translation": "протрезвляться"
+  },
+  {
+    "word": "get sodden",
+    "translation": "размокнуть"
+  },
+  {
+    "word": "get some energy",
+    "translation": "бодриться"
+  },
+  {
+    "word": "get some more sleep",
+    "translation": "досыпать"
+  },
+  {
+    "word": "get sozzled",
+    "translation": "накачиваться, наклюкаться"
+  },
+  {
+    "word": "get spilled",
+    "translation": "просыпаться"
+  },
+  {
+    "word": "get stale",
+    "translation": "зачерстветь"
+  },
+  {
+    "word": "get started",
+    "translation": "приступать"
+  },
+  {
+    "word": "get steamed thoroughly",
+    "translation": "пропариваться"
+  },
+  {
+    "word": "get stronger",
+    "translation": "крепнуть"
+  },
+  {
+    "word": "get stuck",
+    "translation": "споткнуться, завязнуть, спотыкаться"
+  },
+  {
+    "word": "get swollen",
+    "translation": "заплывать"
+  },
+  {
+    "word": "get talking",
+    "translation": "разговорить"
+  },
+  {
+    "word": "get tangled",
+    "translation": "сваляться, путаться"
+  },
+  {
+    "word": "get tangled up",
+    "translation": "замешаться"
+  },
+  {
+    "word": "get the better",
+    "translation": "совладать, справляться, преодолевать"
+  },
+  {
+    "word": "get the habit",
+    "translation": "повадиться"
+  },
+  {
+    "word": "get the hang",
+    "translation": "наловчиться"
+  },
+  {
+    "word": "get the hang of things",
+    "translation": "подключаться"
+  },
+  {
+    "word": "get thin",
+    "translation": "редеть"
+  },
+  {
+    "word": "get through",
+    "translation": "пролезать, переболеть"
+  },
+  {
+    "word": "get through to",
+    "translation": "пронимать"
+  },
+  {
+    "word": "get tight",
+    "translation": "хмелеть, напиваться"
+  },
+  {
+    "word": "get tired",
+    "translation": "умаяться, уставать"
+  },
+  {
+    "word": "get tired a little",
+    "translation": "притомиться"
+  },
+  {
+    "word": "get to",
+    "translation": "задеваться, пройти, деться, деваться, дойти"
+  },
+  {
+    "word": "get to give one",
+    "translation": "выпрашивать"
+  },
+  {
+    "word": "get to know",
+    "translation": "узнать, познавать, знакомиться"
+  },
+  {
+    "word": "get to the bottom",
+    "translation": "докапываться"
+  },
+  {
+    "word": "get to the top",
+    "translation": "переваливать"
+  },
+  {
+    "word": "get too dry",
+    "translation": "пересыхать"
+  },
+  {
+    "word": "get twisted in",
+    "translation": "впутываться"
+  },
+  {
+    "word": "get unloaded",
+    "translation": "разгружаться"
+  },
+  {
+    "word": "get untied",
+    "translation": "развязываться"
+  },
+  {
+    "word": "get up",
+    "translation": "налетать, вставать, встать, обряжать, крепчать, оформлять, облачать, громоздиться"
+  },
+  {
+    "word": "get up to mischief",
+    "translation": "бедокурить, расшалиться"
+  },
+  {
+    "word": "get used",
+    "translation": "притираться, свыкаться, стерпеться"
+  },
+  {
+    "word": "get used to",
+    "translation": "привыкать"
+  },
+  {
+    "word": "get violent",
+    "translation": "разбуяниться, буйствовать"
+  },
+  {
+    "word": "get warm",
+    "translation": "нагреваться, теплеть, согреваться"
+  },
+  {
+    "word": "get warmed thoroughly",
+    "translation": "прогреваться"
+  },
+  {
+    "word": "get well",
+    "translation": "поправляться"
+  },
+  {
+    "word": "get wet",
+    "translation": "мокнуть, отмокать"
+  },
+  {
+    "word": "get wet soaked",
+    "translation": "взмокнуть"
+  },
+  {
+    "word": "get wind",
+    "translation": "пронюхивать"
+  },
+  {
+    "word": "get worked up",
+    "translation": "погорячиться, заводиться"
+  },
+  {
+    "word": "get worn out",
+    "translation": "потрепаться"
+  },
+  {
+    "word": "get-together",
+    "translation": "посиделки"
+  },
+  {
+    "word": "getting",
+    "translation": "добывание"
+  },
+  {
+    "word": "getting warmer",
+    "translation": "потепление"
+  },
+  {
+    "word": "geyser",
+    "translation": "колонка, гейзер"
+  },
+  {
+    "word": "ghanaian",
+    "translation": "ганский"
+  },
+  {
+    "word": "ghastly",
+    "translation": "мертвенный"
+  },
+  {
+    "word": "gherkin",
+    "translation": "корнишон"
+  },
+  {
+    "word": "gherkins",
+    "translation": "винегрет"
+  },
+  {
+    "word": "ghetto",
+    "translation": "гетто"
+  },
+  {
+    "word": "ghibelline",
+    "translation": "гибеллин"
+  },
+  {
+    "word": "ghost",
+    "translation": "приведение, тень, привидение, призрак, дух"
+  },
+  {
+    "word": "ghostly",
+    "translation": "призрачный"
+  },
+  {
+    "word": "giant",
+    "translation": "исполин"
+  },
+  {
+    "word": "giant factory",
+    "translation": "завод-гигант"
+  },
+  {
+    "word": "giantess",
+    "translation": "великанша"
+  },
+  {
+    "word": "giaour",
+    "translation": "гяур"
+  },
+  {
+    "word": "gibberish",
+    "translation": "бред, тарабарщина"
+  },
+  {
+    "word": "gibbet",
+    "translation": "виселица"
+  },
+  {
+    "word": "gibbon",
+    "translation": "гиббон"
+  },
+  {
+    "word": "gibe",
+    "translation": "насмехаться, глумиться, насмешка"
+  },
+  {
+    "word": "gibing",
+    "translation": "глумление, глумливый"
+  },
+  {
+    "word": "giblets",
+    "translation": "потроха"
+  },
+  {
+    "word": "giddiness",
+    "translation": "головокружение"
+  },
+  {
+    "word": "giddy",
+    "translation": "головокружительный, ветреный"
+  },
+  {
+    "word": "giddy person",
+    "translation": "вертопрах"
+  },
+  {
+    "word": "gift",
+    "translation": "дар, дарование, приношение, подношение, преподношение, талант"
+  },
+  {
+    "word": "gifted",
+    "translation": "даровитый, талантливый"
+  },
+  {
+    "word": "gifted nature",
+    "translation": "талантливость"
+  },
+  {
+    "word": "gifted person",
+    "translation": "талант"
+  },
+  {
+    "word": "giftedness",
+    "translation": "даровитость, талантливость"
+  },
+  {
+    "word": "gifts",
+    "translation": "одарённость"
+  },
+  {
+    "word": "gig",
+    "translation": "таратайка, одноколка"
+  },
+  {
+    "word": "gigantic",
+    "translation": "исполинский, гигантский"
+  },
+  {
+    "word": "gigantomania",
+    "translation": "гигантомания"
+  },
+  {
+    "word": "giggle",
+    "translation": "смешок, хихикнуть"
+  },
+  {
+    "word": "giggling",
+    "translation": "хихиканье"
+  },
+  {
+    "word": "gild",
+    "translation": "золотить"
+  },
+  {
+    "word": "gilded",
+    "translation": "золочёный"
+  },
+  {
+    "word": "gilding",
+    "translation": "золочение, позолота"
+  },
+  {
+    "word": "gills",
+    "translation": "жабры"
+  },
+  {
+    "word": "gillyflower",
+    "translation": "левкой"
+  },
+  {
+    "word": "gilt",
+    "translation": "золочёный, позолота, вызолоченный"
+  },
+  {
+    "word": "gimlet",
+    "translation": "буравчик, бурав"
+  },
+  {
+    "word": "gin",
+    "translation": "джин"
+  },
+  {
+    "word": "ginger",
+    "translation": "имбирь, рыжий"
+  },
+  {
+    "word": "gingerbread",
+    "translation": "коврижка"
+  },
+  {
+    "word": "gingerbread man",
+    "translation": "колобок"
+  },
+  {
+    "word": "gingerly",
+    "translation": "осторожно"
+  },
+  {
+    "word": "gingival",
+    "translation": "дёсенный"
+  },
+  {
+    "word": "ginseng",
+    "translation": "женьшень"
+  },
+  {
+    "word": "gipsy",
+    "translation": "таборный"
+  },
+  {
+    "word": "giraffe",
+    "translation": "жираф"
+  },
+  {
+    "word": "girandole",
+    "translation": "канделябр"
+  },
+  {
+    "word": "gird",
+    "translation": "подпоясывать, опоясать"
+  },
+  {
+    "word": "gird oneself",
+    "translation": "опоясываться"
+  },
+  {
+    "word": "gird oneself more tightly",
+    "translation": "подтягиваться"
+  },
+  {
+    "word": "girder",
+    "translation": "балка, ферма"
+  },
+  {
+    "word": "girdle",
+    "translation": "подпоясывать, пояс, опоясать, окольцевать, кушак"
+  },
+  {
+    "word": "girdling",
+    "translation": "кольцевание"
+  },
+  {
+    "word": "girl",
+    "translation": "девушка, девочка"
+  },
+  {
+    "word": "girl under school age",
+    "translation": "дошкольница"
+  },
+  {
+    "word": "girl without a dowry",
+    "translation": "бесприданница"
+  },
+  {
+    "word": "girl-friend",
+    "translation": "возлюбленная"
+  },
+  {
+    "word": "girl-student",
+    "translation": "курсистка"
+  },
+  {
+    "word": "girlfriend",
+    "translation": "подружка"
+  },
+  {
+    "word": "girlhood",
+    "translation": "девичество"
+  },
+  {
+    "word": "girlie",
+    "translation": "девочка, дочурка"
+  },
+  {
+    "word": "girlish",
+    "translation": "девчачий, девичий"
+  },
+  {
+    "word": "girls",
+    "translation": "воспитанница"
+  },
+  {
+    "word": "girondist",
+    "translation": "жирондист"
+  },
+  {
+    "word": "girth",
+    "translation": "обхват, подседельник"
+  },
+  {
+    "word": "gist",
+    "translation": "суть, соль"
+  },
+  {
+    "word": "give",
+    "translation": "присваивать, придать, додавать, придать, жертвовать, преподать, отдавать, наделать, сдавать, дарить..., предоставить, предоставлять, глядеть..."
+  },
+  {
+    "word": "give a bad name",
+    "translation": "ославить"
+  },
+  {
+    "word": "give a bark",
+    "translation": "пролаять"
+  },
+  {
+    "word": "give a bath",
+    "translation": "купать, искупать"
+  },
+  {
+    "word": "give a butt",
+    "translation": "боднуть"
+  },
+  {
+    "word": "give a croak",
+    "translation": "квакнуть"
+  },
+  {
+    "word": "give a demonstration",
+    "translation": "демонстрировать"
+  },
+  {
+    "word": "give a dressing down",
+    "translation": "отделывать, разругать"
+  },
+  {
+    "word": "give a flogging",
+    "translation": "драть"
+  },
+  {
+    "word": "give a good bathe",
+    "translation": "накупить"
+  },
+  {
+    "word": "give a good dressing down",
+    "translation": "разносить"
+  },
+  {
+    "word": "give a good dressing-down",
+    "translation": "продёргивать"
+  },
+  {
+    "word": "give a good scolding",
+    "translation": "распушить, распекать"
+  },
+  {
+    "word": "give a hand",
+    "translation": "подсобить"
+  },
+  {
+    "word": "give a hiding",
+    "translation": "вздуть"
+  },
+  {
+    "word": "give a jump",
+    "translation": "подпрыгнуть, подскакивать"
+  },
+  {
+    "word": "give a kiss",
+    "translation": "целовать"
+  },
+  {
+    "word": "give a lash",
+    "translation": "хлестнуть"
+  },
+  {
+    "word": "give a lashing",
+    "translation": "настёгивать"
+  },
+  {
+    "word": "give a lecture",
+    "translation": "поучать"
+  },
+  {
+    "word": "give a licking",
+    "translation": "отколотить"
+  },
+  {
+    "word": "give a lift",
+    "translation": "подвозить, подбрасывать"
+  },
+  {
+    "word": "give a lot of presents",
+    "translation": "надарить"
+  },
+  {
+    "word": "give a low",
+    "translation": "промычать"
+  },
+  {
+    "word": "give a lurch",
+    "translation": "покачнуться"
+  },
+  {
+    "word": "give a meaning",
+    "translation": "осмыслять"
+  },
+  {
+    "word": "give a memorable description",
+    "translation": "запечатлевать"
+  },
+  {
+    "word": "give a new name",
+    "translation": "переименовывать"
+  },
+  {
+    "word": "give a punch",
+    "translation": "наподдавать"
+  },
+  {
+    "word": "give a rating",
+    "translation": "разносить"
+  },
+  {
+    "word": "give a resounding slap",
+    "translation": "бабахнуть"
+  },
+  {
+    "word": "give a ride",
+    "translation": "прокатить"
+  },
+  {
+    "word": "give a ring",
+    "translation": "прозвенеть"
+  },
+  {
+    "word": "give a scolding",
+    "translation": "побранить"
+  },
+  {
+    "word": "give a sharp blow",
+    "translation": "врезать, жахнуть"
+  },
+  {
+    "word": "give a shout",
+    "translation": "прокричать"
+  },
+  {
+    "word": "give a signal",
+    "translation": "сигнализировать"
+  },
+  {
+    "word": "give a smack",
+    "translation": "шлёпнуть"
+  },
+  {
+    "word": "give a smacking kiss",
+    "translation": "чмокать"
+  },
+  {
+    "word": "give a snore",
+    "translation": "всхрапывать"
+  },
+  {
+    "word": "give a sound flogging",
+    "translation": "отодрать"
+  },
+  {
+    "word": "give a spanking",
+    "translation": "нашлёпать"
+  },
+  {
+    "word": "give a squeak",
+    "translation": "пискнуть"
+  },
+  {
+    "word": "give a squeal",
+    "translation": "пропищать"
+  },
+  {
+    "word": "give a start",
+    "translation": "вздрагивать"
+  },
+  {
+    "word": "give a thrashing",
+    "translation": "поколотить"
+  },
+  {
+    "word": "give a ticking-off",
+    "translation": "выбранить"
+  },
+  {
+    "word": "give a treat",
+    "translation": "баловать"
+  },
+  {
+    "word": "give a wash",
+    "translation": "простирнуть"
+  },
+  {
+    "word": "give a whistle",
+    "translation": "присвистнуть, свистнуть"
+  },
+  {
+    "word": "give a wink",
+    "translation": "подмигивать"
+  },
+  {
+    "word": "give a work-out",
+    "translation": "отрабатывать"
+  },
+  {
+    "word": "give a yelp",
+    "translation": "тявкнуть"
+  },
+  {
+    "word": "give access to secret documents",
+    "translation": "засекречивать"
+  },
+  {
+    "word": "give additional food",
+    "translation": "прикормить"
+  },
+  {
+    "word": "give advance notice",
+    "translation": "предуведомлять, предупредить"
+  },
+  {
+    "word": "give an account",
+    "translation": "повествовать, излагать"
+  },
+  {
+    "word": "give an edge",
+    "translation": "подтачивать"
+  },
+  {
+    "word": "give an incentive",
+    "translation": "поощрить"
+  },
+  {
+    "word": "give an injection",
+    "translation": "впрыскивать"
+  },
+  {
+    "word": "give as an antidote for poison",
+    "translation": "отпаивать"
+  },
+  {
+    "word": "give away",
+    "translation": "разгласить, раздарить, разбалтывать, поддавать"
+  },
+  {
+    "word": "give back",
+    "translation": "возвратить"
+  },
+  {
+    "word": "give birth",
+    "translation": "рожать, порождать, народить, рождать, родить"
+  },
+  {
+    "word": "give chase",
+    "translation": "погнаться"
+  },
+  {
+    "word": "give concerts",
+    "translation": "концертировать"
+  },
+  {
+    "word": "give concrete expression",
+    "translation": "конкретизировать"
+  },
+  {
+    "word": "give credence",
+    "translation": "доверить"
+  },
+  {
+    "word": "give credit",
+    "translation": "кредитовать"
+  },
+  {
+    "word": "give evidence",
+    "translation": "свидетельствовать"
+  },
+  {
+    "word": "give false evidence",
+    "translation": "лжесвидетельствовать"
+  },
+  {
+    "word": "give fitness test for military service",
+    "translation": "комиссовать"
+  },
+  {
+    "word": "give for a present",
+    "translation": "презентовать"
+  },
+  {
+    "word": "give great offence",
+    "translation": "разобидеть"
+  },
+  {
+    "word": "give grounding",
+    "translation": "подковывать"
+  },
+  {
+    "word": "give guidance",
+    "translation": "сориентировать"
+  },
+  {
+    "word": "give hell",
+    "translation": "раскричаться"
+  },
+  {
+    "word": "give hope",
+    "translation": "обнадёжить"
+  },
+  {
+    "word": "give in",
+    "translation": "капитулировать, уступить, спасовать, сдаваться, поддаться, поддаваться"
+  },
+  {
+    "word": "give instructions",
+    "translation": "проинструктировать, указать"
+  },
+  {
+    "word": "give it hot",
+    "translation": "взгреть, распатронивать"
+  },
+  {
+    "word": "give it to straight from the shoulder",
+    "translation": "рубить"
+  },
+  {
+    "word": "give leave",
+    "translation": "отпускать, дозволять"
+  },
+  {
+    "word": "give life",
+    "translation": "живить"
+  },
+  {
+    "word": "give one no chance",
+    "translation": "затирать"
+  },
+  {
+    "word": "give oneself airs",
+    "translation": "задаться, зазнаваться, важничать, кривляться"
+  },
+  {
+    "word": "give oneself away",
+    "translation": "провираться"
+  },
+  {
+    "word": "give oneself trouble",
+    "translation": "утруждаться"
+  },
+  {
+    "word": "give oneself up",
+    "translation": "предаваться, отдаться"
+  },
+  {
+    "word": "give order",
+    "translation": "распоряжаться"
+  },
+  {
+    "word": "give orders",
+    "translation": "командовать"
+  },
+  {
+    "word": "give out",
+    "translation": "пыхать, раздать, отдавать, выдать"
+  },
+  {
+    "word": "give out an order",
+    "translation": "скомандовать"
+  },
+  {
+    "word": "give out warmth",
+    "translation": "греть"
+  },
+  {
+    "word": "give place",
+    "translation": "сменяться"
+  },
+  {
+    "word": "give presents",
+    "translation": "одаривать"
+  },
+  {
+    "word": "give proof",
+    "translation": "обосновывать"
+  },
+  {
+    "word": "give reasons",
+    "translation": "мотивировать"
+  },
+  {
+    "word": "give refuge",
+    "translation": "приютить"
+  },
+  {
+    "word": "give rise",
+    "translation": "вызывать, порождать, рождать, родить"
+  },
+  {
+    "word": "give shelter",
+    "translation": "пригревать"
+  },
+  {
+    "word": "give short",
+    "translation": "недодавать"
+  },
+  {
+    "word": "give short measure",
+    "translation": "обмеривать"
+  },
+  {
+    "word": "give short shrift",
+    "translation": "расправляться"
+  },
+  {
+    "word": "give short weight",
+    "translation": "обвешивать, недовесить"
+  },
+  {
+    "word": "give signals",
+    "translation": "сигнализировать"
+  },
+  {
+    "word": "give smacking kisses",
+    "translation": "чмокать"
+  },
+  {
+    "word": "give some light",
+    "translation": "светить"
+  },
+  {
+    "word": "give some thought",
+    "translation": "поразмыслить"
+  },
+  {
+    "word": "give the sack",
+    "translation": "увольнять"
+  },
+  {
+    "word": "give to drink",
+    "translation": "поить, напаивать"
+  },
+  {
+    "word": "give tongue",
+    "translation": "залаять"
+  },
+  {
+    "word": "give too much to drink",
+    "translation": "перепаивать"
+  },
+  {
+    "word": "give trouble",
+    "translation": "капризничать"
+  },
+  {
+    "word": "give up",
+    "translation": "забрасывать, забросать, переуступать, отступаться, сдаться, сдать..."
+  },
+  {
+    "word": "give voice",
+    "translation": "выражать"
+  },
+  {
+    "word": "give warning",
+    "translation": "сигнализировать"
+  },
+  {
+    "word": "give way",
+    "translation": "проламываться, подаваться, уступить, сдаваться, поддаваться"
+  },
+  {
+    "word": "give-up",
+    "translation": "выдавать, променивать"
+  },
+  {
+    "word": "given",
+    "translation": "дано, данный"
+  },
+  {
+    "word": "given to butting",
+    "translation": "бодливый"
+  },
+  {
+    "word": "given to crying",
+    "translation": "слезливый"
+  },
+  {
+    "word": "given to excess",
+    "translation": "неумеренный"
+  },
+  {
+    "word": "given to fussing",
+    "translation": "суматошливый"
+  },
+  {
+    "word": "given to mocking",
+    "translation": "насмешливый"
+  },
+  {
+    "word": "given to pestering",
+    "translation": "привязчивый"
+  },
+  {
+    "word": "given to reflection",
+    "translation": "задумчивый"
+  },
+  {
+    "word": "giving",
+    "translation": "придание, дача, подача"
+  },
+  {
+    "word": "giving a new name",
+    "translation": "переименование"
+  },
+  {
+    "word": "giving little milk",
+    "translation": "малоудойный"
+  },
+  {
+    "word": "giving out",
+    "translation": "выдача"
+  },
+  {
+    "word": "glace",
+    "translation": "глазированный"
+  },
+  {
+    "word": "glacial",
+    "translation": "ледниковый, ледяной"
+  },
+  {
+    "word": "glacier",
+    "translation": "глетчер, ледник"
+  },
+  {
+    "word": "glaciological",
+    "translation": "гляциологический"
+  },
+  {
+    "word": "glaciologist",
+    "translation": "гляциолог"
+  },
+  {
+    "word": "glaciology",
+    "translation": "гляциология"
+  },
+  {
+    "word": "glad",
+    "translation": "рад, рада, радостный"
+  },
+  {
+    "word": "gladden",
+    "translation": "обрадовать, веселить"
+  },
+  {
+    "word": "glade",
+    "translation": "вырубка, поляна, прогалина, пролесок, полянка"
+  },
+  {
+    "word": "gladiator",
+    "translation": "гладиатор"
+  },
+  {
+    "word": "gladiolus",
+    "translation": "гладиолус"
+  },
+  {
+    "word": "gladly",
+    "translation": "охотно"
+  },
+  {
+    "word": "gladness",
+    "translation": "радость"
+  },
+  {
+    "word": "glagolitic",
+    "translation": "глаголический"
+  },
+  {
+    "word": "glagolitic alphabet",
+    "translation": "глаголица"
+  },
+  {
+    "word": "glamour",
+    "translation": "колдовство"
+  },
+  {
+    "word": "glance",
+    "translation": "глянуть, взгляд, заглядывать"
+  },
+  {
+    "word": "glance back",
+    "translation": "оглядеться"
+  },
+  {
+    "word": "gland",
+    "translation": "сальник, железа"
+  },
+  {
+    "word": "glanderous",
+    "translation": "сапной"
+  },
+  {
+    "word": "glanders",
+    "translation": "сап"
+  },
+  {
+    "word": "glandular",
+    "translation": "железистый"
+  },
+  {
+    "word": "glandule",
+    "translation": "железка"
+  },
+  {
+    "word": "glandulous",
+    "translation": "железистый"
+  },
+  {
+    "word": "glare",
+    "translation": "взгляд, сверкать, сверкание"
+  },
+  {
+    "word": "glass",
+    "translation": "стеклянный, стекло, стекольный, зеркало"
+  },
+  {
+    "word": "glass (of wine)",
+    "translation": "бокал"
+  },
+  {
+    "word": "glass case",
+    "translation": "витрина"
+  },
+  {
+    "word": "glass manufacturing",
+    "translation": "стекловарение"
+  },
+  {
+    "word": "glass-blower",
+    "translation": "стеклодув"
+  },
+  {
+    "word": "glass-cutter",
+    "translation": "стекольщик"
+  },
+  {
+    "word": "glass-fibre plastics",
+    "translation": "стеклопластик"
+  },
+  {
+    "word": "glass-holder",
+    "translation": "подстаканник"
+  },
+  {
+    "word": "glasses",
+    "translation": "очки"
+  },
+  {
+    "word": "glassware",
+    "translation": "стекло"
+  },
+  {
+    "word": "glassy",
+    "translation": "стекловидный"
+  },
+  {
+    "word": "glaucoma",
+    "translation": "глаукома"
+  },
+  {
+    "word": "glaze",
+    "translation": "остеклять, глазировать, обливка, мурава, лощить, обливать, глазурь"
+  },
+  {
+    "word": "glazed",
+    "translation": "муравленый, глазированный"
+  },
+  {
+    "word": "glazed dutch tile",
+    "translation": "кафель"
+  },
+  {
+    "word": "glazier",
+    "translation": "стекольщик"
+  },
+  {
+    "word": "glazing",
+    "translation": "обжиг, обливка, глазировка"
+  },
+  {
+    "word": "gleam",
+    "translation": "замелькать, мелькать, проблеск, поблёскивать, теплиться, отблеск, отсвечивать"
+  },
+  {
+    "word": "gleams",
+    "translation": "мелькание"
+  },
+  {
+    "word": "glean",
+    "translation": "подбирать"
+  },
+  {
+    "word": "gleeful",
+    "translation": "развесёлый"
+  },
+  {
+    "word": "glib",
+    "translation": "бойкий"
+  },
+  {
+    "word": "glibness",
+    "translation": "бойкость"
+  },
+  {
+    "word": "glide",
+    "translation": "планировать, планирование, скользить"
+  },
+  {
+    "word": "glide away",
+    "translation": "вильнуть"
+  },
+  {
+    "word": "glide by",
+    "translation": "змеиться"
+  },
+  {
+    "word": "glide down",
+    "translation": "соскальзывать"
+  },
+  {
+    "word": "glider",
+    "translation": "планёр"
+  },
+  {
+    "word": "glider pilot",
+    "translation": "планерист"
+  },
+  {
+    "word": "gliding",
+    "translation": "планеризм, планирование"
+  },
+  {
+    "word": "glimmer",
+    "translation": "брезжиться, теплиться, мерцать, мерцание"
+  },
+  {
+    "word": "glimpses",
+    "translation": "мелькание"
+  },
+  {
+    "word": "glissando",
+    "translation": "глиссандо"
+  },
+  {
+    "word": "glisten",
+    "translation": "маслиться"
+  },
+  {
+    "word": "glitter",
+    "translation": "блестеть, сверкать, сверкание"
+  },
+  {
+    "word": "glittering",
+    "translation": "сверкающий"
+  },
+  {
+    "word": "gloat over",
+    "translation": "злорадствовать"
+  },
+  {
+    "word": "gloating",
+    "translation": "злорадный"
+  },
+  {
+    "word": "gloating delight",
+    "translation": "злорадство"
+  },
+  {
+    "word": "global",
+    "translation": "глобальный, общемировой"
+  },
+  {
+    "word": "globe",
+    "translation": "шаровой, глобус"
+  },
+  {
+    "word": "globe-shaped",
+    "translation": "шаровидный"
+  },
+  {
+    "word": "globular",
+    "translation": "шаровой"
+  },
+  {
+    "word": "globule",
+    "translation": "пилюля, шарик"
+  },
+  {
+    "word": "gloom",
+    "translation": "хмуриться, мрак, сумрачность, мрачность"
+  },
+  {
+    "word": "gloominess",
+    "translation": "пасмурность, мрачность, угрюмость"
+  },
+  {
+    "word": "gloomy",
+    "translation": "загробный, пасмурный, сумрачный, мрачный, хмурый, бесперспективный, беспросветный..."
+  },
+  {
+    "word": "glorification",
+    "translation": "славословие, прославление, величание"
+  },
+  {
+    "word": "glorify",
+    "translation": "прославлять, славить, славословить, возвеличить, воспевать"
+  },
+  {
+    "word": "glorious",
+    "translation": "славный, дивный"
+  },
+  {
+    "word": "glory",
+    "translation": "слава"
+  },
+  {
+    "word": "gloss",
+    "translation": "глосса, глянцевать, лоск, лощить, глянец"
+  },
+  {
+    "word": "glossary",
+    "translation": "словарь, глоссарий, словник"
+  },
+  {
+    "word": "glossy",
+    "translation": "глазированный, глянцевый, глянцевитый, вылощенный, лощёный"
+  },
+  {
+    "word": "glove",
+    "translation": "перчаточный"
+  },
+  {
+    "word": "glove compartment",
+    "translation": "бардачок"
+  },
+  {
+    "word": "glover",
+    "translation": "перчаточница"
+  },
+  {
+    "word": "glow",
+    "translation": "пылать, раскаляться, алеть"
+  },
+  {
+    "word": "glow-worm",
+    "translation": "светляк"
+  },
+  {
+    "word": "glowering",
+    "translation": "цветение"
+  },
+  {
+    "word": "glowing",
+    "translation": "калильный"
+  },
+  {
+    "word": "glucinium",
+    "translation": "бериллий"
+  },
+  {
+    "word": "glucose",
+    "translation": "глюкоза"
+  },
+  {
+    "word": "glue",
+    "translation": "клей, подклеивать, клеить, проклеить, приклеивать"
+  },
+  {
+    "word": "glue afresh",
+    "translation": "переклеивать"
+  },
+  {
+    "word": "glue again",
+    "translation": "переклеивать"
+  },
+  {
+    "word": "glue over",
+    "translation": "оклеивать"
+  },
+  {
+    "word": "glue somewhere else",
+    "translation": "переклеивать"
+  },
+  {
+    "word": "glue together",
+    "translation": "склеивать"
+  },
+  {
+    "word": "glue up",
+    "translation": "заклеивать, подклеивать"
+  },
+  {
+    "word": "glue-boiling",
+    "translation": "клееварение"
+  },
+  {
+    "word": "glued",
+    "translation": "клеёный"
+  },
+  {
+    "word": "glueing",
+    "translation": "подклейка, оклейка"
+  },
+  {
+    "word": "glum",
+    "translation": "постный"
+  },
+  {
+    "word": "glut oneself",
+    "translation": "обжираться"
+  },
+  {
+    "word": "gluten",
+    "translation": "клейковина"
+  },
+  {
+    "word": "glutinous",
+    "translation": "вязкий"
+  },
+  {
+    "word": "glutton",
+    "translation": "прорва, обжора, росомаха"
+  },
+  {
+    "word": "gluttonize",
+    "translation": "чревоугодничать"
+  },
+  {
+    "word": "gluttonous",
+    "translation": "обжорливый, прожорливый"
+  },
+  {
+    "word": "gluttony",
+    "translation": "обжорство, прожорливость"
+  },
+  {
+    "word": "glycerine",
+    "translation": "глицерин"
+  },
+  {
+    "word": "glyptics",
+    "translation": "глиптика"
+  },
+  {
+    "word": "glyptotheca",
+    "translation": "глиптотека"
+  },
+  {
+    "word": "gnarled",
+    "translation": "сучковатый"
+  },
+  {
+    "word": "gnarly",
+    "translation": "сучковатый"
+  },
+  {
+    "word": "gnat",
+    "translation": "комар"
+  },
+  {
+    "word": "gnaw",
+    "translation": "снедать, сверлить, глодать, погрызть, грызть, изгрызть, подтачивать, наточить, сосать"
+  },
+  {
+    "word": "gnaw off",
+    "translation": "отгрызать"
+  },
+  {
+    "word": "gnaw out",
+    "translation": "выгрызть"
+  },
+  {
+    "word": "gnaw round",
+    "translation": "обгрызть, обгладывать"
+  },
+  {
+    "word": "gnaw through",
+    "translation": "прогрызть, протачивать"
+  },
+  {
+    "word": "gnawing",
+    "translation": "сверлящий"
+  },
+  {
+    "word": "gneiss",
+    "translation": "гнейс"
+  },
+  {
+    "word": "gnome",
+    "translation": "гнома"
+  },
+  {
+    "word": "gnomic",
+    "translation": "гномический"
+  },
+  {
+    "word": "gnomon",
+    "translation": "гномон"
+  },
+  {
+    "word": "gnosiological",
+    "translation": "гносеологический"
+  },
+  {
+    "word": "gnosiology",
+    "translation": "гносеология"
+  },
+  {
+    "word": "gnostic",
+    "translation": "гностик"
+  },
+  {
+    "word": "gnosticism",
+    "translation": "гностицизм"
+  },
+  {
+    "word": "gnu",
+    "translation": "гну"
+  },
+  {
+    "word": "go",
+    "translation": "сочетаться, сойти, напористость, входить, напускаться, вставать, попасть, съездить, попереть, вскидываться......"
+  },
+  {
+    "word": "go all over",
+    "translation": "выходить"
+  },
+  {
+    "word": "go around",
+    "translation": "объехать, обходить"
+  },
+  {
+    "word": "go aside",
+    "translation": "отойти"
+  },
+  {
+    "word": "go astray",
+    "translation": "заблудиться, свихнуться"
+  },
+  {
+    "word": "go at it",
+    "translation": "подуть"
+  },
+  {
+    "word": "go away",
+    "translation": "проваливать"
+  },
+  {
+    "word": "go back",
+    "translation": "восходить, возвращаться"
+  },
+  {
+    "word": "go back and forth",
+    "translation": "мотаться"
+  },
+  {
+    "word": "go bad",
+    "translation": "тронуться, портиться, тухнуть"
+  },
+  {
+    "word": "go bananas",
+    "translation": "спятить"
+  },
+  {
+    "word": "go bankrupt",
+    "translation": "лопаться, прогорать"
+  },
+  {
+    "word": "go begging",
+    "translation": "нищенствовать"
+  },
+  {
+    "word": "go by",
+    "translation": "утечь, утекать"
+  },
+  {
+    "word": "go crawling about",
+    "translation": "елозить"
+  },
+  {
+    "word": "go crazy",
+    "translation": "очуметь, ополоуметь, спятить, помешаться"
+  },
+  {
+    "word": "go deep",
+    "translation": "углубляться, вникнуть"
+  },
+  {
+    "word": "go down",
+    "translation": "убывать, опадать, спуститься, съезжать, потонуть, убыть"
+  },
+  {
+    "word": "go for",
+    "translation": "набрасываться, взъесться"
+  },
+  {
+    "word": "go for a drive",
+    "translation": "покататься, прокатиться, поехать"
+  },
+  {
+    "word": "go for a ride",
+    "translation": "поехать"
+  },
+  {
+    "word": "go headlong",
+    "translation": "полететь"
+  },
+  {
+    "word": "go hungry",
+    "translation": "голодать"
+  },
+  {
+    "word": "go in",
+    "translation": "помещаться, войти, входить, поместиться, влезать, вдвигаться, заходить, упаковываться"
+  },
+  {
+    "word": "go in a roundabout way",
+    "translation": "колесить"
+  },
+  {
+    "word": "go insane",
+    "translation": "спятить"
+  },
+  {
+    "word": "go into",
+    "translation": "восторгаться, вонзаться, вдаваться"
+  },
+  {
+    "word": "go into a power dive",
+    "translation": "спикировать, пикировать"
+  },
+  {
+    "word": "go into retreat",
+    "translation": "затворяться"
+  },
+  {
+    "word": "go lame",
+    "translation": "охрометь"
+  },
+  {
+    "word": "go limp",
+    "translation": "обмякнуть"
+  },
+  {
+    "word": "go mad",
+    "translation": "увлекаться, спятить, рехнуться, беситься, помешаться"
+  },
+  {
+    "word": "go off",
+    "translation": "разорваться, угорать, махнуть, закатываться"
+  },
+  {
+    "word": "go off with a bang",
+    "translation": "ахнуть, бабахнуть"
+  },
+  {
+    "word": "go on",
+    "translation": "продолжить, продолжаться, твориться, произойти"
+  },
+  {
+    "word": "go on a spree",
+    "translation": "загулять"
+  },
+  {
+    "word": "go on hunger-strike",
+    "translation": "голодать"
+  },
+  {
+    "word": "go on strike",
+    "translation": "бастовать"
+  },
+  {
+    "word": "go on swimmingly",
+    "translation": "спориться"
+  },
+  {
+    "word": "go on the spree",
+    "translation": "разгуливаться, кутнуть, прокутить, погуливать"
+  },
+  {
+    "word": "go on travels",
+    "translation": "путешествовать"
+  },
+  {
+    "word": "go on well",
+    "translation": "ладиться"
+  },
+  {
+    "word": "go one better than",
+    "translation": "перещеголять"
+  },
+  {
+    "word": "go out",
+    "translation": "погасать, угаснуть, выходить, тухнуть, гаснуть, выйти, крутить"
+  },
+  {
+    "word": "go out of use",
+    "translation": "выводиться"
+  },
+  {
+    "word": "go out slowly",
+    "translation": "затухать"
+  },
+  {
+    "word": "go over",
+    "translation": "передаваться, выходить, перебегать"
+  },
+  {
+    "word": "go over again",
+    "translation": "пересматривать"
+  },
+  {
+    "word": "go pit-a-pat",
+    "translation": "ёкать"
+  },
+  {
+    "word": "go rolling",
+    "translation": "докатываться"
+  },
+  {
+    "word": "go round",
+    "translation": "покрутиться, кружить, кружиться"
+  },
+  {
+    "word": "go somewhere in a vehicle",
+    "translation": "поехать"
+  },
+  {
+    "word": "go sprawling",
+    "translation": "растягиваться"
+  },
+  {
+    "word": "go through",
+    "translation": "пересматривать, выходить, пробиться, переживать"
+  },
+  {
+    "word": "go through a lot",
+    "translation": "настрадаться"
+  },
+  {
+    "word": "go through in search of",
+    "translation": "обрыскать"
+  },
+  {
+    "word": "go through the whole business of getting",
+    "translation": "исхлопотать"
+  },
+  {
+    "word": "go to",
+    "translation": "пройти, доставаться"
+  },
+  {
+    "word": "go to bed",
+    "translation": "ложиться"
+  },
+  {
+    "word": "go to excess",
+    "translation": "излишествовать"
+  },
+  {
+    "word": "go to extreme",
+    "translation": "перегибать"
+  },
+  {
+    "word": "go to extremes",
+    "translation": "перегнуть, зарваться"
+  },
+  {
+    "word": "go to law",
+    "translation": "судиться"
+  },
+  {
+    "word": "go to pieces",
+    "translation": "измочаливаться, обанкротиться, рассыпаться"
+  },
+  {
+    "word": "go to ruin",
+    "translation": "разрушиться"
+  },
+  {
+    "word": "go to seed",
+    "translation": "опускаться"
+  },
+  {
+    "word": "go to sleep",
+    "translation": "опочить"
+  },
+  {
+    "word": "go together",
+    "translation": "совместимый"
+  },
+  {
+    "word": "go too far",
+    "translation": "зарваться, перехлёстывать, перебарщивать, пересаливать"
+  },
+  {
+    "word": "go up",
+    "translation": "въезжать, взвиваться, увеличиться, дорожать, подорожать"
+  },
+  {
+    "word": "go well",
+    "translation": "заспориться"
+  },
+  {
+    "word": "go well together",
+    "translation": "гармонировать"
+  },
+  {
+    "word": "go without food",
+    "translation": "голодать"
+  },
+  {
+    "word": "go wrong",
+    "translation": "разлаживаться, разбалтываться, свихнуться, просчитываться"
+  },
+  {
+    "word": "go-ahead",
+    "translation": "пробивной"
+  },
+  {
+    "word": "go-between",
+    "translation": "посредник"
+  },
+  {
+    "word": "go-getter",
+    "translation": "толкач"
+  },
+  {
+    "word": "go-getting",
+    "translation": "пробивной"
+  },
+  {
+    "word": "goad",
+    "translation": "скрести"
+  },
+  {
+    "word": "goal",
+    "translation": "цель, ворота, гол"
+  },
+  {
+    "word": "goal-scorer",
+    "translation": "бомбардир"
+  },
+  {
+    "word": "goalkeeper",
+    "translation": "вратарь"
+  },
+  {
+    "word": "goat",
+    "translation": "коза"
+  },
+  {
+    "word": "goat-breeder",
+    "translation": "козовод"
+  },
+  {
+    "word": "goat-breeding",
+    "translation": "козоводство"
+  },
+  {
+    "word": "goatskin",
+    "translation": "козловый"
+  },
+  {
+    "word": "goatsucker",
+    "translation": "козодой"
+  },
+  {
+    "word": "gobble",
+    "translation": "слопать, рубать, сожрать, трескать, глотать"
+  },
+  {
+    "word": "goblet",
+    "translation": "чара, бокал, кубок"
+  },
+  {
+    "word": "gobsmacked",
+    "translation": "фигеть"
+  },
+  {
+    "word": "goby",
+    "translation": "бычок"
+  },
+  {
+    "word": "god",
+    "translation": "боже, бог, господь"
+  },
+  {
+    "word": "god-child",
+    "translation": "крестница, крестник"
+  },
+  {
+    "word": "god-daughter",
+    "translation": "крестница"
+  },
+  {
+    "word": "god-fearing",
+    "translation": "богобоязненный"
+  },
+  {
+    "word": "god-forsaken",
+    "translation": "глухой"
+  },
+  {
+    "word": "god-forsaken hole",
+    "translation": "дебри"
+  },
+  {
+    "word": "god-forsaken place",
+    "translation": "глухомань"
+  },
+  {
+    "word": "god's",
+    "translation": "божий"
+  },
+  {
+    "word": "goddess",
+    "translation": "богиня"
+  },
+  {
+    "word": "godfather",
+    "translation": "крёстный, восприемник"
+  },
+  {
+    "word": "godless",
+    "translation": "безбожный"
+  },
+  {
+    "word": "godlessness",
+    "translation": "безбожие"
+  },
+  {
+    "word": "godmother",
+    "translation": "крёстная"
+  },
+  {
+    "word": "godsend",
+    "translation": "находка"
+  },
+  {
+    "word": "godson",
+    "translation": "крестник"
+  },
+  {
+    "word": "goes to",
+    "translation": "доставаться"
+  },
+  {
+    "word": "goffer",
+    "translation": "гофрировать"
+  },
+  {
+    "word": "goffered",
+    "translation": "гофрированный"
+  },
+  {
+    "word": "goffering",
+    "translation": "гофрировка"
+  },
+  {
+    "word": "goggle",
+    "translation": "таращиться"
+  },
+  {
+    "word": "goggle-eyed",
+    "translation": "глазастый, лупоглазый, пучеглазый"
+  },
+  {
+    "word": "goggles",
+    "translation": "очки"
+  },
+  {
+    "word": "gogol-mogol",
+    "translation": "гоголь-моголь"
+  },
+  {
+    "word": "going down",
+    "translation": "убывание"
+  },
+  {
+    "word": "going round",
+    "translation": "кружение, объезд"
+  },
+  {
+    "word": "going to seed",
+    "translation": "обсеменение"
+  },
+  {
+    "word": "goitre",
+    "translation": "зоб"
+  },
+  {
+    "word": "goitrous",
+    "translation": "зобастый"
+  },
+  {
+    "word": "gök mavisi",
+    "translation": "лазурный"
+  },
+  {
+    "word": "gold",
+    "translation": "злато, золотой, золото"
+  },
+  {
+    "word": "gold coin",
+    "translation": "золотой"
+  },
+  {
+    "word": "gold lace",
+    "translation": "галун"
+  },
+  {
+    "word": "gold thread",
+    "translation": "канитель"
+  },
+  {
+    "word": "gold-bearing",
+    "translation": "золотоносный"
+  },
+  {
+    "word": "gold-brocaded",
+    "translation": "златотканый"
+  },
+  {
+    "word": "gold-digger",
+    "translation": "золотоискатель, старатель"
+  },
+  {
+    "word": "gold-domed",
+    "translation": "златоглавый"
+  },
+  {
+    "word": "gold-embroidery",
+    "translation": "золотошвейный"
+  },
+  {
+    "word": "gold-miner",
+    "translation": "золотодобытчик, золотопромышленник"
+  },
+  {
+    "word": "gold-mining",
+    "translation": "золотопромышленность"
+  },
+  {
+    "word": "gold-pinioned",
+    "translation": "златокрылый"
+  },
+  {
+    "word": "gold-prospector",
+    "translation": "золотоискатель"
+  },
+  {
+    "word": "goldbricker",
+    "translation": "сачок"
+  },
+  {
+    "word": "goldcrest",
+    "translation": "королёк"
+  },
+  {
+    "word": "golden",
+    "translation": "золотой, златой"
+  },
+  {
+    "word": "golden eagle",
+    "translation": "беркут"
+  },
+  {
+    "word": "golden rod",
+    "translation": "желтоцвет"
+  },
+  {
+    "word": "golden-daisy",
+    "translation": "хризантема"
+  },
+  {
+    "word": "golden-eye",
+    "translation": "гоголь"
+  },
+  {
+    "word": "golden-haired",
+    "translation": "златокудрый"
+  },
+  {
+    "word": "goldfish",
+    "translation": "пескарь"
+  },
+  {
+    "word": "goldish",
+    "translation": "золотистый"
+  },
+  {
+    "word": "golf",
+    "translation": "гольф"
+  },
+  {
+    "word": "gölgede bırakmak",
+    "translation": "затмевать"
+  },
+  {
+    "word": "golosh",
+    "translation": "галоша"
+  },
+  {
+    "word": "goloubets",
+    "translation": "голубец"
+  },
+  {
+    "word": "gondola",
+    "translation": "гондола"
+  },
+  {
+    "word": "gondolier",
+    "translation": "гондольер"
+  },
+  {
+    "word": "gone bad",
+    "translation": "испорченный"
+  },
+  {
+    "word": "gonfalon",
+    "translation": "хоругвь"
+  },
+  {
+    "word": "gong",
+    "translation": "гонг"
+  },
+  {
+    "word": "goniometer",
+    "translation": "гониометр, угломер"
+  },
+  {
+    "word": "goniometrical",
+    "translation": "угломерный"
+  },
+  {
+    "word": "gonococcus",
+    "translation": "гонококк"
+  },
+  {
+    "word": "gonorrhoea",
+    "translation": "триппер"
+  },
+  {
+    "word": "good",
+    "translation": "благо, горазд, пригодный, благой, хороший, добро, хорошо..."
+  },
+  {
+    "word": "good behaviour",
+    "translation": "благонравие"
+  },
+  {
+    "word": "good breeding",
+    "translation": "воспитанность, воспитание, благовоспитанность, светскость"
+  },
+  {
+    "word": "good condition",
+    "translation": "исправность"
+  },
+  {
+    "word": "good conduct",
+    "translation": "благонравие"
+  },
+  {
+    "word": "good day",
+    "translation": "добрый день"
+  },
+  {
+    "word": "good deed",
+    "translation": "благодеяние, милость"
+  },
+  {
+    "word": "good enough",
+    "translation": "отличаться"
+  },
+  {
+    "word": "good evening",
+    "translation": "добрый вечер"
+  },
+  {
+    "word": "good fortune",
+    "translation": "удача, счастье"
+  },
+  {
+    "word": "good humour",
+    "translation": "благодушие"
+  },
+  {
+    "word": "good job",
+    "translation": "молодец"
+  },
+  {
+    "word": "good looks",
+    "translation": "благообразие"
+  },
+  {
+    "word": "good luck",
+    "translation": "удача"
+  },
+  {
+    "word": "good management",
+    "translation": "распорядительность"
+  },
+  {
+    "word": "good manners",
+    "translation": "благовоспитанность, светскость"
+  },
+  {
+    "word": "good morning",
+    "translation": "доброе утро"
+  },
+  {
+    "word": "good nature",
+    "translation": "добродушие, беззлобность"
+  },
+  {
+    "word": "good offices",
+    "translation": "содействие"
+  },
+  {
+    "word": "good quality",
+    "translation": "добротность"
+  },
+  {
+    "word": "good sense",
+    "translation": "здравомыслие"
+  },
+  {
+    "word": "good soul",
+    "translation": "добряк"
+  },
+  {
+    "word": "good-for-nothing",
+    "translation": "непутёвый, шалопай, лоботряс, бездельница, зряшный, негодный, никчёмный, дрянной"
+  },
+  {
+    "word": "good-humoured",
+    "translation": "благодушный"
+  },
+  {
+    "word": "good-looking girl",
+    "translation": "красотка"
+  },
+  {
+    "word": "good-natured",
+    "translation": "добродушный, беззлобный"
+  },
+  {
+    "word": "good-natured person",
+    "translation": "добряк"
+  },
+  {
+    "word": "good-neighbourly",
+    "translation": "добрососедский"
+  },
+  {
+    "word": "goodness",
+    "translation": "доброта"
+  },
+  {
+    "word": "goods",
+    "translation": "товар, товарный, груз"
+  },
+  {
+    "word": "goods and chattels",
+    "translation": "причиндалы, пожитки, скарб, барахло, манатки"
+  },
+  {
+    "word": "goods traffic",
+    "translation": "грузопоток"
+  },
+  {
+    "word": "goods truck",
+    "translation": "платформа"
+  },
+  {
+    "word": "goodwill",
+    "translation": "благосклонность, доброжелательство, приязнь, благоволение, благожелательность"
+  },
+  {
+    "word": "goof-off",
+    "translation": "сачковать"
+  },
+  {
+    "word": "goose",
+    "translation": "гусиный"
+  },
+  {
+    "word": "goose-foot",
+    "translation": "лебеда"
+  },
+  {
+    "word": "goose-pen",
+    "translation": "гусятник"
+  },
+  {
+    "word": "gooseberries",
+    "translation": "крыжовник"
+  },
+  {
+    "word": "gooseberry",
+    "translation": "крыжовник"
+  },
+  {
+    "word": "gooseberry bush",
+    "translation": "крыжовник"
+  },
+  {
+    "word": "goosery",
+    "translation": "гусятник"
+  },
+  {
+    "word": "gopher",
+    "translation": "суслик"
+  },
+  {
+    "word": "gopnik",
+    "translation": "гопник"
+  },
+  {
+    "word": "gore",
+    "translation": "забодать, клин"
+  },
+  {
+    "word": "gorge",
+    "translation": "балка, горжа, сожрать, теснина, ущелье"
+  },
+  {
+    "word": "gorge oneself",
+    "translation": "нажираться"
+  },
+  {
+    "word": "gorgeous",
+    "translation": "великолепный"
+  },
+  {
+    "word": "gorgeousness",
+    "translation": "блеск, богатство"
+  },
+  {
+    "word": "gorilla",
+    "translation": "горилла"
+  },
+  {
+    "word": "gormandize",
+    "translation": "обжираться"
+  },
+  {
+    "word": "gormandizer",
+    "translation": "обжора"
+  },
+  {
+    "word": "gorodki",
+    "translation": "городки"
+  },
+  {
+    "word": "gorodki player",
+    "translation": "городошник"
+  },
+  {
+    "word": "gosduma",
+    "translation": "госдума"
+  },
+  {
+    "word": "gosling",
+    "translation": "гусёнок"
+  },
+  {
+    "word": "gospel",
+    "translation": "евангельский"
+  },
+  {
+    "word": "gosplan",
+    "translation": "госплан"
+  },
+  {
+    "word": "gossamer",
+    "translation": "паутина, газ"
+  },
+  {
+    "word": "gossip",
+    "translation": "звонарь, пересуды, кумушка, сплетница, судачить, сплетня..., трезвон, наболтать, болтун"
+  },
+  {
+    "word": "gost",
+    "translation": "гост"
+  },
+  {
+    "word": "got",
+    "translation": "попасть"
+  },
+  {
+    "word": "goth",
+    "translation": "гот"
+  },
+  {
+    "word": "gothic",
+    "translation": "готский"
+  },
+  {
+    "word": "gouache",
+    "translation": "гуашь"
+  },
+  {
+    "word": "gouge",
+    "translation": "долото, долбить"
+  },
+  {
+    "word": "goulash",
+    "translation": "гуляш"
+  },
+  {
+    "word": "gourd",
+    "translation": "тыквенный"
+  },
+  {
+    "word": "gourmand",
+    "translation": "лакомка"
+  },
+  {
+    "word": "gourmandise",
+    "translation": "гурманство"
+  },
+  {
+    "word": "gourmet",
+    "translation": "гурман, гастроном"
+  },
+  {
+    "word": "gout",
+    "translation": "подагра"
+  },
+  {
+    "word": "gouty",
+    "translation": "подагрический"
+  },
+  {
+    "word": "gouty person",
+    "translation": "подагрик"
+  },
+  {
+    "word": "govern",
+    "translation": "управлять, править"
+  },
+  {
+    "word": "governed by the reason",
+    "translation": "рассудочный"
+  },
+  {
+    "word": "governess",
+    "translation": "гувернантка, мадам, воспитательница"
+  },
+  {
+    "word": "governing",
+    "translation": "правление"
+  },
+  {
+    "word": "governing body",
+    "translation": "руководство"
+  },
+  {
+    "word": "government",
+    "translation": "правление, правительство, правительственный"
+  },
+  {
+    "word": "government official",
+    "translation": "дьяк, депутат"
+  },
+  {
+    "word": "government purveyor",
+    "translation": "заготовитель"
+  },
+  {
+    "word": "governmental",
+    "translation": "правительственный"
+  },
+  {
+    "word": "governor",
+    "translation": "городничий, регулятор"
+  },
+  {
+    "word": "governor of province",
+    "translation": "воевода"
+  },
+  {
+    "word": "governor of town",
+    "translation": "градоначальник"
+  },
+  {
+    "word": "governor-general",
+    "translation": "наместник, генерал-губернатор"
+  },
+  {
+    "word": "governorship",
+    "translation": "губернаторство"
+  },
+  {
+    "word": "gown",
+    "translation": "мантия, платье"
+  },
+  {
+    "word": "goznak",
+    "translation": "гознак"
+  },
+  {
+    "word": "grab",
+    "translation": "нахватать, заполучать, зацапать, хапать, заграбастать, тяпнуть, захватать"
+  },
+  {
+    "word": "grabber",
+    "translation": "стяжатель, рвач"
+  },
+  {
+    "word": "grabbing",
+    "translation": "рваческий, рвачество"
+  },
+  {
+    "word": "grace",
+    "translation": "грация, милость, благодать, изящество"
+  },
+  {
+    "word": "graceful",
+    "translation": "грациозный, изящный"
+  },
+  {
+    "word": "gracefully",
+    "translation": "грациозно"
+  },
+  {
+    "word": "gracefulness",
+    "translation": "грациозность"
+  },
+  {
+    "word": "gracious",
+    "translation": "благосклонный, милостивый"
+  },
+  {
+    "word": "gradation",
+    "translation": "градация"
+  },
+  {
+    "word": "grade",
+    "translation": "разряд, оценка, сортность, помол, сорт, марка"
+  },
+  {
+    "word": "grade level",
+    "translation": "ступень"
+  },
+  {
+    "word": "grade up",
+    "translation": "улучшать"
+  },
+  {
+    "word": "grader",
+    "translation": "грейдерный, грейдер"
+  },
+  {
+    "word": "grades",
+    "translation": "отметка"
+  },
+  {
+    "word": "gradient",
+    "translation": "градиент, уклон"
+  },
+  {
+    "word": "grading",
+    "translation": "сортировка"
+  },
+  {
+    "word": "gradual",
+    "translation": "постепенный"
+  },
+  {
+    "word": "gradually",
+    "translation": "постепенно, мало-помалу, исподволь"
+  },
+  {
+    "word": "gradualness",
+    "translation": "постепенность"
+  },
+  {
+    "word": "graduate",
+    "translation": "градуировать, адъюнкт, дипломированный, магистратура, мензурка"
+  },
+  {
+    "word": "graduate course",
+    "translation": "аспирантура"
+  },
+  {
+    "word": "graduate students",
+    "translation": "аспирантура"
+  },
+  {
+    "word": "graduate study",
+    "translation": "аспирантура"
+  },
+  {
+    "word": "graduated",
+    "translation": "оконченный"
+  },
+  {
+    "word": "graduates",
+    "translation": "выпуск"
+  },
+  {
+    "word": "graduation",
+    "translation": "выпускной, окончание"
+  },
+  {
+    "word": "graecism",
+    "translation": "грецизм"
+  },
+  {
+    "word": "graft",
+    "translation": "взятка, подкупать, подкуп, побег, прищеплять, черенок, привой, росток..."
+  },
+  {
+    "word": "grafter",
+    "translation": "взяточник"
+  },
+  {
+    "word": "grafting",
+    "translation": "колировка, наращивание, прививка, прививочный, пересадка"
+  },
+  {
+    "word": "grain",
+    "translation": "хлеб, разделывать, гран, волокно, злак, крупица, зерно"
+  },
+  {
+    "word": "grain beetle",
+    "translation": "кузька"
+  },
+  {
+    "word": "grain crop",
+    "translation": "зерно"
+  },
+  {
+    "word": "grain dryer",
+    "translation": "зерносушилка"
+  },
+  {
+    "word": "grain merchant",
+    "translation": "лабазник"
+  },
+  {
+    "word": "grain of powder",
+    "translation": "порошинка"
+  },
+  {
+    "word": "grain of roe",
+    "translation": "икрина"
+  },
+  {
+    "word": "grain of sand",
+    "translation": "песчинка"
+  },
+  {
+    "word": "grain-crops",
+    "translation": "зерновой"
+  },
+  {
+    "word": "grain-elevator",
+    "translation": "элеватор"
+  },
+  {
+    "word": "grain-grower",
+    "translation": "хлебороб"
+  },
+  {
+    "word": "grain-producing",
+    "translation": "хлебный"
+  },
+  {
+    "word": "graine",
+    "translation": "грена"
+  },
+  {
+    "word": "grains",
+    "translation": "барда"
+  },
+  {
+    "word": "grainy",
+    "translation": "зернистый"
+  },
+  {
+    "word": "gram",
+    "translation": "грамм"
+  },
+  {
+    "word": "grammar",
+    "translation": "грамматика"
+  },
+  {
+    "word": "grammatical",
+    "translation": "грамматический, грамотный"
+  },
+  {
+    "word": "grammatical case",
+    "translation": "падёж"
+  },
+  {
+    "word": "grammatical correctness",
+    "translation": "грамотность"
+  },
+  {
+    "word": "grammatically",
+    "translation": "грамотно"
+  },
+  {
+    "word": "gramme",
+    "translation": "грамм"
+  },
+  {
+    "word": "gramme atom",
+    "translation": "грамм-атом"
+  },
+  {
+    "word": "gramme molecule",
+    "translation": "грамм-молекула"
+  },
+  {
+    "word": "gramophone",
+    "translation": "граммофонный"
+  },
+  {
+    "word": "gramophone recording",
+    "translation": "грамзапись"
+  },
+  {
+    "word": "granary",
+    "translation": "амбар, зернохранилище"
+  },
+  {
+    "word": "grand",
+    "translation": "аристократичный, шикарный, великий, важный, барский..."
+  },
+  {
+    "word": "grand (one thousand of some currency)",
+    "translation": "кусок"
+  },
+  {
+    "word": "grand gentleman",
+    "translation": "барин"
+  },
+  {
+    "word": "grand master",
+    "translation": "гроссмейстер"
+  },
+  {
+    "word": "grand piano",
+    "translation": "рояль"
+  },
+  {
+    "word": "grand-dad",
+    "translation": "дедушка"
+  },
+  {
+    "word": "grandad",
+    "translation": "дедушка"
+  },
+  {
+    "word": "grandchild",
+    "translation": "внучка, внук"
+  },
+  {
+    "word": "grandchildren",
+    "translation": "внучата"
+  },
+  {
+    "word": "granddaughter",
+    "translation": "внучка"
+  },
+  {
+    "word": "grandee",
+    "translation": "вельможа, гранд"
+  },
+  {
+    "word": "grandeur",
+    "translation": "величие, величественность, грандиозность, благолепие"
+  },
+  {
+    "word": "grandfather",
+    "translation": "дедушка, дед"
+  },
+  {
+    "word": "grandiloquence",
+    "translation": "высокопарность"
+  },
+  {
+    "word": "grandiloquent",
+    "translation": "высокопарный, выспренний"
+  },
+  {
+    "word": "grandiloquently",
+    "translation": "высокопарно"
+  },
+  {
+    "word": "grandiose",
+    "translation": "грандиозный"
+  },
+  {
+    "word": "grandiosity",
+    "translation": "грандиозность"
+  },
+  {
+    "word": "grandly",
+    "translation": "важно"
+  },
+  {
+    "word": "grandma",
+    "translation": "бабушка"
+  },
+  {
+    "word": "grandmamma",
+    "translation": "бабушка"
+  },
+  {
+    "word": "grandmother",
+    "translation": "бабушка, бабка"
+  },
+  {
+    "word": "grandpa",
+    "translation": "дедушка"
+  },
+  {
+    "word": "grandson",
+    "translation": "внук"
+  },
+  {
+    "word": "grange",
+    "translation": "мыза"
+  },
+  {
+    "word": "granite",
+    "translation": "гранит, гранитный"
+  },
+  {
+    "word": "granitic",
+    "translation": "гранитный"
+  },
+  {
+    "word": "granivorous",
+    "translation": "зерноядный"
+  },
+  {
+    "word": "granny",
+    "translation": "бабушка, бабуся"
+  },
+  {
+    "word": "grant",
+    "translation": "ассигнование, дар, дарить, ниспосылать, пособие, жаловать..., выдавать, предоставить, предоставлять"
+  },
+  {
+    "word": "grant / scholarship",
+    "translation": "стипендия"
+  },
+  {
+    "word": "grant pardon",
+    "translation": "миловать"
+  },
+  {
+    "word": "grant-in-aid",
+    "translation": "пособие, субсидия"
+  },
+  {
+    "word": "grantor",
+    "translation": "дарительница"
+  },
+  {
+    "word": "granular",
+    "translation": "зернистый, крупчатый"
+  },
+  {
+    "word": "granulate",
+    "translation": "гранулироваться"
+  },
+  {
+    "word": "granulation",
+    "translation": "грануляционный"
+  },
+  {
+    "word": "granule",
+    "translation": "гранула"
+  },
+  {
+    "word": "grape",
+    "translation": "виноградина"
+  },
+  {
+    "word": "grape-shot",
+    "translation": "картечь"
+  },
+  {
+    "word": "grape-sugar",
+    "translation": "глюкоза"
+  },
+  {
+    "word": "grapefruit",
+    "translation": "грейпфрут"
+  },
+  {
+    "word": "grapes",
+    "translation": "виноград"
+  },
+  {
+    "word": "graph",
+    "translation": "диаграмма"
+  },
+  {
+    "word": "graphic",
+    "translation": "образный, графический, изобразительный, наглядный, выпуклый"
+  },
+  {
+    "word": "graphic artist",
+    "translation": "рисовальщица"
+  },
+  {
+    "word": "graphically",
+    "translation": "наглядно, образно, выпукло"
+  },
+  {
+    "word": "graphite",
+    "translation": "графитовый, графит"
+  },
+  {
+    "word": "graphitic",
+    "translation": "графитовый"
+  },
+  {
+    "word": "graphology",
+    "translation": "графология"
+  },
+  {
+    "word": "graphomania",
+    "translation": "графомания"
+  },
+  {
+    "word": "graphomaniac",
+    "translation": "графоман"
+  },
+  {
+    "word": "grapnel",
+    "translation": "кошка"
+  },
+  {
+    "word": "grapple",
+    "translation": "сцепляться, обхватывать, схватываться"
+  },
+  {
+    "word": "grasp",
+    "translation": "словить, ухватить, объять, ухватиться, хватка, схватывать, ориентация, сжатие..."
+  },
+  {
+    "word": "grasp the meaning",
+    "translation": "смекать"
+  },
+  {
+    "word": "grasping",
+    "translation": "алчный, ненасытный, хищный"
+  },
+  {
+    "word": "grass",
+    "translation": "трава, мурава, травяной, марихуана"
+  },
+  {
+    "word": "grass farming",
+    "translation": "луговодство"
+  },
+  {
+    "word": "grass snake",
+    "translation": "уж"
+  },
+  {
+    "word": "grass-plot",
+    "translation": "газон"
+  },
+  {
+    "word": "grass-snake",
+    "translation": "медянка"
+  },
+  {
+    "word": "grasshopper",
+    "translation": "кузнечик"
+  },
+  {
+    "word": "grassy",
+    "translation": "травяной, травянистый"
+  },
+  {
+    "word": "grate",
+    "translation": "натирать, истереть, тереть, протирать, протереть"
+  },
+  {
+    "word": "grate-bar",
+    "translation": "колосник"
+  },
+  {
+    "word": "grated",
+    "translation": "тёртый"
+  },
+  {
+    "word": "grateful",
+    "translation": "признательный, благодарный"
+  },
+  {
+    "word": "grater",
+    "translation": "тёрка"
+  },
+  {
+    "word": "graticule",
+    "translation": "сетка"
+  },
+  {
+    "word": "gratification",
+    "translation": "удовлетворение"
+  },
+  {
+    "word": "gratify",
+    "translation": "ублажать, тешить"
+  },
+  {
+    "word": "gratifying",
+    "translation": "благодарный, отрадный"
+  },
+  {
+    "word": "grating",
+    "translation": "решётка"
+  },
+  {
+    "word": "gratis",
+    "translation": "даром, бесплатно, безвозмездно"
+  },
+  {
+    "word": "gratitude",
+    "translation": "признательность, благодарность"
+  },
+  {
+    "word": "gratuitous",
+    "translation": "даровой, бесплатный, безвозмездный"
+  },
+  {
+    "word": "gratuity",
+    "translation": "наградной, пособие"
+  },
+  {
+    "word": "grave",
+    "translation": "гроб, могила, тяжкий, глубокомысленный, серьёзный, нешуточный"
+  },
+  {
+    "word": "grave-digger",
+    "translation": "могильщик"
+  },
+  {
+    "word": "gravel",
+    "translation": "хрящ, гравий, песок"
+  },
+  {
+    "word": "gravely",
+    "translation": "степенно"
+  },
+  {
+    "word": "graver",
+    "translation": "грабштихель"
+  },
+  {
+    "word": "gravestone",
+    "translation": "надгробие"
+  },
+  {
+    "word": "graveyard",
+    "translation": "кладбище"
+  },
+  {
+    "word": "gravitate",
+    "translation": "тяготеть"
+  },
+  {
+    "word": "gravitation",
+    "translation": "гравитация, тяготение"
+  },
+  {
+    "word": "gravity",
+    "translation": "тяготение, серьёзность, тяжесть"
+  },
+  {
+    "word": "gravity flow",
+    "translation": "самотёк"
+  },
+  {
+    "word": "gravity incline",
+    "translation": "бремсберг"
+  },
+  {
+    "word": "gravy",
+    "translation": "подливка, соус"
+  },
+  {
+    "word": "gravy-boat",
+    "translation": "судок, соусник"
+  },
+  {
+    "word": "grayling",
+    "translation": "хариус"
+  },
+  {
+    "word": "graze",
+    "translation": "пастись, пасти, обдирать"
+  },
+  {
+    "word": "grazing",
+    "translation": "настильный"
+  },
+  {
+    "word": "grease",
+    "translation": "маслить, жир, салить, подмазать, жировать, просаливать, замасливать, мазать, промасливать..."
+  },
+  {
+    "word": "grease palm",
+    "translation": "подмазать"
+  },
+  {
+    "word": "grease the palm",
+    "translation": "смазывать"
+  },
+  {
+    "word": "grease the wheels",
+    "translation": "смазывать"
+  },
+  {
+    "word": "grease-paint",
+    "translation": "грим"
+  },
+  {
+    "word": "greased",
+    "translation": "промасленный"
+  },
+  {
+    "word": "greaser",
+    "translation": "смазчица"
+  },
+  {
+    "word": "greasily",
+    "translation": "жирно"
+  },
+  {
+    "word": "greasing",
+    "translation": "подмазка, смазка, смазывание"
+  },
+  {
+    "word": "greasy",
+    "translation": "жирный, засаленный, промасленный, сальный"
+  },
+  {
+    "word": "great",
+    "translation": "большой, важнецкий, великий, крупный, гениальный"
+  },
+  {
+    "word": "great bilberries",
+    "translation": "голубика"
+  },
+  {
+    "word": "great bilberry",
+    "translation": "голубика"
+  },
+  {
+    "word": "great britain",
+    "translation": "Великобритания"
+  },
+  {
+    "word": "great figure",
+    "translation": "величина"
+  },
+  {
+    "word": "great landowner",
+    "translation": "вотчинник"
+  },
+  {
+    "word": "great primer",
+    "translation": "терция"
+  },
+  {
+    "word": "great russian",
+    "translation": "великорусский"
+  },
+  {
+    "word": "great snipe",
+    "translation": "дупель"
+  },
+  {
+    "word": "great talent",
+    "translation": "талант"
+  },
+  {
+    "word": "great-granddaughter",
+    "translation": "правнучка"
+  },
+  {
+    "word": "great-grandfather",
+    "translation": "прадед"
+  },
+  {
+    "word": "great-grandmother",
+    "translation": "прабабка"
+  },
+  {
+    "word": "great-grandson",
+    "translation": "правнук"
+  },
+  {
+    "word": "great-great-grandfather",
+    "translation": "прапрадед"
+  },
+  {
+    "word": "great-power",
+    "translation": "великодержавный"
+  },
+  {
+    "word": "greatcoat",
+    "translation": "шинель"
+  },
+  {
+    "word": "greatcoat roll",
+    "translation": "скатка"
+  },
+  {
+    "word": "greater",
+    "translation": "больше, вящий"
+  },
+  {
+    "word": "greater celandine",
+    "translation": "чистотел"
+  },
+  {
+    "word": "greatly",
+    "translation": "весьма, сильно, очень"
+  },
+  {
+    "word": "greatly praised",
+    "translation": "хвалёный"
+  },
+  {
+    "word": "greatness",
+    "translation": "гениальность, величие"
+  },
+  {
+    "word": "grecian",
+    "translation": "греческий"
+  },
+  {
+    "word": "grecism",
+    "translation": "грецизм"
+  },
+  {
+    "word": "greece",
+    "translation": "Греция"
+  },
+  {
+    "word": "greed",
+    "translation": "жадность, алчность, ненасытность, корысть"
+  },
+  {
+    "word": "greed for money",
+    "translation": "сребролюбие"
+  },
+  {
+    "word": "greedily",
+    "translation": "жадно"
+  },
+  {
+    "word": "greedy",
+    "translation": "алчный, жадный, ненасытный"
+  },
+  {
+    "word": "greedy for money",
+    "translation": "сребролюбивый"
+  },
+  {
+    "word": "greedy-guts",
+    "translation": "жадина"
+  },
+  {
+    "word": "greek",
+    "translation": "греческий"
+  },
+  {
+    "word": "greek woman",
+    "translation": "гречанка"
+  },
+  {
+    "word": "green",
+    "translation": "зелёный, недоспелый, зелень, недозрелый, неспелый, желторотый"
+  },
+  {
+    "word": "green-eyed",
+    "translation": "зеленоглазый"
+  },
+  {
+    "word": "green-room",
+    "translation": "артистическая"
+  },
+  {
+    "word": "greenery",
+    "translation": "зелень"
+  },
+  {
+    "word": "greenfly",
+    "translation": "тля"
+  },
+  {
+    "word": "greengage",
+    "translation": "ренклод"
+  },
+  {
+    "word": "greengrocer",
+    "translation": "зеленщик"
+  },
+  {
+    "word": "greenhorn",
+    "translation": "молокосос"
+  },
+  {
+    "word": "greenhouse",
+    "translation": "теплица"
+  },
+  {
+    "word": "greenish",
+    "translation": "зеленоватый"
+  },
+  {
+    "word": "greens",
+    "translation": "зелень"
+  },
+  {
+    "word": "greet",
+    "translation": "кланяться, приветствовать, здороваться"
+  },
+  {
+    "word": "greeting",
+    "translation": "приветствие"
+  },
+  {
+    "word": "gregarious",
+    "translation": "стадный"
+  },
+  {
+    "word": "gregorian",
+    "translation": "григорианский"
+  },
+  {
+    "word": "grenade",
+    "translation": "граната"
+  },
+  {
+    "word": "grenade cup discharger",
+    "translation": "гранатомёт"
+  },
+  {
+    "word": "grenade-thrower",
+    "translation": "гранатомётчик"
+  },
+  {
+    "word": "grenadier",
+    "translation": "гранатомётчик, гренадер"
+  },
+  {
+    "word": "grey",
+    "translation": "сивый, серенький, серый, седой, сереть"
+  },
+  {
+    "word": "grey colour",
+    "translation": "серость"
+  },
+  {
+    "word": "grey hair",
+    "translation": "седина"
+  },
+  {
+    "word": "grey horse",
+    "translation": "сивка"
+  },
+  {
+    "word": "grey mullet",
+    "translation": "кефаль"
+  },
+  {
+    "word": "grey streaks",
+    "translation": "седина"
+  },
+  {
+    "word": "grey-bearded",
+    "translation": "седобородый"
+  },
+  {
+    "word": "grey-blue",
+    "translation": "иссера-голубой"
+  },
+  {
+    "word": "grey-eyed",
+    "translation": "сероглазый"
+  },
+  {
+    "word": "grey-haired",
+    "translation": "седовласый, седой"
+  },
+  {
+    "word": "grey-headed",
+    "translation": "седовласый"
+  },
+  {
+    "word": "grey-winged",
+    "translation": "сизокрылый"
+  },
+  {
+    "word": "greybeard",
+    "translation": "бородач"
+  },
+  {
+    "word": "greying",
+    "translation": "седеющий"
+  },
+  {
+    "word": "greyish",
+    "translation": "сероватый, седоватый"
+  },
+  {
+    "word": "greyish black",
+    "translation": "маренго"
+  },
+  {
+    "word": "grid",
+    "translation": "сеточный, сетка"
+  },
+  {
+    "word": "griddle",
+    "translation": "противень"
+  },
+  {
+    "word": "gridiron",
+    "translation": "колосник, рашпер"
+  },
+  {
+    "word": "grief",
+    "translation": "огорчение, печаль, горе, тоска, сокрушение, скорбь, кручина, горесть"
+  },
+  {
+    "word": "grieve",
+    "translation": "тосковать, сокрушаться, печалиться, убиться, скорбеть, кручиниться, огорчить, печалить"
+  },
+  {
+    "word": "grieved",
+    "translation": "разахаться"
+  },
+  {
+    "word": "grieving",
+    "translation": "сокрушённый"
+  },
+  {
+    "word": "grievous",
+    "translation": "кровный, огорчительный, печальный"
+  },
+  {
+    "word": "griffin",
+    "translation": "грифон"
+  },
+  {
+    "word": "griffin (mythology)",
+    "translation": "гриф"
+  },
+  {
+    "word": "grig",
+    "translation": "угорь"
+  },
+  {
+    "word": "grill",
+    "translation": "жарить, зажаривать, поджаривать"
+  },
+  {
+    "word": "grille",
+    "translation": "решётка"
+  },
+  {
+    "word": "grilled",
+    "translation": "жареный"
+  },
+  {
+    "word": "grilled beef dish",
+    "translation": "поджарка"
+  },
+  {
+    "word": "grilling",
+    "translation": "жаренье"
+  },
+  {
+    "word": "grim",
+    "translation": "мрачно"
+  },
+  {
+    "word": "grimace",
+    "translation": "гримасничать, кривляться"
+  },
+  {
+    "word": "grimacer",
+    "translation": "гримасница"
+  },
+  {
+    "word": "grimacier",
+    "translation": "гримасница"
+  },
+  {
+    "word": "grimacing",
+    "translation": "кривлянье"
+  },
+  {
+    "word": "grimy",
+    "translation": "закоптелый"
+  },
+  {
+    "word": "grin",
+    "translation": "оскал, оскаливаться, усмехаться, усмешка, ухмыляться, усмехнуться"
+  },
+  {
+    "word": "grind",
+    "translation": "мельчить, перетирать, скрежетать, отшлифовывать, смолоть, перемалывать, шлифовать..., столочь, тереть..."
+  },
+  {
+    "word": "grind again",
+    "translation": "перемалывать"
+  },
+  {
+    "word": "grind in",
+    "translation": "притереть"
+  },
+  {
+    "word": "grind up",
+    "translation": "источить"
+  },
+  {
+    "word": "grinder",
+    "translation": "точильщик"
+  },
+  {
+    "word": "grinding",
+    "translation": "шлифовальный, помол, растирание, шлифовка, шлифование, заточка"
+  },
+  {
+    "word": "grindstone",
+    "translation": "точило"
+  },
+  {
+    "word": "grip",
+    "translation": "словить, охватывать, хватка, схватывать, рукоятка, ручка, сжатие..."
+  },
+  {
+    "word": "grip-sack",
+    "translation": "саквояж"
+  },
+  {
+    "word": "gripe",
+    "translation": "рыскать"
+  },
+  {
+    "word": "gripes",
+    "translation": "резь, колотьё"
+  },
+  {
+    "word": "grippe",
+    "translation": "грипп"
+  },
+  {
+    "word": "gripping",
+    "translation": "захватывающий"
+  },
+  {
+    "word": "gristle",
+    "translation": "хрящ"
+  },
+  {
+    "word": "gristly",
+    "translation": "хрящеватый"
+  },
+  {
+    "word": "grit",
+    "translation": "хрящ, песчинка, строение"
+  },
+  {
+    "word": "gritstone",
+    "translation": "песчаник"
+  },
+  {
+    "word": "grivna",
+    "translation": "гривна"
+  },
+  {
+    "word": "grizzled",
+    "translation": "седеющий, поседелый"
+  },
+  {
+    "word": "grizzly",
+    "translation": "седоватый"
+  },
+  {
+    "word": "groan",
+    "translation": "кряхтеть, стенать, стон, стонать"
+  },
+  {
+    "word": "groaning",
+    "translation": "кряхтенье"
+  },
+  {
+    "word": "grocer",
+    "translation": "бакалейщик"
+  },
+  {
+    "word": "groceries",
+    "translation": "бакалея"
+  },
+  {
+    "word": "groceries and provisions",
+    "translation": "гастрономия"
+  },
+  {
+    "word": "grocery",
+    "translation": "бакалейный, бакалея"
+  },
+  {
+    "word": "grog",
+    "translation": "грог"
+  },
+  {
+    "word": "groin",
+    "translation": "пах"
+  },
+  {
+    "word": "groom",
+    "translation": "стремянный, конюх"
+  },
+  {
+    "word": "groove",
+    "translation": "бороздка, желобок, рутина, рытвина, паз, выемка, нарез"
+  },
+  {
+    "word": "grooved",
+    "translation": "рифлёный"
+  },
+  {
+    "word": "grope",
+    "translation": "нашаривать, нащупывать"
+  },
+  {
+    "word": "groping",
+    "translation": "ощупью"
+  },
+  {
+    "word": "gross",
+    "translation": "валовой"
+  },
+  {
+    "word": "gross output",
+    "translation": "вал"
+  },
+  {
+    "word": "grosz",
+    "translation": "грош"
+  },
+  {
+    "word": "grotesque",
+    "translation": "карикатурный"
+  },
+  {
+    "word": "grotto",
+    "translation": "пещера, грот"
+  },
+  {
+    "word": "ground",
+    "translation": "базировать, дно, заземлить, земля, поле, донный, обосновывать, тёртый, молотый, площадка..., толчёный..."
+  },
+  {
+    "word": "ground beetle",
+    "translation": "жужелица"
+  },
+  {
+    "word": "ground floor",
+    "translation": "подклеть"
+  },
+  {
+    "word": "ground squirrel",
+    "translation": "суслик"
+  },
+  {
+    "word": "ground-in stopper",
+    "translation": "пробка"
+  },
+  {
+    "word": "grounded",
+    "translation": "молотый, обоснованный"
+  },
+  {
+    "word": "grounding",
+    "translation": "подготовка"
+  },
+  {
+    "word": "groundless",
+    "translation": "беспричинный, безосновательный, необоснованный, огульный, неосновательный, беспочвенный, несостоятельный"
+  },
+  {
+    "word": "groundlessness",
+    "translation": "беспочвенность, необоснованность, неосновательность, несостоятельность"
+  },
+  {
+    "word": "grounds",
+    "translation": "основание, данные, гуща"
+  },
+  {
+    "word": "groundsheet",
+    "translation": "плащ-палатка"
+  },
+  {
+    "word": "groundwork",
+    "translation": "канва"
+  },
+  {
+    "word": "group",
+    "translation": "дружина, скомпоновать, куст, коллектив, разгруппировывать, фракция..."
+  },
+  {
+    "word": "group of enterprises",
+    "translation": "комбинат"
+  },
+  {
+    "word": "group of sightseers",
+    "translation": "экскурсия"
+  },
+  {
+    "word": "grouping",
+    "translation": "компоновка, группировка"
+  },
+  {
+    "word": "grouse",
+    "translation": "фыркать"
+  },
+  {
+    "word": "grousing",
+    "translation": "ворчливый"
+  },
+  {
+    "word": "grove",
+    "translation": "роща, лесок"
+  },
+  {
+    "word": "grovel",
+    "translation": "унижаться, пресмыкаться, низкопоклонничать"
+  },
+  {
+    "word": "groveller",
+    "translation": "низкопоклонник, холуй"
+  },
+  {
+    "word": "grovelling",
+    "translation": "пресмыкательство, подхалимство"
+  },
+  {
+    "word": "grow",
+    "translation": "делаться, отращивать, врастать, нарастать, дорастать, взращивать..., расти, отпускать, выхаживать..."
+  },
+  {
+    "word": "grow bald",
+    "translation": "полысеть"
+  },
+  {
+    "word": "grow bare",
+    "translation": "облезать"
+  },
+  {
+    "word": "grow blunt",
+    "translation": "тупиться"
+  },
+  {
+    "word": "grow bolder",
+    "translation": "смелеть"
+  },
+  {
+    "word": "grow brown",
+    "translation": "побуреть"
+  },
+  {
+    "word": "grow cold",
+    "translation": "холодеть, охладеть"
+  },
+  {
+    "word": "grow cool",
+    "translation": "охладеть"
+  },
+  {
+    "word": "grow decrepit",
+    "translation": "дряхлеть"
+  },
+  {
+    "word": "grow dim",
+    "translation": "тускнеть"
+  },
+  {
+    "word": "grow dull",
+    "translation": "отупеть"
+  },
+  {
+    "word": "grow faint",
+    "translation": "изнемочь"
+  },
+  {
+    "word": "grow fast",
+    "translation": "прирастать"
+  },
+  {
+    "word": "grow fat plump",
+    "translation": "разжиреть"
+  },
+  {
+    "word": "grow flabby",
+    "translation": "мякнуть"
+  },
+  {
+    "word": "grow fond",
+    "translation": "полюбить"
+  },
+  {
+    "word": "grow furious",
+    "translation": "свирепеть"
+  },
+  {
+    "word": "grow gloomy",
+    "translation": "мрачнеть"
+  },
+  {
+    "word": "grow hateful",
+    "translation": "опостылеть"
+  },
+  {
+    "word": "grow heavy",
+    "translation": "отяжелеть, тяжелеть"
+  },
+  {
+    "word": "grow in",
+    "translation": "врастать"
+  },
+  {
+    "word": "grow inordinately tall",
+    "translation": "вымахивать"
+  },
+  {
+    "word": "grow languid",
+    "translation": "разомлеть"
+  },
+  {
+    "word": "grow lazy",
+    "translation": "облениться"
+  },
+  {
+    "word": "grow louder",
+    "translation": "усиливаться"
+  },
+  {
+    "word": "grow numb",
+    "translation": "неметь, мертветь, костенеть"
+  },
+  {
+    "word": "grow obese",
+    "translation": "расплываться"
+  },
+  {
+    "word": "grow old",
+    "translation": "стариться, постареть"
+  },
+  {
+    "word": "grow overcast",
+    "translation": "затянуться, затягиваться"
+  },
+  {
+    "word": "grow plump",
+    "translation": "располнеть"
+  },
+  {
+    "word": "grow poor",
+    "translation": "нищать"
+  },
+  {
+    "word": "grow poorer",
+    "translation": "беднеть"
+  },
+  {
+    "word": "grow prettier",
+    "translation": "хорошеть"
+  },
+  {
+    "word": "grow progressively worse",
+    "translation": "прогрессировать"
+  },
+  {
+    "word": "grow proud",
+    "translation": "загордиться"
+  },
+  {
+    "word": "grow pulpy",
+    "translation": "мякнуть"
+  },
+  {
+    "word": "grow quiet",
+    "translation": "присмиреть, униматься"
+  },
+  {
+    "word": "grow quiet down",
+    "translation": "притихать"
+  },
+  {
+    "word": "grow rabid",
+    "translation": "осатанеть"
+  },
+  {
+    "word": "grow rich",
+    "translation": "богатеть"
+  },
+  {
+    "word": "grow ripe",
+    "translation": "вызревать, узреть"
+  },
+  {
+    "word": "grow sickly",
+    "translation": "захиреть"
+  },
+  {
+    "word": "grow silent",
+    "translation": "смолкать"
+  },
+  {
+    "word": "grow soft",
+    "translation": "отмякать, размягчаться, размякать"
+  },
+  {
+    "word": "grow soft by kneading",
+    "translation": "разминаться"
+  },
+  {
+    "word": "grow softer",
+    "translation": "смягчаться"
+  },
+  {
+    "word": "grow stiff",
+    "translation": "закостенеть"
+  },
+  {
+    "word": "grow stout",
+    "translation": "тяжелеть, располнеть, полнеть"
+  },
+  {
+    "word": "grow strong",
+    "translation": "возмужать"
+  },
+  {
+    "word": "grow stronger",
+    "translation": "крепчать"
+  },
+  {
+    "word": "grow thick",
+    "translation": "разрастаться"
+  },
+  {
+    "word": "grow thin",
+    "translation": "худеть, похудеть"
+  },
+  {
+    "word": "grow timid",
+    "translation": "оробеть"
+  },
+  {
+    "word": "grow together",
+    "translation": "срастаться"
+  },
+  {
+    "word": "grow torpid",
+    "translation": "цепенеть"
+  },
+  {
+    "word": "grow turbid",
+    "translation": "мутнеть"
+  },
+  {
+    "word": "grow up",
+    "translation": "подрастать, возмужать, вырастать"
+  },
+  {
+    "word": "grow warm",
+    "translation": "разогреваться"
+  },
+  {
+    "word": "grow weak",
+    "translation": "обессилеть"
+  },
+  {
+    "word": "grow wiser",
+    "translation": "умнеть"
+  },
+  {
+    "word": "grow young again",
+    "translation": "молодеть"
+  },
+  {
+    "word": "growing",
+    "translation": "врастание, нарастающий, произрастание, перерастание"
+  },
+  {
+    "word": "growing in",
+    "translation": "врастание"
+  },
+  {
+    "word": "growl",
+    "translation": "прорычать, ворчать"
+  },
+  {
+    "word": "growl out",
+    "translation": "буркнуть"
+  },
+  {
+    "word": "growling",
+    "translation": "ворчание"
+  },
+  {
+    "word": "grown brownish reddish",
+    "translation": "порыжелый"
+  },
+  {
+    "word": "grown cold",
+    "translation": "охладелый"
+  },
+  {
+    "word": "grown grey",
+    "translation": "поседелый"
+  },
+  {
+    "word": "grown-up",
+    "translation": "взрослый, большой, матерой, возмужалый"
+  },
+  {
+    "word": "growth",
+    "translation": "развитие, произрастание, нарастание, возрастание, всходы, сорт"
+  },
+  {
+    "word": "growth (in a living organism)",
+    "translation": "рост"
+  },
+  {
+    "word": "growth (in quantity",
+    "translation": "рост"
+  },
+  {
+    "word": "grub",
+    "translation": "харчи, личинка, выкорчёвывать"
+  },
+  {
+    "word": "grub out",
+    "translation": "раскорчёвывать"
+  },
+  {
+    "word": "grudge",
+    "translation": "поскупиться, пожалеть, дрожать"
+  },
+  {
+    "word": "gruel",
+    "translation": "размазня, баланда"
+  },
+  {
+    "word": "gruffly",
+    "translation": "хрипло"
+  },
+  {
+    "word": "grumble",
+    "translation": "разворчаться, брюзжать, ворчать, ворчание, роптать, проворчать, бурчать"
+  },
+  {
+    "word": "grumble a little",
+    "translation": "поворчать"
+  },
+  {
+    "word": "grumbler",
+    "translation": "ворчунья"
+  },
+  {
+    "word": "grumbling",
+    "translation": "воркотня, ворчливый, ворчание, бурчание"
+  },
+  {
+    "word": "grumpy",
+    "translation": "ворчливый"
+  },
+  {
+    "word": "grunt",
+    "translation": "хрюкать, крякать"
+  },
+  {
+    "word": "grushovka apples",
+    "translation": "грушовка"
+  },
+  {
+    "word": "gruss",
+    "translation": "дресва"
+  },
+  {
+    "word": "gryphon",
+    "translation": "грифон"
+  },
+  {
+    "word": "gryphon (mythology)",
+    "translation": "гриф"
+  },
+  {
+    "word": "guaiacum",
+    "translation": "бакаут"
+  },
+  {
+    "word": "guano",
+    "translation": "гуано"
+  },
+  {
+    "word": "guarantee",
+    "translation": "порука, гарантийный, поручительство, поручительница, ручательство, гарантировать, поручиться"
+  },
+  {
+    "word": "guarantor",
+    "translation": "поручительница, гарант"
+  },
+  {
+    "word": "guaranty",
+    "translation": "ручательство"
+  },
+  {
+    "word": "guard",
+    "translation": "кондуктор, страж, блюсти, сторожить, караулить, охранник..., хранить, устерегать, укараулить"
+  },
+  {
+    "word": "guard commander",
+    "translation": "разводящий"
+  },
+  {
+    "word": "guard oneself",
+    "translation": "ограждаться, оберегаться"
+  },
+  {
+    "word": "guard-house",
+    "translation": "караулка"
+  },
+  {
+    "word": "guard-room",
+    "translation": "караулка"
+  },
+  {
+    "word": "guard-ship",
+    "translation": "брандвахта"
+  },
+  {
+    "word": "guardedly",
+    "translation": "осторожно"
+  },
+  {
+    "word": "guardian",
+    "translation": "опекун, опекунша, блюститель, попечитель"
+  },
+  {
+    "word": "guardians",
+    "translation": "опека"
+  },
+  {
+    "word": "guardianship",
+    "translation": "опекунство, опека, попечительство"
+  },
+  {
+    "word": "guarding",
+    "translation": "охрана"
+  },
+  {
+    "word": "guards",
+    "translation": "гвардия"
+  },
+  {
+    "word": "guardsman",
+    "translation": "страж, гвардеец"
+  },
+  {
+    "word": "guelder rose",
+    "translation": "калина"
+  },
+  {
+    "word": "guerilla",
+    "translation": "партизан"
+  },
+  {
+    "word": "guerilla warfare",
+    "translation": "партизанство"
+  },
+  {
+    "word": "guess",
+    "translation": "гадание, отгадывать, предугадывать, догадываться, погадать"
+  },
+  {
+    "word": "guess right",
+    "translation": "угадывать"
+  },
+  {
+    "word": "guess-work",
+    "translation": "догадка, гадание"
+  },
+  {
+    "word": "guesser",
+    "translation": "отгадчица"
+  },
+  {
+    "word": "guest",
+    "translation": "пансионерка, гостевой, постоялец, посетительница, гостья"
+  },
+  {
+    "word": "guffaw",
+    "translation": "захохотать, гогот"
+  },
+  {
+    "word": "guidance",
+    "translation": "руководство"
+  },
+  {
+    "word": "guide",
+    "translation": "спутник, руководство, гид, проводник, провожатый, путеводитель..., руководить, поводырь, наставлять, наставник, вожатый"
+  },
+  {
+    "word": "guide-bar",
+    "translation": "правило"
+  },
+  {
+    "word": "guide-book",
+    "translation": "путеводитель"
+  },
+  {
+    "word": "guide-rope",
+    "translation": "гайдроп"
+  },
+  {
+    "word": "guided by principle",
+    "translation": "принципиальный"
+  },
+  {
+    "word": "guiding",
+    "translation": "путеводный, направляющий"
+  },
+  {
+    "word": "guiding principle",
+    "translation": "руководство"
+  },
+  {
+    "word": "guild",
+    "translation": "гильдия, цех"
+  },
+  {
+    "word": "guilder",
+    "translation": "гульден"
+  },
+  {
+    "word": "guile",
+    "translation": "хитрость"
+  },
+  {
+    "word": "guileless",
+    "translation": "нехитрый"
+  },
+  {
+    "word": "guillotine",
+    "translation": "гильотинировать"
+  },
+  {
+    "word": "guilt",
+    "translation": "вина, виновность"
+  },
+  {
+    "word": "guiltily",
+    "translation": "виновато"
+  },
+  {
+    "word": "guiltless",
+    "translation": "безвинный, невинный"
+  },
+  {
+    "word": "guiltlessly",
+    "translation": "безвинно"
+  },
+  {
+    "word": "guiltlessness",
+    "translation": "невиновность, невинность"
+  },
+  {
+    "word": "guilty",
+    "translation": "повинный"
+  },
+  {
+    "word": "guinea",
+    "translation": "гинея"
+  },
+  {
+    "word": "guinean",
+    "translation": "гвинейский"
+  },
+  {
+    "word": "guipure",
+    "translation": "гипюр"
+  },
+  {
+    "word": "guise",
+    "translation": "личина"
+  },
+  {
+    "word": "guitar",
+    "translation": "гитара"
+  },
+  {
+    "word": "guitarist",
+    "translation": "гитарист"
+  },
+  {
+    "word": "gulden",
+    "translation": "гульден"
+  },
+  {
+    "word": "gulf",
+    "translation": "залив, пучина"
+  },
+  {
+    "word": "gull",
+    "translation": "чайка"
+  },
+  {
+    "word": "gullet",
+    "translation": "пищевод, глотка"
+  },
+  {
+    "word": "gullibility",
+    "translation": "легковерие"
+  },
+  {
+    "word": "gullible",
+    "translation": "легковерный"
+  },
+  {
+    "word": "gully",
+    "translation": "балка, вымоина, водомоина, овраг"
+  },
+  {
+    "word": "gulp",
+    "translation": "глоток"
+  },
+  {
+    "word": "gulp down",
+    "translation": "хлебать, глотать, проглатывать"
+  },
+  {
+    "word": "gum",
+    "translation": "клеить, камедь, мастика"
+  },
+  {
+    "word": "gum arabic",
+    "translation": "гуммиарабик"
+  },
+  {
+    "word": "gummed",
+    "translation": "клеёный"
+  },
+  {
+    "word": "gumption",
+    "translation": "смётка, сметливость"
+  },
+  {
+    "word": "gun",
+    "translation": "орудийный, пушечный, пушка, ружьё, ружейный, охотник, орудие, оружие"
+  },
+  {
+    "word": "gun rifle stock",
+    "translation": "ложа"
+  },
+  {
+    "word": "gun-carriage",
+    "translation": "лафет"
+  },
+  {
+    "word": "gun-cotton",
+    "translation": "пироксилин"
+  },
+  {
+    "word": "gun-cradle",
+    "translation": "люлька"
+  },
+  {
+    "word": "gun-fire",
+    "translation": "стрельба"
+  },
+  {
+    "word": "gun-port",
+    "translation": "амбразура"
+  },
+  {
+    "word": "gun-sight",
+    "translation": "прицел"
+  },
+  {
+    "word": "gun-slot",
+    "translation": "бойница"
+  },
+  {
+    "word": "gunboat",
+    "translation": "канонерка"
+  },
+  {
+    "word": "gunlayer",
+    "translation": "наводчик"
+  },
+  {
+    "word": "gunman",
+    "translation": "бандит"
+  },
+  {
+    "word": "gunner",
+    "translation": "артиллерист, канонир, пушкарь, стрелок"
+  },
+  {
+    "word": "gunpowder",
+    "translation": "порох"
+  },
+  {
+    "word": "gunsmith",
+    "translation": "ружейник, оружейник"
+  },
+  {
+    "word": "gurgle",
+    "translation": "булькать"
+  },
+  {
+    "word": "gurgling",
+    "translation": "бульканье"
+  },
+  {
+    "word": "gush",
+    "translation": "перехлёстывать, хлестать"
+  },
+  {
+    "word": "gush out",
+    "translation": "хлынуть"
+  },
+  {
+    "word": "gusli",
+    "translation": "гусли"
+  },
+  {
+    "word": "gusset",
+    "translation": "ластовица, кница, клин"
+  },
+  {
+    "word": "gust",
+    "translation": "порыв"
+  },
+  {
+    "word": "gustatory",
+    "translation": "вкусовой"
+  },
+  {
+    "word": "gusto",
+    "translation": "живинка"
+  },
+  {
+    "word": "gusty",
+    "translation": "порывистый"
+  },
+  {
+    "word": "gut",
+    "translation": "кишка"
+  },
+  {
+    "word": "gutta-percha",
+    "translation": "гуттаперча"
+  },
+  {
+    "word": "gutter",
+    "translation": "водосток, сток, потрошитель, жёлоб, оплывать, лоток"
+  },
+  {
+    "word": "gutter press",
+    "translation": "бульварщина"
+  },
+  {
+    "word": "guttural",
+    "translation": "гортанный"
+  },
+  {
+    "word": "guy",
+    "translation": "парень, оттяжка, мужик, тип, малый"
+  },
+  {
+    "word": "guzul",
+    "translation": "гуцульский"
+  },
+  {
+    "word": "guzzle",
+    "translation": "обжираться, сожрать, трескать"
+  },
+  {
+    "word": "gym",
+    "translation": "спортзал"
+  },
+  {
+    "word": "gym-shoes",
+    "translation": "кеды"
+  },
+  {
+    "word": "gymnasia",
+    "translation": "гимназия"
+  },
+  {
+    "word": "gymnasia pupil",
+    "translation": "гимназистка"
+  },
+  {
+    "word": "gymnasium",
+    "translation": "спортзал"
+  },
+  {
+    "word": "gymnast",
+    "translation": "гимнастка"
+  },
+  {
+    "word": "gymnastic",
+    "translation": "гимнастический"
+  },
+  {
+    "word": "gymnastic apparatus",
+    "translation": "снаряд"
+  },
+  {
+    "word": "gymnastics",
+    "translation": "гимнастика"
+  },
+  {
+    "word": "gynaecological",
+    "translation": "гинекологический"
+  },
+  {
+    "word": "gynaecologist",
+    "translation": "гинеколог"
+  },
+  {
+    "word": "gynaecology",
+    "translation": "гинекология"
+  },
+  {
+    "word": "gyps",
+    "translation": "гипс"
+  },
+  {
+    "word": "gypseous",
+    "translation": "гипсовый"
+  },
+  {
+    "word": "gypsum",
+    "translation": "гипсовать"
+  },
+  {
+    "word": "gyrate",
+    "translation": "крутиться"
+  },
+  {
+    "word": "gyration",
+    "translation": "циркуляция, вращение"
+  },
+  {
+    "word": "gyrfalcon",
+    "translation": "кречет"
+  },
+  {
+    "word": "gyrocompass",
+    "translation": "гирокомпас"
+  },
+  {
+    "word": "gyroscope",
+    "translation": "гироскоп"
+  },
+  {
+    "word": "gyroscopic",
+    "translation": "гироскопический"
+  }
+]

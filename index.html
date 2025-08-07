@@ -2,6 +2,8 @@
 <html lang="ru">
   <head>
     <meta charset="UTF-8" />
+    <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon" />
+    <link type="Image/x-icon" href="/favicon.ico" rel="icon" />
     <title>Typelit Book</title>
     <link rel="stylesheet" href="style.css" />
   </head>
@@ -48,7 +50,7 @@
 
       <div id="stats">Символов: 0 | Ошибок: 0</div>
       <button id="backBtn">← На главную</button>
-      <!-- <button id="resetProgressBtn">🗑️ Сбросить прогресс</button> -->
+      <button id="resetProgressBtn">🗑️ Сбросить прогресс</button>
     </div>
     <audio id="soundCtrl" src="sounds/ctrl.mp3" preload="auto"></audio>
     <audio id="soundEnter" src="sounds/enter.mp3" preload="auto"></audio>
@@ -67,7 +69,10 @@
       step="0.01"
       value="1"
     />
+    <div id="translationHint" class="translationHint"></div>
+    <div id="translationPopup" class="translation-popup"></div>
 
-    <script src="script.js"></script>
+    <!-- <script src="script.js"></script> -->
+    <script type="module" src="main.js"></script>
   </body>
 </html>

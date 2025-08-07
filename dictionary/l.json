@@ -1,0 +1,6406 @@
+[
+  {
+    "word": "-looking",
+    "translation": "выглядящий"
+  },
+  {
+    "word": "label",
+    "translation": "ярлычок, сигнатурка, наклейка, ярлык, бирка"
+  },
+  {
+    "word": "labial",
+    "translation": "лабиальный, губной"
+  },
+  {
+    "word": "labialization",
+    "translation": "лабиализованный"
+  },
+  {
+    "word": "labialize",
+    "translation": "лабиализовать"
+  },
+  {
+    "word": "labiatae",
+    "translation": "губоцветные"
+  },
+  {
+    "word": "labile",
+    "translation": "лабильный, неустойчивый"
+  },
+  {
+    "word": "labiodental",
+    "translation": "лабиодентальный"
+  },
+  {
+    "word": "laboratore assistant",
+    "translation": "лаборантка"
+  },
+  {
+    "word": "laboratorial",
+    "translation": "лабораторный"
+  },
+  {
+    "word": "laboratory",
+    "translation": "лаборатория, лабораторный"
+  },
+  {
+    "word": "laboratory assistant",
+    "translation": "препаратор"
+  },
+  {
+    "word": "laborious",
+    "translation": "вымученный, трудоёмкий, кропотливый, копотливый"
+  },
+  {
+    "word": "laboriousness",
+    "translation": "трудоёмкость"
+  },
+  {
+    "word": "labour",
+    "translation": "труд, лейбористский, потуги, трудиться, рабочий, трудовой"
+  },
+  {
+    "word": "labour-intensive",
+    "translation": "трудоёмкий"
+  },
+  {
+    "word": "labour-intensiveness",
+    "translation": "трудоёмкость"
+  },
+  {
+    "word": "laboured",
+    "translation": "вымученный, затруднённый"
+  },
+  {
+    "word": "labourer",
+    "translation": "рабочий"
+  },
+  {
+    "word": "labourite",
+    "translation": "лейборист"
+  },
+  {
+    "word": "labrador tea",
+    "translation": "багульник"
+  },
+  {
+    "word": "labradorite",
+    "translation": "лабрадор"
+  },
+  {
+    "word": "labyrinth",
+    "translation": "лабиринт, дебри"
+  },
+  {
+    "word": "lace",
+    "translation": "басон, тесьма, гипюр, шнурок, кружево, завязка"
+  },
+  {
+    "word": "lace oneself too tight",
+    "translation": "перетянуться"
+  },
+  {
+    "word": "lace pillow-cover",
+    "translation": "накидка"
+  },
+  {
+    "word": "lace up",
+    "translation": "зашнуровывать"
+  },
+  {
+    "word": "lace-frame",
+    "translation": "пяльцы"
+  },
+  {
+    "word": "lace-maker",
+    "translation": "кружевница"
+  },
+  {
+    "word": "lacerate",
+    "translation": "разодрать"
+  },
+  {
+    "word": "lacerated",
+    "translation": "рваный"
+  },
+  {
+    "word": "lachrymal",
+    "translation": "слёзный"
+  },
+  {
+    "word": "lachrymator",
+    "translation": "лакриматор"
+  },
+  {
+    "word": "lachrymatory",
+    "translation": "слезоточивый"
+  },
+  {
+    "word": "lachrymose",
+    "translation": "слезливый"
+  },
+  {
+    "word": "lacing",
+    "translation": "шнуровка"
+  },
+  {
+    "word": "laciniate",
+    "translation": "лопастный"
+  },
+  {
+    "word": "lack",
+    "translation": "неимение, недостача, необеспеченность"
+  },
+  {
+    "word": "lack of a plan",
+    "translation": "бесплановость"
+  },
+  {
+    "word": "lack of ability",
+    "translation": "неспособность"
+  },
+  {
+    "word": "lack of administrative abilities",
+    "translation": "нераспорядительность"
+  },
+  {
+    "word": "lack of agreement",
+    "translation": "несогласованность"
+  },
+  {
+    "word": "lack of attention",
+    "translation": "невнимание"
+  },
+  {
+    "word": "lack of balance",
+    "translation": "диспропорция"
+  },
+  {
+    "word": "lack of character",
+    "translation": "слабохарактерность"
+  },
+  {
+    "word": "lack of co-ordination",
+    "translation": "неувязка, разнобой"
+  },
+  {
+    "word": "lack of comfort",
+    "translation": "неуютность"
+  },
+  {
+    "word": "lack of common sense",
+    "translation": "нерассудительность"
+  },
+  {
+    "word": "lack of conscientiousness",
+    "translation": "недобросовестность"
+  },
+  {
+    "word": "lack of consideration",
+    "translation": "невнимание"
+  },
+  {
+    "word": "lack of correspondence",
+    "translation": "несоответствие"
+  },
+  {
+    "word": "lack of culture",
+    "translation": "некультурность"
+  },
+  {
+    "word": "lack of development",
+    "translation": "неразвитость"
+  },
+  {
+    "word": "lack of discipline",
+    "translation": "распущенность, недисциплинированность, расхлябанность"
+  },
+  {
+    "word": "lack of education",
+    "translation": "необразованность"
+  },
+  {
+    "word": "lack of experience",
+    "translation": "неопытность"
+  },
+  {
+    "word": "lack of faith",
+    "translation": "неверие, маловерие"
+  },
+  {
+    "word": "lack of fastidiousness",
+    "translation": "неразборчивость"
+  },
+  {
+    "word": "lack of firmness",
+    "translation": "нетвёрдость"
+  },
+  {
+    "word": "lack of food",
+    "translation": "голодуха"
+  },
+  {
+    "word": "lack of foresight",
+    "translation": "нерасчётливость, недальновидность, близорукость"
+  },
+  {
+    "word": "lack of good voices",
+    "translation": "безголосица"
+  },
+  {
+    "word": "lack of individuality",
+    "translation": "безличность"
+  },
+  {
+    "word": "lack of information",
+    "translation": "неосведомлённость"
+  },
+  {
+    "word": "lack of initiative",
+    "translation": "несамостоятельность"
+  },
+  {
+    "word": "lack of knowledge",
+    "translation": "незнание"
+  },
+  {
+    "word": "lack of land",
+    "translation": "безземелье"
+  },
+  {
+    "word": "lack of logic",
+    "translation": "нелогичность"
+  },
+  {
+    "word": "lack of moderation",
+    "translation": "неумеренность"
+  },
+  {
+    "word": "lack of modesty",
+    "translation": "нескромность"
+  },
+  {
+    "word": "lack of objective criteria",
+    "translation": "вкусовщина"
+  },
+  {
+    "word": "lack of organization",
+    "translation": "неорганизованность"
+  },
+  {
+    "word": "lack of originality",
+    "translation": "несамостоятельность"
+  },
+  {
+    "word": "lack of perseverance",
+    "translation": "неусидчивость"
+  },
+  {
+    "word": "lack of personality",
+    "translation": "безличность"
+  },
+  {
+    "word": "lack of planning",
+    "translation": "бесплановость"
+  },
+  {
+    "word": "lack of receptivity",
+    "translation": "невосприимчивость"
+  },
+  {
+    "word": "lack of respect",
+    "translation": "неуважение"
+  },
+  {
+    "word": "lack of restraint",
+    "translation": "несдержанность, необузданность"
+  },
+  {
+    "word": "lack of roads",
+    "translation": "бездорожье"
+  },
+  {
+    "word": "lack of self-control",
+    "translation": "невыдержанность"
+  },
+  {
+    "word": "lack of self-restraint",
+    "translation": "невоздержность"
+  },
+  {
+    "word": "lack of seriousness",
+    "translation": "несерьёзность"
+  },
+  {
+    "word": "lack of skill",
+    "translation": "неумение, неискусность"
+  },
+  {
+    "word": "lack of sleep",
+    "translation": "недосып"
+  },
+  {
+    "word": "lack of success",
+    "translation": "неуспех"
+  },
+  {
+    "word": "lack of talent",
+    "translation": "недаровитость, бездарность"
+  },
+  {
+    "word": "lack of time",
+    "translation": "недосуг"
+  },
+  {
+    "word": "lack of understanding",
+    "translation": "непонимание"
+  },
+  {
+    "word": "lack of vital capacity",
+    "translation": "нежизнеспособность"
+  },
+  {
+    "word": "lack of vitality",
+    "translation": "нежизнеспособность"
+  },
+  {
+    "word": "lack of water",
+    "translation": "безводье"
+  },
+  {
+    "word": "lack of will",
+    "translation": "безволие"
+  },
+  {
+    "word": "lack-lustre",
+    "translation": "потускнелый"
+  },
+  {
+    "word": "lackey",
+    "translation": "лакей, холуй, холоп"
+  },
+  {
+    "word": "lacking",
+    "translation": "лишённый"
+  },
+  {
+    "word": "lacking administrative abilities",
+    "translation": "нераспорядительный"
+  },
+  {
+    "word": "lacking co-ordination",
+    "translation": "несогласованный"
+  },
+  {
+    "word": "lacking common sense",
+    "translation": "нерассудительный"
+  },
+  {
+    "word": "lacking culture",
+    "translation": "малокультурный"
+  },
+  {
+    "word": "lacking faith",
+    "translation": "маловерный"
+  },
+  {
+    "word": "lacking foundation",
+    "translation": "неосновательный"
+  },
+  {
+    "word": "lacking in conscientiousness",
+    "translation": "недобросовестный"
+  },
+  {
+    "word": "lacking in imagery",
+    "translation": "безобразный"
+  },
+  {
+    "word": "lacking in initiative",
+    "translation": "несамостоятельный"
+  },
+  {
+    "word": "lacking in prospects",
+    "translation": "неперспективный"
+  },
+  {
+    "word": "lacking initiative",
+    "translation": "безынициативный"
+  },
+  {
+    "word": "lacking of",
+    "translation": "отсутствие"
+  },
+  {
+    "word": "lacking power",
+    "translation": "маломощный"
+  },
+  {
+    "word": "lacking self-control",
+    "translation": "невыдержанный, несдержанный"
+  },
+  {
+    "word": "lacking vital capacity",
+    "translation": "нежизнеспособный"
+  },
+  {
+    "word": "lacking vitality",
+    "translation": "нежизнеспособный"
+  },
+  {
+    "word": "lacklustre",
+    "translation": "тусклый, безжизненный, туманный, мутный"
+  },
+  {
+    "word": "laconic",
+    "translation": "лаконический, немногословный"
+  },
+  {
+    "word": "laconicism",
+    "translation": "лаконизм"
+  },
+  {
+    "word": "lacquer",
+    "translation": "лак, лакировать"
+  },
+  {
+    "word": "lacquered",
+    "translation": "лаковый"
+  },
+  {
+    "word": "lacquering",
+    "translation": "лакировка"
+  },
+  {
+    "word": "lactation",
+    "translation": "лактация"
+  },
+  {
+    "word": "lacteal",
+    "translation": "млечный"
+  },
+  {
+    "word": "lactic",
+    "translation": "млечный, молочный"
+  },
+  {
+    "word": "lactometer",
+    "translation": "лактометр"
+  },
+  {
+    "word": "lactose",
+    "translation": "лактоза"
+  },
+  {
+    "word": "lacuna",
+    "translation": "лакуна"
+  },
+  {
+    "word": "lacy",
+    "translation": "кружевной"
+  },
+  {
+    "word": "lad",
+    "translation": "парень, пацан, отрок, мальчик, парнишка, паренёк, малец, оголец, малый, шпингалет"
+  },
+  {
+    "word": "ladder",
+    "translation": "трап, лестница"
+  },
+  {
+    "word": "laddie",
+    "translation": "мальчонка"
+  },
+  {
+    "word": "lade",
+    "translation": "черпать, нагружать"
+  },
+  {
+    "word": "laden",
+    "translation": "гружёный"
+  },
+  {
+    "word": "ladies and gentlemen",
+    "translation": "господа"
+  },
+  {
+    "word": "lading",
+    "translation": "груз, погрузка"
+  },
+  {
+    "word": "ladle",
+    "translation": "половник, ковш"
+  },
+  {
+    "word": "ladle out",
+    "translation": "зачерпывать, отчерпывать"
+  },
+  {
+    "word": "lads",
+    "translation": "ребята, братва"
+  },
+  {
+    "word": "lady",
+    "translation": "тётя, тётка, леди, барыня, госпожа, дама, повелительница"
+  },
+  {
+    "word": "lady day",
+    "translation": "благовещение"
+  },
+  {
+    "word": "lady doctor",
+    "translation": "женщина-врач"
+  },
+  {
+    "word": "lady of the manor",
+    "translation": "барыня, помещица"
+  },
+  {
+    "word": "lady-in-waiting",
+    "translation": "статс-дама"
+  },
+  {
+    "word": "lady-killer",
+    "translation": "сердцеед, ловелас"
+  },
+  {
+    "word": "lady-love",
+    "translation": "возлюбленная"
+  },
+  {
+    "word": "ladykiller",
+    "translation": "волокита"
+  },
+  {
+    "word": "lag",
+    "translation": "запаздывать, отставание, клёпка"
+  },
+  {
+    "word": "lag behind",
+    "translation": "отставать"
+  },
+  {
+    "word": "lagging",
+    "translation": "запаздывание"
+  },
+  {
+    "word": "lagging behind",
+    "translation": "неуспеваемость, неуспевающий"
+  },
+  {
+    "word": "lagoon",
+    "translation": "лагуна"
+  },
+  {
+    "word": "lair",
+    "translation": "берлога, логовище"
+  },
+  {
+    "word": "lake",
+    "translation": "озеро, приозёрный"
+  },
+  {
+    "word": "lake-",
+    "translation": "озёрный"
+  },
+  {
+    "word": "lakeside",
+    "translation": "приозёрный, береговой"
+  },
+  {
+    "word": "lama",
+    "translation": "лама"
+  },
+  {
+    "word": "lamaism",
+    "translation": "ламаизм"
+  },
+  {
+    "word": "lamaist",
+    "translation": "ламаист"
+  },
+  {
+    "word": "lamb",
+    "translation": "ягнёнок, барашек"
+  },
+  {
+    "word": "lambency",
+    "translation": "сверкание"
+  },
+  {
+    "word": "lambing",
+    "translation": "окот"
+  },
+  {
+    "word": "lambing-time",
+    "translation": "окот"
+  },
+  {
+    "word": "lambrequin",
+    "translation": "ламбрекен"
+  },
+  {
+    "word": "lambskin",
+    "translation": "барашек, барашковый"
+  },
+  {
+    "word": "lame",
+    "translation": "колченогий, хромоногий, хромой, неудачный"
+  },
+  {
+    "word": "lame boy",
+    "translation": "хромой"
+  },
+  {
+    "word": "lame girl",
+    "translation": "хромой"
+  },
+  {
+    "word": "lame man",
+    "translation": "хромой"
+  },
+  {
+    "word": "lame woman",
+    "translation": "хромой"
+  },
+  {
+    "word": "lamellar",
+    "translation": "слоистый, пластинчатый"
+  },
+  {
+    "word": "lamellate",
+    "translation": "пластинчатый"
+  },
+  {
+    "word": "lamellibranchia",
+    "translation": "пластинчатожаберные"
+  },
+  {
+    "word": "lameness",
+    "translation": "хромота"
+  },
+  {
+    "word": "lament",
+    "translation": "грустить, плакаться, причитать, посетовать"
+  },
+  {
+    "word": "lamentable",
+    "translation": "плачевный, прискорбный"
+  },
+  {
+    "word": "lamentation",
+    "translation": "причитание, сетование"
+  },
+  {
+    "word": "lamina",
+    "translation": "пластинка"
+  },
+  {
+    "word": "laminate",
+    "translation": "плющить, наслаивать"
+  },
+  {
+    "word": "laminated",
+    "translation": "слоистый"
+  },
+  {
+    "word": "lamp",
+    "translation": "светильник, светоч, лампа, фонарный, фонарь"
+  },
+  {
+    "word": "lamp signalling",
+    "translation": "светосигнализация"
+  },
+  {
+    "word": "lamp-black",
+    "translation": "копоть"
+  },
+  {
+    "word": "lamp-bracket",
+    "translation": "бра"
+  },
+  {
+    "word": "lamp-chimney brush",
+    "translation": "ёрш"
+  },
+  {
+    "word": "lamp-holder",
+    "translation": "патрон"
+  },
+  {
+    "word": "lamp-socket",
+    "translation": "патрон"
+  },
+  {
+    "word": "lampas",
+    "translation": "насос"
+  },
+  {
+    "word": "lampion",
+    "translation": "плошка, лампион"
+  },
+  {
+    "word": "lamplighter",
+    "translation": "фонарщик"
+  },
+  {
+    "word": "lampoon",
+    "translation": "памфлет, пасквиль"
+  },
+  {
+    "word": "lamprey",
+    "translation": "минога"
+  },
+  {
+    "word": "lampshade",
+    "translation": "колпак, абажур"
+  },
+  {
+    "word": "lanate",
+    "translation": "ворсистый"
+  },
+  {
+    "word": "lance",
+    "translation": "пика, вскрывать, копьё"
+  },
+  {
+    "word": "lance-bearer",
+    "translation": "копьеносец"
+  },
+  {
+    "word": "lanceolate",
+    "translation": "ланцетовидный, ланцетный, копьевидный"
+  },
+  {
+    "word": "lancet",
+    "translation": "стрельчатый, ланцетный"
+  },
+  {
+    "word": "lancet fish",
+    "translation": "зубатка"
+  },
+  {
+    "word": "lancet-shaped",
+    "translation": "копьевидный"
+  },
+  {
+    "word": "lancing",
+    "translation": "вскрытие"
+  },
+  {
+    "word": "land",
+    "translation": "высаживаться, край, страна, земля, поземельный, приземлять, сухопутный..."
+  },
+  {
+    "word": "land airplne",
+    "translation": "посадить"
+  },
+  {
+    "word": "land on the moon",
+    "translation": "прилуняться"
+  },
+  {
+    "word": "land on the way",
+    "translation": "залетать"
+  },
+  {
+    "word": "land ownership",
+    "translation": "землевладение"
+  },
+  {
+    "word": "land ploughed in autumn for spring sowing",
+    "translation": "зябь"
+  },
+  {
+    "word": "land surveyor",
+    "translation": "землемер"
+  },
+  {
+    "word": "land tenure",
+    "translation": "землепользование"
+  },
+  {
+    "word": "land-improvement",
+    "translation": "мелиоративный, мелиорация"
+  },
+  {
+    "word": "land-mine",
+    "translation": "фугас"
+  },
+  {
+    "word": "land-owning lady",
+    "translation": "помещица"
+  },
+  {
+    "word": "land-reclamation",
+    "translation": "мелиоративный, мелиорация"
+  },
+  {
+    "word": "land-rover",
+    "translation": "вездеход"
+  },
+  {
+    "word": "land-surveying",
+    "translation": "геодезический, межевание, геодезия"
+  },
+  {
+    "word": "land-surveying engineer",
+    "translation": "межевик"
+  },
+  {
+    "word": "land-surveyor",
+    "translation": "геодезист, межевик"
+  },
+  {
+    "word": "land-tag",
+    "translation": "ландтаг"
+  },
+  {
+    "word": "landau",
+    "translation": "ландо"
+  },
+  {
+    "word": "landed gentleman",
+    "translation": "помещик"
+  },
+  {
+    "word": "landholding",
+    "translation": "землевладение"
+  },
+  {
+    "word": "landing",
+    "translation": "площадка, десантный, десант, приземление, посадочный"
+  },
+  {
+    "word": "landing on the moon",
+    "translation": "прилунение"
+  },
+  {
+    "word": "landing party force",
+    "translation": "десант"
+  },
+  {
+    "word": "landing-stage",
+    "translation": "дебаркадер"
+  },
+  {
+    "word": "landlady",
+    "translation": "домовладелица, содержательница, хозяйка"
+  },
+  {
+    "word": "landless",
+    "translation": "обезземеленный, безземельный"
+  },
+  {
+    "word": "landlord",
+    "translation": "арендодатель, помещик, хозяин, домовладелец"
+  },
+  {
+    "word": "landmark",
+    "translation": "веха, вешка"
+  },
+  {
+    "word": "landowner",
+    "translation": "барин, землевладелец, помещик"
+  },
+  {
+    "word": "landrail",
+    "translation": "дергач, коростель"
+  },
+  {
+    "word": "landscape",
+    "translation": "пейзажный, ландшафт, пейзаж"
+  },
+  {
+    "word": "landsknecht",
+    "translation": "ландскнехт"
+  },
+  {
+    "word": "landslide",
+    "translation": "обвал, оползень"
+  },
+  {
+    "word": "landslip",
+    "translation": "обвал, оползень"
+  },
+  {
+    "word": "lane",
+    "translation": "аллея, рядность, дорожка, переулок"
+  },
+  {
+    "word": "language",
+    "translation": "язык, языковой, речь"
+  },
+  {
+    "word": "language and literature teacher",
+    "translation": "словесник"
+  },
+  {
+    "word": "languid",
+    "translation": "вялый"
+  },
+  {
+    "word": "languidly",
+    "translation": "томно"
+  },
+  {
+    "word": "languish",
+    "translation": "томление, разомлеть, растаять, стонать, томиться, маяться"
+  },
+  {
+    "word": "languor",
+    "translation": "вялость, истома"
+  },
+  {
+    "word": "languorously",
+    "translation": "томно"
+  },
+  {
+    "word": "lanky",
+    "translation": "долговязый"
+  },
+  {
+    "word": "lanky fellow",
+    "translation": "верзила"
+  },
+  {
+    "word": "lanky woman",
+    "translation": "верзила"
+  },
+  {
+    "word": "lanolin",
+    "translation": "ланолин"
+  },
+  {
+    "word": "lantern",
+    "translation": "фонарный, фонарь"
+  },
+  {
+    "word": "lanyard",
+    "translation": "талреп"
+  },
+  {
+    "word": "laotian",
+    "translation": "лаосский"
+  },
+  {
+    "word": "lap",
+    "translation": "лоно, заезд, круг, притереть, лакать, плескаться, пола, плескать, этап"
+  },
+  {
+    "word": "lap up",
+    "translation": "вылакать"
+  },
+  {
+    "word": "lap- overlapping",
+    "translation": "нахлёстка"
+  },
+  {
+    "word": "lap-dog",
+    "translation": "болонка, собачка"
+  },
+  {
+    "word": "lap-robe",
+    "translation": "полость"
+  },
+  {
+    "word": "lapel",
+    "translation": "борт, лацкан, отворот"
+  },
+  {
+    "word": "lapidare",
+    "translation": "лапидарный"
+  },
+  {
+    "word": "lapidary",
+    "translation": "гранильный, гранильщик"
+  },
+  {
+    "word": "lapis lazuli",
+    "translation": "ляпис-лазурь, лазурит"
+  },
+  {
+    "word": "laplander",
+    "translation": "лопарь, саами"
+  },
+  {
+    "word": "lapp",
+    "translation": "лопарь, саами, саамский"
+  },
+  {
+    "word": "lapping",
+    "translation": "плеск"
+  },
+  {
+    "word": "lappish",
+    "translation": "саамский, лапландский"
+  },
+  {
+    "word": "lapponian",
+    "translation": "лапландский"
+  },
+  {
+    "word": "lapse",
+    "translation": "пропуск, впасть, прореха"
+  },
+  {
+    "word": "lapse into silence",
+    "translation": "умолкнуть, замолкать"
+  },
+  {
+    "word": "lapta",
+    "translation": "лапта"
+  },
+  {
+    "word": "laptop",
+    "translation": "ноутбук"
+  },
+  {
+    "word": "lapwing",
+    "translation": "чибис"
+  },
+  {
+    "word": "larceny",
+    "translation": "кража"
+  },
+  {
+    "word": "larch",
+    "translation": "лиственница"
+  },
+  {
+    "word": "lard",
+    "translation": "сало, уснащать, смалец"
+  },
+  {
+    "word": "larded",
+    "translation": "сдобренный"
+  },
+  {
+    "word": "larder",
+    "translation": "кладовая, чулан"
+  },
+  {
+    "word": "lares",
+    "translation": "лары"
+  },
+  {
+    "word": "large",
+    "translation": "большой, крупный"
+  },
+  {
+    "word": "large bottle",
+    "translation": "бутыль"
+  },
+  {
+    "word": "large calorie",
+    "translation": "килограмм-калория"
+  },
+  {
+    "word": "large city",
+    "translation": "городище"
+  },
+  {
+    "word": "large coach",
+    "translation": "рыдван"
+  },
+  {
+    "word": "large earthenware pot",
+    "translation": "корчага"
+  },
+  {
+    "word": "large fan",
+    "translation": "опахало"
+  },
+  {
+    "word": "large felt mat",
+    "translation": "кошма"
+  },
+  {
+    "word": "large land-owner",
+    "translation": "латифундист"
+  },
+  {
+    "word": "large scale",
+    "translation": "масштабный"
+  },
+  {
+    "word": "large sum",
+    "translation": "куш"
+  },
+  {
+    "word": "large village",
+    "translation": "посёлок"
+  },
+  {
+    "word": "large wagonette",
+    "translation": "линейка"
+  },
+  {
+    "word": "large-calibre",
+    "translation": "крупнокалиберный"
+  },
+  {
+    "word": "large-horned",
+    "translation": "рогастый"
+  },
+  {
+    "word": "large-scale",
+    "translation": "крупномасштабный, крупный, развёрнутый"
+  },
+  {
+    "word": "large-scale mechanized bakery",
+    "translation": "хлебозавод"
+  },
+  {
+    "word": "large-sized",
+    "translation": "крупногабаритный"
+  },
+  {
+    "word": "large-toothed",
+    "translation": "зубастый"
+  },
+  {
+    "word": "larger",
+    "translation": "больше"
+  },
+  {
+    "word": "largest",
+    "translation": "крупнейший"
+  },
+  {
+    "word": "lark",
+    "translation": "жаворонок"
+  },
+  {
+    "word": "larva",
+    "translation": "личинка"
+  },
+  {
+    "word": "larval",
+    "translation": "личиночный"
+  },
+  {
+    "word": "laryngeal",
+    "translation": "гортанный"
+  },
+  {
+    "word": "laryngitis",
+    "translation": "ларингит"
+  },
+  {
+    "word": "laryngology",
+    "translation": "ларингология"
+  },
+  {
+    "word": "laryngoscope",
+    "translation": "ларингоскоп"
+  },
+  {
+    "word": "laryngoscopy",
+    "translation": "ларингоскопия"
+  },
+  {
+    "word": "laryngotomy",
+    "translation": "ларинготомия"
+  },
+  {
+    "word": "larynx",
+    "translation": "гортань"
+  },
+  {
+    "word": "lasagna",
+    "translation": "лазанье"
+  },
+  {
+    "word": "lascivious",
+    "translation": "похотливый, блудливый"
+  },
+  {
+    "word": "lasciviousness",
+    "translation": "блудливость, похотливость"
+  },
+  {
+    "word": "laser",
+    "translation": "лазерный"
+  },
+  {
+    "word": "lash",
+    "translation": "удар, охаживать, бичевать, пороть, найтовить, хлестнуть, стегнуть..."
+  },
+  {
+    "word": "lash mercilessly",
+    "translation": "захлёстывать"
+  },
+  {
+    "word": "lash together",
+    "translation": "счаливать"
+  },
+  {
+    "word": "lashing",
+    "translation": "крепление, порка, найтов"
+  },
+  {
+    "word": "lass",
+    "translation": "отроковица, девушка"
+  },
+  {
+    "word": "lassie",
+    "translation": "лапочка"
+  },
+  {
+    "word": "lassitude",
+    "translation": "истома, утомление"
+  },
+  {
+    "word": "lasso",
+    "translation": "заарканить"
+  },
+  {
+    "word": "last",
+    "translation": "колодка, неоглядный, продолжаться, просуществовать, конечный, проноситься, прошлый, последний, протянуться..."
+  },
+  {
+    "word": "last but one",
+    "translation": "предпоследний"
+  },
+  {
+    "word": "last name",
+    "translation": "фамилия"
+  },
+  {
+    "word": "last name first name patronymic",
+    "translation": "ФИО"
+  },
+  {
+    "word": "last night",
+    "translation": "вечор"
+  },
+  {
+    "word": "last post",
+    "translation": "повестка"
+  },
+  {
+    "word": "lasting",
+    "translation": "ластик, долговечный, долговременный"
+  },
+  {
+    "word": "lasting five months",
+    "translation": "пятимесячный"
+  },
+  {
+    "word": "latania",
+    "translation": "латания"
+  },
+  {
+    "word": "latch",
+    "translation": "прибиться, защёлка, щеколда, фиксатор, шпингалет"
+  },
+  {
+    "word": "late",
+    "translation": "бывший, поздно, покойный, поздний, давешний"
+  },
+  {
+    "word": "late stone age",
+    "translation": "неолит, неолитический"
+  },
+  {
+    "word": "late-comer",
+    "translation": "опоздавший"
+  },
+  {
+    "word": "lately",
+    "translation": "давеча, намедни"
+  },
+  {
+    "word": "lateness",
+    "translation": "опоздание, запоздание"
+  },
+  {
+    "word": "latent",
+    "translation": "латентный, подспудный, скрытый"
+  },
+  {
+    "word": "later",
+    "translation": "после, спустя, впоследствии, потом, далее, позднее, ужо, там"
+  },
+  {
+    "word": "later development",
+    "translation": "наслоение"
+  },
+  {
+    "word": "later on",
+    "translation": "впоследствии, потом"
+  },
+  {
+    "word": "lateral",
+    "translation": "боковой"
+  },
+  {
+    "word": "lateral road",
+    "translation": "рокада"
+  },
+  {
+    "word": "latest",
+    "translation": "свежий, последний, новейший"
+  },
+  {
+    "word": "lath",
+    "translation": "обрешетить, дранка, планка"
+  },
+  {
+    "word": "lathe operator",
+    "translation": "токарь"
+  },
+  {
+    "word": "lather",
+    "translation": "вспениваться, пена, мылиться, мыло, мылить"
+  },
+  {
+    "word": "lathery",
+    "translation": "взмыленный"
+  },
+  {
+    "word": "lathing",
+    "translation": "обрешётка"
+  },
+  {
+    "word": "latifundium",
+    "translation": "латифундия"
+  },
+  {
+    "word": "latin",
+    "translation": "латинский"
+  },
+  {
+    "word": "latin construction",
+    "translation": "латинизм"
+  },
+  {
+    "word": "latin loanword",
+    "translation": "латинизм"
+  },
+  {
+    "word": "latin scholar",
+    "translation": "латинист"
+  },
+  {
+    "word": "latin-american",
+    "translation": "латиноамериканский"
+  },
+  {
+    "word": "latinism",
+    "translation": "латинизм"
+  },
+  {
+    "word": "latinization",
+    "translation": "латинизация"
+  },
+  {
+    "word": "latinize",
+    "translation": "латинизировать"
+  },
+  {
+    "word": "latitude",
+    "translation": "широта"
+  },
+  {
+    "word": "latrine",
+    "translation": "санузел"
+  },
+  {
+    "word": "latter",
+    "translation": "последний"
+  },
+  {
+    "word": "latter-day",
+    "translation": "новоявленный"
+  },
+  {
+    "word": "lattice",
+    "translation": "решётка, решётчатый"
+  },
+  {
+    "word": "latticed",
+    "translation": "решётчатый"
+  },
+  {
+    "word": "latvia",
+    "translation": "Латвия"
+  },
+  {
+    "word": "latvian",
+    "translation": "латвийский"
+  },
+  {
+    "word": "laud",
+    "translation": "восхвалять"
+  },
+  {
+    "word": "laudable",
+    "translation": "похвальный"
+  },
+  {
+    "word": "laudation",
+    "translation": "дифирамб, превозношение, восхваление"
+  },
+  {
+    "word": "laudatory",
+    "translation": "хвалебный, похвальный"
+  },
+  {
+    "word": "laugh",
+    "translation": "посмеиваться, ржать, похохотать, насмеяться, подсмеиваться, хохотать..., потешаться"
+  },
+  {
+    "word": "laugh the matter off",
+    "translation": "отшучиваться"
+  },
+  {
+    "word": "laugh to scorn",
+    "translation": "засмеять"
+  },
+  {
+    "word": "laughable",
+    "translation": "смехотворный"
+  },
+  {
+    "word": "laughableness",
+    "translation": "смехотворность"
+  },
+  {
+    "word": "laughing -stock",
+    "translation": "посмешище"
+  },
+  {
+    "word": "laughter",
+    "translation": "хохот, смех"
+  },
+  {
+    "word": "launch",
+    "translation": "запускать, баркас, спускать, спуск, пуск"
+  },
+  {
+    "word": "launch vehicle",
+    "translation": "ракетоноситель"
+  },
+  {
+    "word": "launched",
+    "translation": "запущенный"
+  },
+  {
+    "word": "launching",
+    "translation": "запуск, стартовый"
+  },
+  {
+    "word": "launder",
+    "translation": "выстирать"
+  },
+  {
+    "word": "laundering",
+    "translation": "стирка"
+  },
+  {
+    "word": "laundress",
+    "translation": "прачка"
+  },
+  {
+    "word": "laundry",
+    "translation": "бельё, прачечная, стирка"
+  },
+  {
+    "word": "laureate",
+    "translation": "лауреат"
+  },
+  {
+    "word": "laurel",
+    "translation": "лавр"
+  },
+  {
+    "word": "lava",
+    "translation": "лава"
+  },
+  {
+    "word": "lavatory",
+    "translation": "уборная, туалет"
+  },
+  {
+    "word": "lavatory pan",
+    "translation": "унитаз"
+  },
+  {
+    "word": "lavatory seat",
+    "translation": "стульчак"
+  },
+  {
+    "word": "lavender",
+    "translation": "лаванда"
+  },
+  {
+    "word": "lavish",
+    "translation": "обильный, расточать, отваливать"
+  },
+  {
+    "word": "lavra",
+    "translation": "лавра"
+  },
+  {
+    "word": "lavsan",
+    "translation": "лавсан"
+  },
+  {
+    "word": "law",
+    "translation": "юриспруденция, закон, узаконение, право"
+  },
+  {
+    "word": "law and order",
+    "translation": "правопорядок"
+  },
+  {
+    "word": "law in draft",
+    "translation": "законопроект"
+  },
+  {
+    "word": "law student",
+    "translation": "студент-юрист"
+  },
+  {
+    "word": "law-court",
+    "translation": "суд"
+  },
+  {
+    "word": "law-giver",
+    "translation": "законодательница"
+  },
+  {
+    "word": "law-maker",
+    "translation": "законодательница"
+  },
+  {
+    "word": "lawful",
+    "translation": "законный, правомерный"
+  },
+  {
+    "word": "lawfully",
+    "translation": "законно"
+  },
+  {
+    "word": "lawfulness",
+    "translation": "законность"
+  },
+  {
+    "word": "lawless",
+    "translation": "беззаконный"
+  },
+  {
+    "word": "lawlessness",
+    "translation": "беззаконие, бесправие"
+  },
+  {
+    "word": "lawn",
+    "translation": "батист, газон"
+  },
+  {
+    "word": "lawn-mower",
+    "translation": "газонокосилка"
+  },
+  {
+    "word": "lawsuit",
+    "translation": "процесс, тяжба"
+  },
+  {
+    "word": "lawyer",
+    "translation": "адвокат, законовед, правовед, юрист, законник"
+  },
+  {
+    "word": "lax",
+    "translation": "расхлябанный"
+  },
+  {
+    "word": "laxative",
+    "translation": "слабительное"
+  },
+  {
+    "word": "laxity",
+    "translation": "расхлябанность"
+  },
+  {
+    "word": "lay",
+    "translation": "понести, побить, лежать, выкладывать, прокладывать, заложить, валить..., мирской, прибивать, потянуть, наложить, закладывать, складывать..."
+  },
+  {
+    "word": "lay a smoke-screen",
+    "translation": "задымлять"
+  },
+  {
+    "word": "lay around",
+    "translation": "прохлаждаться"
+  },
+  {
+    "word": "lay away",
+    "translation": "схоронить"
+  },
+  {
+    "word": "lay bare",
+    "translation": "обнажать, разоблачать, раскрывать, разоблачить"
+  },
+  {
+    "word": "lay brother",
+    "translation": "послушник"
+  },
+  {
+    "word": "lay claim",
+    "translation": "притязать, претендовать"
+  },
+  {
+    "word": "lay down",
+    "translation": "выставлять, слагать, декларировать"
+  },
+  {
+    "word": "lay down the law",
+    "translation": "вещать, рядить"
+  },
+  {
+    "word": "lay eggs",
+    "translation": "нестись"
+  },
+  {
+    "word": "lay figure",
+    "translation": "манекен"
+  },
+  {
+    "word": "lay hold",
+    "translation": "сцапать, ухватить, зацапать"
+  },
+  {
+    "word": "lay in",
+    "translation": "натаскать, наготовить, напасать, заготавливать, приготовить"
+  },
+  {
+    "word": "lay in a stock",
+    "translation": "закупить, запасти"
+  },
+  {
+    "word": "lay in a supply",
+    "translation": "запасаться"
+  },
+  {
+    "word": "lay in on",
+    "translation": "прибавлять"
+  },
+  {
+    "word": "lay in store",
+    "translation": "припасать"
+  },
+  {
+    "word": "lay off",
+    "translation": "сокращать, рассчитывать"
+  },
+  {
+    "word": "lay on",
+    "translation": "нанести"
+  },
+  {
+    "word": "lay out",
+    "translation": "разбивать, разделывать, выкладывать, раскладывать, планировать"
+  },
+  {
+    "word": "lay out money",
+    "translation": "расходоваться"
+  },
+  {
+    "word": "lay out mosaic",
+    "translation": "выкладывать"
+  },
+  {
+    "word": "lay siege",
+    "translation": "осаждать"
+  },
+  {
+    "word": "lay sister",
+    "translation": "послушница"
+  },
+  {
+    "word": "lay stress",
+    "translation": "упирать"
+  },
+  {
+    "word": "lay to the charge",
+    "translation": "вменять"
+  },
+  {
+    "word": "lay up",
+    "translation": "копить, припрятывать, припасать, законсервировать, консервировать"
+  },
+  {
+    "word": "lay waste",
+    "translation": "опустошать"
+  },
+  {
+    "word": "lay with asphalt",
+    "translation": "заасфальтировать"
+  },
+  {
+    "word": "lay-brother",
+    "translation": "служка"
+  },
+  {
+    "word": "lay-out",
+    "translation": "устройство, планировка"
+  },
+  {
+    "word": "layabout",
+    "translation": "лоботряс"
+  },
+  {
+    "word": "layer",
+    "translation": "накат, отводок, пласт, слой, несушка, укладчица, прослойка, наслоение, ярус"
+  },
+  {
+    "word": "layette",
+    "translation": "приданое"
+  },
+  {
+    "word": "laying",
+    "translation": "проведение, наводка, наведение, кладка, закладка, прокладка, настилка, сервировка, укладка, закладывание"
+  },
+  {
+    "word": "laying hen",
+    "translation": "несушка"
+  },
+  {
+    "word": "laying in",
+    "translation": "засыпка"
+  },
+  {
+    "word": "laying on",
+    "translation": "проводка"
+  },
+  {
+    "word": "laying out",
+    "translation": "разбивка"
+  },
+  {
+    "word": "laying-in",
+    "translation": "заготовка"
+  },
+  {
+    "word": "laying-out",
+    "translation": "выкладка"
+  },
+  {
+    "word": "layman",
+    "translation": "профан, мирянин"
+  },
+  {
+    "word": "layout",
+    "translation": "расположение"
+  },
+  {
+    "word": "layover",
+    "translation": "пересадка"
+  },
+  {
+    "word": "laze around",
+    "translation": "прохлаждаться"
+  },
+  {
+    "word": "lazily",
+    "translation": "лениво"
+  },
+  {
+    "word": "laziness",
+    "translation": "лень, леность"
+  },
+  {
+    "word": "lazurite",
+    "translation": "лазурит"
+  },
+  {
+    "word": "lazy",
+    "translation": "ленивый"
+  },
+  {
+    "word": "lazy ass",
+    "translation": "лентяй"
+  },
+  {
+    "word": "lazy person",
+    "translation": "лентяйка, лентяй"
+  },
+  {
+    "word": "lazy-bones",
+    "translation": "лоботряс, лентяйка, лентяй, лежебока"
+  },
+  {
+    "word": "lazybones",
+    "translation": "бездельница, байбак"
+  },
+  {
+    "word": "lea",
+    "translation": "пасмо"
+  },
+  {
+    "word": "leach",
+    "translation": "выщелочить"
+  },
+  {
+    "word": "leaching",
+    "translation": "выщелачивание"
+  },
+  {
+    "word": "lead",
+    "translation": "приводить, графит, премьерша, доводить, предводительствовать, повести, обводить..., ход, возглавить, премьер..."
+  },
+  {
+    "word": "lead a beggarly life",
+    "translation": "нищенствовать"
+  },
+  {
+    "word": "lead around",
+    "translation": "обвести"
+  },
+  {
+    "word": "lead away",
+    "translation": "утаскивать, уводить"
+  },
+  {
+    "word": "lead out",
+    "translation": "выводить"
+  },
+  {
+    "word": "lead the life of a yurodivy",
+    "translation": "юродствовать"
+  },
+  {
+    "word": "lead there",
+    "translation": "доводить"
+  },
+  {
+    "word": "lead trumps",
+    "translation": "козырять"
+  },
+  {
+    "word": "lead-free",
+    "translation": "неэтилированный"
+  },
+  {
+    "word": "lead-in",
+    "translation": "ввод"
+  },
+  {
+    "word": "leaden",
+    "translation": "свинцовый"
+  },
+  {
+    "word": "leaden-coloured",
+    "translation": "свинцовый"
+  },
+  {
+    "word": "leader",
+    "translation": "атаман, ведущий, леска, флагман, концертмейстер, вождь, лидер, поводырь, руководитель..., гегемон"
+  },
+  {
+    "word": "leader in war",
+    "translation": "военачальник"
+  },
+  {
+    "word": "leader of chorus",
+    "translation": "хормейстер"
+  },
+  {
+    "word": "leaders",
+    "translation": "руководство, верхушка"
+  },
+  {
+    "word": "leadership",
+    "translation": "верховенство, руководство, предводительство, головка, лидерство, верхи, верхушка"
+  },
+  {
+    "word": "leading",
+    "translation": "ведущий, путеводный, направляющий, головной, руководящий"
+  },
+  {
+    "word": "leading actor",
+    "translation": "премьер"
+  },
+  {
+    "word": "leading article",
+    "translation": "передовая"
+  },
+  {
+    "word": "leading light",
+    "translation": "светоч, запевала, маяк"
+  },
+  {
+    "word": "leading man",
+    "translation": "премьер"
+  },
+  {
+    "word": "leading plane",
+    "translation": "ведущий"
+  },
+  {
+    "word": "leading strings",
+    "translation": "помочи"
+  },
+  {
+    "word": "leadline",
+    "translation": "лотлинь"
+  },
+  {
+    "word": "leaf",
+    "translation": "половинка, лист, створка, листик, перелистать"
+  },
+  {
+    "word": "leaf of paper",
+    "translation": "лист"
+  },
+  {
+    "word": "leaf-bud",
+    "translation": "почка"
+  },
+  {
+    "word": "leaf-cutting beetle",
+    "translation": "листоед"
+  },
+  {
+    "word": "leafage",
+    "translation": "листва"
+  },
+  {
+    "word": "leafless",
+    "translation": "безлистный"
+  },
+  {
+    "word": "leaflet",
+    "translation": "листок, листик, прокламация, летучка"
+  },
+  {
+    "word": "leafy",
+    "translation": "кудрявый"
+  },
+  {
+    "word": "leafy tops of root vegetables",
+    "translation": "ботва"
+  },
+  {
+    "word": "leafy tops of vegetables",
+    "translation": "вершки"
+  },
+  {
+    "word": "league",
+    "translation": "лига, союз"
+  },
+  {
+    "word": "leak",
+    "translation": "затекать, подтечь, протечь, вытечь, течь, просачиваться"
+  },
+  {
+    "word": "leakage",
+    "translation": "утечка, просачивание"
+  },
+  {
+    "word": "lean",
+    "translation": "наваливаться, перегибаться, сухопарый, накреняться, сухощавый, прислонять, опираться..., налечь, опереть, приставлять..."
+  },
+  {
+    "word": "lean back",
+    "translation": "отваливаться, откидываться"
+  },
+  {
+    "word": "lean on one side",
+    "translation": "пошатнуться"
+  },
+  {
+    "word": "lean out",
+    "translation": "высовываться"
+  },
+  {
+    "word": "lean over",
+    "translation": "перегибаться, свешиваться"
+  },
+  {
+    "word": "lean-to",
+    "translation": "пристройка, односкатный, навес"
+  },
+  {
+    "word": "leaned out",
+    "translation": "высунуться"
+  },
+  {
+    "word": "leaning",
+    "translation": "наклонность"
+  },
+  {
+    "word": "leanness",
+    "translation": "сухощавость, худоба"
+  },
+  {
+    "word": "leap",
+    "translation": "скачок, взыграть, заскакать, перемахивать, подпрыгнуть, запрыгнуть, сигать, прыжок, махнуть, прыгать"
+  },
+  {
+    "word": "leap out",
+    "translation": "выпрыгивать, выскакивать"
+  },
+  {
+    "word": "leap up",
+    "translation": "вскакивать"
+  },
+  {
+    "word": "leaping",
+    "translation": "прыгание"
+  },
+  {
+    "word": "learn",
+    "translation": "набираться, проведывать, доучить, выучиваться, узнать, разучить, обучиться, учиться..., усваивать..."
+  },
+  {
+    "word": "learn again",
+    "translation": "переучиваться, переучить"
+  },
+  {
+    "word": "learn by heart",
+    "translation": "выдалбливать, вызубрить, вызубривать, заучить, зазубривать"
+  },
+  {
+    "word": "learn by rote",
+    "translation": "затвердить, зазубривать"
+  },
+  {
+    "word": "learned",
+    "translation": "знающий"
+  },
+  {
+    "word": "learner",
+    "translation": "ученица"
+  },
+  {
+    "word": "learning",
+    "translation": "эрудиция, ученье, обучение, учёность, усвоение, учение"
+  },
+  {
+    "word": "lease",
+    "translation": "арендовать, заарендовать"
+  },
+  {
+    "word": "leased",
+    "translation": "арендованный"
+  },
+  {
+    "word": "leaseholder",
+    "translation": "арендатор"
+  },
+  {
+    "word": "leash",
+    "translation": "свора, привязь"
+  },
+  {
+    "word": "least",
+    "translation": "наименее, маломальский"
+  },
+  {
+    "word": "leather",
+    "translation": "кожаный, кожа"
+  },
+  {
+    "word": "leather-dresser",
+    "translation": "кожевник"
+  },
+  {
+    "word": "leather-dressing",
+    "translation": "кожевенный"
+  },
+  {
+    "word": "leatherette",
+    "translation": "кожимит, ледерин"
+  },
+  {
+    "word": "leave",
+    "translation": "убывать, валить, выходить, оставлять, покидать, уезжать, завозить, побывка..., расстаться, расставаться, позволение, укатывать..."
+  },
+  {
+    "word": "leave alone",
+    "translation": "отвязываться"
+  },
+  {
+    "word": "leave an imprint",
+    "translation": "отпечатываться"
+  },
+  {
+    "word": "leave behind",
+    "translation": "перегонять, обгонять, опережать"
+  },
+  {
+    "word": "leave by will",
+    "translation": "отписывать"
+  },
+  {
+    "word": "leave dirty footmarks",
+    "translation": "заследить"
+  },
+  {
+    "word": "leave footprints all over the floor",
+    "translation": "наследить"
+  },
+  {
+    "word": "leave greasy marks",
+    "translation": "маслиться"
+  },
+  {
+    "word": "leave in peace",
+    "translation": "отвязываться"
+  },
+  {
+    "word": "leave litter",
+    "translation": "замусорить"
+  },
+  {
+    "word": "leave much to be desired",
+    "translation": "хромать"
+  },
+  {
+    "word": "leave off",
+    "translation": "бросать"
+  },
+  {
+    "word": "leave off ringing",
+    "translation": "отзвонить"
+  },
+  {
+    "word": "leave out",
+    "translation": "пропускать"
+  },
+  {
+    "word": "leave the service",
+    "translation": "увольняться"
+  },
+  {
+    "word": "leave unfinished",
+    "translation": "недоделать"
+  },
+  {
+    "word": "leave warrant",
+    "translation": "увольнительная"
+  },
+  {
+    "word": "leave-taking",
+    "translation": "прощание"
+  },
+  {
+    "word": "leaven",
+    "translation": "заквасить, закваска, опара"
+  },
+  {
+    "word": "leavened dough",
+    "translation": "опара"
+  },
+  {
+    "word": "leaves",
+    "translation": "листва"
+  },
+  {
+    "word": "leaving",
+    "translation": "переезд, уход"
+  },
+  {
+    "word": "leavings",
+    "translation": "объедки, кроха, остаток"
+  },
+  {
+    "word": "lebanese",
+    "translation": "ливанский"
+  },
+  {
+    "word": "lecher",
+    "translation": "блудить"
+  },
+  {
+    "word": "lecherous",
+    "translation": "блудливый, развратный"
+  },
+  {
+    "word": "lechery",
+    "translation": "разврат, блуд"
+  },
+  {
+    "word": "lectern",
+    "translation": "аналой"
+  },
+  {
+    "word": "lecture",
+    "translation": "выговаривать, ассистентка, лекция, нравоучение, доклад, нотация, поучение, отчитывать, поучать, преподавать"
+  },
+  {
+    "word": "lecture-hall",
+    "translation": "лекторий, аудитория"
+  },
+  {
+    "word": "lecture-room",
+    "translation": "аудитория"
+  },
+  {
+    "word": "lecturer",
+    "translation": "лектор, докладчица, преподавательница"
+  },
+  {
+    "word": "lectureship",
+    "translation": "лектура"
+  },
+  {
+    "word": "ledge",
+    "translation": "карниз, уступ, выступ"
+  },
+  {
+    "word": "ledged",
+    "translation": "уступообразный, уступчатый"
+  },
+  {
+    "word": "ledger",
+    "translation": "гроссбух, лежень"
+  },
+  {
+    "word": "ledger clerk",
+    "translation": "счетовод"
+  },
+  {
+    "word": "ledger-bait",
+    "translation": "наживка"
+  },
+  {
+    "word": "ledum",
+    "translation": "багульник"
+  },
+  {
+    "word": "lee",
+    "translation": "подветренный"
+  },
+  {
+    "word": "leech",
+    "translation": "пиявка"
+  },
+  {
+    "word": "leek",
+    "translation": "порей"
+  },
+  {
+    "word": "lees",
+    "translation": "гуща"
+  },
+  {
+    "word": "leeward",
+    "translation": "подветренный"
+  },
+  {
+    "word": "leeway",
+    "translation": "дрейф"
+  },
+  {
+    "word": "left",
+    "translation": "левый"
+  },
+  {
+    "word": "left ultras",
+    "translation": "ультралевый"
+  },
+  {
+    "word": "left-bank",
+    "translation": "левобережный"
+  },
+  {
+    "word": "left-flank",
+    "translation": "левофланговый"
+  },
+  {
+    "word": "left-hand",
+    "translation": "левый"
+  },
+  {
+    "word": "left-handed person",
+    "translation": "левша"
+  },
+  {
+    "word": "left-hander",
+    "translation": "левша"
+  },
+  {
+    "word": "left-over",
+    "translation": "оборыш"
+  },
+  {
+    "word": "left-side",
+    "translation": "левосторонний"
+  },
+  {
+    "word": "left-wing",
+    "translation": "левофланговый, левый"
+  },
+  {
+    "word": "left-winger",
+    "translation": "левый"
+  },
+  {
+    "word": "leftism",
+    "translation": "левачество"
+  },
+  {
+    "word": "leftist",
+    "translation": "левый, левацкий"
+  },
+  {
+    "word": "leftovers",
+    "translation": "объедки, последки, остаток"
+  },
+  {
+    "word": "leg",
+    "translation": "нога, ножка, бедро"
+  },
+  {
+    "word": "leg of beef",
+    "translation": "кострец"
+  },
+  {
+    "word": "leg-pull",
+    "translation": "мистификация"
+  },
+  {
+    "word": "legacy",
+    "translation": "наследство, наследие"
+  },
+  {
+    "word": "legal",
+    "translation": "судебный, юридический, легальный, законный, дозволенный"
+  },
+  {
+    "word": "legal action",
+    "translation": "процесс"
+  },
+  {
+    "word": "legal hearing",
+    "translation": "суд"
+  },
+  {
+    "word": "legal procedure",
+    "translation": "судопроизводство"
+  },
+  {
+    "word": "legal proceedings",
+    "translation": "судопроизводство, процесс"
+  },
+  {
+    "word": "legality",
+    "translation": "законность, легальность"
+  },
+  {
+    "word": "legalization",
+    "translation": "легализация, узаконение, оформление"
+  },
+  {
+    "word": "legalize",
+    "translation": "легализовать, узаконивать, оформлять"
+  },
+  {
+    "word": "legally",
+    "translation": "законно, юридически"
+  },
+  {
+    "word": "legate",
+    "translation": "легат"
+  },
+  {
+    "word": "legatee",
+    "translation": "наследник"
+  },
+  {
+    "word": "legation",
+    "translation": "миссия"
+  },
+  {
+    "word": "legend",
+    "translation": "надпись, легенда, предание, сказание"
+  },
+  {
+    "word": "legendary",
+    "translation": "легендарный, баснословный"
+  },
+  {
+    "word": "legging",
+    "translation": "гамаша"
+  },
+  {
+    "word": "leggings",
+    "translation": "гетры, краги"
+  },
+  {
+    "word": "leggy",
+    "translation": "долговязый"
+  },
+  {
+    "word": "legibility",
+    "translation": "чёткость, разборчивость"
+  },
+  {
+    "word": "legible",
+    "translation": "чёткий, разборчивый, удобочитаемый"
+  },
+  {
+    "word": "legion",
+    "translation": "легион"
+  },
+  {
+    "word": "legionary",
+    "translation": "легионер"
+  },
+  {
+    "word": "legislation",
+    "translation": "законодательство"
+  },
+  {
+    "word": "legislative",
+    "translation": "законодательный"
+  },
+  {
+    "word": "legislator",
+    "translation": "законодательница"
+  },
+  {
+    "word": "legitimate",
+    "translation": "законный, узаконивать"
+  },
+  {
+    "word": "legitimation",
+    "translation": "узаконение"
+  },
+  {
+    "word": "legitimatize",
+    "translation": "узаконивать"
+  },
+  {
+    "word": "legitimist",
+    "translation": "легитимист"
+  },
+  {
+    "word": "legitimization",
+    "translation": "узаконение"
+  },
+  {
+    "word": "legless",
+    "translation": "безногий"
+  },
+  {
+    "word": "legs and entrails",
+    "translation": "сбой"
+  },
+  {
+    "word": "leguminous",
+    "translation": "стручковый, бобовый"
+  },
+  {
+    "word": "leguminous plants",
+    "translation": "бобовый"
+  },
+  {
+    "word": "leica",
+    "translation": "лейка"
+  },
+  {
+    "word": "leisure",
+    "translation": "досужий, досуг"
+  },
+  {
+    "word": "leisure-time",
+    "translation": "досуг"
+  },
+  {
+    "word": "leisured",
+    "translation": "тягучий"
+  },
+  {
+    "word": "leisurely",
+    "translation": "неторопливый, исподволь, неспешный, тягучий"
+  },
+  {
+    "word": "leit-motif",
+    "translation": "лейтмотив"
+  },
+  {
+    "word": "lemma",
+    "translation": "лемма"
+  },
+  {
+    "word": "lemming",
+    "translation": "лемминг"
+  },
+  {
+    "word": "lemon",
+    "translation": "лимон"
+  },
+  {
+    "word": "lemon squash",
+    "translation": "лимонад"
+  },
+  {
+    "word": "lemonade",
+    "translation": "лимонад"
+  },
+  {
+    "word": "lemur",
+    "translation": "лемур"
+  },
+  {
+    "word": "lend",
+    "translation": "ссудить, одолжать"
+  },
+  {
+    "word": "lend an attentive ear",
+    "translation": "вслушаться"
+  },
+  {
+    "word": "lend ear",
+    "translation": "прислушаться"
+  },
+  {
+    "word": "lend wings",
+    "translation": "окрылять"
+  },
+  {
+    "word": "lender",
+    "translation": "заимодавец"
+  },
+  {
+    "word": "lending library",
+    "translation": "библиотека"
+  },
+  {
+    "word": "length",
+    "translation": "протяжение, протяжённость, длина, долгота, отрез, участок"
+  },
+  {
+    "word": "length of service",
+    "translation": "стаж"
+  },
+  {
+    "word": "lengthen",
+    "translation": "прибавлять, нарастить, надшивать, удлиняться, удлинить"
+  },
+  {
+    "word": "lengthen out",
+    "translation": "растягиваться"
+  },
+  {
+    "word": "lengthened",
+    "translation": "наставной"
+  },
+  {
+    "word": "lengthening",
+    "translation": "надставка, удлинение"
+  },
+  {
+    "word": "lengthening out",
+    "translation": "растяжка"
+  },
+  {
+    "word": "lengthwise",
+    "translation": "долевой, продольный"
+  },
+  {
+    "word": "lengthy",
+    "translation": "протяжённый, длинный"
+  },
+  {
+    "word": "lengthy business",
+    "translation": "волынка"
+  },
+  {
+    "word": "lenience",
+    "translation": "снисходительность, снисхождение"
+  },
+  {
+    "word": "leniency",
+    "translation": "снисходительность"
+  },
+  {
+    "word": "lenient",
+    "translation": "снисходительный"
+  },
+  {
+    "word": "leniently",
+    "translation": "снисходительно"
+  },
+  {
+    "word": "lenin",
+    "translation": "ленинский"
+  },
+  {
+    "word": "leningrad",
+    "translation": "Ленинград"
+  },
+  {
+    "word": "lens",
+    "translation": "линза, объектив"
+  },
+  {
+    "word": "lent",
+    "translation": "заимообразный"
+  },
+  {
+    "word": "lenten",
+    "translation": "постный"
+  },
+  {
+    "word": "lentil (plant)",
+    "translation": "чечевица"
+  },
+  {
+    "word": "leo",
+    "translation": "лев"
+  },
+  {
+    "word": "leopard",
+    "translation": "леопард"
+  },
+  {
+    "word": "leopardess",
+    "translation": "леопард"
+  },
+  {
+    "word": "leper",
+    "translation": "прокажённый"
+  },
+  {
+    "word": "leprosy",
+    "translation": "проказа"
+  },
+  {
+    "word": "leprous",
+    "translation": "прокажённый"
+  },
+  {
+    "word": "lesbian",
+    "translation": "лесбийский"
+  },
+  {
+    "word": "less",
+    "translation": "поменьше, меньше, муть"
+  },
+  {
+    "word": "less important",
+    "translation": "второочередной"
+  },
+  {
+    "word": "lessee",
+    "translation": "арендатор"
+  },
+  {
+    "word": "lessen",
+    "translation": "уменьшать, убавлять, приуменьшать, легчать"
+  },
+  {
+    "word": "lessening",
+    "translation": "уменьшение"
+  },
+  {
+    "word": "lesser",
+    "translation": "меньший"
+  },
+  {
+    "word": "lesson",
+    "translation": "урок, поучение"
+  },
+  {
+    "word": "lessons",
+    "translation": "занятие"
+  },
+  {
+    "word": "let",
+    "translation": "допустить, посвящать, пускать, предоставить, предоставлять"
+  },
+  {
+    "word": "let be",
+    "translation": "пусть"
+  },
+  {
+    "word": "let catch cold",
+    "translation": "простудить"
+  },
+  {
+    "word": "let down",
+    "translation": "подводить, свешивать, разжимать, подвести"
+  },
+  {
+    "word": "let down a little",
+    "translation": "приспускать"
+  },
+  {
+    "word": "let drop",
+    "translation": "обронить"
+  },
+  {
+    "word": "let drops fall",
+    "translation": "обкопать"
+  },
+  {
+    "word": "let fall",
+    "translation": "брякать, обронить, выронить, уронить, ронять, натрясти, вытряхивать"
+  },
+  {
+    "word": "let fall a drop",
+    "translation": "капнуть"
+  },
+  {
+    "word": "let fall with a thud",
+    "translation": "бухать"
+  },
+  {
+    "word": "let get out of hand",
+    "translation": "распускать"
+  },
+  {
+    "word": "let go",
+    "translation": "пустить, отпускать"
+  },
+  {
+    "word": "let go past",
+    "translation": "пропускать"
+  },
+  {
+    "word": "let go while on guard",
+    "translation": "прокараулить"
+  },
+  {
+    "word": "let grow",
+    "translation": "отпускать"
+  },
+  {
+    "word": "let have",
+    "translation": "уступить"
+  },
+  {
+    "word": "let in",
+    "translation": "впускать, пропускать"
+  },
+  {
+    "word": "let know",
+    "translation": "сообщать"
+  },
+  {
+    "word": "let know beforehand",
+    "translation": "предупреждать"
+  },
+  {
+    "word": "let loose",
+    "translation": "напускать, угорать"
+  },
+  {
+    "word": "let off",
+    "translation": "отпускать"
+  },
+  {
+    "word": "let one down",
+    "translation": "подкачать"
+  },
+  {
+    "word": "let oneself go",
+    "translation": "опускаться, распускаться, распоясываться"
+  },
+  {
+    "word": "let out",
+    "translation": "распускать, выветривать, испустить, высвобождать, выпустить, выболтать, припускать, выплеснуть, выпускать..., пропускать..."
+  },
+  {
+    "word": "let out a squeak",
+    "translation": "пикнуть"
+  },
+  {
+    "word": "let out on hire",
+    "translation": "прокатный"
+  },
+  {
+    "word": "let out secret",
+    "translation": "проговариваться"
+  },
+  {
+    "word": "let overflow",
+    "translation": "переливать"
+  },
+  {
+    "word": "let pass",
+    "translation": "пропускать"
+  },
+  {
+    "word": "let rot",
+    "translation": "перегноить, гноить"
+  },
+  {
+    "word": "let slide",
+    "translation": "запускать"
+  },
+  {
+    "word": "let slip",
+    "translation": "прокараулить, прохлопать, обмолвиться"
+  },
+  {
+    "word": "let the cat out of the bag",
+    "translation": "пробалтываться, проговариваться"
+  },
+  {
+    "word": "let through",
+    "translation": "пропускать"
+  },
+  {
+    "word": "let up",
+    "translation": "схлынуть"
+  },
+  {
+    "word": "let us",
+    "translation": "давай"
+  },
+  {
+    "word": "let us assume",
+    "translation": "положим"
+  },
+  {
+    "word": "let water",
+    "translation": "промокать"
+  },
+  {
+    "word": "lethal",
+    "translation": "летальный, смертоносный"
+  },
+  {
+    "word": "lethargic",
+    "translation": "летаргический"
+  },
+  {
+    "word": "lethargy",
+    "translation": "спячка, недомогание, летаргия"
+  },
+  {
+    "word": "lethe",
+    "translation": "лета"
+  },
+  {
+    "word": "lett",
+    "translation": "латышка"
+  },
+  {
+    "word": "letter",
+    "translation": "буква, литера, письмо"
+  },
+  {
+    "word": "letter j",
+    "translation": "йот"
+  },
+  {
+    "word": "letter of advice",
+    "translation": "авизо"
+  },
+  {
+    "word": "letter of credit",
+    "translation": "аккредитив"
+  },
+  {
+    "word": "letter of enfranchisement",
+    "translation": "вольная"
+  },
+  {
+    "word": "letter-carrier",
+    "translation": "письмоносец"
+  },
+  {
+    "word": "letters",
+    "translation": "письмена, переписка"
+  },
+  {
+    "word": "lettish",
+    "translation": "латышский"
+  },
+  {
+    "word": "lettuce",
+    "translation": "латук"
+  },
+  {
+    "word": "leu",
+    "translation": "лей"
+  },
+  {
+    "word": "leucocytes",
+    "translation": "лейкоциты"
+  },
+  {
+    "word": "leucoma",
+    "translation": "лейкома"
+  },
+  {
+    "word": "leucorrhoea",
+    "translation": "бели"
+  },
+  {
+    "word": "leucosis",
+    "translation": "лейкоз"
+  },
+  {
+    "word": "leukaemia",
+    "translation": "лейкемия"
+  },
+  {
+    "word": "lev",
+    "translation": "лев"
+  },
+  {
+    "word": "level",
+    "translation": "сровнять, направлять, уравнивать, выравнивать, вровень, горизонт..."
+  },
+  {
+    "word": "level of culture",
+    "translation": "культурность"
+  },
+  {
+    "word": "level of proficiency",
+    "translation": "квалификация"
+  },
+  {
+    "word": "level off",
+    "translation": "ровнять"
+  },
+  {
+    "word": "level to the ground",
+    "translation": "срывать"
+  },
+  {
+    "word": "level with a spade",
+    "translation": "скапывать"
+  },
+  {
+    "word": "leveller",
+    "translation": "нивелировщик"
+  },
+  {
+    "word": "levelling",
+    "translation": "уравнительный, нивелировка, правильный, прикладка, выравнивание"
+  },
+  {
+    "word": "levelling to the ground",
+    "translation": "срытие"
+  },
+  {
+    "word": "lever",
+    "translation": "рукоятка, рычаг, вага"
+  },
+  {
+    "word": "leveret",
+    "translation": "зайчонок"
+  },
+  {
+    "word": "leviathan",
+    "translation": "левиафан"
+  },
+  {
+    "word": "levity",
+    "translation": "легкомыслие"
+  },
+  {
+    "word": "levy",
+    "translation": "призыв, взимать, взимание"
+  },
+  {
+    "word": "lew",
+    "translation": "лев"
+  },
+  {
+    "word": "lewd",
+    "translation": "похотливый"
+  },
+  {
+    "word": "lewdness",
+    "translation": "развратность, похотливость"
+  },
+  {
+    "word": "lewisite",
+    "translation": "люизит"
+  },
+  {
+    "word": "lexical",
+    "translation": "лексический, словарный"
+  },
+  {
+    "word": "lexicographer",
+    "translation": "словарник"
+  },
+  {
+    "word": "lexicographic",
+    "translation": "словарный"
+  },
+  {
+    "word": "lexicographical",
+    "translation": "лексикографический"
+  },
+  {
+    "word": "lexicography",
+    "translation": "лексикография"
+  },
+  {
+    "word": "lexicological",
+    "translation": "лексикологический"
+  },
+  {
+    "word": "lexicologist",
+    "translation": "лексиколог"
+  },
+  {
+    "word": "lexicology",
+    "translation": "лексикология"
+  },
+  {
+    "word": "lexicon",
+    "translation": "лексикон"
+  },
+  {
+    "word": "lezghin",
+    "translation": "лезгинский"
+  },
+  {
+    "word": "lezghin woman",
+    "translation": "лезгинка"
+  },
+  {
+    "word": "lezghinka",
+    "translation": "лезгинка"
+  },
+  {
+    "word": "liabilities",
+    "translation": "задолженность, пассив, обязательство"
+  },
+  {
+    "word": "liable",
+    "translation": "подлежащий"
+  },
+  {
+    "word": "liaison",
+    "translation": "авантюра, связной"
+  },
+  {
+    "word": "liana",
+    "translation": "лиана"
+  },
+  {
+    "word": "liar",
+    "translation": "врунья, выдумщик, брехун"
+  },
+  {
+    "word": "liar / trinket",
+    "translation": "побрякушка"
+  },
+  {
+    "word": "libation",
+    "translation": "возлияние"
+  },
+  {
+    "word": "libel",
+    "translation": "диффамация, пасквиль, клевета, наклеветать"
+  },
+  {
+    "word": "libellous",
+    "translation": "пасквильный, клеветнический"
+  },
+  {
+    "word": "libellous anonymous letter",
+    "translation": "анонимка"
+  },
+  {
+    "word": "liberal",
+    "translation": "щедрый, либеральный"
+  },
+  {
+    "word": "liberal views",
+    "translation": "либеральность"
+  },
+  {
+    "word": "liberalism",
+    "translation": "либерализм"
+  },
+  {
+    "word": "liberality",
+    "translation": "щедрость"
+  },
+  {
+    "word": "liberate",
+    "translation": "освобождать, вызволять, раскрепощать, развязывать"
+  },
+  {
+    "word": "liberated",
+    "translation": "раскрепощённый"
+  },
+  {
+    "word": "liberation",
+    "translation": "раскрепощение, освободительный, освобождение"
+  },
+  {
+    "word": "liberator",
+    "translation": "освободитель"
+  },
+  {
+    "word": "liberties",
+    "translation": "фамильярность, вольность"
+  },
+  {
+    "word": "libertinage",
+    "translation": "развратность"
+  },
+  {
+    "word": "libertine",
+    "translation": "развратница, распутница"
+  },
+  {
+    "word": "libertinism",
+    "translation": "распутство"
+  },
+  {
+    "word": "liberty",
+    "translation": "раздолье, свобода, вольность"
+  },
+  {
+    "word": "libra",
+    "translation": "весы"
+  },
+  {
+    "word": "librarian",
+    "translation": "библиотекарша"
+  },
+  {
+    "word": "library",
+    "translation": "книгохранилище, библиотека"
+  },
+  {
+    "word": "library card",
+    "translation": "формуляр"
+  },
+  {
+    "word": "library science",
+    "translation": "библиотековедение"
+  },
+  {
+    "word": "librettist",
+    "translation": "либреттист"
+  },
+  {
+    "word": "libretto",
+    "translation": "либретто"
+  },
+  {
+    "word": "lice egg",
+    "translation": "гнида"
+  },
+  {
+    "word": "lice-ridden",
+    "translation": "вшивый"
+  },
+  {
+    "word": "licence",
+    "translation": "свидетельство, самоволие, патент, разрешение, право"
+  },
+  {
+    "word": "licentious",
+    "translation": "беспутный, распутный, разнузданный"
+  },
+  {
+    "word": "licentiousness",
+    "translation": "распущенность, разнузданность"
+  },
+  {
+    "word": "lichen",
+    "translation": "лишай"
+  },
+  {
+    "word": "lick",
+    "translation": "полизать, нализаться, отколотить, облизнуть, вылизывать..."
+  },
+  {
+    "word": "lick all over",
+    "translation": "облизнуть"
+  },
+  {
+    "word": "lick clean",
+    "translation": "облизнуть, вылизывать"
+  },
+  {
+    "word": "lick into shape",
+    "translation": "обтесать"
+  },
+  {
+    "word": "lick itself",
+    "translation": "облизываться"
+  },
+  {
+    "word": "lick up",
+    "translation": "подлизывать"
+  },
+  {
+    "word": "lick-spittle",
+    "translation": "лизоблюд"
+  },
+  {
+    "word": "lickspittle",
+    "translation": "подлиза, блюдолиз"
+  },
+  {
+    "word": "lictor",
+    "translation": "ликтор"
+  },
+  {
+    "word": "lid",
+    "translation": "крышка"
+  },
+  {
+    "word": "lie",
+    "translation": "заливать, вымысел, валяться, крыться, залегать, ложь, полежать..., отлёживаться, покоиться, неправда..."
+  },
+  {
+    "word": "lie a long time",
+    "translation": "залежаться"
+  },
+  {
+    "word": "lie about",
+    "translation": "валяться"
+  },
+  {
+    "word": "lie ahead",
+    "translation": "предстоять"
+  },
+  {
+    "word": "lie down",
+    "translation": "заваливаться, прилечь, полечь, полежать, уложиться"
+  },
+  {
+    "word": "lie down somewhere else",
+    "translation": "перелечь"
+  },
+  {
+    "word": "lie fallow",
+    "translation": "пустовать"
+  },
+  {
+    "word": "lie flat",
+    "translation": "полечь"
+  },
+  {
+    "word": "lie heavy",
+    "translation": "давить"
+  },
+  {
+    "word": "lie idle",
+    "translation": "простаивать"
+  },
+  {
+    "word": "lie in hiding",
+    "translation": "залечь"
+  },
+  {
+    "word": "lie in wait",
+    "translation": "подстеречь, караулить, подсиживать, поджидать"
+  },
+  {
+    "word": "lie low",
+    "translation": "отлёживаться"
+  },
+  {
+    "word": "lie over",
+    "translation": "накреняться"
+  },
+  {
+    "word": "lie too long",
+    "translation": "залежаться, перележать"
+  },
+  {
+    "word": "lie-abed",
+    "translation": "лежебока"
+  },
+  {
+    "word": "liegeman",
+    "translation": "вассал"
+  },
+  {
+    "word": "lies",
+    "translation": "обман, враньё, пушка, брехня, враки"
+  },
+  {
+    "word": "lieutenant",
+    "translation": "поручик"
+  },
+  {
+    "word": "lieutenant-colonel",
+    "translation": "подполковник"
+  },
+  {
+    "word": "lieutenant-general",
+    "translation": "генерал-лейтенант"
+  },
+  {
+    "word": "life",
+    "translation": "существование, бытьё, житие, житьё-бытьё, живность, живот"
+  },
+  {
+    "word": "life guards",
+    "translation": "лейб-гвардия"
+  },
+  {
+    "word": "life sustenance",
+    "translation": "жизнеобеспечение"
+  },
+  {
+    "word": "life-asserting",
+    "translation": "жизнеутверждающий"
+  },
+  {
+    "word": "life-giving",
+    "translation": "живительный, животворный"
+  },
+  {
+    "word": "life-saver",
+    "translation": "спасатель"
+  },
+  {
+    "word": "life-saving",
+    "translation": "спасательный, спасание"
+  },
+  {
+    "word": "life-support",
+    "translation": "жизнеобеспечение"
+  },
+  {
+    "word": "lifeless",
+    "translation": "обескровленный, мёртвый, бездыханный, каменный, неживой, безжизненный"
+  },
+  {
+    "word": "lifelessness",
+    "translation": "безжизненность"
+  },
+  {
+    "word": "lifelong",
+    "translation": "пожизненный"
+  },
+  {
+    "word": "lifetime",
+    "translation": "век"
+  },
+  {
+    "word": "lift",
+    "translation": "увозить, спереть, поднести, подъёмник, поднять, взваливать, уводить"
+  },
+  {
+    "word": "lift car",
+    "translation": "кабина"
+  },
+  {
+    "word": "lift up",
+    "translation": "возводить, задирать, поднять, качнуть"
+  },
+  {
+    "word": "lifting",
+    "translation": "копка, подъёмный, увод"
+  },
+  {
+    "word": "lifting / rising / climb hoisting",
+    "translation": "подъём"
+  },
+  {
+    "word": "lifting gear",
+    "translation": "такелаж"
+  },
+  {
+    "word": "ligament",
+    "translation": "связка"
+  },
+  {
+    "word": "ligamentous",
+    "translation": "связочный"
+  },
+  {
+    "word": "ligature",
+    "translation": "лигатура, вязь"
+  },
+  {
+    "word": "light",
+    "translation": "воздушный, свеча, огонь, рыхлый, фонарь, световой, облегчённый, светлый, лёгкий..., несерьёзный..."
+  },
+  {
+    "word": "light a cigarette",
+    "translation": "прикуривать, закуривать"
+  },
+  {
+    "word": "light brown",
+    "translation": "русый"
+  },
+  {
+    "word": "light chestnut",
+    "translation": "каурый"
+  },
+  {
+    "word": "light day",
+    "translation": "соловый"
+  },
+  {
+    "word": "light filter",
+    "translation": "светофильтр"
+  },
+  {
+    "word": "light frosts",
+    "translation": "заморозки"
+  },
+  {
+    "word": "light nylon raincoat",
+    "translation": "болонья"
+  },
+  {
+    "word": "light nylon waterproof cloth",
+    "translation": "болонья"
+  },
+  {
+    "word": "light rain",
+    "translation": "моросить"
+  },
+  {
+    "word": "light signal",
+    "translation": "светофор"
+  },
+  {
+    "word": "light slumber",
+    "translation": "полусон"
+  },
+  {
+    "word": "light snow",
+    "translation": "снежок"
+  },
+  {
+    "word": "light the way",
+    "translation": "посветить"
+  },
+  {
+    "word": "light up",
+    "translation": "просиять, закуривать, озаряться, освещаться, зажигаться, освещать..."
+  },
+  {
+    "word": "light up a cigarette or shisha",
+    "translation": "раскуривать"
+  },
+  {
+    "word": "light van",
+    "translation": "пикап"
+  },
+  {
+    "word": "light-brown hair",
+    "translation": "русоволосый"
+  },
+  {
+    "word": "light-brown with black mane and tail",
+    "translation": "саврасый"
+  },
+  {
+    "word": "light-green",
+    "translation": "салатный"
+  },
+  {
+    "word": "light-headed",
+    "translation": "хмельной, легкомысленный"
+  },
+  {
+    "word": "light-hearted",
+    "translation": "беззаботный"
+  },
+  {
+    "word": "light-heartedly",
+    "translation": "беззаботно, беспечно"
+  },
+  {
+    "word": "light-heartedness",
+    "translation": "беззаботность"
+  },
+  {
+    "word": "light-minded",
+    "translation": "легкомысленный"
+  },
+  {
+    "word": "light-mindedness",
+    "translation": "легкомыслие"
+  },
+  {
+    "word": "light-proof",
+    "translation": "светонепроницаемый"
+  },
+  {
+    "word": "light-requiring",
+    "translation": "светолюбивый"
+  },
+  {
+    "word": "light-sensitive",
+    "translation": "светочувствительный"
+  },
+  {
+    "word": "light-weight",
+    "translation": "легковес, облегчённый, легковесный"
+  },
+  {
+    "word": "light-winged",
+    "translation": "легкокрылый"
+  },
+  {
+    "word": "lighten",
+    "translation": "облегчать"
+  },
+  {
+    "word": "lighter",
+    "translation": "плашкоут, полегче, зажигалка"
+  },
+  {
+    "word": "lighter hairs in dark fur",
+    "translation": "подсед"
+  },
+  {
+    "word": "lighthouse",
+    "translation": "маяк"
+  },
+  {
+    "word": "lighting",
+    "translation": "зажигание, осветительный, освещение, растопка"
+  },
+  {
+    "word": "lighting technology",
+    "translation": "светотехника"
+  },
+  {
+    "word": "lightly",
+    "translation": "легко, легкомысленно"
+  },
+  {
+    "word": "lightly built",
+    "translation": "облегчённый"
+  },
+  {
+    "word": "lightly clad",
+    "translation": "налегке"
+  },
+  {
+    "word": "lightly constructed",
+    "translation": "облегчённый"
+  },
+  {
+    "word": "lightness",
+    "translation": "воздушность, несерьёзность, светлость, лёгкость, легкомыслие"
+  },
+  {
+    "word": "lightning",
+    "translation": "молниеносный"
+  },
+  {
+    "word": "lightning tournament",
+    "translation": "блицтурнир"
+  },
+  {
+    "word": "lightning-conductor",
+    "translation": "молниеотвод"
+  },
+  {
+    "word": "lightning-rod",
+    "translation": "молниеотвод"
+  },
+  {
+    "word": "lights",
+    "translation": "лёгкое"
+  },
+  {
+    "word": "ligneous",
+    "translation": "деревянистый, деревянный"
+  },
+  {
+    "word": "lignin",
+    "translation": "лигнин"
+  },
+  {
+    "word": "lignite",
+    "translation": "лигнит"
+  },
+  {
+    "word": "lignum vitae",
+    "translation": "бакаут"
+  },
+  {
+    "word": "likable",
+    "translation": "симпатичный"
+  },
+  {
+    "word": "likableness",
+    "translation": "симпатичность"
+  },
+  {
+    "word": "like",
+    "translation": "словно, понравиться, хотеться, нравиться, наподобие, подобный, схожий, захотеть"
+  },
+  {
+    "word": "like a beast",
+    "translation": "по-зверски"
+  },
+  {
+    "word": "like a boy",
+    "translation": "по-мальчишески"
+  },
+  {
+    "word": "like a brother",
+    "translation": "братски"
+  },
+  {
+    "word": "like a fool",
+    "translation": "по-дурацки"
+  },
+  {
+    "word": "like brothers",
+    "translation": "братски"
+  },
+  {
+    "word": "like it or not",
+    "translation": "волей-неволей"
+  },
+  {
+    "word": "like kings",
+    "translation": "припеваючи"
+  },
+  {
+    "word": "like no longer",
+    "translation": "разлюбить"
+  },
+  {
+    "word": "like the wind",
+    "translation": "вихрем"
+  },
+  {
+    "word": "like this",
+    "translation": "так, этакий"
+  },
+  {
+    "word": "like-mended person",
+    "translation": "единомышленник"
+  },
+  {
+    "word": "like-mindedness",
+    "translation": "единомыслие"
+  },
+  {
+    "word": "likelihood",
+    "translation": "вероятие, вероятность, правдоподобие"
+  },
+  {
+    "word": "likely",
+    "translation": "вероятный, верно, многообещающий, правдоподобный"
+  },
+  {
+    "word": "liken",
+    "translation": "уподобить"
+  },
+  {
+    "word": "likeness",
+    "translation": "родственность, подобие, портрет, схожесть, сходство"
+  },
+  {
+    "word": "likening",
+    "translation": "уподобление"
+  },
+  {
+    "word": "liking",
+    "translation": "расположение, пристрастие, симпатия"
+  },
+  {
+    "word": "lilac",
+    "translation": "сиреневый, лиловый"
+  },
+  {
+    "word": "lilac-tinged",
+    "translation": "лиловатый"
+  },
+  {
+    "word": "lili",
+    "translation": "лилия"
+  },
+  {
+    "word": "liliaceae",
+    "translation": "лилейный"
+  },
+  {
+    "word": "lily",
+    "translation": "лилипут"
+  },
+  {
+    "word": "lily of the valley",
+    "translation": "ландыш"
+  },
+  {
+    "word": "limb",
+    "translation": "лимб, член"
+  },
+  {
+    "word": "limber",
+    "translation": "передок, передковый"
+  },
+  {
+    "word": "limber number",
+    "translation": "передковый"
+  },
+  {
+    "word": "limber up",
+    "translation": "разминаться"
+  },
+  {
+    "word": "lime",
+    "translation": "известковать, липа"
+  },
+  {
+    "word": "lime-grove",
+    "translation": "липняк"
+  },
+  {
+    "word": "lime-pit",
+    "translation": "творило"
+  },
+  {
+    "word": "limestone",
+    "translation": "известняк"
+  },
+  {
+    "word": "liming",
+    "translation": "золение"
+  },
+  {
+    "word": "limit",
+    "translation": "потолок, лимитировать, предел, ограничивать"
+  },
+  {
+    "word": "limit oneself",
+    "translation": "ограничиваться"
+  },
+  {
+    "word": "limitation",
+    "translation": "ограничение"
+  },
+  {
+    "word": "limited",
+    "translation": "ограниченный"
+  },
+  {
+    "word": "limited nature",
+    "translation": "ограниченность"
+  },
+  {
+    "word": "limiting",
+    "translation": "ограничительный"
+  },
+  {
+    "word": "limitless",
+    "translation": "неограниченный"
+  },
+  {
+    "word": "limits",
+    "translation": "рамки"
+  },
+  {
+    "word": "limousine",
+    "translation": "лимузин"
+  },
+  {
+    "word": "limp",
+    "translation": "доковылять, хромать, прихрамывать, добрести, вялый"
+  },
+  {
+    "word": "limpid",
+    "translation": "прозрачный"
+  },
+  {
+    "word": "limpidity",
+    "translation": "прозрачность"
+  },
+  {
+    "word": "limping",
+    "translation": "хромоногий, хромой, хромота"
+  },
+  {
+    "word": "limply",
+    "translation": "вяло"
+  },
+  {
+    "word": "limpness",
+    "translation": "вялость"
+  },
+  {
+    "word": "linchpin",
+    "translation": "чека"
+  },
+  {
+    "word": "linden",
+    "translation": "липа"
+  },
+  {
+    "word": "line",
+    "translation": "рубеж, цепь, выстилать, обвод, вереница, подкладывать, строка, амплуа, трасса, подбивать......"
+  },
+  {
+    "word": "line of business",
+    "translation": "амплуа"
+  },
+  {
+    "word": "line of communication",
+    "translation": "коммуникация"
+  },
+  {
+    "word": "line up",
+    "translation": "выстраиваться, выстраивать, выравниваться"
+  },
+  {
+    "word": "line with refractory bricks",
+    "translation": "обмуровывать"
+  },
+  {
+    "word": "line-of-communication",
+    "translation": "этапный"
+  },
+  {
+    "word": "lineage",
+    "translation": "происхождение"
+  },
+  {
+    "word": "linear",
+    "translation": "погонный, линейный"
+  },
+  {
+    "word": "lined",
+    "translation": "линованный"
+  },
+  {
+    "word": "lined with wadding",
+    "translation": "ватный"
+  },
+  {
+    "word": "linen",
+    "translation": "холст, льняной, бельё, белошвейный, лён, полотно"
+  },
+  {
+    "word": "linen store",
+    "translation": "бельевая"
+  },
+  {
+    "word": "linen-keeper",
+    "translation": "кастелянша"
+  },
+  {
+    "word": "liner",
+    "translation": "лайнер, корабль"
+  },
+  {
+    "word": "lines",
+    "translation": "роль"
+  },
+  {
+    "word": "lines of fine",
+    "translation": "веер"
+  },
+  {
+    "word": "ling",
+    "translation": "щука"
+  },
+  {
+    "word": "linger",
+    "translation": "промедлить, протянуться, помедлить, медлить, промешкать, мешкать, задерживаться, замешкаться"
+  },
+  {
+    "word": "lingering",
+    "translation": "длительный"
+  },
+  {
+    "word": "lingual",
+    "translation": "языковый"
+  },
+  {
+    "word": "linguist",
+    "translation": "языковед"
+  },
+  {
+    "word": "linguistic",
+    "translation": "лингвистический, языковой"
+  },
+  {
+    "word": "linguistics",
+    "translation": "языковедение, языкознание"
+  },
+  {
+    "word": "liniment",
+    "translation": "мазь, втирание"
+  },
+  {
+    "word": "lining",
+    "translation": "подкладочный, облицовка, обмуровка"
+  },
+  {
+    "word": "link",
+    "translation": "связь, серьга, сцеп, кулиса, ссылка, звено"
+  },
+  {
+    "word": "link up",
+    "translation": "подключать"
+  },
+  {
+    "word": "link-verb",
+    "translation": "глагол-связка"
+  },
+  {
+    "word": "linking",
+    "translation": "связующий"
+  },
+  {
+    "word": "linnet",
+    "translation": "реполов"
+  },
+  {
+    "word": "linoleum",
+    "translation": "линолеум"
+  },
+  {
+    "word": "linotype",
+    "translation": "линотип"
+  },
+  {
+    "word": "linseed-cake",
+    "translation": "выжимки"
+  },
+  {
+    "word": "lint",
+    "translation": "корпия"
+  },
+  {
+    "word": "lintel",
+    "translation": "притолока"
+  },
+  {
+    "word": "lion",
+    "translation": "лев"
+  },
+  {
+    "word": "lion cub",
+    "translation": "львёнок"
+  },
+  {
+    "word": "lioness",
+    "translation": "львица"
+  },
+  {
+    "word": "lip",
+    "translation": "губной, губа"
+  },
+  {
+    "word": "lipoma",
+    "translation": "жировик"
+  },
+  {
+    "word": "lips",
+    "translation": "шепелявить, уста"
+  },
+  {
+    "word": "lipstick",
+    "translation": "помада"
+  },
+  {
+    "word": "liquation",
+    "translation": "сжижение"
+  },
+  {
+    "word": "liquefaction",
+    "translation": "сжижение"
+  },
+  {
+    "word": "liquefied",
+    "translation": "сжиженный"
+  },
+  {
+    "word": "liquefy",
+    "translation": "сжижать"
+  },
+  {
+    "word": "liqueur",
+    "translation": "ликёр"
+  },
+  {
+    "word": "liqueur-glass",
+    "translation": "рюмочка"
+  },
+  {
+    "word": "liquid",
+    "translation": "жидкость, жидкий, плавный, раствор"
+  },
+  {
+    "word": "liquid bleach",
+    "translation": "жавель"
+  },
+  {
+    "word": "liquid part of soup",
+    "translation": "жижа"
+  },
+  {
+    "word": "liquidate",
+    "translation": "раскассировать, ликвидировать, погашать"
+  },
+  {
+    "word": "liquidation",
+    "translation": "ликвидация"
+  },
+  {
+    "word": "liquor",
+    "translation": "вино"
+  },
+  {
+    "word": "liquorice",
+    "translation": "лакрица"
+  },
+  {
+    "word": "lira",
+    "translation": "лира"
+  },
+  {
+    "word": "lisp",
+    "translation": "сюсюкать"
+  },
+  {
+    "word": "lisp slightly",
+    "translation": "пришепётывать"
+  },
+  {
+    "word": "lisping",
+    "translation": "сюсюканье"
+  },
+  {
+    "word": "lissom",
+    "translation": "гибкий"
+  },
+  {
+    "word": "list",
+    "translation": "приводить, лист, кромка, перечень, крениться, зачислять..."
+  },
+  {
+    "word": "list of members of staff",
+    "translation": "штат"
+  },
+  {
+    "word": "listed avobe",
+    "translation": "вышеперечисленный"
+  },
+  {
+    "word": "listen",
+    "translation": "послушать, вмять, выслушать, выслушивать, слушать..., послушаться"
+  },
+  {
+    "word": "listen attentively",
+    "translation": "вслушаться"
+  },
+  {
+    "word": "listen spellbound",
+    "translation": "заслушиваться"
+  },
+  {
+    "word": "listen to",
+    "translation": "прослушивать"
+  },
+  {
+    "word": "listen to the end",
+    "translation": "дослушивать"
+  },
+  {
+    "word": "listen with delight",
+    "translation": "заслушиваться"
+  },
+  {
+    "word": "listener",
+    "translation": "слушательница, слухач"
+  },
+  {
+    "word": "listening",
+    "translation": "прослушивание"
+  },
+  {
+    "word": "listening post",
+    "translation": "секрет"
+  },
+  {
+    "word": "listless",
+    "translation": "вялый"
+  },
+  {
+    "word": "listlessly",
+    "translation": "вяло"
+  },
+  {
+    "word": "listlessness",
+    "translation": "вялость"
+  },
+  {
+    "word": "lit",
+    "translation": "освещённый"
+  },
+  {
+    "word": "literacy",
+    "translation": "грамотность, грамота"
+  },
+  {
+    "word": "literal",
+    "translation": "буквальный, дословный"
+  },
+  {
+    "word": "literally",
+    "translation": "дословно, буквально"
+  },
+  {
+    "word": "literary",
+    "translation": "литературный"
+  },
+  {
+    "word": "literary critic",
+    "translation": "литературовед"
+  },
+  {
+    "word": "literary criticism",
+    "translation": "литературоведение"
+  },
+  {
+    "word": "literary man",
+    "translation": "литератор"
+  },
+  {
+    "word": "literary miscellany",
+    "translation": "альманах"
+  },
+  {
+    "word": "literate",
+    "translation": "грамотный"
+  },
+  {
+    "word": "literature",
+    "translation": "литература, словесность"
+  },
+  {
+    "word": "literature fit for pulp",
+    "translation": "макулатура"
+  },
+  {
+    "word": "lithe",
+    "translation": "гибкий"
+  },
+  {
+    "word": "lithium",
+    "translation": "литий"
+  },
+  {
+    "word": "lithograph",
+    "translation": "литографировать, литография"
+  },
+  {
+    "word": "lithographer",
+    "translation": "литограф"
+  },
+  {
+    "word": "lithographic",
+    "translation": "литографский"
+  },
+  {
+    "word": "lithography",
+    "translation": "литография, литографирование"
+  },
+  {
+    "word": "lithosphere",
+    "translation": "литосфера"
+  },
+  {
+    "word": "lithotomy",
+    "translation": "камнесечение"
+  },
+  {
+    "word": "lithuania",
+    "translation": "Литва"
+  },
+  {
+    "word": "lithuanian",
+    "translation": "литовский"
+  },
+  {
+    "word": "litigate",
+    "translation": "тягаться"
+  },
+  {
+    "word": "litigious",
+    "translation": "сутяжнический"
+  },
+  {
+    "word": "litigiousness",
+    "translation": "сутяжничество"
+  },
+  {
+    "word": "litmus",
+    "translation": "лакмус"
+  },
+  {
+    "word": "litre",
+    "translation": "литровый"
+  },
+  {
+    "word": "litter",
+    "translation": "подстилка, выводок, усеивать, помёт, нагрязнить, засорить, замусорить, приплод, сор, носилки, набросать"
+  },
+  {
+    "word": "litter receptacle",
+    "translation": "урна"
+  },
+  {
+    "word": "little",
+    "translation": "маленький, мало, немного"
+  },
+  {
+    "word": "little beast",
+    "translation": "зверёк"
+  },
+  {
+    "word": "little bird",
+    "translation": "пташка"
+  },
+  {
+    "word": "little body",
+    "translation": "тельце"
+  },
+  {
+    "word": "little boy",
+    "translation": "мальчонка"
+  },
+  {
+    "word": "little brother",
+    "translation": "братишка"
+  },
+  {
+    "word": "little brush",
+    "translation": "помазок"
+  },
+  {
+    "word": "little bustard",
+    "translation": "стрепет"
+  },
+  {
+    "word": "little by little",
+    "translation": "постепенно, мало-помалу, исподволь, помаленьку, понемножку"
+  },
+  {
+    "word": "little cap",
+    "translation": "шапочка"
+  },
+  {
+    "word": "little coward",
+    "translation": "трусишка"
+  },
+  {
+    "word": "little dog",
+    "translation": "пёсик, собачка"
+  },
+  {
+    "word": "little finger",
+    "translation": "мизинец"
+  },
+  {
+    "word": "little girl",
+    "translation": "девочка"
+  },
+  {
+    "word": "little imp",
+    "translation": "шалунишка, пострел"
+  },
+  {
+    "word": "little known",
+    "translation": "малоизвестный, малознакомый"
+  },
+  {
+    "word": "little man",
+    "translation": "коротышка, малыш"
+  },
+  {
+    "word": "little mouse",
+    "translation": "мышонок"
+  },
+  {
+    "word": "little negro",
+    "translation": "негритёнок"
+  },
+  {
+    "word": "little old man",
+    "translation": "старичок"
+  },
+  {
+    "word": "little one",
+    "translation": "крошка, кроха, малявка, малыш"
+  },
+  {
+    "word": "little ones",
+    "translation": "детишки, малышня"
+  },
+  {
+    "word": "little owl",
+    "translation": "сыч"
+  },
+  {
+    "word": "little piece",
+    "translation": "ватка"
+  },
+  {
+    "word": "little place",
+    "translation": "местечко"
+  },
+  {
+    "word": "little quail",
+    "translation": "Перепёлочка"
+  },
+  {
+    "word": "little rain",
+    "translation": "моросить"
+  },
+  {
+    "word": "little ridden",
+    "translation": "малоезженый"
+  },
+  {
+    "word": "little rogue",
+    "translation": "пострел, плутишка"
+  },
+  {
+    "word": "little silly",
+    "translation": "глупышка, глупыш"
+  },
+  {
+    "word": "little sister",
+    "translation": "сестричка"
+  },
+  {
+    "word": "little thing",
+    "translation": "вещичка, вещица"
+  },
+  {
+    "word": "little toe",
+    "translation": "мизинец"
+  },
+  {
+    "word": "little used",
+    "translation": "малоезженый"
+  },
+  {
+    "word": "little-developed",
+    "translation": "малоосвоенный"
+  },
+  {
+    "word": "little-used",
+    "translation": "малоупотребительный"
+  },
+  {
+    "word": "littoral",
+    "translation": "прибрежный, литоральный, приморье, побережье"
+  },
+  {
+    "word": "littoral region",
+    "translation": "поморье"
+  },
+  {
+    "word": "liturgy",
+    "translation": "литургия, обедня"
+  },
+  {
+    "word": "live",
+    "translation": "дотягивать, кормиться, питаться, водиться, доживать, сожительствовать, проживать, пожить, прокормиться, выживать"
+  },
+  {
+    "word": "live bait",
+    "translation": "живец"
+  },
+  {
+    "word": "live by begging",
+    "translation": "побираться"
+  },
+  {
+    "word": "live in idleness and plenty",
+    "translation": "барствовать"
+  },
+  {
+    "word": "live in poverty",
+    "translation": "бедствовать"
+  },
+  {
+    "word": "live on the fat of the land",
+    "translation": "роскошничать"
+  },
+  {
+    "word": "live so long",
+    "translation": "доживать"
+  },
+  {
+    "word": "live stream",
+    "translation": "эфир"
+  },
+  {
+    "word": "live through",
+    "translation": "переживать"
+  },
+  {
+    "word": "live to a great age",
+    "translation": "заживаться"
+  },
+  {
+    "word": "live together",
+    "translation": "сожительствовать"
+  },
+  {
+    "word": "live wire",
+    "translation": "заводила"
+  },
+  {
+    "word": "lived-in",
+    "translation": "обжитой"
+  },
+  {
+    "word": "livelihood",
+    "translation": "прожитие"
+  },
+  {
+    "word": "liveliness",
+    "translation": "весёлость, живость, подвижность, прыткость"
+  },
+  {
+    "word": "lively",
+    "translation": "яркий, жизнедеятельный, заводной, подвижной, боевитый, прыткий..."
+  },
+  {
+    "word": "lively person",
+    "translation": "живчик"
+  },
+  {
+    "word": "liven up",
+    "translation": "оживляться, воспрянуть, активизироваться"
+  },
+  {
+    "word": "liver",
+    "translation": "печёнка, ливер"
+  },
+  {
+    "word": "liver-chestnut",
+    "translation": "игреневый"
+  },
+  {
+    "word": "liveried",
+    "translation": "ливрейный"
+  },
+  {
+    "word": "liverwort",
+    "translation": "печёночник"
+  },
+  {
+    "word": "livery",
+    "translation": "ливрея"
+  },
+  {
+    "word": "livestock",
+    "translation": "скот"
+  },
+  {
+    "word": "livestock expert specialist",
+    "translation": "зоотехник"
+  },
+  {
+    "word": "livestock farming",
+    "translation": "животноводство"
+  },
+  {
+    "word": "livestock small game",
+    "translation": "живность"
+  },
+  {
+    "word": "living",
+    "translation": "хлеб, проживание, прожитие"
+  },
+  {
+    "word": "living creatures",
+    "translation": "живность"
+  },
+  {
+    "word": "living in clover",
+    "translation": "житуха"
+  },
+  {
+    "word": "living picture",
+    "translation": "олицетворение"
+  },
+  {
+    "word": "living room",
+    "translation": "гостиная"
+  },
+  {
+    "word": "living space",
+    "translation": "площадь"
+  },
+  {
+    "word": "lixiviate",
+    "translation": "выщелочить"
+  },
+  {
+    "word": "lixiviation",
+    "translation": "выщелачивание"
+  },
+  {
+    "word": "lizard",
+    "translation": "ящерица"
+  },
+  {
+    "word": "loach",
+    "translation": "голец, вьюн"
+  },
+  {
+    "word": "load",
+    "translation": "привоз, бремя, навьючивать, заряжать, загрузить, грузить, груз..., наваливать, тяжесть"
+  },
+  {
+    "word": "load additionally",
+    "translation": "догружать"
+  },
+  {
+    "word": "load full",
+    "translation": "догружать"
+  },
+  {
+    "word": "load oneself up",
+    "translation": "нагружаться"
+  },
+  {
+    "word": "load somewhere else",
+    "translation": "перегружать"
+  },
+  {
+    "word": "load up",
+    "translation": "вьючить"
+  },
+  {
+    "word": "load with money",
+    "translation": "озолотить"
+  },
+  {
+    "word": "load-bearing",
+    "translation": "несущий"
+  },
+  {
+    "word": "loaded",
+    "translation": "гружёный"
+  },
+  {
+    "word": "loader",
+    "translation": "заряжающий, грузчик"
+  },
+  {
+    "word": "loading",
+    "translation": "зарядка, погрузочный, загрузка, навалка, нагрузка, погрузка"
+  },
+  {
+    "word": "loads",
+    "translation": "вагон"
+  },
+  {
+    "word": "loaf",
+    "translation": "шататься, хлеб, болтаться, ошиваться, лодырничать, лентяйничать, слоняться..."
+  },
+  {
+    "word": "loaf of bread",
+    "translation": "буханка"
+  },
+  {
+    "word": "loafer",
+    "translation": "ворона, шалопай, лоботряс, бездельница, лентяйка, лентяй, лодырь"
+  },
+  {
+    "word": "loam",
+    "translation": "суглинок"
+  },
+  {
+    "word": "loamy",
+    "translation": "суглинистый"
+  },
+  {
+    "word": "loamy soil",
+    "translation": "суглинок"
+  },
+  {
+    "word": "loan",
+    "translation": "ссудить, ссудный, взаймы"
+  },
+  {
+    "word": "loan slip",
+    "translation": "бегунок"
+  },
+  {
+    "word": "loan-holder",
+    "translation": "займодержатель"
+  },
+  {
+    "word": "loan-translation",
+    "translation": "калька"
+  },
+  {
+    "word": "loan-word",
+    "translation": "заимствование"
+  },
+  {
+    "word": "loaned",
+    "translation": "заимообразный"
+  },
+  {
+    "word": "loathe",
+    "translation": "ненавидеть, гнушаться"
+  },
+  {
+    "word": "loathing",
+    "translation": "отвращение, омерзение, гадливость"
+  },
+  {
+    "word": "loathsome",
+    "translation": "отвратительный, гадостный, омерзительный, тошнотворный, мерзкий"
+  },
+  {
+    "word": "lobby",
+    "translation": "передняя, холл, кулуары, тамбур"
+  },
+  {
+    "word": "lobe",
+    "translation": "доля"
+  },
+  {
+    "word": "lobe of the ear",
+    "translation": "мочка"
+  },
+  {
+    "word": "lobster",
+    "translation": "омар"
+  },
+  {
+    "word": "lobule",
+    "translation": "долька"
+  },
+  {
+    "word": "local",
+    "translation": "локальный, низовой, тамошний, здешний, пригородный"
+  },
+  {
+    "word": "local telephone exchange",
+    "translation": "подстанция"
+  },
+  {
+    "word": "local trade union committee",
+    "translation": "местком"
+  },
+  {
+    "word": "localistic tendencies",
+    "translation": "местничество"
+  },
+  {
+    "word": "locality",
+    "translation": "местность, место"
+  },
+  {
+    "word": "localization",
+    "translation": "локализация"
+  },
+  {
+    "word": "localize",
+    "translation": "локализовать"
+  },
+  {
+    "word": "locate",
+    "translation": "улавливать, засекать, помещать"
+  },
+  {
+    "word": "located",
+    "translation": "расположенный"
+  },
+  {
+    "word": "locating",
+    "translation": "локация"
+  },
+  {
+    "word": "location",
+    "translation": "расположение, заложение, локация, местоположение, местонахождение, положение"
+  },
+  {
+    "word": "locator",
+    "translation": "локатор"
+  },
+  {
+    "word": "lock",
+    "translation": "запор, сковывать, замок, замыкаться, затвор, замыкать, завиток..., шлюз"
+  },
+  {
+    "word": "lock combination",
+    "translation": "сочетание"
+  },
+  {
+    "word": "lock in",
+    "translation": "запирать"
+  },
+  {
+    "word": "lock of hair",
+    "translation": "косица"
+  },
+  {
+    "word": "lock oneself up",
+    "translation": "запираться"
+  },
+  {
+    "word": "lock out",
+    "translation": "локаутировать"
+  },
+  {
+    "word": "lock up",
+    "translation": "заключать"
+  },
+  {
+    "word": "lock-nut",
+    "translation": "контргайка"
+  },
+  {
+    "word": "lock-out",
+    "translation": "локаут"
+  },
+  {
+    "word": "lock-pick",
+    "translation": "отмычка"
+  },
+  {
+    "word": "lock-plate",
+    "translation": "наличник"
+  },
+  {
+    "word": "lock-up",
+    "translation": "каталажка, карцер, кутузка"
+  },
+  {
+    "word": "locked up",
+    "translation": "взаперти"
+  },
+  {
+    "word": "locker",
+    "translation": "комод, шкаф"
+  },
+  {
+    "word": "locker room",
+    "translation": "раздевалка"
+  },
+  {
+    "word": "locket",
+    "translation": "медальон"
+  },
+  {
+    "word": "locking",
+    "translation": "стопорный"
+  },
+  {
+    "word": "locking device",
+    "translation": "стопор"
+  },
+  {
+    "word": "locksmith",
+    "translation": "слесарь"
+  },
+  {
+    "word": "locomobile",
+    "translation": "локомобиль"
+  },
+  {
+    "word": "locomotive",
+    "translation": "локомотив"
+  },
+  {
+    "word": "locomotive-driver",
+    "translation": "машинист"
+  },
+  {
+    "word": "locust",
+    "translation": "саранча, кобылка"
+  },
+  {
+    "word": "lode",
+    "translation": "жила"
+  },
+  {
+    "word": "lodge",
+    "translation": "помещаться, ложа, вселение, сожительствовать, сторожка, квартировать, вселить, помещать, селить, поселять"
+  },
+  {
+    "word": "lodger",
+    "translation": "постоялец, квартирантка, жиличка"
+  },
+  {
+    "word": "lodging",
+    "translation": "жильё"
+  },
+  {
+    "word": "lodging for the night",
+    "translation": "ночлег"
+  },
+  {
+    "word": "loess",
+    "translation": "лёсс"
+  },
+  {
+    "word": "loftiness",
+    "translation": "спесивость, спесь, высота, возвышенность"
+  },
+  {
+    "word": "lofty",
+    "translation": "спесивый, горний, возвышенный, идейный, выспренний"
+  },
+  {
+    "word": "lofty phrases",
+    "translation": "разглагольствование"
+  },
+  {
+    "word": "log",
+    "translation": "колода, топляк, бревно, полено, лаг, рубленый"
+  },
+  {
+    "word": "log cabin",
+    "translation": "сруб"
+  },
+  {
+    "word": "log conveyer",
+    "translation": "лесотаска"
+  },
+  {
+    "word": "log-book",
+    "translation": "формуляр"
+  },
+  {
+    "word": "log-line",
+    "translation": "лаглинь"
+  },
+  {
+    "word": "log-path",
+    "translation": "гать"
+  },
+  {
+    "word": "logarithmic",
+    "translation": "логарифмический"
+  },
+  {
+    "word": "logger",
+    "translation": "лесоруб"
+  },
+  {
+    "word": "loggia",
+    "translation": "лоджия"
+  },
+  {
+    "word": "logging",
+    "translation": "лесозаготовки"
+  },
+  {
+    "word": "logging area",
+    "translation": "лесоразработки"
+  },
+  {
+    "word": "logic",
+    "translation": "логика"
+  },
+  {
+    "word": "logical",
+    "translation": "логичный, логично, последовательный"
+  },
+  {
+    "word": "logicality",
+    "translation": "логичность"
+  },
+  {
+    "word": "logically",
+    "translation": "логично"
+  },
+  {
+    "word": "logogriph",
+    "translation": "логогриф"
+  },
+  {
+    "word": "logomachy",
+    "translation": "словопрение"
+  },
+  {
+    "word": "logopaedics",
+    "translation": "логопедия"
+  },
+  {
+    "word": "loins",
+    "translation": "чресла, поясница"
+  },
+  {
+    "word": "loiter",
+    "translation": "валандаться, мешкать, замешкаться"
+  },
+  {
+    "word": "loiter about",
+    "translation": "слоняться"
+  },
+  {
+    "word": "loll about",
+    "translation": "валяться"
+  },
+  {
+    "word": "lollipop",
+    "translation": "леденец"
+  },
+  {
+    "word": "london",
+    "translation": "лондонский"
+  },
+  {
+    "word": "lone",
+    "translation": "сиротливый, одинокий"
+  },
+  {
+    "word": "lone person",
+    "translation": "одиночка"
+  },
+  {
+    "word": "lone wolf",
+    "translation": "бирюк"
+  },
+  {
+    "word": "loneliness",
+    "translation": "одиночество"
+  },
+  {
+    "word": "lonely",
+    "translation": "сиротливо, сиротливый, сирый, уединённый, одинокий, безлюдный, нелюдимый"
+  },
+  {
+    "word": "long",
+    "translation": "тосковать, грустить, рваться, дальний, подолгу, длинный, долгий, продолжительный, длительный, мешкотный, стремиться"
+  },
+  {
+    "word": "long ago",
+    "translation": "давно"
+  },
+  {
+    "word": "long before",
+    "translation": "задолго"
+  },
+  {
+    "word": "long boat",
+    "translation": "баркас"
+  },
+  {
+    "word": "long ditch",
+    "translation": "перекоп"
+  },
+  {
+    "word": "long drawn-out",
+    "translation": "протяжный"
+  },
+  {
+    "word": "long face",
+    "translation": "лава"
+  },
+  {
+    "word": "long loaf",
+    "translation": "батон"
+  },
+  {
+    "word": "long long ago",
+    "translation": "давным-давно"
+  },
+  {
+    "word": "long loose-fitting garment",
+    "translation": "хламида"
+  },
+  {
+    "word": "long mantle",
+    "translation": "епанча"
+  },
+  {
+    "word": "long pants",
+    "translation": "рейтузы"
+  },
+  {
+    "word": "long primer",
+    "translation": "корпус"
+  },
+  {
+    "word": "long seat with a back",
+    "translation": "скамейка"
+  },
+  {
+    "word": "long seat without a back",
+    "translation": "лавочка"
+  },
+  {
+    "word": "long sight",
+    "translation": "дальнозоркость"
+  },
+  {
+    "word": "long since",
+    "translation": "издавна"
+  },
+  {
+    "word": "long-arm",
+    "translation": "долгорукий"
+  },
+  {
+    "word": "long-armed",
+    "translation": "рукастый, длиннорукий"
+  },
+  {
+    "word": "long-awaited",
+    "translation": "долгожданный"
+  },
+  {
+    "word": "long-dated",
+    "translation": "долгосрочный"
+  },
+  {
+    "word": "long-distance truck",
+    "translation": "автофургон"
+  },
+  {
+    "word": "long-drawn-out",
+    "translation": "канительный"
+  },
+  {
+    "word": "long-drawn-out proceedings",
+    "translation": "канитель"
+  },
+  {
+    "word": "long-expected",
+    "translation": "долгожданный"
+  },
+  {
+    "word": "long-haired",
+    "translation": "длинношёрстый"
+  },
+  {
+    "word": "long-legged",
+    "translation": "голенастый"
+  },
+  {
+    "word": "long-lived",
+    "translation": "долговечный"
+  },
+  {
+    "word": "long-liver",
+    "translation": "долгожительница"
+  },
+  {
+    "word": "long-maned",
+    "translation": "гривастый"
+  },
+  {
+    "word": "long-nosed",
+    "translation": "длинноносый"
+  },
+  {
+    "word": "long-range",
+    "translation": "дальнобойный"
+  },
+  {
+    "word": "long-range camera",
+    "translation": "телефотоаппарат"
+  },
+  {
+    "word": "long-sighted",
+    "translation": "дальнозоркий"
+  },
+  {
+    "word": "long-skirted",
+    "translation": "долгополый"
+  },
+  {
+    "word": "long-stalked flax",
+    "translation": "долгунец"
+  },
+  {
+    "word": "long-standing",
+    "translation": "давний"
+  },
+  {
+    "word": "long-staple",
+    "translation": "длинноволокнистый"
+  },
+  {
+    "word": "long-suffering",
+    "translation": "многострадальный"
+  },
+  {
+    "word": "long-term",
+    "translation": "долгосрочный, долговременный, перспективный"
+  },
+  {
+    "word": "long-wave",
+    "translation": "длинноволновый"
+  },
+  {
+    "word": "long-winded",
+    "translation": "растянутый"
+  },
+  {
+    "word": "long-windedness",
+    "translation": "растянутость"
+  },
+  {
+    "word": "longed-for",
+    "translation": "вожделенный, желанный"
+  },
+  {
+    "word": "longer",
+    "translation": "долее"
+  },
+  {
+    "word": "longeron",
+    "translation": "лонжерон"
+  },
+  {
+    "word": "longevity",
+    "translation": "долголетие, долговечность"
+  },
+  {
+    "word": "longing",
+    "translation": "сухота, тоска"
+  },
+  {
+    "word": "longitude",
+    "translation": "долгота"
+  },
+  {
+    "word": "longitudinal",
+    "translation": "долевой, продольный"
+  },
+  {
+    "word": "longshoreman",
+    "translation": "грузчик"
+  },
+  {
+    "word": "longueurs",
+    "translation": "длинноты"
+  },
+  {
+    "word": "loo",
+    "translation": "уборная, туалет, клозет"
+  },
+  {
+    "word": "look",
+    "translation": "вид, наружность, опекать, поглядывать, приглядеть, разобрать, приискивать..."
+  },
+  {
+    "word": "look about",
+    "translation": "осматриваться"
+  },
+  {
+    "word": "look after",
+    "translation": "позаботиться, углядеть, ухаживать"
+  },
+  {
+    "word": "look askance",
+    "translation": "коситься"
+  },
+  {
+    "word": "look asquint",
+    "translation": "косить"
+  },
+  {
+    "word": "look at oneself",
+    "translation": "посмотреться"
+  },
+  {
+    "word": "look back",
+    "translation": "озираться, обернуться"
+  },
+  {
+    "word": "look down",
+    "translation": "потупляться"
+  },
+  {
+    "word": "look effective",
+    "translation": "посмотреться"
+  },
+  {
+    "word": "look for",
+    "translation": "отыскивать, поискать"
+  },
+  {
+    "word": "look for a while",
+    "translation": "поглядеть"
+  },
+  {
+    "word": "look forward",
+    "translation": "предвкушать"
+  },
+  {
+    "word": "look in",
+    "translation": "захаживать, заглядывать, обегать"
+  },
+  {
+    "word": "look into",
+    "translation": "расследовать"
+  },
+  {
+    "word": "look like",
+    "translation": "выглядеть, глядеть, смахнуть"
+  },
+  {
+    "word": "look out",
+    "translation": "выглядывать, высмотреть, глядеть"
+  },
+  {
+    "word": "look over",
+    "translation": "оглянуть, пересматривать, перетрясать"
+  },
+  {
+    "word": "look over sth",
+    "translation": "просматривать"
+  },
+  {
+    "word": "look round",
+    "translation": "оглядеться, осматриваться, обозреть"
+  },
+  {
+    "word": "look sideways",
+    "translation": "коситься"
+  },
+  {
+    "word": "look sour",
+    "translation": "киснуть"
+  },
+  {
+    "word": "look through",
+    "translation": "проглянуть, досматривать, перелистать"
+  },
+  {
+    "word": "look through sth",
+    "translation": "просматривать"
+  },
+  {
+    "word": "look with an unfavourable eye",
+    "translation": "коситься"
+  },
+  {
+    "word": "look younger",
+    "translation": "молодеть"
+  },
+  {
+    "word": "look-maker",
+    "translation": "слесарь-инструментальщик"
+  },
+  {
+    "word": "looking",
+    "translation": "Смотря"
+  },
+  {
+    "word": "looking after",
+    "translation": "присмотр"
+  },
+  {
+    "word": "looking back",
+    "translation": "оглядка"
+  },
+  {
+    "word": "looking round",
+    "translation": "обозрение"
+  },
+  {
+    "word": "looking wise",
+    "translation": "глубокомысленно"
+  },
+  {
+    "word": "looking-glass",
+    "translation": "зеркало"
+  },
+  {
+    "word": "loom",
+    "translation": "валёк, вырисовываться, стемнеть, маячить, замаячить"
+  },
+  {
+    "word": "loon",
+    "translation": "гагара"
+  },
+  {
+    "word": "loony",
+    "translation": "псих"
+  },
+  {
+    "word": "loop",
+    "translation": "пучность, крица, петля"
+  },
+  {
+    "word": "loop-hole",
+    "translation": "лазейка, бойница"
+  },
+  {
+    "word": "loopy",
+    "translation": "чокнутый"
+  },
+  {
+    "word": "loose",
+    "translation": "свободный, рыхлый, рассыпной, разгульный, расхлябанный, пустить, просторный, развинченный, слабый"
+  },
+  {
+    "word": "loose discipline",
+    "translation": "разболтанность"
+  },
+  {
+    "word": "loose leaf",
+    "translation": "вкладыш"
+  },
+  {
+    "word": "loose overall",
+    "translation": "балахон"
+  },
+  {
+    "word": "loose woman",
+    "translation": "блудница"
+  },
+  {
+    "word": "loose-fitting",
+    "translation": "свободный"
+  },
+  {
+    "word": "loose-hanging",
+    "translation": "отвислый"
+  },
+  {
+    "word": "loose-leaf binder",
+    "translation": "скоросшиватель"
+  },
+  {
+    "word": "loosen",
+    "translation": "распускать, отпускать, рыхлить, разбалтывать, раскачать, отворачивать, ослабевать, ослаблять"
+  },
+  {
+    "word": "loosen up",
+    "translation": "разминаться"
+  },
+  {
+    "word": "looseness",
+    "translation": "расхлябанность, разболтанность"
+  },
+  {
+    "word": "loosening",
+    "translation": "взрыхление"
+  },
+  {
+    "word": "loot",
+    "translation": "добыча, мародёрствовать, громить, разграбить, ограбить, раскрадывать"
+  },
+  {
+    "word": "looter",
+    "translation": "мародёр"
+  },
+  {
+    "word": "looting",
+    "translation": "мародёрство"
+  },
+  {
+    "word": "lop",
+    "translation": "подстригать, подрезать"
+  },
+  {
+    "word": "lop off",
+    "translation": "обрубать, обкорнать"
+  },
+  {
+    "word": "lop-eared",
+    "translation": "вислоухий"
+  },
+  {
+    "word": "lop-sided",
+    "translation": "кривобокий, однобокий"
+  },
+  {
+    "word": "lope",
+    "translation": "скакать"
+  },
+  {
+    "word": "lopping off",
+    "translation": "опиловка"
+  },
+  {
+    "word": "lopsided",
+    "translation": "кособокий"
+  },
+  {
+    "word": "loquacious",
+    "translation": "многоречивый, говорливый, разговорчивый, словоохотливый"
+  },
+  {
+    "word": "loquaciousness",
+    "translation": "словоохотливость"
+  },
+  {
+    "word": "loquacity",
+    "translation": "многоречивость, говорливость, разговорчивость, словоохотливость"
+  },
+  {
+    "word": "lord",
+    "translation": "барин, лорд, господи, властелин, владыка"
+  },
+  {
+    "word": "lord chancellor",
+    "translation": "лорд-канцлер"
+  },
+  {
+    "word": "lord it",
+    "translation": "хозяйничать"
+  },
+  {
+    "word": "lord it over",
+    "translation": "верховодить"
+  },
+  {
+    "word": "lord mayor",
+    "translation": "лорд-мэр"
+  },
+  {
+    "word": "lord of the manor",
+    "translation": "барин, помещик"
+  },
+  {
+    "word": "lordliness",
+    "translation": "барство"
+  },
+  {
+    "word": "lordling",
+    "translation": "барчук"
+  },
+  {
+    "word": "lordly",
+    "translation": "барский"
+  },
+  {
+    "word": "lorgnette",
+    "translation": "лорнет"
+  },
+  {
+    "word": "lorry",
+    "translation": "автомашина"
+  },
+  {
+    "word": "lorry and trailer",
+    "translation": "автопоезд"
+  },
+  {
+    "word": "lose",
+    "translation": "проспорить, продуть, проигрывать, утерять, лишаться, потерять, посеять, просадить"
+  },
+  {
+    "word": "lose at one stroke",
+    "translation": "ухать"
+  },
+  {
+    "word": "lose colour",
+    "translation": "облинять, линять"
+  },
+  {
+    "word": "lose consciousness",
+    "translation": "забываться, обеспамятеть"
+  },
+  {
+    "word": "lose count",
+    "translation": "сбиться"
+  },
+  {
+    "word": "lose courage",
+    "translation": "струхнуть"
+  },
+  {
+    "word": "lose flesh",
+    "translation": "худеть"
+  },
+  {
+    "word": "lose fragrance",
+    "translation": "выдыхаться"
+  },
+  {
+    "word": "lose heart",
+    "translation": "унывать"
+  },
+  {
+    "word": "lose height",
+    "translation": "снижаться"
+  },
+  {
+    "word": "lose hold of and fall",
+    "translation": "обрываться"
+  },
+  {
+    "word": "lose interest",
+    "translation": "охладеть"
+  },
+  {
+    "word": "lose its curls",
+    "translation": "развиваться"
+  },
+  {
+    "word": "lose its lustre",
+    "translation": "тускнеть"
+  },
+  {
+    "word": "lose oneself in a dream",
+    "translation": "замечтаться"
+  },
+  {
+    "word": "lose smell",
+    "translation": "выдыхаться"
+  },
+  {
+    "word": "lose the art",
+    "translation": "разучиваться"
+  },
+  {
+    "word": "lose through inattention",
+    "translation": "пробросаться"
+  },
+  {
+    "word": "lose touch",
+    "translation": "отрываться"
+  },
+  {
+    "word": "lose track",
+    "translation": "сбиться"
+  },
+  {
+    "word": "lose track of time",
+    "translation": "зарисоваться"
+  },
+  {
+    "word": "lose weight",
+    "translation": "похудеть"
+  },
+  {
+    "word": "losing the step",
+    "translation": "сбой"
+  },
+  {
+    "word": "loss",
+    "translation": "ущерб, гибель, лёсс, утеря, потеря"
+  },
+  {
+    "word": "loss of cattle",
+    "translation": "падёж"
+  },
+  {
+    "word": "loss of communication",
+    "translation": "отрыв"
+  },
+  {
+    "word": "loss of consciousness",
+    "translation": "бесчувствие"
+  },
+  {
+    "word": "loss of value",
+    "translation": "обесценение"
+  },
+  {
+    "word": "loss of weight",
+    "translation": "усушка"
+  },
+  {
+    "word": "losses",
+    "translation": "убыль, потеря, урон"
+  },
+  {
+    "word": "lost",
+    "translation": "погибший, забытый, заблудший"
+  },
+  {
+    "word": "lot",
+    "translation": "партия, удел, участь, жребий, участок, доля, нарез"
+  },
+  {
+    "word": "lot of nerve",
+    "translation": "наглый"
+  },
+  {
+    "word": "lotion",
+    "translation": "лосьон, обтирание, примочка"
+  },
+  {
+    "word": "lots",
+    "translation": "вагон, уйма, пропасть, масса"
+  },
+  {
+    "word": "lottery",
+    "translation": "лотерея, выигрышный"
+  },
+  {
+    "word": "lotto",
+    "translation": "лото"
+  },
+  {
+    "word": "lotto player",
+    "translation": "лотошник"
+  },
+  {
+    "word": "lotus",
+    "translation": "лотос"
+  },
+  {
+    "word": "loud",
+    "translation": "броский, громко, громкий, кричащий, крикливый, громогласно..., шумный"
+  },
+  {
+    "word": "loud laughter",
+    "translation": "гогот"
+  },
+  {
+    "word": "loud shouting",
+    "translation": "ор"
+  },
+  {
+    "word": "loud speaker",
+    "translation": "динамик"
+  },
+  {
+    "word": "loud-mouthed",
+    "translation": "горластый"
+  },
+  {
+    "word": "loud-speaker",
+    "translation": "громкоговоритель"
+  },
+  {
+    "word": "loud-voiced",
+    "translation": "громкоголосый, голосистый, громогласный"
+  },
+  {
+    "word": "loudly",
+    "translation": "звучно"
+  },
+  {
+    "word": "loudspeaker",
+    "translation": "колонка"
+  },
+  {
+    "word": "lounge",
+    "translation": "болтаться, разваливаться"
+  },
+  {
+    "word": "lounge about",
+    "translation": "шататься, околачиваться"
+  },
+  {
+    "word": "lounge-car",
+    "translation": "салон-вагон"
+  },
+  {
+    "word": "lounger",
+    "translation": "праздношатающийся"
+  },
+  {
+    "word": "lour",
+    "translation": "хмуриться"
+  },
+  {
+    "word": "louring",
+    "translation": "хмурый"
+  },
+  {
+    "word": "louse",
+    "translation": "вошь"
+  },
+  {
+    "word": "lousiness",
+    "translation": "вшивость"
+  },
+  {
+    "word": "lousy",
+    "translation": "вшивый, хреновый, паршивый"
+  },
+  {
+    "word": "lousy creature",
+    "translation": "паршивка"
+  },
+  {
+    "word": "lout",
+    "translation": "вахлак, губошлёп"
+  },
+  {
+    "word": "loutish",
+    "translation": "мужиковатый"
+  },
+  {
+    "word": "love",
+    "translation": "влюблённость, возлюбленный, душка, увлечение, амурный, любовный, возлюбленная"
+  },
+  {
+    "word": "love affair",
+    "translation": "интрига, роман"
+  },
+  {
+    "word": "love no longer",
+    "translation": "разлюбить"
+  },
+  {
+    "word": "love of fellow-men",
+    "translation": "человеколюбие"
+  },
+  {
+    "word": "love of freedom",
+    "translation": "свободолюбие"
+  },
+  {
+    "word": "love one another",
+    "translation": "слюбиться"
+  },
+  {
+    "word": "love-birds",
+    "translation": "неразлучник"
+  },
+  {
+    "word": "loved ones",
+    "translation": "родные"
+  },
+  {
+    "word": "lovely",
+    "translation": "прелестный, прелестно, чудный, чудесный"
+  },
+  {
+    "word": "lovely sight",
+    "translation": "загляденье"
+  },
+  {
+    "word": "lover",
+    "translation": "любитель, охотник, влюблённый, любовник, сожитель"
+  },
+  {
+    "word": "lover of books",
+    "translation": "книжник"
+  },
+  {
+    "word": "loving",
+    "translation": "привязчивый, сердечный, любовный, любящий, любвеобильный, нежный"
+  },
+  {
+    "word": "lovingly",
+    "translation": "влюблённо"
+  },
+  {
+    "word": "lovingness",
+    "translation": "привязчивость"
+  },
+  {
+    "word": "low",
+    "translation": "дешёвый, негромкий, низменный, разряжать, понизу, низкий..., невысокий, тихий"
+  },
+  {
+    "word": "low bar",
+    "translation": "кабак"
+  },
+  {
+    "word": "low bass",
+    "translation": "октава"
+  },
+  {
+    "word": "low blood pressure",
+    "translation": "гипотония"
+  },
+  {
+    "word": "low colloquial",
+    "translation": "просторечный"
+  },
+  {
+    "word": "low farce",
+    "translation": "балаган"
+  },
+  {
+    "word": "low forest",
+    "translation": "мелколесье"
+  },
+  {
+    "word": "low in calories",
+    "translation": "малокалорийный"
+  },
+  {
+    "word": "low life",
+    "translation": "гопник"
+  },
+  {
+    "word": "low neck",
+    "translation": "вырез"
+  },
+  {
+    "word": "low place",
+    "translation": "низина"
+  },
+  {
+    "word": "low price",
+    "translation": "дешёвка"
+  },
+  {
+    "word": "low prices",
+    "translation": "дешевизна"
+  },
+  {
+    "word": "low rumble",
+    "translation": "рокот"
+  },
+  {
+    "word": "low shoes",
+    "translation": "полуботинки"
+  },
+  {
+    "word": "low spirits",
+    "translation": "уныние"
+  },
+  {
+    "word": "low water-level",
+    "translation": "маловодье"
+  },
+  {
+    "word": "low-calorie",
+    "translation": "малокалорийный"
+  },
+  {
+    "word": "low-flying air attack",
+    "translation": "штурмовка"
+  },
+  {
+    "word": "low-flying attack aircraft",
+    "translation": "штурмовик"
+  },
+  {
+    "word": "low-grade",
+    "translation": "низкосортный, несортовой"
+  },
+  {
+    "word": "low-lying",
+    "translation": "низменный"
+  },
+  {
+    "word": "low-necked",
+    "translation": "декольтированный"
+  },
+  {
+    "word": "low-power",
+    "translation": "слабосильный"
+  },
+  {
+    "word": "low-powered",
+    "translation": "малосильный"
+  },
+  {
+    "word": "low-standard",
+    "translation": "низкопробный"
+  },
+  {
+    "word": "low-tide",
+    "translation": "отлив"
+  },
+  {
+    "word": "low-yield",
+    "translation": "малоурожайный, малопродуктивный"
+  },
+  {
+    "word": "lower",
+    "translation": "снижать, хмуриться, свешивать, нижний, ниже, спускать, понижать..., уменьшиться"
+  },
+  {
+    "word": "lower a little",
+    "translation": "приспускаться, приспускать"
+  },
+  {
+    "word": "lower boxes",
+    "translation": "бенуар"
+  },
+  {
+    "word": "lower case",
+    "translation": "строчный"
+  },
+  {
+    "word": "lower half of the page",
+    "translation": "подвал"
+  },
+  {
+    "word": "lower middle classes",
+    "translation": "мещанство"
+  },
+  {
+    "word": "lower reaches",
+    "translation": "понизовье"
+  },
+  {
+    "word": "lower strata",
+    "translation": "низы"
+  },
+  {
+    "word": "lower the dignity",
+    "translation": "мельчить"
+  },
+  {
+    "word": "lowering",
+    "translation": "понижение, хмурый, снижение, спуск"
+  },
+  {
+    "word": "lowering of moral standards",
+    "translation": "измельчание"
+  },
+  {
+    "word": "lowland",
+    "translation": "низменность"
+  },
+  {
+    "word": "lowly",
+    "translation": "бессловесный"
+  },
+  {
+    "word": "loyal",
+    "translation": "приверженный, лояльный, верноподданнический, благонамеренный, верный, благонадёжный"
+  },
+  {
+    "word": "loyal subject",
+    "translation": "верноподданный"
+  },
+  {
+    "word": "loyalist",
+    "translation": "благонамеренный"
+  },
+  {
+    "word": "loyalty",
+    "translation": "верность, благонамеренность, благонадёжность"
+  },
+  {
+    "word": "lozenge",
+    "translation": "лепёшка"
+  },
+  {
+    "word": "lubricant",
+    "translation": "смазка"
+  },
+  {
+    "word": "lubricate",
+    "translation": "жировать, мазать, смазывать"
+  },
+  {
+    "word": "lubricating",
+    "translation": "смазочный"
+  },
+  {
+    "word": "lubricating grease",
+    "translation": "тавот"
+  },
+  {
+    "word": "lubrication",
+    "translation": "смазка"
+  },
+  {
+    "word": "lubricator",
+    "translation": "маслёнка, смазчица"
+  },
+  {
+    "word": "lucid",
+    "translation": "ясный"
+  },
+  {
+    "word": "lucidity",
+    "translation": "ясность"
+  },
+  {
+    "word": "luck",
+    "translation": "счастье, удачливость, успех"
+  },
+  {
+    "word": "luckless",
+    "translation": "невезучий, незадачливый, несчастливый"
+  },
+  {
+    "word": "lucky",
+    "translation": "счастливый, везучий, фартовый, удачливый"
+  },
+  {
+    "word": "lucky man",
+    "translation": "счастливец"
+  },
+  {
+    "word": "lucky woman",
+    "translation": "счастливица"
+  },
+  {
+    "word": "lucrative",
+    "translation": "хлебный, прибыльный, доходный"
+  },
+  {
+    "word": "lucrativeness",
+    "translation": "прибыльность"
+  },
+  {
+    "word": "ludicrous",
+    "translation": "смешной"
+  },
+  {
+    "word": "lug",
+    "translation": "потащить, перетаскивать, прилив, проушина, выступ..."
+  },
+  {
+    "word": "luge",
+    "translation": "сани"
+  },
+  {
+    "word": "luger",
+    "translation": "саночница"
+  },
+  {
+    "word": "luggage",
+    "translation": "поклажа, багаж"
+  },
+  {
+    "word": "luggage rack",
+    "translation": "багажник"
+  },
+  {
+    "word": "lugger",
+    "translation": "люгер"
+  },
+  {
+    "word": "lukewarm",
+    "translation": "тёпленький, тепловатый"
+  },
+  {
+    "word": "lull",
+    "translation": "затихать, затишье, убаюкивать, усыплять, утолять"
+  },
+  {
+    "word": "lull to sleep",
+    "translation": "баюкать, усыплять"
+  },
+  {
+    "word": "lullaby",
+    "translation": "колыбельная"
+  },
+  {
+    "word": "lulling",
+    "translation": "утоление"
+  },
+  {
+    "word": "lulling to sleep",
+    "translation": "усыпление"
+  },
+  {
+    "word": "lumbago",
+    "translation": "прострел"
+  },
+  {
+    "word": "lumbar",
+    "translation": "поясничный"
+  },
+  {
+    "word": "lumber",
+    "translation": "балласт, рухлядь, хлам, громыхать, лес"
+  },
+  {
+    "word": "lumber-room",
+    "translation": "чулан"
+  },
+  {
+    "word": "lumbering",
+    "translation": "неуклюжий"
+  },
+  {
+    "word": "luminal",
+    "translation": "люминал"
+  },
+  {
+    "word": "luminary",
+    "translation": "светоч, светило"
+  },
+  {
+    "word": "luminescence",
+    "translation": "свечение"
+  },
+  {
+    "word": "luminescent",
+    "translation": "люминесцентный, светящийся"
+  },
+  {
+    "word": "luminous",
+    "translation": "светящийся"
+  },
+  {
+    "word": "lump",
+    "translation": "шишка, блямба, кусковой, ком, комок, тюфяк, кусок..."
+  },
+  {
+    "word": "lump in the throat",
+    "translation": "клубок"
+  },
+  {
+    "word": "lump sugar",
+    "translation": "рафинад"
+  },
+  {
+    "word": "lumpish fellow",
+    "translation": "тумба"
+  },
+  {
+    "word": "lunar",
+    "translation": "лунный"
+  },
+  {
+    "word": "lunar caustic",
+    "translation": "ляпис"
+  },
+  {
+    "word": "lunar landing",
+    "translation": "прилунение"
+  },
+  {
+    "word": "lunatic",
+    "translation": "сумасшедший, умалишённый"
+  },
+  {
+    "word": "lunch",
+    "translation": "позавтракать, завтрак, обед"
+  },
+  {
+    "word": "lunch-time",
+    "translation": "обед"
+  },
+  {
+    "word": "luncheon",
+    "translation": "завтрак"
+  },
+  {
+    "word": "lung",
+    "translation": "лёгкий, лёгкое"
+  },
+  {
+    "word": "lung-fishes",
+    "translation": "двоякодышащие"
+  },
+  {
+    "word": "lunge",
+    "translation": "корда, выпад, бросок"
+  },
+  {
+    "word": "lungwort",
+    "translation": "медуница"
+  },
+  {
+    "word": "lunik",
+    "translation": "лунник"
+  },
+  {
+    "word": "lunokhod",
+    "translation": "луноход"
+  },
+  {
+    "word": "lupine",
+    "translation": "волчий"
+  },
+  {
+    "word": "lupus",
+    "translation": "волчанка"
+  },
+  {
+    "word": "lurch",
+    "translation": "переться"
+  },
+  {
+    "word": "lure",
+    "translation": "приманка, поманить, сманивать, заманивать, выманивать, залучать, прикорм, вабить, приманить, прикормить"
+  },
+  {
+    "word": "lure away",
+    "translation": "завлекать"
+  },
+  {
+    "word": "lurk",
+    "translation": "притаиться"
+  },
+  {
+    "word": "luscious",
+    "translation": "приторный"
+  },
+  {
+    "word": "lusciousness",
+    "translation": "приторность"
+  },
+  {
+    "word": "lush",
+    "translation": "буйный"
+  },
+  {
+    "word": "lust",
+    "translation": "похоть, вожделение, похотливость"
+  },
+  {
+    "word": "lustful",
+    "translation": "плотоядный, похотливый"
+  },
+  {
+    "word": "lustre",
+    "translation": "блеск, лоск, глянец"
+  },
+  {
+    "word": "lustreless",
+    "translation": "тусклый, матовый, туманный"
+  },
+  {
+    "word": "lustrous",
+    "translation": "глянцевитый"
+  },
+  {
+    "word": "lute",
+    "translation": "мастика"
+  },
+  {
+    "word": "lux",
+    "translation": "люкс"
+  },
+  {
+    "word": "luxuriant",
+    "translation": "роскошный, пышный, буйный"
+  },
+  {
+    "word": "luxuriate",
+    "translation": "понежиться, роскошничать"
+  },
+  {
+    "word": "luxurious",
+    "translation": "роскошный"
+  },
+  {
+    "word": "luxuriously",
+    "translation": "роскошно"
+  },
+  {
+    "word": "luxury",
+    "translation": "элитный, роскошь"
+  },
+  {
+    "word": "lviv",
+    "translation": "львовский"
+  },
+  {
+    "word": "lviv-based",
+    "translation": "львовский"
+  },
+  {
+    "word": "lycee",
+    "translation": "лицей"
+  },
+  {
+    "word": "lyceum",
+    "translation": "лицей"
+  },
+  {
+    "word": "lychnis",
+    "translation": "горицвет"
+  },
+  {
+    "word": "lycopodium",
+    "translation": "плаун, ликоподий"
+  },
+  {
+    "word": "lycopodium powder",
+    "translation": "ликоподий"
+  },
+  {
+    "word": "lye",
+    "translation": "щёлок"
+  },
+  {
+    "word": "lying",
+    "translation": "лганьё, лживый, лежачий"
+  },
+  {
+    "word": "lying-in",
+    "translation": "роды"
+  },
+  {
+    "word": "lymph",
+    "translation": "лимфа"
+  },
+  {
+    "word": "lymphatic",
+    "translation": "лимфатический"
+  },
+  {
+    "word": "lymphocyte",
+    "translation": "лимфоцит"
+  },
+  {
+    "word": "lynch",
+    "translation": "линчевать"
+  },
+  {
+    "word": "lynch law",
+    "translation": "линчевание"
+  },
+  {
+    "word": "lynching",
+    "translation": "линчевание, самосуд"
+  },
+  {
+    "word": "lynx",
+    "translation": "рысий, рысь"
+  },
+  {
+    "word": "lyrate",
+    "translation": "лировидный"
+  },
+  {
+    "word": "lyre",
+    "translation": "лира"
+  },
+  {
+    "word": "lyre-bird",
+    "translation": "лирохвост"
+  },
+  {
+    "word": "lyre-shaped",
+    "translation": "лироподобный"
+  },
+  {
+    "word": "lyric",
+    "translation": "лирический"
+  },
+  {
+    "word": "lyric poet",
+    "translation": "лирик"
+  },
+  {
+    "word": "lyric poetry",
+    "translation": "лирика"
+  },
+  {
+    "word": "lyrical",
+    "translation": "лирический"
+  },
+  {
+    "word": "lyricism",
+    "translation": "лирика, лиричность"
+  },
+  {
+    "word": "lyrico-dramatic",
+    "translation": "лирико-драматический"
+  },
+  {
+    "word": "lyrico-epic",
+    "translation": "лиро-эпический"
+  },
+  {
+    "word": "lyrics",
+    "translation": "лирика"
+  },
+  {
+    "word": "lyriform",
+    "translation": "лировидный"
+  },
+  {
+    "word": "lysis",
+    "translation": "лизис"
+  },
+  {
+    "word": "lysol",
+    "translation": "лизол"
+  }
+]
