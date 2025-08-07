@@ -1,4 +1,4 @@
-// 🎵 Элементы аудио (будут инициализированы позже)
+// 🎵 Элементы аудио (инициализируются позже)
 let soundCtrl, soundEnter, soundBackspace, soundSpace, volumeSlider;
 
 // 🔧 Инициализация аудио после загрузки DOM

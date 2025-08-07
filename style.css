@@ -135,6 +135,7 @@ button {
   z-index: 100;
   transition: opacity 0.2s ease;
 }
+
 .translation-popup {
   position: absolute;
   background: #fff;
@@ -160,3 +161,4 @@ button {
   max-width: 80%;
   text-align: center;
 }
+
