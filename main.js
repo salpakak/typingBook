@@ -6,7 +6,12 @@ import {
   loadText,
   listSavedTexts,
 } from "./storage.js";
-import { playSoundForKey } from "./audio.js";
+import { initAudio, playSoundForKey } from "./audio.js";
+
+document.addEventListener("DOMContentLoaded", () => {
+  initAudio();
+});
+
 import {
   translateWord,
   showTranslation,

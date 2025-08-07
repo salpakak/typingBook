@@ -1,23 +1,28 @@
-// 🎵 Элементы аудио
-const soundCtrl = document.getElementById("soundCtrl");
-const soundEnter = document.getElementById("soundEnter");
-const soundBackspace = document.getElementById("soundBackspace");
-const soundSpace = document.getElementById("soundSpace");
-const volumeSlider = document.getElementById("volumeSlider");
+// 🎵 Элементы аудио (будут инициализированы позже)
+let soundCtrl, soundEnter, soundBackspace, soundSpace, volumeSlider;
 
-// 🔊 Инициализация громкости
-const initialVolume = parseFloat(volumeSlider?.value || "0.5");
-[soundCtrl, soundEnter, soundBackspace, soundSpace].forEach((el) => {
-  if (el) el.volume = initialVolume;
-});
+// 🔧 Инициализация аудио после загрузки DOM
+export function initAudio() {
+  soundCtrl = document.getElementById("soundCtrl");
+  soundEnter = document.getElementById("soundEnter");
+  soundBackspace = document.getElementById("soundBackspace");
+  soundSpace = document.getElementById("soundSpace");
+  volumeSlider = document.getElementById("volumeSlider");
 
-// 🎚️ Управление громкостью по слайдеру
-volumeSlider?.addEventListener("input", () => {
-  const volume = parseFloat(volumeSlider.value);
+  const initialVolume = parseFloat(volumeSlider?.value || "0.5");
   [soundCtrl, soundEnter, soundBackspace, soundSpace].forEach((el) => {
-    if (el) el.volume = volume;
+    if (el) el.volume = initialVolume;
   });
-});
+
+  volumeSlider?.addEventListener("input", () => {
+    const volume = parseFloat(volumeSlider.value);
+    [soundCtrl, soundEnter, soundBackspace, soundSpace].forEach((el) => {
+      if (el) el.volume = volume;
+    });
+  });
+
+  console.log("audio.js initialized");
+}
 
 // 🔔 Воспроизведение звука при нажатии клавиши
 export function playSoundForKey(e) {
