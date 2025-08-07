@@ -1,5 +1,5 @@
 
-import { splitTextIntoPages, cleanText } from "./utils.js";
+import { splitTextIntoPages, cleanText, charactersPerPage } from "./utils.js";
 
 import {
   translateWord,
@@ -8,9 +8,6 @@ import {
   resetCurrentWord,
   updateCurrentWord,
 } from "./translation.js";
-
-import { charactersPerPage } from "./utils.js";
-
 
 import {
   saveProgress,
