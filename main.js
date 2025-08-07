@@ -18,13 +18,6 @@ import {
 } from "./storage.js";
 
 import { playSoundForKey } from "./audio.js";
-import {
-  translateWord,
-  showTranslation,
-  hideTranslation,
-  updateCurrentWord,
-  resetCurrentWord,
-} from "./translation.js";
 
 const hiddenInput = document.getElementById("hiddenInput");
 const textDisplay = document.getElementById("textDisplay");
