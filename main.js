@@ -225,6 +225,10 @@ function updateDisplay() {
   pageNumberEl.textContent = currentPage + 1;
   totalPagesEl.textContent = pages.length;
   pageImage.src = getPollinationsImage(generateImagePrompt(expected));
+  // Обновляем поле перехода на страницу
+  if (pageInput) {
+    pageInput.value = currentPage + 1;
+  }
 }
 
 hiddenInput.addEventListener("keydown", async (e) => {
