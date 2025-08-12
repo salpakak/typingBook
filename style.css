@@ -10,7 +10,7 @@ html {
 
 body {
   font-family: sans-serif;
-  background: #f0f0f0;
+  background: #f0f0f0 url("img/bookBG.png") center center/cover no-repeat fixed;
   padding: 2em;
   margin: 0;
 }
@@ -18,7 +18,7 @@ body {
 .container {
   max-width: 800px;
   margin: auto;
-  background: #ffffff;
+  background: linear-gradient(135deg, #f8f5ee 60%, #e2d6c2 100%);
   padding: 2em;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
