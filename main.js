@@ -12,6 +12,65 @@ document.addEventListener("DOMContentLoaded", () => {
   initAudio();
 });
 
+// Навигация по страницам
+const prevPageBtn = document.getElementById("prevPage");
+const nextPageBtn = document.getElementById("nextPage");
+const goToPageBtn = document.getElementById("goToPage");
+const pageInput = document.getElementById("pageInput");
+
+if (prevPageBtn) {
+  prevPageBtn.addEventListener("click", () => {
+    if (currentPage > 0) {
+      currentPage--;
+      resetCurrentWord();
+      hideTranslation();
+      updateDisplay();
+      saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+      hiddenInput.focus();
+    }
+  });
+}
+
+if (nextPageBtn) {
+  nextPageBtn.addEventListener("click", () => {
+    if (currentPage < pages.length - 1) {
+      currentPage++;
+      resetCurrentWord();
+      hideTranslation();
+      updateDisplay();
+      saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+      hiddenInput.focus();
+    }
+  });
+}
+
+if (goToPageBtn && pageInput) {
+  goToPageBtn.addEventListener("click", () => {
+    const pageNum = parseInt(pageInput.value, 10);
+    if (!isNaN(pageNum) && pageNum >= 1 && pageNum <= pages.length) {
+      currentPage = pageNum - 1;
+      resetCurrentWord();
+      hideTranslation();
+      updateDisplay();
+      saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+      hiddenInput.focus();
+    }
+  });
+  pageInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      const pageNum = parseInt(pageInput.value, 10);
+      if (!isNaN(pageNum) && pageNum >= 1 && pageNum <= pages.length) {
+        currentPage = pageNum - 1;
+        resetCurrentWord();
+        hideTranslation();
+        updateDisplay();
+        saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+        hiddenInput.focus();
+      }
+    }
+  });
+}
+
 import {
   translateWord,
   showTranslation,

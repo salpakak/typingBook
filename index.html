@@ -27,7 +27,8 @@
         Страница <span id="pageNumber">1</span> из
         <span id="totalPages">?</span>
         &nbsp; | &nbsp; Перейти:
-        <input type="number" id="pageInput" min="1" />
+        <!-- Стрелки перехода по страницам убраны -->
+        <input type="number" id="pageInput" min="1" style="width: 50px" />
         <button id="goToPage">OK</button>
       </div>
 
@@ -50,7 +51,7 @@
 
       <div id="stats">Символов: 0 | Ошибок: 0</div>
       <button id="backBtn">← На главную</button>
-      <button id="resetProgressBtn">🗑️ Сбросить прогресс</button>
+      <!-- Кнопка сброса прогресса удалена -->
     </div>
     <audio id="soundCtrl" src="sounds/ctrl.mp3" preload="auto"></audio>
     <audio id="soundEnter" src="sounds/enter.mp3" preload="auto"></audio>
