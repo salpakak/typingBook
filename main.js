@@ -9,6 +9,14 @@ import {
 import { initAudio, playSoundForKey } from "./audio.js";
 
 document.addEventListener("DOMContentLoaded", () => {
+  // Обработчик кнопки "На главную" (работает всегда)
+  const backBtn = document.getElementById("backBtn");
+  if (backBtn) {
+    backBtn.addEventListener("click", () => {
+      document.getElementById("typingScreen").classList.add("hidden");
+      document.getElementById("homeScreen").classList.remove("hidden");
+    });
+  }
   initAudio();
 });
 
@@ -119,6 +127,14 @@ fileInput.addEventListener("change", (e) => {
     startTyping(name, text);
   };
   reader.readAsText(file);
+  // Обработчик кнопки "На главную" (работает всегда)
+  const backBtn = document.getElementById("backBtn");
+  if (backBtn) {
+    backBtn.addEventListener("click", () => {
+      document.getElementById("typingScreen").classList.add("hidden");
+      document.getElementById("homeScreen").classList.remove("hidden");
+    });
+  }
 });
 
 function updateSavedTexts() {
