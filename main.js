@@ -105,7 +105,8 @@ let currentPage = 0;
 let userInputs = {};
 
 function generateImagePrompt(text) {
-  return `illustration for: ${text}`;
+  // Добавляем название книги и стиль карикатуры
+  return `sketch sketch watercolor disney style illustration for book '${currentKey}': ${text}`;
 }
 
 function getPollinationsImage(prompt) {
@@ -204,6 +205,8 @@ function updateDisplay() {
     } else if (t === c) {
       html += `<span class="correct">${displayChar}</span>`;
       correct++;
+    } else if (t === "_" && c === " ") {
+      html += `<span class="incorrect-space">${displayChar}</span>`;
     } else {
       html += `<span class="incorrect">${displayChar}</span>`;
     }
@@ -239,6 +242,12 @@ hiddenInput.addEventListener("keydown", async (e) => {
 
   let typed = userInputs[currentPage] || "";
 
+  // Ограничение на 500 символов
+  if (typed.length >= 500 && e.key !== "Backspace") {
+    e.preventDefault();
+    return;
+  }
+
   if (!typingStartTime && typed.length === 0) {
     typingStartTime = Date.now();
   }
@@ -254,7 +263,13 @@ hiddenInput.addEventListener("keydown", async (e) => {
   }
 
   if (e.key === " ") {
-    typed += " ";
+    // Проверка правильности пробела
+    if (typed.length < expected.length && expected[typed.length] === " ") {
+      typed += " ";
+    } else {
+      // Ошибка: пробел не ожидается
+      typed += "_"; // Можно заменить на любой символ ошибки
+    }
     userInputs[currentPage] = typed;
     updateDisplay();
     saveProgress(currentKey, { page: currentPage, inputs: userInputs });
@@ -264,7 +279,9 @@ hiddenInput.addEventListener("keydown", async (e) => {
   }
 
   if (e.key.length === 1 && /\S/.test(e.key)) {
-    typed += e.key;
+    if (typed.length < 500) {
+      typed += e.key;
+    }
     userInputs[currentPage] = typed;
     updateDisplay();
     saveProgress(currentKey, { page: currentPage, inputs: userInputs });
@@ -283,7 +300,22 @@ hiddenInput.addEventListener("keydown", async (e) => {
       }
     }
 
-    if (typed.length === expected.length && currentPage < pages.length - 1) {
+    // Эффект переворота страницы при 500 символах
+    if (typed.length === 500 && currentPage < pages.length - 1) {
+      textDisplay.classList.add("flip-page");
+      setTimeout(() => {
+        textDisplay.classList.remove("flip-page");
+        currentPage++;
+        resetCurrentWord();
+        hideTranslation();
+        updateDisplay();
+        saveProgress(currentKey, { page: currentPage, inputs: userInputs });
+        hiddenInput.focus();
+      }, 700);
+    } else if (
+      typed.length === expected.length &&
+      currentPage < pages.length - 1
+    ) {
       currentPage++;
       resetCurrentWord();
       hideTranslation();
