@@ -95,7 +95,7 @@ body {
   margin-bottom: 1em;
   /* user-select: none; */
   white-space: pre-wrap;
-  line-height: 1.2; /* сделай ниже, если нужно плотнее */
+  line-height: 1.5; /* сделай ниже, если нужно плотнее */
 }
 #textDisplay span {
   display: inline;

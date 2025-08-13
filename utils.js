@@ -1,5 +1,5 @@
 // Количество символов на одну страницу
-export const charactersPerPage = 500;
+export const charactersPerPage = 400;
 
 // Функция разбивает текст на страницы
 export function splitTextIntoPages(text) {

@@ -242,8 +242,8 @@ hiddenInput.addEventListener("keydown", async (e) => {
 
   let typed = userInputs[currentPage] || "";
 
-  // Ограничение на 500 символов
-  if (typed.length >= 500 && e.key !== "Backspace") {
+  // Ограничение на 400 символов
+  if (typed.length >= 400 && e.key !== "Backspace") {
     e.preventDefault();
     return;
   }
@@ -279,7 +279,7 @@ hiddenInput.addEventListener("keydown", async (e) => {
   }
 
   if (e.key.length === 1 && /\S/.test(e.key)) {
-    if (typed.length < 500) {
+    if (typed.length < 400) {
       typed += e.key;
     }
     userInputs[currentPage] = typed;
@@ -300,8 +300,8 @@ hiddenInput.addEventListener("keydown", async (e) => {
       }
     }
 
-    // Эффект переворота страницы при 500 символах
-    if (typed.length === 500 && currentPage < pages.length - 1) {
+    // Эффект переворота страницы при 400 символах
+    if (typed.length === 400 && currentPage < pages.length - 1) {
       textDisplay.classList.add("flip-page");
       setTimeout(() => {
         textDisplay.classList.remove("flip-page");
