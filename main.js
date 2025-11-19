@@ -30,6 +30,7 @@ if (prevPageBtn) {
   prevPageBtn.addEventListener("click", () => {
     if (currentPage > 0) {
       currentPage--;
+      typingStartTime = null;
       resetCurrentWord();
       hideTranslation();
       updateDisplay();
@@ -43,6 +44,7 @@ if (nextPageBtn) {
   nextPageBtn.addEventListener("click", () => {
     if (currentPage < pages.length - 1) {
       currentPage++;
+      typingStartTime = null;
       resetCurrentWord();
       hideTranslation();
       updateDisplay();
@@ -57,6 +59,7 @@ if (goToPageBtn && pageInput) {
     const pageNum = parseInt(pageInput.value, 10);
     if (!isNaN(pageNum) && pageNum >= 1 && pageNum <= pages.length) {
       currentPage = pageNum - 1;
+      typingStartTime = null;
       resetCurrentWord();
       hideTranslation();
       updateDisplay();
@@ -69,6 +72,7 @@ if (goToPageBtn && pageInput) {
       const pageNum = parseInt(pageInput.value, 10);
       if (!isNaN(pageNum) && pageNum >= 1 && pageNum <= pages.length) {
         currentPage = pageNum - 1;
+        typingStartTime = null;
         resetCurrentWord();
         hideTranslation();
         updateDisplay();
@@ -106,7 +110,7 @@ let userInputs = {};
 
 function generateImagePrompt(text) {
   // Добавляем название книги и стиль карикатуры
-  return `sketch sketch watercolor disney style illustration for book '${currentKey}': ${text}`;
+  return `high quality detailed professional illustration for book '${currentKey}': ${text}`;
 }
 
 function getPollinationsImage(prompt) {
@@ -128,14 +132,6 @@ fileInput.addEventListener("change", (e) => {
     startTyping(name, text);
   };
   reader.readAsText(file);
-  // Обработчик кнопки "На главную" (работает всегда)
-  const backBtn = document.getElementById("backBtn");
-  if (backBtn) {
-    backBtn.addEventListener("click", () => {
-      document.getElementById("typingScreen").classList.add("hidden");
-      document.getElementById("homeScreen").classList.remove("hidden");
-    });
-  }
 });
 
 function updateSavedTexts() {
@@ -180,15 +176,21 @@ function startTyping(key, rawText) {
   document.getElementById("homeScreen").classList.add("hidden");
   document.getElementById("typingScreen").classList.remove("hidden");
   updateDisplay();
+  hiddenInput.focus();
 }
 
 function updateDisplay() {
   if (currentPage < 0 || currentPage >= pages.length) return;
+  // Reset typingStartTime if switching to a new page and no input yet
+  if (!userInputs[currentPage] || userInputs[currentPage].length === 0) {
+    typingStartTime = null;
+  }
 
   const expected = pages[currentPage];
   const typed = userInputs[currentPage] || "";
   let html = "";
   let correct = 0;
+  let activeAdded = false;
 
   for (let i = 0; i < expected.length; i++) {
     const t = typed[i];
@@ -196,19 +198,22 @@ function updateDisplay() {
     const displayChar = c === "\n" ? " " : c;
 
     if (t == null) {
-      html += html.includes('class="active"')
-        ? displayChar
-        : `<span class="active">${displayChar}</span>`;
+      if (!activeAdded) {
+        html += `<span class="active">${displayChar}</span>`;
+        activeAdded = true;
+      } else {
+        html += displayChar;
+      }
     } else if (c === "\n") {
       html += `<span class="correct">⏎</span>`;
       correct++;
     } else if (t === c) {
       html += `<span class="correct">${displayChar}</span>`;
       correct++;
-    } else if (t === "_" && c === " ") {
-      html += `<span class="incorrect-space">${displayChar}</span>`;
-    } else {
+    } else if (t === " " && c !== " ") {
       html += `<span class="incorrect">${displayChar}</span>`;
+    } else {
+      html += `<span class="incorrect">${t}</span>`;
     }
   }
 
@@ -251,6 +256,17 @@ hiddenInput.addEventListener("keydown", async (e) => {
   if (!typingStartTime && typed.length === 0) {
     typingStartTime = Date.now();
   }
+  // If user starts typing on a new page, reset typingStartTime
+  if (
+    !typingStartTime &&
+    typed.length === 0 &&
+    e.key.length === 1 &&
+    !e.ctrlKey &&
+    !e.metaKey &&
+    !e.altKey
+  ) {
+    typingStartTime = Date.now();
+  }
 
   if (e.key === "Backspace") {
     typed = typed.slice(0, -1);
@@ -263,13 +279,7 @@ hiddenInput.addEventListener("keydown", async (e) => {
   }
 
   if (e.key === " ") {
-    // Проверка правильности пробела
-    if (typed.length < expected.length && expected[typed.length] === " ") {
-      typed += " ";
-    } else {
-      // Ошибка: пробел не ожидается
-      typed += "_"; // Можно заменить на любой символ ошибки
-    }
+    typed += " ";
     userInputs[currentPage] = typed;
     updateDisplay();
     saveProgress(currentKey, { page: currentPage, inputs: userInputs });
@@ -300,8 +310,7 @@ hiddenInput.addEventListener("keydown", async (e) => {
       }
     }
 
-    // Эффект переворота страницы при 400 символах
-    if (typed.length === 400 && currentPage < pages.length - 1) {
+    if (typed.length === expected.length && currentPage < pages.length - 1) {
       textDisplay.classList.add("flip-page");
       setTimeout(() => {
         textDisplay.classList.remove("flip-page");
@@ -312,16 +321,6 @@ hiddenInput.addEventListener("keydown", async (e) => {
         saveProgress(currentKey, { page: currentPage, inputs: userInputs });
         hiddenInput.focus();
       }, 700);
-    } else if (
-      typed.length === expected.length &&
-      currentPage < pages.length - 1
-    ) {
-      currentPage++;
-      resetCurrentWord();
-      hideTranslation();
-      updateDisplay();
-      saveProgress(currentKey, { page: currentPage, inputs: userInputs });
-      hiddenInput.focus();
     }
   }
 });
